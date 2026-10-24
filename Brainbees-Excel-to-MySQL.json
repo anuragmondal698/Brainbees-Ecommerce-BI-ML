@@ -1,0 +1,1832 @@
+{
+  "name": "Brainbees-Excel-to-MySQL",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        -1152,
+        880
+      ],
+      "id": "5475bb80-f0bf-4719-a766-b89c5d4b401e",
+      "name": "When clicking ‘Execute workflow’"
+    },
+    {
+      "parameters": {
+        "fileSelector": "C:\\Users\\User\\Desktop\\Bin-C\\SQL prac files\\SQL_PROJECT\\output\\n8n-files\\stg_Customers.csv",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1.1,
+      "position": [
+        -144,
+        -240
+      ],
+      "id": "cea06f3e-1ee4-4fea-88b5-6f0696221ec4",
+      "name": "Read/Write Files from Disk"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1.1,
+      "position": [
+        80,
+        -240
+      ],
+      "id": "d6fa3f43-0f03-4799-954c-5537005e618f",
+      "name": "Extract from File"
+    },
+    {
+      "parameters": {
+        "operation": "upsert",
+        "table": {
+          "__rl": true,
+          "value": "stg_customers",
+          "mode": "list",
+          "cachedResultName": "stg_customers"
+        },
+        "columnToMatchOn": "Customer_ID",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        480,
+        -240
+      ],
+      "id": "91b367ff-c2a1-4924-9309-015c91b80484",
+      "name": "Insert or update rows in a table",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT COUNT(*) AS Total_Customers\nFROM stg_customers;",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        736,
+        -240
+      ],
+      "id": "12ab8c7d-80a6-48ab-998d-0ce4ae284170",
+      "name": "Execute a SQL query",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "fileSelector": "C:\\Users\\User\\Desktop\\Bin-C\\SQL prac files\\SQL_PROJECT\\output\\n8n-files\\stg_Categories.csv",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1.1,
+      "position": [
+        -128,
+        128
+      ],
+      "id": "e69b886c-b606-448a-9cc8-5a7748bbb200",
+      "name": "Read/Write Files from Disk1"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1.1,
+      "position": [
+        96,
+        128
+      ],
+      "id": "bbc65434-3201-4993-b441-8d9aab37a77f",
+      "name": "Extract from File1"
+    },
+    {
+      "parameters": {
+        "operation": "upsert",
+        "table": {
+          "__rl": true,
+          "value": "stg_categories",
+          "mode": "list",
+          "cachedResultName": "stg_categories"
+        },
+        "columnToMatchOn": "Category_ID",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        448,
+        128
+      ],
+      "id": "6b01225e-9c8c-4b37-98c9-7431e57f639d",
+      "name": "Insert or update rows in a table1",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM stg_Categories;",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        688,
+        48
+      ],
+      "id": "950e161a-d49a-4c5e-9312-7025ed347e23",
+      "name": "Execute a SQL query1",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "fileSelector": "C:\\Users\\User\\Desktop\\Bin-C\\SQL prac files\\SQL_PROJECT\\output\\n8n-files\\stg_Order_Items.csv",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1.1,
+      "position": [
+        -128,
+        400
+      ],
+      "id": "ecf57a5a-7e50-4d90-b4b8-938cd864e15e",
+      "name": "Read/Write Files from Disk2"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1.1,
+      "position": [
+        96,
+        400
+      ],
+      "id": "ba02a17d-9f06-47a7-b6f4-02c2f0583b46",
+      "name": "Extract from File2"
+    },
+    {
+      "parameters": {
+        "operation": "upsert",
+        "table": {
+          "__rl": true,
+          "value": "stg_order_items",
+          "mode": "list",
+          "cachedResultName": "stg_order_items"
+        },
+        "columnToMatchOn": "Order_Item_ID",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        480,
+        432
+      ],
+      "id": "451234d4-6909-4462-95d0-f28fd927b508",
+      "name": "Insert or update rows in a table2",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM stg_Order_Items;",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        736,
+        432
+      ],
+      "id": "378a0486-4071-42db-90dd-c0b3f4089dba",
+      "name": "Execute a SQL query2",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "fileSelector": "C:\\Users\\User\\Desktop\\Bin-C\\SQL prac files\\SQL_PROJECT\\output\\n8n-files\\stg_Orders.csv",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1.1,
+      "position": [
+        -128,
+        640
+      ],
+      "id": "c2fc9a72-297e-471a-ac80-2367854c0e58",
+      "name": "Read/Write Files from Disk3"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1.1,
+      "position": [
+        96,
+        640
+      ],
+      "id": "428e900f-4f94-4076-aa95-2c04e045c22a",
+      "name": "Extract from File3"
+    },
+    {
+      "parameters": {
+        "operation": "upsert",
+        "table": {
+          "__rl": true,
+          "value": "stg_orders",
+          "mode": "list",
+          "cachedResultName": "stg_orders"
+        },
+        "columnToMatchOn": "Order_ID",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        368,
+        704
+      ],
+      "id": "8500a56f-276e-41b3-b305-c22144fa8f4c",
+      "name": "Insert or update rows in a table3",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM stg_Orders;",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        544,
+        704
+      ],
+      "id": "d52b0b34-fe09-424b-9552-d731893c5a92",
+      "name": "Execute a SQL query3",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "fileSelector": "C:\\Users\\User\\Desktop\\Bin-C\\SQL prac files\\SQL_PROJECT\\output\\n8n-files\\stg_Payments.csv",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1.1,
+      "position": [
+        -128,
+        896
+      ],
+      "id": "1f4311ee-7104-4ecf-889c-54cee4979e7c",
+      "name": "Read/Write Files from Disk4"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1.1,
+      "position": [
+        96,
+        896
+      ],
+      "id": "fe964886-40d9-47c9-ad47-fc3b95d6bfc3",
+      "name": "Extract from File4"
+    },
+    {
+      "parameters": {
+        "operation": "upsert",
+        "table": {
+          "__rl": true,
+          "value": "stg_payments",
+          "mode": "list",
+          "cachedResultName": "stg_payments"
+        },
+        "columnToMatchOn": "Payment_ID",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        320,
+        896
+      ],
+      "id": "fea3bcf1-4716-4fa2-9b7f-64647e0e2452",
+      "name": "Insert or update rows in a table4",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM stg_Payments;",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        544,
+        896
+      ],
+      "id": "40e28faa-8e15-4cf3-ad78-fc72adad239c",
+      "name": "Execute a SQL query4",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "fileSelector": "C:\\Users\\User\\Desktop\\Bin-C\\SQL prac files\\SQL_PROJECT\\output\\n8n-files\\stg_Products.csv",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1.1,
+      "position": [
+        -128,
+        1120
+      ],
+      "id": "080ada38-5ac7-4eb5-b932-ed43452858f7",
+      "name": "Read/Write Files from Disk5"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1.1,
+      "position": [
+        96,
+        1120
+      ],
+      "id": "8d44d434-d615-4983-8c10-11981b748333",
+      "name": "Extract from File5"
+    },
+    {
+      "parameters": {
+        "operation": "upsert",
+        "table": {
+          "__rl": true,
+          "value": "stg_products",
+          "mode": "list",
+          "cachedResultName": "stg_products"
+        },
+        "columnToMatchOn": "Product_ID",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        320,
+        1120
+      ],
+      "id": "64af0f80-3316-4b86-87eb-13c9d685f169",
+      "name": "Insert or update rows in a table5",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM stg_Products;",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        544,
+        1120
+      ],
+      "id": "bf44a0aa-7ea4-4f90-93b7-ce60fecf59c2",
+      "name": "Execute a SQL query5",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "fileSelector": "C:\\Users\\User\\Desktop\\Bin-C\\SQL prac files\\SQL_PROJECT\\output\\n8n-files\\stg_Reviews.csv",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1.1,
+      "position": [
+        -128,
+        1392
+      ],
+      "id": "19c33720-a0b1-4a9d-8adf-d31af6571403",
+      "name": "Read/Write Files from Disk6"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1.1,
+      "position": [
+        96,
+        1392
+      ],
+      "id": "5bb4a462-9f5e-4827-aa90-c49201f0fa4b",
+      "name": "Extract from File6"
+    },
+    {
+      "parameters": {
+        "operation": "upsert",
+        "table": {
+          "__rl": true,
+          "value": "stg_reviews",
+          "mode": "list",
+          "cachedResultName": "stg_reviews"
+        },
+        "columnToMatchOn": "Review_ID",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        320,
+        1392
+      ],
+      "id": "cad127dc-2c7e-492f-bdd0-4ca03eca889f",
+      "name": "Insert or update rows in a table6",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM stg_Reviews;",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        544,
+        1392
+      ],
+      "id": "d27946c3-f21a-4292-9a49-c318301049e4",
+      "name": "Execute a SQL query6",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "fileSelector": "C:\\Users\\User\\Desktop\\Bin-C\\SQL prac files\\SQL_PROJECT\\output\\n8n-files\\stg_Shipping.csv",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1.1,
+      "position": [
+        -128,
+        1632
+      ],
+      "id": "e546bca1-2623-433c-b63e-7d1af76983fc",
+      "name": "Read/Write Files from Disk7"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "n8n-nodes-base.extractFromFile",
+      "typeVersion": 1.1,
+      "position": [
+        96,
+        1632
+      ],
+      "id": "4faef5a7-a88f-4896-85df-167f98dd1c78",
+      "name": "Extract from File7"
+    },
+    {
+      "parameters": {
+        "operation": "upsert",
+        "table": {
+          "__rl": true,
+          "value": "stg_shipping",
+          "mode": "list",
+          "cachedResultName": "stg_shipping"
+        },
+        "columnToMatchOn": "Shipping_ID",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        320,
+        1632
+      ],
+      "id": "abebe9f6-8272-4ed0-a5a3-fc8c3a4c7004",
+      "name": "Insert or update rows in a table7",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM stg_Shipping;",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        544,
+        1632
+      ],
+      "id": "ba27d895-2ec3-4969-80db-9a96ca0222ee",
+      "name": "Execute a SQL query7",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0",
+          "mode": "list",
+          "cachedResultName": "Brainbees_ecommerce-stagging",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 1627629080,
+          "mode": "list",
+          "cachedResultName": "stg_Customers",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit#gid=1627629080"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": {},
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "﻿Customer_ID",
+              "displayName": "﻿Customer_ID",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "First_Name",
+              "displayName": "First_Name",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Last_Name",
+              "displayName": "Last_Name",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Gender",
+              "displayName": "Gender",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Date_of_Birth",
+              "displayName": "Date_of_Birth",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Email",
+              "displayName": "Email",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Phone",
+              "displayName": "Phone",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "City",
+              "displayName": "City",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "State",
+              "displayName": "State",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Pincode",
+              "displayName": "Pincode",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Customer_Segment",
+              "displayName": "Customer_Segment",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Signup_Date",
+              "displayName": "Signup_Date",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Acquisition_Channel",
+              "displayName": "Acquisition_Channel",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Loyalty_Tier",
+              "displayName": "Loyalty_Tier",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Preferred_Payment_Method",
+              "displayName": "Preferred_Payment_Method",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Total_Orders",
+              "displayName": "Total_Orders",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Customer_Lifetime_Value",
+              "displayName": "Customer_Lifetime_Value",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "DOB_Check",
+              "displayName": "DOB_Check",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Signup_Date_Check",
+              "displayName": "Signup_Date_Check",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        336,
+        -432
+      ],
+      "id": "d241b25b-e1b1-4ffd-a943-bfa3faf93231",
+      "name": "Customer",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "gdVMogMBDGsI3yag",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0",
+          "mode": "list",
+          "cachedResultName": "Brainbees_ecommerce-stagging",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 304187371,
+          "mode": "list",
+          "cachedResultName": "stg_Categories",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit#gid=304187371"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": {},
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "﻿Category_ID",
+              "displayName": "﻿Category_ID",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Category_Name",
+              "displayName": "Category_Name",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Department",
+              "displayName": "Department",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Category_Manager",
+              "displayName": "Category_Manager",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Target_Margin_Percentage",
+              "displayName": "Target_Margin_Percentage",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        320,
+        -48
+      ],
+      "id": "ed5bb63a-cdfe-4b87-8bba-f846f80079ae",
+      "name": "Categories",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "gdVMogMBDGsI3yag",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0",
+          "mode": "list",
+          "cachedResultName": "Brainbees_ecommerce-stagging",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 1544600017,
+          "mode": "list",
+          "cachedResultName": "stg_Order_Items",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit#gid=1544600017"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": {},
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "﻿Order_Item_ID",
+              "displayName": "﻿Order_Item_ID",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Order_ID",
+              "displayName": "Order_ID",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Product_ID",
+              "displayName": "Product_ID",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Quantity",
+              "displayName": "Quantity",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Unit_Price",
+              "displayName": "Unit_Price",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Discount_Percentage",
+              "displayName": "Discount_Percentage",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Discount_Amount",
+              "displayName": "Discount_Amount",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Tax_Percentage",
+              "displayName": "Tax_Percentage",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Tax_Amount",
+              "displayName": "Tax_Amount",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Line_Total",
+              "displayName": "Line_Total",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Cost_Amount",
+              "displayName": "Cost_Amount",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Profit_Amount",
+              "displayName": "Profit_Amount",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Quantity_Check",
+              "displayName": "Quantity_Check",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        768,
+        240
+      ],
+      "id": "f500f0a6-84c9-4acf-b5c6-8e76200dd702",
+      "name": "Order_Items",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "gdVMogMBDGsI3yag",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0",
+          "mode": "list",
+          "cachedResultName": "Brainbees_ecommerce-stagging",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 1986198133,
+          "mode": "list",
+          "cachedResultName": "stg_Orders",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit#gid=1986198133"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": {},
+          "matchingColumns": [],
+          "schema": [],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        720,
+        592
+      ],
+      "id": "65b6e991-78e4-434a-95b3-790f55061efd",
+      "name": "Orders",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "gdVMogMBDGsI3yag",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0",
+          "mode": "list",
+          "cachedResultName": "Brainbees_ecommerce-stagging",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 336105223,
+          "mode": "list",
+          "cachedResultName": "stg_Payments",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit#gid=336105223"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": {},
+          "matchingColumns": [],
+          "schema": [],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        816,
+        928
+      ],
+      "id": "9a0a7d63-108f-4e43-b9b8-50878e27d010",
+      "name": "Payments",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "gdVMogMBDGsI3yag",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0",
+          "mode": "list",
+          "cachedResultName": "Brainbees_ecommerce-stagging",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 374456458,
+          "mode": "list",
+          "cachedResultName": "stg_Products",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit#gid=374456458"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": {},
+          "matchingColumns": [],
+          "schema": [],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        848,
+        1184
+      ],
+      "id": "026a4fe0-5124-4ad5-a488-529d88f9a1eb",
+      "name": "Products",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "gdVMogMBDGsI3yag",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0",
+          "mode": "list",
+          "cachedResultName": "Brainbees_ecommerce-stagging",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 890854847,
+          "mode": "list",
+          "cachedResultName": "stg_Reviews",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit#gid=890854847"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": {},
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "Review_ID",
+              "displayName": "Review_ID",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Customer_ID",
+              "displayName": "Customer_ID",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Product_ID",
+              "displayName": "Product_ID",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Order_ID",
+              "displayName": "Order_ID",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Review_Date",
+              "displayName": "Review_Date",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Rating",
+              "displayName": "Rating",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Review_Title",
+              "displayName": "Review_Title",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Review_Text",
+              "displayName": "Review_Text",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Sentiment",
+              "displayName": "Sentiment",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Verified_Purchase",
+              "displayName": "Verified_Purchase",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Helpful_Votes",
+              "displayName": "Helpful_Votes",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Rating_Check",
+              "displayName": "Rating_Check",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        848,
+        1488
+      ],
+      "id": "be355846-806c-4e95-8725-854eeadeb4be",
+      "name": "Reviews",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "gdVMogMBDGsI3yag",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0",
+          "mode": "list",
+          "cachedResultName": "Brainbees_ecommerce-stagging",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 1965365016,
+          "mode": "list",
+          "cachedResultName": "stg_Shipping",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1nPOOZrfUpwugjhibtaqP3iT8VIeNHX9WMLv4tp8WCH0/edit#gid=1965365016"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": {},
+          "matchingColumns": [],
+          "schema": [],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        768,
+        1824
+      ],
+      "id": "02258bea-8d88-4976-a4dd-9f0f61a6e643",
+      "name": "Append row in sheet",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "gdVMogMBDGsI3yag",
+          "name": "Google Sheets account"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When clicking ‘Execute workflow’": {
+      "main": [
+        [
+          {
+            "node": "Read/Write Files from Disk",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Read/Write Files from Disk1",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Read/Write Files from Disk2",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Read/Write Files from Disk3",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Read/Write Files from Disk4",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Read/Write Files from Disk5",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Read/Write Files from Disk6",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Read/Write Files from Disk7",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read/Write Files from Disk": {
+      "main": [
+        [
+          {
+            "node": "Extract from File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract from File": {
+      "main": [
+        [
+          {
+            "node": "Insert or update rows in a table",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Customer",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Insert or update rows in a table": {
+      "main": [
+        [
+          {
+            "node": "Execute a SQL query",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read/Write Files from Disk1": {
+      "main": [
+        [
+          {
+            "node": "Extract from File1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract from File1": {
+      "main": [
+        [
+          {
+            "node": "Insert or update rows in a table1",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Categories",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Insert or update rows in a table1": {
+      "main": [
+        [
+          {
+            "node": "Execute a SQL query1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read/Write Files from Disk2": {
+      "main": [
+        [
+          {
+            "node": "Extract from File2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract from File2": {
+      "main": [
+        [
+          {
+            "node": "Insert or update rows in a table2",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Order_Items",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Insert or update rows in a table2": {
+      "main": [
+        [
+          {
+            "node": "Execute a SQL query2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read/Write Files from Disk3": {
+      "main": [
+        [
+          {
+            "node": "Extract from File3",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract from File3": {
+      "main": [
+        [
+          {
+            "node": "Insert or update rows in a table3",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Orders",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Insert or update rows in a table3": {
+      "main": [
+        [
+          {
+            "node": "Execute a SQL query3",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read/Write Files from Disk4": {
+      "main": [
+        [
+          {
+            "node": "Extract from File4",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract from File4": {
+      "main": [
+        [
+          {
+            "node": "Insert or update rows in a table4",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Payments",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Insert or update rows in a table4": {
+      "main": [
+        [
+          {
+            "node": "Execute a SQL query4",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Execute a SQL query4": {
+      "main": [
+        []
+      ]
+    },
+    "Read/Write Files from Disk5": {
+      "main": [
+        [
+          {
+            "node": "Extract from File5",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract from File5": {
+      "main": [
+        [
+          {
+            "node": "Insert or update rows in a table5",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Products",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Insert or update rows in a table5": {
+      "main": [
+        [
+          {
+            "node": "Execute a SQL query5",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read/Write Files from Disk6": {
+      "main": [
+        [
+          {
+            "node": "Extract from File6",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract from File6": {
+      "main": [
+        [
+          {
+            "node": "Insert or update rows in a table6",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Reviews",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Insert or update rows in a table6": {
+      "main": [
+        [
+          {
+            "node": "Execute a SQL query6",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read/Write Files from Disk7": {
+      "main": [
+        [
+          {
+            "node": "Extract from File7",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract from File7": {
+      "main": [
+        [
+          {
+            "node": "Insert or update rows in a table7",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Append row in sheet",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Insert or update rows in a table7": {
+      "main": [
+        [
+          {
+            "node": "Execute a SQL query7",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Execute a SQL query1": {
+      "main": [
+        []
+      ]
+    },
+    "Order_Items": {
+      "main": [
+        []
+      ]
+    },
+    "Reviews": {
+      "main": [
+        []
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "8820e299-a9f6-459b-9f32-75cdeb51a722",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "49ef52d5fa41176e852ef526c74e8ce98d14bbccd686bfc589ef165d8124af3d"
+  },
+  "nodeGroups": [],
+  "id": "paHO8ZQefZ2kM08I",
+  "tags": []
+}
