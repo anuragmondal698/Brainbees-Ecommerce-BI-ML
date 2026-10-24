@@ -1,0 +1,194 @@
+Product_ID,Product_Name,Category_ID,Brand,Cost_Price,Selling_Price,MRP,Product_Launch_Date
+PRD001,"Samsung Galaxy S24 FE 5G (8GB/256GB)",CAT01,Samsung,48263.42,53669,59999,05-03-2024
+PRD002,"Samsung Galaxy A15 5G (6GB/128GB)",CAT01,Samsung,14172.92,15679,17999,12-10-2021
+PRD003,"Apple iPhone 15 (128GB)",CAT01,Apple,57360.08,60559,69900,05-05-2020
+PRD004,"Apple iPhone 16 (128GB)",CAT01,Apple,68137.77,71099,79900,27-01-2026
+PRD005,"OnePlus Nord CE4 5G (8GB/128GB)",CAT01,OnePlus,21946.11,23579,26999,15-06-2023
+PRD006,"OnePlus 12R 5G (16GB/256GB)",CAT01,OnePlus,40764.35,42549,45999,02-08-2022
+PRD007,"Xiaomi Redmi Note 13 Pro 5G (8GB/256GB)",CAT01,Xiaomi,22465.33,24939,28999,25-08-2022
+PRD008,"Xiaomi Redmi 13C 5G (4GB/128GB)",CAT01,Xiaomi,11448.12,12069,12999,18-08-2021
+PRD009,"realme Narzo 70 Pro 5G (8GB/128GB)",CAT01,realme,18178.71,19739,21999,05-05-2022
+PRD010,"Vivo T3 5G (8GB/128GB)",CAT01,Vivo,17305.28,19359,22999,06-01-2020
+PRD011,"OPPO F27 5G (8GB/128GB)",CAT01,OPPO,26975.53,28659,29999,08-03-2023
+PRD012,"Motorola Edge 50 Fusion 5G (12GB/256GB)",CAT01,Motorola,23425,25799,26999,07-10-2021
+PRD013,"iQOO Z9 5G (8GB/128GB)",CAT01,iQOO,18488.71,19269,21999,02-01-2023
+PRD014,"HP Pavilion 15 (Core i5 13th Gen, 16GB, 512GB SSD)",CAT02,HP,51645.94,60039,74999,01-12-2020
+PRD015,"HP 15s (Ryzen 5, 8GB, 512GB SSD)",CAT02,HP,40814.02,43959,52999,13-09-2021
+PRD016,"Dell Inspiron 15 (Core i5, 16GB, 512GB SSD)",CAT02,Dell,58561.04,64039,68990,04-10-2022
+PRD017,"Dell Vostro 3520 (Core i3, 8GB, 512GB SSD)",CAT02,Dell,37556.81,43019,45990,21-06-2021
+PRD018,"Lenovo IdeaPad Slim 3 (Ryzen 5, 16GB, 512GB SSD)",CAT02,Lenovo,40364.47,46669,56990,22-04-2022
+PRD019,"Lenovo LOQ Gaming (Core i5, RTX 3050, 16GB)",CAT02,Lenovo,75763.67,81219,89990,10-11-2022
+PRD020,"ASUS Vivobook 15 (Core i5, 16GB, 512GB SSD)",CAT02,ASUS,51020.83,56989,63990,01-01-2021
+PRD021,"ASUS TUF Gaming F15 (Core i5, RTX 4050)",CAT02,ASUS,73800.4,81169,99990,30-11-2022
+PRD022,"Acer Aspire 7 (Ryzen 5, RTX 2050)",CAT02,Acer,52020.82,58959,64999,24-07-2021
+PRD023,"MSI Thin GF63 (Core i5, RTX 4050)",CAT02,MSI,63294.97,71139,82990,02-05-2021
+PRD024,"Apple MacBook Air M3 (16GB, 256GB)",CAT02,Apple,92736.75,99739,114900,15-10-2022
+PRD025,"Samsung Galaxy Book4 (Core i5, 16GB, 512GB)",CAT02,Samsung,62231.51,70079,74990,19-11-2020
+PRD026,"Lenovo ThinkPad E14 (Core i5, 16GB, 512GB)",CAT02,Lenovo,64186.67,74409,78990,21-01-2021
+PRD027,"LG 55-inch 4K UHD Smart TV",CAT03,LG,47506.35,56519,69990,16-03-2023
+PRD028,"Sony Bravia 50-inch 4K Google TV",CAT03,Sony,56275.88,64659,84990,22-07-2020
+PRD029,"Xiaomi 43-inch Smart Fire TV",CAT03,Xiaomi,24146.41,26919,29999,05-01-2021
+PRD031,"Noise ColorFit Pro 5 Smartwatch",CAT03,Noise,5124.26,5989,7999,11-02-2023
+PRD032,"boAt Wave Call 3 Smartwatch",CAT03,boAt,4446.42,5369,5999,03-07-2024
+PRD033,"Apple Watch SE (GPS, 40mm)",CAT03,Apple,21106.31,23699,29900,13-01-2026
+PRD034,"Canon EOS 1500D DSLR with 18-55mm Lens",CAT03,Canon,30713.14,35549,41995,14-08-2020
+PRD036,"TP-Link Archer C6 AC1200 Wi-Fi Router",CAT03,TP-Link,2798.13,3209,3499,04-12-2021
+PRD038,"Apple iPad (10th Gen) 64GB",CAT03,Apple,31141.49,35549,39900,11-11-2021
+PRD039,"Epson EcoTank L3250 Ink Tank Printer",CAT03,Epson,11994.15,13539,14999,04-01-2021
+PRD040,"boAt Rockerz 450 Bluetooth Headphones",CAT04,boAt,2325.42,3499,3990,08-12-2022
+PRD041,"boAt Airdopes 141 True Wireless Earbuds",CAT04,boAt,2490.56,4039,4490,19-02-2022
+PRD042,"JBL Tune 760NC Wireless Headphones",CAT04,JBL,4688.13,7189,8999,16-03-2026
+PRD043,"JBL Flip 6 Portable Speaker",CAT04,JBL,6782.16,10169,11999,20-03-2022
+PRD044,"JBL Go 3 Portable Speaker",CAT04,JBL,2257.39,3529,3999,26-06-2021
+PRD045,"Sony WH-1000XM5 Noise Cancelling Headphones",CAT04,Sony,18636.99,28199,34990,30-06-2020
+PRD046,"Sony SRS-XB13 Portable Speaker",CAT04,Sony,3151.13,4859,5990,20-01-2023
+PRD047,"Apple AirPods Pro (2nd Gen)",CAT04,Apple,15215.36,23399,26900,08-12-2025
+PRD048,"OnePlus Nord Buds 2r True Wireless Earbuds",CAT04,OnePlus,1304.45,2009,2199,03-04-2021
+PRD049,"Samsung Galaxy Buds2 Pro",CAT04,Samsung,8970,13329,17999,29-07-2023
+PRD050,"Boult Z40 True Wireless Earbuds",CAT04,Boult,1111.57,1759,1999,19-04-2025
+PRD051,"Marshall Emberton II Bluetooth Speaker",CAT04,Marshall,9680.07,14209,14999,31-03-2020
+PRD052,"Bose QuietComfort 45 Headphones",CAT04,Bose,20185.44,29539,32900,12-02-2022
+PRD053,"Levi's 511 Slim Fit Jeans (Men)",CAT05,Levi's,1440.51,2609,3299,21-07-2022
+PRD054,"Levi's High Rise Skinny Jeans (Women)",CAT05,Levi's,1474.65,2829,3499,21-11-2020
+PRD055,"Van Heusen Men Slim Fit Cotton Shirt",CAT05,"Van Heusen",1161.43,1999,2299,04-05-2021
+PRD056,"Peter England Men Formal Trousers",CAT05,"Peter England",901.2,1659,1799,01-03-2026
+PRD057,"W Women Printed Straight Kurta",CAT05,W,849.24,1489,1999,01-05-2020
+PRD058,"Biba Women Anarkali Kurta Set",CAT05,Biba,1921.24,3319,3499,14-12-2022
+PRD059,"Fabindia Men Cotton Kurta",CAT05,FABINDIA,1348.77,2369,2490,07-07-2020
+PRD060,"Puma Men Polo T-Shirt",CAT05,Puma,947.95,1719,1999,21-06-2021
+PRD061,"Adidas Men Training Track Pants",CAT05,Adidas,1579,2749,2999,11-07-2023
+PRD062,"Nike Dri-FIT Men Round Neck T-Shirt",CAT05,Nike,870.86,1689,1995,30-08-2023
+PRD063,"U.S. Polo Assn. Men Polo T-Shirt",CAT05,"U.S. Polo Assn.",1092.09,2029,2499,15-08-2020
+PRD064,"Wrangler Men Regular Fit Jeans",CAT05,wrangler,1261.68,2249,2599,08-07-2021
+PRD065,"Libas Women Cotton Kurti",CAT05,Libas,665.2,1169,1499,30-12-2024
+PRD066,"Nike Revolution 7 Running Shoes",CAT06,Nike,2227.25,3799,3995,22-05-2021
+PRD067,"Nike Air Max Excee Sneakers",CAT06,Nike,5060,8159,9995,08-09-2021
+PRD068,"Adidas Runfalcon 3.0 Running Shoes",CAT06,Adidas,1969.06,3499,3999,29-01-2026
+PRD069,"Adidas Superstar Sneakers",CAT06,Adidas,4451.69,7659,8999,23-11-2022
+PRD070,"Puma Smash V2 Sneakers",CAT06,Puma,2079.65,3709,3999,17-02-2023
+PRD071,"Puma Softride Enzo Running Shoes",CAT06,Puma,3051.85,4799,5499,09-02-2026
+PRD072,"Skechers Go Walk Slip-On Shoes",CAT06,Skechers,2207.48,3749,4999,18-11-2020
+PRD073,"Bata Men Formal Oxford Shoes",CAT06,Bata,1277.48,2269,2499,11-09-2021
+PRD074,"Woodland Men Leather Casual Boots",CAT06,Woodland,2649.36,4409,5495,03-06-2020
+PRD075,"Crocs Classic Clog",CAT06,Crocs,2077.85,3649,3995,01-01-2023
+PRD076,"Campus Men Running Shoes",CAT06,Campus,913.23,1489,1999,24-11-2021
+PRD077,"Liberty Women Flat Sandals",CAT06,Liberty,611.35,1009,1299,01-06-2022
+PRD078,"Red Tape Men Casual Sneakers",CAT06,"Red Tape",1728.65,2819,2999,06-02-2020
+PRD079,"Lakme 9to5 Primer + Matte Lipstick",CAT07,Lakme,331.42,519,650,30-04-2021
+PRD080,"Maybelline Fit Me Matte Foundation",CAT07,Maybelline,334.93,539,599,26-08-2020
+PRD081,"L'Oreal Paris Hyaluronic Acid Serum 30ml",CAT07,"L'Oreal Paris",545.06,869,999,20-06-2025
+PRD082,"Mamaearth Vitamin C Face Wash 100ml",CAT07,Mamaearth,164.63,279,349,13-10-2020
+PRD083,"Nykaa Kajal Eyeliner",CAT07,Nykaa,195.19,309,399,13-05-2022
+PRD084,"Minimalist 10% Vitamin C Face Serum 30ml",CAT07,Minimalist,342.49,599,699,23-07-2020
+PRD085,"Plum Green Tea Pore Cleansing Face Wash",CAT07,Plum,168.41,289,380,20-03-2026
+PRD086,"Himalaya Neem Face Wash 150ml",CAT07,Himalaya,102.32,169,199,30-07-2023
+PRD087,"Dot & Key Watermelon Cooling Gel Moisturizer",CAT07,"Dot & Key",243.99,399,495,03-08-2024
+PRD088,"WOW Skin Science Apple Cider Vinegar Shampoo 300ml",CAT07,"WOW Skin Science",312.84,549,599,02-01-2021
+PRD089,"Sugar Cosmetics Matte As Hell Crayon Lipstick",CAT07,"Sugar Cosmetics",256.05,429,499,22-09-2020
+PRD090,"Biotique Bio Almond Oil Body Lotion",CAT07,Biotique,170.41,269,325,23-07-2020
+PRD091,"Nivea Soft Light Moisturising Cream 300ml",CAT07,Nivea,209.92,339,410,28-12-2020
+PRD093,"Prestige Iris 750W Mixer Grinder",CAT08,Prestige,3668.73,5319,5995,24-03-2020
+PRD094,"Bajaj Majesty Induction Cooktop",CAT08,Bajaj,2386.6,3249,3499,10-06-2023
+PRD095,"Pigeon Stovekraft Pressure Cooker 3L",CAT08,Pigeon,1011.74,1459,1899,08-08-2020
+PRD096,"Whirlpool 265L Double Door Refrigerator",CAT08,Whirlpool,18439.92,24919,31990,31-12-2020
+PRD098,"Borosil Glass Lunch Box Set of 3",CAT08,Borosil,817.75,1149,1299,07-01-2026
+PRD099,"Prestige Non-Stick Cookware Set (3 pcs)",CAT08,Prestige,1796.48,2579,2995,05-07-2023
+PRD100,"Hawkins Contura Pressure Cooker 3L",CAT08,Hawkins,1324.55,1789,2200,28-01-2022
+PRD101,"Wonderchef Nutri-Blend Mixer Grinder",CAT08,Wonderchef,3353.5,4739,5499,16-02-2023
+PRD102,"Havells Ceiling Fan 1200mm",CAT08,Havells,2417.74,3349,3699,18-01-2022
+PRD103,"Cello Opalware Dinner Set (19 pcs)",CAT08,Cello,2782.47,3679,3999,24-04-2022
+PRD104,"Eureka Forbes Aquaguard Aura RO Water Purifier",CAT08,"Eureka Forbes",10593.05,15029,15999,17-04-2020
+PRD105,"Wakefit Orthopedic Memory Foam Mattress (Queen)",CAT09,Wakefit,10141.7,15019,16999,13-05-2023
+PRD106,"Sleepwell Ortho Mattress (Queen)",CAT09,Sleepwell,6925.93,9799,12999,16-06-2024
+PRD107,"Nilkamal Freedom Plastic Chair (Set of 2)",CAT09,nilkamal,1427.33,2169,2499,27-06-2021
+PRD108,"Godrej Interio 3-Door Wardrobe",CAT09,"Godrej Interio",11920.41,17959,18999,08-02-2022
+PRD109,"Featherlite Ergonomic Office Chair",CAT09,Featherlite,4301.6,6449,7999,23-06-2020
+PRD110,"IKEA Billy Bookcase",CAT09,IKEA,4824.49,7429,7990,29-05-2021
+PRD111,"Urban Ladder Sheesham Wood Study Table",CAT09,"Urban Ladder",7228.12,10289,11999,09-12-2025
+PRD112,"Wooden Street Solid Wood Queen Bed",CAT09,"Wooden Street",15766.92,23559,28999,23-05-2021
+PRD113,"Durian 3-Seater Fabric Sofa",CAT09,Durian,14953.09,21459,25999,21-04-2022
+PRD114,"Green Soul Ergonomic Mesh Office Chair",CAT09,"Green Soul",7462.39,11489,12999,07-08-2021
+PRD115,"Home Centre 6-Seater Dining Table Set",CAT09,"Home Centre",18842.67,27439,28999,31-10-2021
+PRD116,"Nilkamal 4-Tier Shoe Rack",CAT09,Nilkamal,1717.31,2609,2999,19-04-2023
+PRD117,"@home Engineered Wood TV Unit",CAT09,@home,4763.9,6829,8999,28-04-2022
+PRD118,"Yonex Astrox 3DG Badminton Racquet",CAT10,Yonex,3054.3,4619,5990,18-01-2024
+PRD119,"Yonex Mavis 350 Nylon Shuttlecock (Pack of 6)",CAT10,Yonex,449.27,629,799,16-06-2020
+PRD120,"SS Ton Kashmir Willow Cricket Bat",CAT10,SS,1709.84,2479,2799,01-02-2026
+PRD121,"Nivia Storm Football Size 5",CAT10,Nivia,503.06,759,999,30-12-2023
+PRD122,"Cosco Basketball Size 7",CAT10,Cosco,477.93,699,899,30-08-2023
+PRD123,"Decathlon Domyos 8mm Yoga Mat",CAT10,Decathlon,800.41,1159,1299,08-09-2023
+PRD124,"Boldfit Gym Gloves",CAT10,Boldfit,366.83,519,599,18-03-2021
+PRD125,"Strauss Adjustable Dumbbell Set 20kg",CAT10,Strauss,3210.17,4559,4999,24-05-2022
+PRD126,"Adidas Pro Training Football",CAT10,Adidas,1253.53,1889,1999,04-11-2022
+PRD127,"Lifelong Foldable Treadmill",CAT10,Lifelong,15261.24,21759,25999,14-06-2023
+PRD128,"Hero Sprint 26T Cycle",CAT10,Hero,4295.59,5989,7499,09-02-2022
+PRD129,"Speedo Endurance Swimwear (Men)",CAT10,Speedo,1110.73,1599,1799,20-08-2023
+PRD130,"Fitness Mantra Resistance Bands Set",CAT10,"Fitness Mantra",358.05,499,599,28-01-2021
+PRD131,"Penguin Atomic Habits (James Clear)",CAT11,Penguin,515.78,669,799,25-01-2023
+PRD132,"Manjul Rich Dad Poor Dad (Robert Kiyosaki)",CAT11,Manjul,213.05,289,350,08-02-2023
+PRD133,"Penguin Ikigai (Garcia & Miralles)",CAT11,Penguin,266.71,339,399,10-09-2021
+PRD135,"Universities Press Wings of Fire (APJ Abdul Kalam)",CAT11,"Universities Press",243.28,309,350,07-03-2025
+PRD136,"Hachette Deep Work (Cal Newport)",CAT11,Hachette,348.63,479,599,31-08-2022
+PRD137,"Penguin Sapiens (Yuval Noah Harari)",CAT11,Penguin,451.61,599,699,05-10-2022
+PRD138,"HarperCollins Think Like a Monk (Jay Shetty)",CAT11,HarperCollins,287.49,379,499,05-06-2023
+PRD139,"Bloomsbury Zero to One (Peter Thiel)",CAT11,Bloomsbury,307.58,429,499,30-12-2022
+PRD140,"No Starch Press Python Crash Course, 3rd Edition",CAT11,"No Starch Press",1881.99,2609,3490,13-08-2022
+PRD141,"BPB Let Us C (Yashavant Kanetkar)",CAT11,BPB,344.34,469,579,30-12-2022
+PRD142,"Oxford Advanced Learner's Dictionary",CAT11,Oxford,568.88,769,899,22-11-2020
+PRD143,"Wiley Data Science for Business",CAT11,Wiley,2896.61,3679,4500,11-06-2020
+PRD144,"LEGO Classic Medium Creative Brick Box",CAT12,LEGO,1521.16,2299,2999,23-02-2022
+PRD145,"LEGO City Fire Station Set",CAT12,LEGO,3236.41,5269,5999,12-01-2021
+PRD146,"Hot Wheels 20-Car Gift Pack",CAT12,"Hot Wheels",843.79,1229,1499,21-04-2020
+PRD147,"Funskool Monopoly Board Game",CAT12,Funskool,629.26,919,999,27-03-2022
+PRD148,"Funskool Scrabble Board Game",CAT12,Funskool,427.13,679,799,08-06-2021
+PRD149,"Barbie Dreamhouse Playset",CAT12,Barbie,1155.58,1839,1999,06-09-2021
+PRD150,"Mattel UNO Playing Cards",CAT12,Mattel,103.16,169,199,30-07-2025
+PRD151,"Nerf Elite 2.0 Blaster",CAT12,Nerf,798.86,1189,1499,27-11-2020
+PRD152,"Fisher-Price Rock-a-Stack Toy",CAT12,Fisher-Price,456.14,729,899,13-07-2022
+PRD153,"Skillmatics Educational Game Guess in 10",CAT12,Skillmatics,358.16,529,599,02-04-2020
+PRD154,"Webby Remote Control Racing Car",CAT12,Webby,607.94,979,1299,21-04-2023
+PRD155,"Ravensburger 1000 Piece Jigsaw Puzzle",CAT12,Ravensburger,884.65,1309,1599,24-06-2020
+PRD156,"Funskool Giggles Soft Building Blocks",CAT12,Funskool,422.86,619,699,17-01-2022
+PRD157,"Tata Tea Gold Tea 500g",CAT13,"Tata Tea",224.39,259,299,12-01-2021
+PRD158,"Aashirvaad Whole Wheat Atta 10kg",CAT13,Aashirvaad,443.3,489,549,28-11-2022
+PRD159,"Fortune Sunlite Refined Sunflower Oil 5L",CAT13,Fortune,654.21,749,799,24-10-2022
+PRD160,"India Gate Basmati Rice Classic 5kg",CAT13,"India Gate",734.72,819,849,05-11-2021
+PRD161,"Nescafe Classic Instant Coffee 200g",CAT13,Nescafe,520.55,589,649,23-04-2023
+PRD162,"Saffola Gold Edible Oil 5L",CAT13,Saffola,792.07,869,999,07-10-2020
+PRD163,"Haldiram's Aloo Bhujia 1kg",CAT13,Haldiram's,253.99,279,295,19-05-2020
+PRD164,"Amul Pure Ghee 1L",CAT13,Amul,472.67,559,639,08-10-2021
+PRD165,"Maggi 2-Minute Masala Noodles (Pack of 12)",CAT13,Maggi,129.8,149,168,07-11-2022
+PRD166,"Kellogg's Corn Flakes 1.2kg",CAT13,Kellogg's,365.48,429,450,05-11-2021
+PRD167,"Quaker Rolled Oats 2kg",CAT13,Quaker,386.03,429,449,15-07-2021
+PRD168,"Tata Sampann Unpolished Toor Dal 1kg",CAT13,"Tata Sampann",165.98,189,199,02-11-2025
+PRD169,"Britannia Good Day Cashew Cookies (Pack of 6)",CAT13,Britannia,144.69,159,180,27-09-2020
+PRD170,"Dove Intense Repair Shampoo 650ml",CAT14,Dove,307.77,419,530,04-07-2024
+PRD171,"Gillette Mach3 Razor with 2 Cartridges",CAT14,Gillette,246.32,369,399,13-09-2025
+PRD172,"Philips BT3231 Beard Trimmer",CAT14,Philips,1111.87,1549,1695,03-03-2021
+PRD173,"Philips HP8120 Hair Dryer",CAT14,Philips,673.13,979,1295,23-11-2025
+PRD174,"Colgate MaxFresh Toothpaste (3 x 150g)",CAT14,COLGATE,218.61,309,399,19-09-2025
+PRD175,"Oral-B Vitality Electric Toothbrush",CAT14,Oral-B,1300.71,1789,1999,30-08-2021
+PRD176,"Dettol Liquid Handwash Refill (Pack of 3)",CAT14,Dettol,192.17,279,299,11-12-2021
+PRD177,"Axe Signature Deodorant 150ml",CAT14,Axe,160.06,239,249,16-04-2022
+PRD178,"Nivea Men Deep Impact Face Wash 100ml",CAT14,Nivea,196.65,269,299,12-06-2021
+PRD179,"Pantene Hair Fall Control Shampoo 1L",CAT14,Pantene,445.54,609,700,07-02-2020
+PRD180,"Havells BT5190 Beard Trimmer",CAT14,Havells,993.11,1459,1595,21-09-2022
+PRD181,"Pears Pure & Gentle Soap (Pack of 5)",CAT14,Pears,184.87,269,299,27-05-2020
+PRD182,"Head & Shoulders Cool Menthol Shampoo 650ml",CAT14,"Head & Shoulders",313.41,429,540,16-04-2022
+PRD183,"Park Avenue Good Morning Gift Set",CAT14,"Park Avenue",327.87,469,549,12-09-2022
+PRD184,"Apple 20W USB-C Power Adapter",CAT15,Apple,985.16,1769,1900,25-07-2022
+PRD185,"Samsung 25W Fast Charger",CAT15,Samsung,836.2,1429,1699,20-04-2020
+PRD186,"Anker PowerCore 10000 Power Bank",CAT15,Anker,812.47,1579,1999,20-02-2022
+PRD187,"Xiaomi Mi Power Bank 3i 20000mAh",CAT15,Xiaomi,1498.1,2709,2999,24-10-2022
+PRD188,"boAt Type-C Braided Cable 1.5m",CAT15,boAt,276.11,539,599,19-09-2020
+PRD189,"Portronics Car Power 24 Car Charger",CAT15,Portronics,387.46,729,899,01-02-2021
+PRD190,"Wildcraft Laptop Backpack 35L",CAT15,Wildcraft,1204.19,2179,2499,04-05-2022
+PRD191,"American Tourister Casual Backpack",CAT15,"American Tourister",1224.51,2269,2999,16-08-2023
+PRD193,"Titan Raga Women Analog Watch",CAT15,Titan,3684.51,6269,6995,08-03-2022
+PRD194,"Casio Digital Sports Watch",CAT15,Casio,1205.76,2119,2495,21-05-2022
+PRD195,"SanDisk Ultra 128GB microSD Card",CAT15,SanDisk,518.4,989,1299,26-02-2020
+PRD196,"Logitech M331 Silent Wireless Mouse",CAT15,Logitech,733.23,1349,1495,02-07-2024
+PRD197,"HP v236w 64GB USB 3.0 Pen Drive",CAT15,HP,443.16,809,899,16-01-2022
+PRD198,"LIBAS WOMEN COTTON KURTI",CAT05,Libas,665.2,1159,1499,30-12-2024
+PRD199,"Nike Dri-FIT Men Round Neck T-Shirt",CAT05,nike,870.86,1679,1995,30-08-2023
+PRD200,"Bose  QuietComfort 45 Headphones",CAT04,Bose,20185.44,29529,32900,12-02-2022

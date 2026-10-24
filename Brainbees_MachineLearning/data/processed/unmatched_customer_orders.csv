@@ -1,0 +1,366 @@
+﻿Order_ID,Customer_ID,Order_Status,Order_Channel,Order_Total,Payment_Status,Order_Date
+ORD000005,CUST00097,Delivered,Marketplace,2409.68,Successful,2023-10-04
+ORD000033,CUST00281,Delivered,Mobile App,1207.67,Successful,2023-10-13
+ORD000037,CUST00014,Delivered,Website,1744.04,Successful,2023-10-13
+ORD000046,CUST00014,Cancelled,Mobile App,1108.67,Pending,2023-10-16
+ORD000050,CUST00077,Delivered,Mobile App,1992.31,Successful,2023-10-18
+ORD000051,CUST00079,Cancelled,Website,67198.64,Failed,2023-10-18
+ORD000054,CUST00324,Delivered,Marketplace,791.1,Successful,2023-10-19
+ORD000055,CUST00050,Delivered,Mobile App,663.1,Successful,2023-10-19
+ORD000059,CUST00050,Delivered,Marketplace,735.02,Successful,2023-10-20
+ORD000068,CUST00050,Delivered,Mobile App,1863.22,Successful,2023-10-25
+ORD000070,CUST00050,Delivered,Website,1633.03,Successful,2023-10-25
+ORD000072,CUST00035,Delivered,Website,20962.82,Successful,2023-10-26
+ORD000098,CUST00324,Delivered,Website,1788.42,Successful,2023-11-01
+ORD000100,CUST00034,Delivered,Marketplace,3907.1,Successful,2023-11-01
+ORD000108,CUST00297,Delivered,Mobile App,8578.84,Successful,2023-11-04
+ORD000115,CUST00324,Delivered,Website,1130.91,Successful,2023-11-05
+ORD000121,CUST00007,Returned,Marketplace,8087.44,Refunded,2023-11-07
+ORD000154,CUST00281,Delivered,Website,4987.08,Successful,2023-11-13
+ORD000170,CUST00218,Delivered,Mobile App,29428.02,Successful,2023-11-17
+ORD000187,CUST00135,Delivered,Mobile App,4421.47,Successful,2023-11-22
+ORD000211,CUST00324,Delivered,Mobile App,2141.94,Successful,2023-11-29
+ORD000227,CUST00034,Delivered,Mobile App,2275.04,Successful,2023-12-02
+ORD000232,CUST00220,Delivered,Marketplace,63357.8,Successful,2023-12-03
+ORD000233,CUST00356,Delivered,Mobile App,3769.7,Successful,2023-12-03
+ORD000234,CUST00123,Delivered,Website,7568.96,Successful,2023-12-04
+ORD000249,CUST00361,Delivered,Mobile App,13777.15,Successful,2023-12-10
+ORD000252,CUST00079,Delivered,Mobile App,3946.38,Successful,2023-12-11
+ORD000254,CUST00097,Delivered,Mobile App,83669.2,Successful,2023-12-11
+ORD000260,CUST00281,Delivered,Marketplace,1080.05,Successful,2023-12-13
+ORD000282,CUST00367,Delivered,Website,6848.84,Successful,2023-12-20
+ORD000300,CUST00355,Returned,Mobile App,72728.9,Partially Refunded,2023-12-25
+ORD000324,CUST00281,Delivered,Mobile App,1758.93,Successful,2023-12-31
+ORD000332,CUST00381,Delivered,Website,2442.66,Successful,2024-01-02
+ORD000347,CUST00077,Delivered,Website,16766.62,Successful,2024-01-05
+ORD000360,CUST00079,Delivered,Marketplace,71458.44,Successful,2024-01-12
+ORD000362,CUST00007,Delivered,Website,3717.28,Successful,2024-01-13
+ORD000364,CUST00087,Delivered,Mobile App,2365.99,Successful,2024-01-13
+ORD000373,CUST00361,Returned,Mobile App,34856.02,Partially Refunded,2024-01-16
+ORD000381,CUST00007,Delivered,Marketplace,867.0,Successful,2024-01-19
+ORD000388,CUST00050,Delivered,Marketplace,13700.4,Successful,2024-01-22
+ORD000396,CUST00097,Delivered,Mobile App,435.1,Successful,2024-01-24
+ORD000404,CUST00077,Delivered,Mobile App,12031.12,Successful,2024-01-26
+ORD000406,CUST00077,Delivered,Mobile App,600.8,Successful,2024-01-26
+ORD000408,CUST00238,Delivered,Marketplace,814.3,Successful,2024-01-26
+ORD000432,CUST00324,Delivered,Mobile App,4663.94,Successful,2024-02-05
+ORD000456,CUST00324,Delivered,Mobile App,7923.3,Successful,2024-02-16
+ORD000458,CUST00123,Delivered,Mobile App,1004.22,Successful,2024-02-18
+ORD000461,CUST00324,Delivered,Website,1312.04,Successful,2024-02-19
+ORD000482,CUST00281,Delivered,Marketplace,15728.22,Successful,2024-03-02
+ORD000493,CUST00281,Delivered,Mobile App,20088.74,Successful,2024-03-06
+ORD000497,CUST00401,Delivered,Mobile App,1785.22,Successful,2024-03-08
+ORD000498,CUST00079,Delivered,Website,69369.84,Successful,2024-03-09
+ORD000501,CUST00079,Delivered,Marketplace,66692.42,Successful,2024-03-10
+ORD000521,CUST00400,Delivered,Website,8144.68,Successful,2024-03-16
+ORD000523,CUST00050,Delivered,Website,3766.28,Successful,2024-03-16
+ORD000528,CUST00097,Returned,Mobile App,101077.32,Refunded,2024-03-18
+ORD000531,CUST00238,Delivered,Mobile App,466.42,Successful,2024-03-19
+ORD000537,CUST00035,Delivered,Mobile App,3493.86,Successful,2024-03-21
+ORD000541,CUST00407,Delivered,Website,74037.8,Successful,2024-03-23
+ORD000555,CUST00367,Cancelled,Marketplace,13283.58,Pending,2024-03-28
+ORD000556,CUST00097,Returned,Mobile App,3157.28,Refunded,2024-03-28
+ORD000588,CUST00079,Delivered,Marketplace,9360.28,Successful,2024-04-09
+ORD000593,CUST00324,Delivered,Mobile App,3157.28,Successful,2024-04-12
+ORD000599,CUST00324,Cancelled,Mobile App,3345.55,Pending,2024-04-15
+ORD000602,CUST00035,Delivered,Marketplace,684.9,Successful,2024-04-17
+ORD000609,CUST00367,Delivered,Marketplace,42955.7,Successful,2024-04-19
+ORD000626,CUST00097,Cancelled,Website,9717.83,Refunded,2024-04-24
+ORD000628,CUST00401,Delivered,Mobile App,2999.42,Successful,2024-04-24
+ORD000642,CUST00367,Delivered,Mobile App,8018.18,Successful,2024-05-03
+ORD000653,CUST00284,Delivered,Website,1168.27,Successful,2024-05-05
+ORD000680,CUST00281,Delivered,Website,2904.12,Successful,2024-05-18
+ORD000683,CUST00079,Delivered,Website,1279.08,Successful,2024-05-19
+ORD000684,CUST00079,Delivered,Marketplace,2266.99,Successful,2024-05-19
+ORD000692,CUST00324,Delivered,Website,3956.01,Successful,2024-05-22
+ORD000701,CUST00430,Delivered,Marketplace,22725.79,Successful,2024-05-25
+ORD000719,CUST00050,Delivered,Mobile App,76446.62,Successful,2024-05-31
+ORD000725,CUST00361,Delivered,Mobile App,63357.8,Successful,2024-06-01
+ORD000744,CUST00097,Delivered,Mobile App,2518.88,Successful,2024-06-11
+ORD000760,CUST00077,Delivered,Website,2409.68,Successful,2024-06-17
+ORD000764,CUST00079,Delivered,Mobile App,3303.06,Successful,2024-06-19
+ORD000770,CUST00077,Delivered,Mobile App,20038.84,Successful,2024-06-20
+ORD000778,CUST00284,Returned,Mobile App,14247.1,Refunded,2024-06-23
+ORD000786,CUST00361,Returned,Marketplace,49820.05,Refunded,2024-06-25
+ORD000822,CUST00284,Delivered,Website,769.0,Successful,2024-07-06
+ORD000839,CUST00401,Delivered,Website,718.62,Successful,2024-07-19
+ORD000873,CUST00401,Delivered,Website,6762.9,Successful,2024-08-06
+ORD000882,CUST00401,Cancelled,Mobile App,4597.2,Pending,2024-08-09
+ORD000888,CUST00401,Delivered,Mobile App,13765.59,Successful,2024-08-12
+ORD000889,CUST00007,Delivered,Marketplace,37354.58,Successful,2024-08-12
+ORD000894,CUST00035,Delivered,Marketplace,70570.33,Successful,2024-08-13
+ORD000922,CUST00050,Delivered,Website,2351.09,Successful,2024-08-21
+ORD000925,CUST00079,Delivered,Mobile App,100980.86,Successful,2024-08-21
+ORD000934,CUST00007,Delivered,Website,2163.9,Successful,2024-08-24
+ORD000945,CUST00401,Delivered,Mobile App,8282.42,Successful,2024-08-29
+ORD000955,CUST00281,Delivered,Mobile App,1012.44,Successful,2024-09-02
+ORD000956,CUST00079,Delivered,Website,1642.41,Successful,2024-09-02
+ORD000976,CUST00476,Delivered,Website,706.82,Successful,2024-09-09
+ORD001011,CUST00324,Delivered,Marketplace,3157.28,Successful,2024-09-26
+ORD001015,CUST00284,Delivered,Mobile App,18637.4,Successful,2024-09-27
+ORD001016,CUST00401,Delivered,Marketplace,3271.08,Successful,2024-09-27
+ORD001040,CUST00018,Delivered,Mobile App,650.18,Successful,2024-10-02
+ORD001054,CUST00220,Delivered,Mobile App,26331.17,Successful,2024-10-03
+ORD001070,CUST00284,Delivered,Marketplace,830.13,Successful,2024-10-04
+ORD001091,CUST00007,Returned,Mobile App,8450.46,Partially Refunded,2024-10-08
+ORD001110,CUST00500,Delivered,Mobile App,5336.57,Successful,2024-10-11
+ORD001119,CUST00007,Delivered,Marketplace,16564.84,Successful,2024-10-13
+ORD001131,CUST00487,Delivered,Website,6848.84,Successful,2024-10-15
+ORD001139,CUST00050,Delivered,Marketplace,8309.48,Successful,2024-10-17
+ORD001152,CUST00097,Delivered,Mobile App,3075.56,Successful,2024-10-19
+ORD001161,CUST00297,Cancelled,Website,30132.62,Refunded,2024-10-20
+ORD001168,CUST00007,Cancelled,Marketplace,705.4,Refunded,2024-10-20
+ORD001175,CUST00361,Delivered,Website,30663.12,Successful,2024-10-21
+ORD001186,CUST00430,Delivered,Mobile App,603.62,Successful,2024-10-22
+ORD001198,CUST00284,Returned,Website,4181.41,Refunded,2024-10-24
+ORD001214,CUST00106,Delivered,Website,58196.52,Successful,2024-10-26
+ORD001232,CUST00220,Returned,Website,2880.4,Refunded,2024-10-28
+ORD001236,CUST00401,Delivered,Website,4691.18,Successful,2024-10-29
+ORD001240,CUST00324,Delivered,Mobile App,491.74,Successful,2024-10-29
+ORD001267,CUST00515,Delivered,Marketplace,1029.28,Successful,2024-11-03
+ORD001274,CUST00050,Delivered,Mobile App,21875.3,Successful,2024-11-06
+ORD001279,CUST00487,Delivered,Marketplace,16847.51,Partially Refunded,2024-11-07
+ORD001283,CUST00520,Returned,Mobile App,31734.32,Refunded,2024-11-08
+ORD001290,CUST00324,Delivered,Website,15777.22,Successful,2024-11-12
+ORD001304,CUST00007,Delivered,Marketplace,938.0,Successful,2024-11-15
+ORD001318,CUST00050,Delivered,Mobile App,2617.88,Successful,2024-11-17
+ORD001341,CUST00050,Delivered,Mobile App,2924.94,Successful,2024-11-22
+ORD001348,CUST00487,Delivered,Website,14638.62,Successful,2024-11-24
+ORD001352,CUST00324,Delivered,Mobile App,2617.05,Successful,2024-11-24
+ORD001365,CUST00007,Delivered,Mobile App,43862.49,Successful,2024-11-29
+ORD001406,CUST00079,Delivered,Mobile App,2541.28,Successful,2024-12-08
+ORD001408,CUST00401,Delivered,Marketplace,87208.39,Successful,2024-12-09
+ORD001417,CUST00361,Delivered,Mobile App,60023.18,Successful,2024-12-12
+ORD001444,CUST00077,Delivered,Mobile App,6657.68,Successful,2024-12-19
+ORD001449,CUST00324,Delivered,Website,1125.71,Successful,2024-12-19
+ORD001458,CUST00220,Delivered,Mobile App,1667.68,Successful,2024-12-21
+ORD001464,CUST00401,Delivered,Mobile App,215.95,Successful,2024-12-25
+ORD001470,CUST00355,Delivered,Marketplace,991.97,Successful,2024-12-26
+ORD001472,CUST00135,Delivered,Marketplace,37247.42,Successful,2024-12-27
+ORD001482,CUST00220,Delivered,Website,5725.24,Successful,2024-12-30
+ORD001497,CUST00097,Returned,Marketplace,3679.0,Refunded,2025-01-02
+ORD001507,CUST00401,Cancelled,Mobile App,636.02,Pending,2025-01-05
+ORD001509,CUST00050,Delivered,Mobile App,5041.27,Successful,2025-01-06
+ORD001516,CUST00018,Returned,Website,4128.82,Refunded,2025-01-08
+ORD001518,CUST00536,Delivered,Mobile App,1430.68,Successful,2025-01-09
+ORD001521,CUST00401,Delivered,Mobile App,29428.02,Successful,2025-01-09
+ORD001581,CUST00515,Delivered,Mobile App,64518.57,Successful,2025-01-22
+ORD001633,CUST00577,Delivered,Marketplace,8853.18,Successful,2025-02-01
+ORD001646,CUST00576,Delivered,Website,2111.02,Successful,2025-02-05
+ORD001651,CUST00574,Delivered,Marketplace,2538.14,Successful,2025-02-07
+ORD001662,CUST00079,Returned,Marketplace,15842.68,Refunded,2025-02-11
+ORD001672,CUST00050,Delivered,Mobile App,3554.3,Successful,2025-02-14
+ORD001696,CUST00361,Returned,Mobile App,96450.84,Refunded,2025-02-22
+ORD001699,CUST00536,Delivered,Website,1167.02,Successful,2025-02-22
+ORD001705,CUST00050,Delivered,Mobile App,8771.4,Successful,2025-02-26
+ORD001721,CUST00007,Returned,Website,32745.5,Refunded,2025-03-03
+ORD001725,CUST00297,Cancelled,Mobile App,3269.42,Refunded,2025-03-04
+ORD001736,CUST00576,Delivered,Website,10360.12,Successful,2025-03-08
+ORD001737,CUST00297,Delivered,Website,3495.05,Successful,2025-03-08
+ORD001761,CUST00050,Delivered,Mobile App,6095.96,Successful,2025-03-14
+ORD001771,CUST00007,Delivered,Marketplace,977.82,Successful,2025-03-16
+ORD001774,CUST00007,Delivered,Mobile App,15089.96,Successful,2025-03-16
+ORD001781,CUST00135,Delivered,Mobile App,78970.6,Successful,2025-03-18
+ORD001802,CUST00297,Delivered,Website,390.1,Successful,2025-03-24
+ORD001812,CUST00035,Delivered,Website,70594.68,Successful,2025-03-26
+ORD001816,CUST00281,Delivered,Marketplace,634.84,Successful,2025-03-27
+ORD001823,CUST00220,Delivered,Website,3157.28,Successful,2025-03-29
+ORD001838,CUST00605,Delivered,Mobile App,7901.21,Successful,2025-04-05
+ORD001845,CUST00597,Returned,Marketplace,19031.71,Refunded,2025-04-06
+ORD001849,CUST00018,Delivered,Mobile App,14941.81,Successful,2025-04-07
+ORD001852,CUST00281,Delivered,Mobile App,49278.04,Successful,2025-04-07
+ORD001890,CUST00604,Delivered,Marketplace,682.2,Successful,2025-04-16
+ORD001892,CUST00007,Delivered,Website,8029.76,Successful,2025-04-17
+ORD001905,CUST00487,Delivered,Mobile App,71307.09,Successful,2025-04-20
+ORD001922,CUST00035,Delivered,Mobile App,2228.5,Partially Refunded,2025-04-25
+ORD001928,CUST00297,Delivered,Website,7871.85,Successful,2025-04-26
+ORD001943,CUST00007,Delivered,Mobile App,873.26,Successful,2025-04-29
+ORD001947,CUST00619,Cancelled,Mobile App,89299.14,Failed,2025-04-30
+ORD001949,CUST00407,Returned,Website,7153.14,Refunded,2025-05-02
+ORD001950,CUST00515,Delivered,Mobile App,1790.88,Successful,2025-05-03
+ORD001960,CUST00007,Delivered,Marketplace,17448.23,Successful,2025-05-05
+ORD001970,CUST00407,Delivered,Website,1667.68,Successful,2025-05-06
+ORD001976,CUST00281,Delivered,Marketplace,15156.7,Successful,2025-05-08
+ORD001982,CUST00297,Delivered,Website,67329.18,Successful,2025-05-09
+ORD002012,CUST00515,Cancelled,Website,67886.64,Pending,2025-05-15
+ORD002046,CUST00476,Delivered,Website,3995.38,Successful,2025-05-26
+ORD002088,CUST00643,Delivered,Mobile App,621.42,Successful,2025-06-05
+ORD002094,CUST00007,Returned,Marketplace,18459.78,Refunded,2025-06-07
+ORD002109,CUST00106,Delivered,Mobile App,416.42,Successful,2025-06-10
+ORD002117,CUST00644,Delivered,Mobile App,2387.95,Successful,2025-06-11
+ORD002169,CUST00018,Delivered,Mobile App,4075.0,Successful,2025-06-26
+ORD002172,CUST00281,Delivered,Website,2409.68,Successful,2025-06-26
+ORD002180,CUST00077,Delivered,Website,3331.38,Successful,2025-06-28
+ORD002227,CUST00220,Delivered,Marketplace,3950.46,Successful,2025-07-05
+ORD002249,CUST00220,Delivered,Mobile App,4358.64,Successful,2025-07-10
+ORD002263,CUST00035,Delivered,Marketplace,1496.36,Successful,2025-07-16
+ORD002269,CUST00018,Delivered,Mobile App,816.48,Successful,2025-07-17
+ORD002270,CUST00674,Delivered,Marketplace,1297.13,Successful,2025-07-18
+ORD002298,CUST00079,Delivered,Mobile App,774.45,Successful,2025-07-26
+ORD002327,CUST00500,Delivered,Mobile App,2133.44,Successful,2025-08-01
+ORD002344,CUST00476,Cancelled,Mobile App,71508.62,Refunded,2025-08-04
+ORD002352,CUST00597,Delivered,Marketplace,7545.44,Successful,2025-08-06
+ORD002364,CUST00536,Delivered,Mobile App,4307.08,Successful,2025-08-08
+ORD002368,CUST00679,Returned,Website,7887.9,Refunded,2025-08-08
+ORD002373,CUST00401,Delivered,Marketplace,569.56,Successful,2025-08-09
+ORD002402,CUST00018,Delivered,Website,5959.39,Successful,2025-08-12
+ORD002430,CUST00361,Delivered,Website,16847.51,Successful,2025-08-17
+ORD002434,CUST00655,Delivered,Mobile App,563.78,Successful,2025-08-18
+ORD002450,CUST00619,Delivered,Website,555.22,Successful,2025-08-21
+ORD002458,CUST00619,Delivered,Mobile App,3676.58,Successful,2025-08-23
+ORD002464,CUST00281,Delivered,Marketplace,5901.28,Successful,2025-08-23
+ORD002490,CUST00035,Delivered,Mobile App,2519.62,Successful,2025-09-01
+ORD002494,CUST00679,Delivered,Mobile App,83944.02,Successful,2025-09-02
+ORD002495,CUST00536,Delivered,Website,3771.28,Successful,2025-09-02
+ORD002509,CUST00520,Delivered,Mobile App,1724.4,Successful,2025-09-04
+ORD002513,CUST00355,Delivered,Mobile App,105971.82,Successful,2025-09-05
+ORD002516,CUST00515,Delivered,Mobile App,624.75,Successful,2025-09-06
+ORD002520,CUST00079,Delivered,Website,15046.96,Successful,2025-09-06
+ORD002525,CUST00689,Delivered,Website,3166.06,Successful,2025-09-08
+ORD002538,CUST00007,Delivered,Website,2778.87,Successful,2025-09-12
+ORD002547,CUST00077,Delivered,Website,2223.42,Successful,2025-09-14
+ORD002556,CUST00355,Delivered,Mobile App,105922.82,Successful,2025-09-16
+ORD002557,CUST00297,Delivered,Mobile App,586.95,Successful,2025-09-16
+ORD002579,CUST00536,Delivered,Mobile App,49741.96,Successful,2025-09-21
+ORD002589,CUST00679,Delivered,Marketplace,47247.68,Successful,2025-09-23
+ORD002591,CUST00324,Cancelled,Website,19227.39,Failed,2025-09-23
+ORD002596,CUST00679,Delivered,Website,3096.62,Successful,2025-09-23
+ORD002602,CUST00018,Delivered,Website,17125.4,Successful,2025-09-24
+ORD002631,CUST00713,Delivered,Marketplace,1904.11,Successful,2025-09-27
+ORD002655,CUST00050,Delivered,Mobile App,57489.88,Successful,2025-09-30
+ORD002662,CUST00679,Delivered,Marketplace,3096.62,Successful,2025-09-30
+ORD002664,CUST00297,Delivered,Mobile App,6204.44,Successful,2025-09-30
+ORD002665,CUST00007,Delivered,Marketplace,1238.0,Successful,2025-09-30
+ORD002675,CUST00655,Delivered,Mobile App,2367.96,Successful,2025-10-01
+ORD002685,CUST00035,Delivered,Mobile App,38774.96,Successful,2025-10-02
+ORD002716,CUST00644,Returned,Mobile App,3010.06,Partially Refunded,2025-10-06
+ORD002727,CUST00597,Delivered,Website,7852.38,Successful,2025-10-06
+ORD002759,CUST00604,Delivered,Website,64200.33,Successful,2025-10-09
+ORD002763,CUST00079,Delivered,Website,3738.67,Successful,2025-10-09
+ORD002771,CUST00097,Returned,Website,2442.66,Refunded,2025-10-10
+ORD002780,CUST00050,Delivered,Website,3276.38,Successful,2025-10-11
+ORD002788,CUST00737,Delivered,Website,13664.26,Successful,2025-10-11
+ORD002793,CUST00035,Delivered,Website,600.8,Successful,2025-10-12
+ORD002796,CUST00655,Returned,Mobile App,7392.85,Partially Refunded,2025-10-12
+ORD002803,CUST00604,Delivered,Website,7031.1,Successful,2025-10-13
+ORD002820,CUST00079,Returned,Website,15754.22,Partially Refunded,2025-10-14
+ORD002824,CUST00097,Delivered,Mobile App,3812.82,Successful,2025-10-15
+ORD002826,CUST00281,Returned,Mobile App,29400.17,Partially Refunded,2025-10-15
+ORD002831,CUST00079,Delivered,Website,1737.78,Successful,2025-10-15
+ORD002866,CUST00655,Delivered,Website,66220.48,Successful,2025-10-19
+ORD002920,CUST00738,Returned,Mobile App,5185.58,Partially Refunded,2025-10-28
+ORD002924,CUST00035,Delivered,Marketplace,547.84,Successful,2025-10-28
+ORD002960,CUST00324,Cancelled,Marketplace,647.82,Failed,2025-11-03
+ORD002967,CUST00324,Delivered,Marketplace,18648.5,Successful,2025-11-05
+ORD002997,CUST00679,Delivered,Website,757.44,Successful,2025-11-11
+ORD003040,CUST00644,Delivered,Website,2557.58,Successful,2025-11-19
+ORD003065,CUST00361,Delivered,Website,2005.47,Successful,2025-11-23
+ORD003069,CUST00655,Delivered,Website,555.22,Successful,2025-11-24
+ORD003070,CUST00500,Delivered,Mobile App,21279.65,Successful,2025-11-24
+ORD003096,CUST00097,Delivered,Mobile App,1642.41,Successful,2025-11-28
+ORD003117,CUST00789,Delivered,Mobile App,6151.83,Successful,2025-11-30
+ORD003166,CUST00284,Delivered,Website,2392.94,Successful,2025-12-11
+ORD003176,CUST00324,Delivered,Website,419.11,Successful,2025-12-12
+ORD003190,CUST00324,Delivered,Website,7356.38,Successful,2025-12-14
+ORD003221,CUST00679,Delivered,Marketplace,5309.13,Successful,2025-12-18
+ORD003228,CUST00050,Delivered,Mobile App,68554.18,Successful,2025-12-19
+ORD003234,CUST00577,Delivered,Marketplace,722.46,Successful,2025-12-20
+ORD003240,CUST00679,Returned,Website,3440.36,Refunded,2025-12-21
+ORD003283,CUST00604,Delivered,Mobile App,6621.42,Successful,2025-12-27
+ORD003312,CUST00097,Delivered,Website,3621.8,Successful,2025-12-31
+ORD003314,CUST00604,Delivered,Website,84395.02,Successful,2025-12-31
+ORD003322,CUST00018,Cancelled,Marketplace,5016.09,Pending,2026-01-02
+ORD003371,CUST00106,Delivered,Marketplace,4119.36,Successful,2026-01-12
+ORD003395,CUST00097,Delivered,Website,2238.88,Successful,2026-01-16
+ORD003406,CUST00679,Delivered,Marketplace,1331.68,Successful,2026-01-18
+ORD003419,CUST00079,Delivered,Website,40594.59,Successful,2026-01-21
+ORD003424,CUST00655,Delivered,Mobile App,3290.08,Successful,2026-01-21
+ORD003442,CUST00097,Delivered,Website,63761.42,Successful,2026-01-24
+ORD003462,CUST00097,Delivered,Mobile App,2823.19,Successful,2026-01-25
+ORD003475,CUST00077,Delivered,Website,13211.52,Successful,2026-01-27
+ORD003509,CUST00077,Delivered,Website,1475.48,Successful,2026-02-02
+ORD003527,CUST00515,Delivered,Marketplace,86415.7,Successful,2026-02-06
+ORD003536,CUST00035,Delivered,Website,612.42,Successful,2026-02-09
+ORD003542,CUST00836,Delivered,Mobile App,10445.96,Successful,2026-02-10
+ORD003556,CUST00050,Delivered,Website,2518.88,Successful,2026-02-12
+ORD003569,CUST00097,Delivered,Website,1824.9,Successful,2026-02-13
+ORD003572,CUST00407,Delivered,Mobile App,7176.96,Successful,2026-02-14
+ORD003600,CUST00577,Delivered,Mobile App,28182.3,Successful,2026-02-20
+ORD003625,CUST00007,Delivered,Website,84045.82,Successful,2026-02-25
+ORD003630,CUST00018,Delivered,Mobile App,2094.13,Successful,2026-02-27
+ORD003647,CUST00018,Delivered,Website,555.22,Successful,2026-03-02
+ORD003654,CUST00079,Delivered,Marketplace,12529.1,Successful,2026-03-03
+ORD003662,CUST00644,Delivered,Mobile App,10446.24,Successful,2026-03-04
+ORD003701,CUST00018,Delivered,Mobile App,892.8,Successful,2026-03-12
+ORD003761,CUST00018,Returned,Website,3105.83,Refunded,2026-03-24
+ORD003776,CUST00324,Delivered,Mobile App,10030.1,Successful,2026-03-26
+ORD003807,CUST00050,Cancelled,Mobile App,14241.42,Failed,2026-04-01
+ORD003809,CUST00679,Delivered,Mobile App,9480.03,Successful,2026-04-01
+ORD003817,CUST00220,Delivered,Website,1130.08,Successful,2026-04-03
+ORD003850,CUST00515,Delivered,Website,1487.0,Successful,2026-04-08
+ORD003852,CUST00679,Returned,Website,34031.32,Refunded,2026-04-09
+ORD003881,CUST00869,Delivered,Marketplace,2841.55,Successful,2026-04-15
+ORD003899,CUST00355,Delivered,Website,1483.26,Successful,2026-04-18
+ORD003904,CUST00220,Delivered,Mobile App,9685.44,Successful,2026-04-18
+ORD003910,CUST00872,Delivered,Mobile App,6206.25,Successful,2026-04-19
+ORD003920,CUST00430,Delivered,Website,163473.19,Successful,2026-04-21
+ORD003942,CUST00079,Delivered,Mobile App,634.41,Successful,2026-04-26
+ORD003947,CUST00281,Delivered,Mobile App,13391.94,Successful,2026-04-28
+ORD003954,CUST00097,Delivered,Marketplace,30536.04,Successful,2026-04-30
+ORD003955,CUST00050,Delivered,Website,1272.04,Successful,2026-04-30
+ORD003978,CUST00430,Delivered,Mobile App,6657.68,Successful,2026-05-04
+ORD003980,CUST00018,Delivered,Website,3951.82,Successful,2026-05-05
+ORD003989,CUST00035,Delivered,Website,1167.02,Partially Refunded,2026-05-07
+ORD004001,CUST00655,Delivered,Website,17734.22,Successful,2026-05-09
+ORD004008,CUST00737,Returned,Website,10982.58,Refunded,2026-05-09
+ORD004024,CUST00515,Delivered,Mobile App,1794.04,Successful,2026-05-13
+ORD004027,CUST00007,Delivered,Mobile App,89536.04,Successful,2026-05-15
+ORD004032,CUST00873,Delivered,Website,29453.42,Successful,2026-05-15
+ORD004042,CUST00401,Delivered,Mobile App,68734.95,Successful,2026-05-17
+ORD004056,CUST00164,Delivered,Website,69620.62,Successful,2026-05-21
+ORD004062,CUST00655,Delivered,Mobile App,10889.66,Successful,2026-05-22
+ORD004071,CUST00401,Returned,Website,99752.48,Refunded,2026-05-23
+ORD004087,CUST00882,Delivered,Marketplace,720.04,Successful,2026-05-26
+ORD004104,CUST00050,Delivered,Website,1050.32,Successful,2026-05-28
+ORD004108,CUST00050,Delivered,Mobile App,358.0,Successful,2026-05-28
+ORD004115,CUST00401,Cancelled,Website,8656.48,Failed,2026-05-30
+ORD004129,CUST00007,Delivered,Mobile App,7678.38,Successful,2026-06-02
+ORD004132,CUST00655,Delivered,Mobile App,2370.62,Successful,2026-06-02
+ORD004134,CUST00888,Delivered,Marketplace,68667.86,Successful,2026-06-03
+ORD004141,CUST00430,Delivered,Website,4995.96,Successful,2026-06-04
+ORD004149,CUST00050,Delivered,Marketplace,5261.1,Successful,2026-06-05
+ORD004196,CUST00401,Delivered,Website,14241.42,Successful,2026-06-13
+ORD004215,CUST00577,Delivered,Mobile App,538.94,Successful,2026-06-16
+ORD004216,CUST00655,Delivered,Website,31315.86,Successful,2026-06-16
+ORD004249,CUST00401,Returned,Mobile App,8768.72,Refunded,2026-06-20
+ORD004254,CUST00097,Delivered,Mobile App,7351.62,Successful,2026-06-20
+ORD004274,CUST00655,Delivered,Marketplace,1047.42,Successful,2026-06-23
+ORD004310,CUST00079,Delivered,Mobile App,2677.42,Successful,2026-06-29
+ORD004322,CUST00079,Delivered,Website,3355.55,Successful,2026-06-29
+ORD004347,CUST00324,Delivered,Website,1084.8,Successful,2026-07-03
+ORD004356,CUST00655,Delivered,Mobile App,4632.02,Successful,2026-07-04
+ORD004392,CUST00284,Delivered,Website,605.22,Successful,2026-07-08
+ORD004411,CUST00515,Delivered,Website,2500.42,Successful,2026-07-13
+ORD004474,CUST00942,Delivered,Website,27398.54,Successful,2026-07-27
+ORD004504,CUST00361,Delivered,Mobile App,3078.88,Successful,2026-08-02
+ORD004515,CUST00655,Delivered,Mobile App,988.84,Successful,2026-08-03
+ORD004583,CUST00738,Delivered,Website,3115.02,Successful,2026-08-12
+ORD004601,CUST00284,Delivered,Mobile App,7286.1,Successful,2026-08-14
+ORD004614,CUST00284,Delivered,Mobile App,5173.28,Successful,2026-08-16
+ORD004623,CUST00050,Delivered,Mobile App,428.0,Successful,2026-08-18
+ORD004632,CUST00515,Delivered,Mobile App,41690.14,Successful,2026-08-19
+ORD004668,CUST00018,Returned,Mobile App,2728.87,Refunded,2026-08-26
+ORD004692,CUST00077,Delivered,Mobile App,735.02,Successful,2026-08-30
+ORD004697,CUST00050,Delivered,Mobile App,12057.86,Successful,2026-08-30
+ORD004698,CUST00097,Cancelled,Mobile App,35332.7,Pending,2026-08-31
+ORD004726,CUST00324,Delivered,Website,4564.24,Partially Refunded,2026-09-03
+ORD004734,CUST00982,Delivered,Website,1701.34,Successful,2026-09-04
+ORD004756,CUST00079,Delivered,Website,11381.46,Successful,2026-09-07
+ORD004760,CUST00281,Delivered,Mobile App,3717.28,Successful,2026-09-08
+ORD004775,CUST00077,Delivered,Marketplace,1050.32,Successful,2026-09-10
+ORD004787,CUST00324,Delivered,Mobile App,6530.84,Successful,2026-09-12
+ORD004806,CUST00035,Delivered,Website,4510.84,Successful,2026-09-15
+ORD004812,CUST00996,Delivered,Mobile App,1165.44,Successful,2026-09-16
+ORD004835,CUST00515,Delivered,Website,1899.92,Successful,2026-09-19
+ORD004841,CUST00355,Delivered,Mobile App,77044.98,Successful,2026-09-20
+ORD004967,CUST00079,Shipped,Website,1418.76,Pending,2026-10-01

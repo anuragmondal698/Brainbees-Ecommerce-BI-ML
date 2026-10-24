@@ -1,0 +1,194 @@
+Product_ID,Product_Name,Brand,Category_Name,Department,Total_Orders,Units_Sold,Revenue,Profit
+PRD001,"Samsung Galaxy S24 FE 5G (8GB/256GB)",Samsung,Mobiles,"Consumer Electronics",15,15,886611.9,27414.700000000004
+PRD002,"Samsung Galaxy A15 5G (6GB/128GB)",Samsung,Mobiles,"Consumer Electronics",10,10,174836.54000000004,6437.3499999999985
+PRD003,"Apple iPhone 15 (128GB)",Apple,Mobiles,"Consumer Electronics",53,53,3680170.460000002,78704.26
+PRD004,"Apple iPhone 16 (128GB)",Apple,Mobiles,"Consumer Electronics",20,20,1644377.6800000002,30784.999999999993
+PRD005,"OnePlus Nord CE4 5G (8GB/128GB)",OnePlus,Mobiles,"Consumer Electronics",8,8,219803.44,10705.22
+PRD006,"OnePlus 12R 5G (16GB/256GB)",OnePlus,Mobiles,"Consumer Electronics",40,40,1955594.6099999999,26709.550000000014
+PRD007,"Xiaomi Redmi Note 13 Pro 5G (8GB/256GB)",Xiaomi,Mobiles,"Consumer Electronics",73,73,2042304.6600000004,90797.50999999997
+PRD008,"Xiaomi Redmi 13C 5G (4GB/128GB)",Xiaomi,Mobiles,"Consumer Electronics",78,93,1288136.49,26965.890000000014
+PRD009,"realme Narzo 70 Pro 5G (8GB/128GB)",realme,Mobiles,"Consumer Electronics",12,12,260870.64,2932.2799999999993
+PRD010,"Vivo T3 5G (8GB/128GB)",Vivo,Mobiles,"Consumer Electronics",16,16,342654.32,13500.519999999997
+PRD011,"OPPO F27 5G (8GB/128GB)",OPPO,Mobiles,"Consumer Electronics",41,41,1344250.4200000004,33198.52000000001
+PRD012,"Motorola Edge 50 Fusion 5G (12GB/256GB)",Motorola,Mobiles,"Consumer Electronics",24,24,683441.34,16987.55
+PRD013,"iQOO Z9 5G (8GB/128GB)",iQOO,Mobiles,"Consumer Electronics",19,19,418368.5399999998,3264.110000000001
+PRD014,"HP Pavilion 15 (Core i5 13th Gen, 16GB, 512GB SSD)",HP,Laptops,"Consumer Electronics",14,14,945794.3800000001,78477.49
+PRD015,"HP 15s (Ryzen 5, 8GB, 512GB SSD)",HP,Laptops,"Consumer Electronics",68,68,3340532.4000000013,55606.240000000085
+PRD016,"Dell Inspiron 15 (Core i5, 16GB, 512GB SSD)",Dell,Laptops,"Consumer Electronics",8,8,593193.2600000001,34217.829999999994
+PRD017,"Dell Vostro 3520 (Core i3, 8GB, 512GB SSD)",Dell,Laptops,"Consumer Electronics",15,15,708135.78,36762.899999999994
+PRD018,"Lenovo IdeaPad Slim 3 (Ryzen 5, 16GB, 512GB SSD)",Lenovo,Laptops,"Consumer Electronics",10,10,514899.08999999997,32710.449999999997
+PRD019,"Lenovo LOQ Gaming (Core i5, RTX 3050, 16GB)",Lenovo,Laptops,"Consumer Electronics",17,17,1595709.7000000002,64313.95999999999
+PRD020,"ASUS Vivobook 15 (Core i5, 16GB, 512GB SSD)",ASUS,Laptops,"Consumer Electronics",3,3,191654.01,9356.16
+PRD021,"ASUS TUF Gaming F15 (Core i5, RTX 4050)",ASUS,Laptops,"Consumer Electronics",29,29,2629145.11,87877.44999999998
+PRD022,"Acer Aspire 7 (Ryzen 5, RTX 2050)",Acer,Laptops,"Consumer Electronics",24,24,1596668.7000000002,104609.36999999995
+PRD023,"MSI Thin GF63 (Core i5, RTX 4050)",MSI,Laptops,"Consumer Electronics",13,13,1024117.06,45061.19
+PRD024,"Apple MacBook Air M3 (16GB, 256GB)",Apple,Laptops,"Consumer Electronics",21,21,2347955.8200000003,42321.3
+PRD025,"Samsung Galaxy Book4 (Core i5, 16GB, 512GB)",Samsung,Laptops,"Consumer Electronics",7,7,541640.6,23396.88
+PRD026,"Lenovo ThinkPad E14 (Core i5, 16GB, 512GB)",Lenovo,Laptops,"Consumer Electronics",6,6,500474.93999999994,39011.28
+PRD027,"LG 55-inch 4K UHD Smart TV",LG,Electronics,"Consumer Electronics",174,174,10940891.699999994,1005837.0500000016
+PRD028,"Sony Bravia 50-inch 4K Google TV",Sony,Electronics,"Consumer Electronics",23,23,1632769.1,89357.36
+PRD029,"Xiaomi 43-inch Smart Fire TV",Xiaomi,Electronics,"Consumer Electronics",11,11,327173.54000000004,11655.19
+PRD031,"Noise ColorFit Pro 5 Smartwatch",Noise,Electronics,"Consumer Electronics",26,27,183035.83999999997,16760.08
+PRD032,"boAt Wave Call 3 Smartwatch",boAt,Electronics,"Consumer Electronics",10,12,70006.41,5970.41
+PRD033,"Apple Watch SE (GPS, 40mm)",Apple,Electronics,"Consumer Electronics",3,3,81097.98,5408.17
+PRD034,"Canon EOS 1500D DSLR with 18-55mm Lens",Canon,Electronics,"Consumer Electronics",26,26,1017234.6699999999,63521.610000000015
+PRD036,"TP-Link Archer C6 AC1200 Wi-Fi Router",TP-Link,Electronics,"Consumer Electronics",16,19,67969.84000000001,4437.079999999999
+PRD038,"Apple iPad (10th Gen) 64GB",Apple,Electronics,"Consumer Electronics",23,23,908170.3300000001,53381.58000000001
+PRD039,"Epson EcoTank L3250 Ink Tank Printer",Epson,Electronics,"Consumer Electronics",13,14,211682.28000000003,11473.65
+PRD040,"boAt Rockerz 450 Bluetooth Headphones",boAt,Audio,"Consumer Electronics",114,122,469653.41000000044,114310.01000000005
+PRD041,"boAt Airdopes 141 True Wireless Earbuds",boAt,Audio,"Consumer Electronics",121,130,578594.9800000004,166561.80000000002
+PRD042,"JBL Tune 760NC Wireless Headphones",JBL,Audio,"Consumer Electronics",2,2,16117.740000000002,4282.84
+PRD043,"JBL Flip 6 Portable Speaker",JBL,Audio,"Consumer Electronics",31,33,379781.66000000003,98037.56999999998
+PRD044,"JBL Go 3 Portable Speaker",JBL,Audio,"Consumer Electronics",40,44,174064.44000000003,48187.04000000001
+PRD045,"Sony WH-1000XM5 Noise Cancelling Headphones",Sony,Audio,"Consumer Electronics",12,12,366023.0400000001,86545.12
+PRD046,"Sony SRS-XB13 Portable Speaker",Sony,Audio,"Consumer Electronics",23,25,132159.97999999998,33221.7
+PRD047,"Apple AirPods Pro (2nd Gen)",Apple,Audio,"Consumer Electronics",14,14,358940.68,91171.96
+PRD048,"OnePlus Nord Buds 2r True Wireless Earbuds",OnePlus,Audio,"Consumer Electronics",33,34,74556.04000000001,18831.749999999996
+PRD049,"Samsung Galaxy Buds2 Pro",Samsung,Audio,"Consumer Electronics",153,163,2414281.9400000004,583891.4999999998
+PRD050,"Boult Z40 True Wireless Earbuds",Boult,Audio,"Consumer Electronics",7,9,17954.119999999995,5211.219999999999
+PRD051,"Marshall Emberton II Bluetooth Speaker",Marshall,Audio,"Consumer Electronics",17,19,303475.83999999997,73261.56999999999
+PRD052,"Bose QuietComfort 45 Headphones",Bose,Audio,"Consumer Electronics",6,6,189965.31999999995,39874.90999999999
+PRD053,"Levi's 511 Slim Fit Jeans (Men)",Levi's,Fashion,"Fashion & Lifestyle",71,77,209513.11999999988,76146.02999999997
+PRD054,"Levi's High Rise Skinny Jeans (Women)",Levi's,Fashion,"Fashion & Lifestyle",38,41,119926.95,46616.999999999985
+PRD055,"Van Heusen Men Slim Fit Cotton Shirt","Van Heusen",Fashion,"Fashion & Lifestyle",114,144,299897.93000000005,100520.13000000003
+PRD056,"Peter England Men Formal Trousers","Peter England",Fashion,"Fashion & Lifestyle",18,23,41342.28,16185.149999999996
+PRD057,"W Women Printed Straight Kurta",W,Fashion,"Fashion & Lifestyle",43,51,78214.15,26522.85999999999
+PRD058,"Biba Women Anarkali Kurta Set",Biba,Fashion,"Fashion & Lifestyle",158,166,575992.5200000011,195353.21000000005
+PRD059,"Fabindia Men Cotton Kurta",FABINDIA,Fashion,"Fashion & Lifestyle",58,62,154155.53999999992,54015.16000000003
+PRD060,"Puma Men Polo T-Shirt",Puma,Fashion,"Fashion & Lifestyle",48,61,110896.10999999999,41189.45000000001
+PRD061,"Adidas Men Training Track Pants",Adidas,Fashion,"Fashion & Lifestyle",137,145,417342.19999999995,143671.95
+PRD062,"Nike Dri-FIT Men Round Neck T-Shirt",Nike,Fashion,"Fashion & Lifestyle",140,170,298507.06999999966,118477.99999999997
+PRD063,"U.S. Polo Assn. Men Polo T-Shirt","U.S. Polo Assn.",Fashion,"Fashion & Lifestyle",80,85,181343.8600000001,69086.55000000005
+PRD064,"Wrangler Men Regular Fit Jeans",wrangler,Fashion,"Fashion & Lifestyle",250,265,622918.9499999995,221832.5000000007
+PRD065,"Libas Women Cotton Kurti",Libas,Fashion,"Fashion & Lifestyle",112,140,172497.60000000015,60887.750000000065
+PRD066,"Nike Revolution 7 Running Shoes",Nike,Footwear,"Fashion & Lifestyle",15,16,63610.439999999995,21159.050000000003
+PRD067,"Nike Air Max Excee Sneakers",Nike,Footwear,"Fashion & Lifestyle",26,26,222969.12999999992,67519.59999999999
+PRD068,"Adidas Runfalcon 3.0 Running Shoes",Adidas,Footwear,"Fashion & Lifestyle",8,9,33898.310000000005,12544.81
+PRD069,"Adidas Superstar Sneakers",Adidas,Footwear,"Fashion & Lifestyle",21,21,167272.54999999996,55865.00999999999
+PRD070,"Puma Smash V2 Sneakers",Puma,Footwear,"Fashion & Lifestyle",52,54,206665.45999999996,72221.65
+PRD071,"Puma Softride Enzo Running Shoes",Puma,Footwear,"Fashion & Lifestyle",82,85,431602.8600000003,125952.44999999991
+PRD072,"Skechers Go Walk Slip-On Shoes",Skechers,Footwear,"Fashion & Lifestyle",11,11,43458.41,14519.87
+PRD073,"Bata Men Formal Oxford Shoes",Bata,Footwear,"Fashion & Lifestyle",57,63,149554.27999999994,53049.40999999999
+PRD074,"Woodland Men Leather Casual Boots",Woodland,Footwear,"Fashion & Lifestyle",51,59,274063.4199999999,88387.25999999998
+PRD075,"Crocs Classic Clog",Crocs,Footwear,"Fashion & Lifestyle",24,27,102376.33000000003,35305.50000000001
+PRD076,"Campus Men Running Shoes",Campus,Footwear,"Fashion & Lifestyle",52,88,132413.75999999998,37862.36
+PRD077,"Liberty Women Flat Sandals",Liberty,Footwear,"Fashion & Lifestyle",85,101,106001.49000000009,32897.85000000001
+PRD078,"Red Tape Men Casual Sneakers","Red Tape",Footwear,"Fashion & Lifestyle",349,378,1123991.5800000043,350134.2999999999
+PRD079,"Lakme 9to5 Primer + Matte Lipstick",Lakme,Beauty,"Beauty & Personal Care",117,145,83871.03999999995,23021.150000000016
+PRD080,"Maybelline Fit Me Matte Foundation",Maybelline,Beauty,"Beauty & Personal Care",41,57,33327.509999999995,9152.590000000002
+PRD081,"L'Oreal Paris Hyaluronic Acid Serum 30ml","L'Oreal Paris",Beauty,"Beauty & Personal Care",22,26,24917.74,6945.139999999999
+PRD082,"Mamaearth Vitamin C Face Wash 100ml",Mamaearth,Beauty,"Beauty & Personal Care",31,46,14024.799999999996,4312.419999999999
+PRD083,"Nykaa Kajal Eyeliner",Nykaa,Beauty,"Beauty & Personal Care",57,87,30117.66,8541.87
+PRD084,"Minimalist 10% Vitamin C Face Serum 30ml",Minimalist,Beauty,"Beauty & Personal Care",101,122,81107.69000000009,26951.46999999997
+PRD085,"Plum Green Tea Pore Cleansing Face Wash",Plum,Beauty,"Beauty & Personal Care",11,20,6411.18,2065
+PRD086,"Himalaya Neem Face Wash 150ml",Himalaya,Beauty,"Beauty & Personal Care",96,172,31757.71999999997,9314.210000000003
+PRD087,"Dot & Key Watermelon Cooling Gel Moisturizer","Dot & Key",Beauty,"Beauty & Personal Care",38,70,30132.499999999996,8456.700000000003
+PRD088,"WOW Skin Science Apple Cider Vinegar Shampoo 300ml","WOW Skin Science",Beauty,"Beauty & Personal Care",22,32,19596.579999999998,6596.369999999999
+PRD089,"Sugar Cosmetics Matte As Hell Crayon Lipstick","Sugar Cosmetics",Beauty,"Beauty & Personal Care",22,31,14781.65,4589.25
+PRD090,"Biotique Bio Almond Oil Body Lotion",Biotique,Beauty,"Beauty & Personal Care",42,68,19902.259999999987,5278.420000000001
+PRD091,"Nivea Soft Light Moisturising Cream 300ml",Nivea,Beauty,"Beauty & Personal Care",49,90,34081.75000000001,9990.000000000002
+PRD093,"Prestige Iris 750W Mixer Grinder",Prestige,"Home & Kitchen","Home & Living",39,41,241642.22000000012,54363.56999999997
+PRD094,"Bajaj Majesty Induction Cooktop",Bajaj,"Home & Kitchen","Home & Living",22,22,77634.89,13287.05
+PRD095,"Pigeon Stovekraft Pressure Cooker 3L",Pigeon,"Home & Kitchen","Home & Living",13,17,26857.27999999999,5560.820000000001
+PRD096,"Whirlpool 265L Double Door Refrigerator",Whirlpool,"Home & Kitchen","Home & Living",26,26,699825.24,113634.28
+PRD098,"Borosil Glass Lunch Box Set of 3",Borosil,"Home & Kitchen","Home & Living",11,15,19523.819999999996,4279.349999999999
+PRD099,"Prestige Non-Stick Cookware Set (3 pcs)",Prestige,"Home & Kitchen","Home & Living",29,34,96622.28,20802.929999999997
+PRD100,"Hawkins Contura Pressure Cooker 3L",Hawkins,"Home & Kitchen","Home & Living",36,46,89823.92999999998,15192.649999999998
+PRD101,"Wonderchef Nutri-Blend Mixer Grinder",Wonderchef,"Home & Kitchen","Home & Living",13,13,69341.06,15168.100000000002
+PRD102,"Havells Ceiling Fan 1200mm",Havells,"Home & Kitchen","Home & Living",42,44,160246.3600000001,29421.38999999999
+PRD103,"Cello Opalware Dinner Set (19 pcs)",Cello,"Home & Kitchen","Home & Living",54,56,224441.15000000014,34385.979999999996
+PRD104,"Eureka Forbes Aquaguard Aura RO Water Purifier","Eureka Forbes","Home & Kitchen","Home & Living",48,48,786512.7300000001,158069.75
+PRD105,"Wakefit Orthopedic Memory Foam Mattress (Queen)",Wakefit,Furniture,"Home & Living",27,27,457238.45999999973,113664.30000000005
+PRD106,"Sleepwell Ortho Mattress (Queen)",Sleepwell,Furniture,"Home & Living",1,1,9250.26,913.27
+PRD107,"Nilkamal Freedom Plastic Chair (Set of 2)",nilkamal,Furniture,"Home & Living",4,4,8190.16,1231.48
+PRD108,"Godrej Interio 3-Door Wardrobe","Godrej Interio",Furniture,"Home & Living",4,4,80528.15999999999,20562.56
+PRD109,"Featherlite Ergonomic Office Chair",Featherlite,Furniture,"Home & Living",23,24,173503.92000000004,43798.80000000002
+PRD110,"IKEA Billy Bookcase",IKEA,Furniture,"Home & Living",16,16,126671.91,30157.210000000006
+PRD111,"Urban Ladder Sheesham Wood Study Table","Urban Ladder",Furniture,"Home & Living",2,2,20032.690000000002,2520.61
+PRD112,"Wooden Street Solid Wood Queen Bed","Wooden Street",Furniture,"Home & Living",7,7,183477.5,45120.96000000001
+PRD113,"Durian 3-Seater Fabric Sofa",Durian,Furniture,"Home & Living",8,8,183581.75999999998,35953.030000000006
+PRD114,"Green Soul Ergonomic Mesh Office Chair","Green Soul",Furniture,"Home & Living",16,16,202677.47000000003,52362.31
+PRD115,"Home Centre 6-Seater Dining Table Set","Home Centre",Furniture,"Home & Living",9,9,275213.18,63647.47
+PRD116,"Nilkamal 4-Tier Shoe Rack",Nilkamal,Furniture,"Home & Living",7,7,20626.76,5459.130000000001
+PRD117,"@home Engineered Wood TV Unit",@home,Furniture,"Home & Living",9,9,68091.97,14829.949999999999
+PRD118,"Yonex Astrox 3DG Badminton Racquet",Yonex,Sports,"Sports & Outdoors",71,74,363681.58000000025,98697.49999999994
+PRD119,"Yonex Mavis 350 Nylon Shuttlecock (Pack of 6)",Yonex,Sports,"Sports & Outdoors",39,48,31701.569999999992,6740.039999999999
+PRD120,"SS Ton Kashmir Willow Cricket Bat",SS,Sports,"Sports & Outdoors",2,2,5275.32,1290.42
+PRD121,"Nivia Storm Football Size 5",Nivia,Sports,"Sports & Outdoors",54,71,57295.380000000034,15439.34
+PRD122,"Cosco Basketball Size 7",Cosco,Sports,"Sports & Outdoors",14,25,18984.829999999998,5002.500000000001
+PRD123,"Decathlon Domyos 8mm Yoga Mat",Decathlon,Sports,"Sports & Outdoors",39,60,74834.31000000001,18791.75
+PRD124,"Boldfit Gym Gloves",Boldfit,Sports,"Sports & Outdoors",13,18,9794.56,2142.21
+PRD125,"Strauss Adjustable Dumbbell Set 20kg",Strauss,Sports,"Sports & Outdoors",14,14,69953.29000000001,17515.92
+PRD126,"Adidas Pro Training Football",Adidas,Sports,"Sports & Outdoors",74,95,191786.37999999977,52152.49999999999
+PRD127,"Lifelong Foldable Treadmill",Lifelong,Sports,"Sports & Outdoors",8,8,185212.60000000003,43278.48
+PRD128,"Hero Sprint 26T Cycle",Hero,Sports,"Sports & Outdoors",26,26,165679.68999999997,36242.96
+PRD129,"Speedo Endurance Swimwear (Men)",Speedo,Sports,"Sports & Outdoors",58,75,127152.45999999998,30224.250000000004
+PRD130,"Fitness Mantra Resistance Bands Set","Fitness Mantra",Sports,"Sports & Outdoors",22,38,19784.349999999995,4058.7
+PRD131,"Penguin Atomic Habits (James Clear)",Penguin,Books,"Books & Toys",34,42,26559.299999999992,4896.54
+PRD132,"Manjul Rich Dad Poor Dad (Robert Kiyosaki)",Manjul,Books,"Books & Toys",13,27,7340.6,1588.25
+PRD133,"Penguin Ikigai (Garcia & Miralles)",Penguin,Books,"Books & Toys",35,59,18136.500000000004,2400.6100000000006
+PRD135,"Universities Press Wings of Fire (APJ Abdul Kalam)","Universities Press",Books,"Books & Toys",84,135,39181.200000000004,6338.400000000004
+PRD136,"Hachette Deep Work (Cal Newport)",Hachette,Books,"Books & Toys",19,42,18776.800000000003,4134.34
+PRD137,"Penguin Sapiens (Yuval Noah Harari)",Penguin,Books,"Books & Toys",23,33,18928.399999999998,4025.2699999999995
+PRD138,"HarperCollins Think Like a Monk (Jay Shetty)",HarperCollins,Books,"Books & Toys",245,423,151410.50000000006,29802.229999999996
+PRD139,"Bloomsbury Zero to One (Peter Thiel)",Bloomsbury,Books,"Books & Toys",10,17,6971.25,1742.3899999999999
+PRD140,"No Starch Press Python Crash Course, 3rd Edition","No Starch Press",Books,"Books & Toys",22,23,56354.4,13068.629999999997
+PRD141,"BPB Let Us C (Yashavant Kanetkar)",BPB,Books,"Books & Toys",24,37,15946,3205.4200000000014
+PRD142,"Oxford Advanced Learner's Dictionary",Oxford,Books,"Books & Toys",98,128,92279.99999999999,19463.359999999997
+PRD143,"Wiley Data Science for Business",Wiley,Books,"Books & Toys",44,48,165555.00000000003,26517.72
+PRD144,"LEGO Classic Medium Creative Brick Box",LEGO,Toys,"Books & Toys",28,30,74542.77999999998,20921.250000000004
+PRD145,"LEGO City Fire Station Set",LEGO,Toys,"Books & Toys",159,169,924140.370000002,278172.11
+PRD146,"Hot Wheels 20-Car Gift Pack","Hot Wheels",Toys,"Books & Toys",42,52,65795.73000000004,14869.119999999995
+PRD147,"Funskool Monopoly Board Game",Funskool,Toys,"Books & Toys",75,96,91760.25999999997,21519.89000000001
+PRD148,"Funskool Scrabble Board Game",Funskool,Toys,"Books & Toys",43,66,45096.460000000014,12074.120000000004
+PRD149,"Barbie Dreamhouse Playset",Barbie,Toys,"Books & Toys",16,22,42944.32,12920.390000000001
+PRD150,"Mattel UNO Playing Cards",Mattel,Toys,"Books & Toys",5,8,1447.9999999999998,467.57
+PRD151,"Nerf Elite 2.0 Blaster",Nerf,Toys,"Books & Toys",36,46,57928.079999999994,14973.94
+PRD152,"Fisher-Price Rock-a-Stack Toy",Fisher-Price,Toys,"Books & Toys",75,89,67482.04000000005,19655.389999999996
+PRD153,"Skillmatics Educational Game Guess in 10",Skillmatics,Toys,"Books & Toys",17,25,13301.16,2922.05
+PRD154,"Webby Remote Control Racing Car",Webby,Toys,"Books & Toys",52,89,90295.10000000002,26513.99000000001
+PRD155,"Ravensburger 1000 Piece Jigsaw Puzzle",Ravensburger,Toys,"Books & Toys",90,116,158849.72999999998,39210.749999999985
+PRD156,"Funskool Giggles Soft Building Blocks",Funskool,Toys,"Books & Toys",15,16,10364.52,2488.29
+PRD157,"Tata Tea Gold Tea 500g","Tata Tea",Grocery,"Grocery & Essentials",8,12,3127.4399999999996,285.82000000000005
+PRD158,"Aashirvaad Whole Wheat Atta 10kg",Aashirvaad,Grocery,"Grocery & Essentials",75,126,60638.58999999998,1895.1
+PRD159,"Fortune Sunlite Refined Sunflower Oil 5L",Fortune,Grocery,"Grocery & Essentials",13,17,12661.859999999999,937.33
+PRD160,"India Gate Basmati Rice Classic 5kg","India Gate",Grocery,"Grocery & Essentials",13,18,15092.130000000003,1148.4899999999998
+PRD161,"Nescafe Classic Instant Coffee 200g",Nescafe,Grocery,"Grocery & Essentials",22,30,17687.710000000006,1228.9000000000003
+PRD162,"Saffola Gold Edible Oil 5L",Saffola,Grocery,"Grocery & Essentials",124,161,140335.04,6128.930000000003
+PRD163,"Haldiram's Aloo Bhujia 1kg",Haldiram's,Grocery,"Grocery & Essentials",106,175,49362.20000000002,2563.2500000000005
+PRD164,"Amul Pure Ghee 1L",Amul,Grocery,"Grocery & Essentials",96,138,75569.97999999998,6742.789999999997
+PRD165,"Maggi 2-Minute Masala Noodles (Pack of 12)",Maggi,Grocery,"Grocery & Essentials",129,216,31837.720000000052,2284.7000000000007
+PRD166,"Kellogg's Corn Flakes 1.2kg",Kellogg's,Grocery,"Grocery & Essentials",19,31,13378.390000000001,1411.4199999999996
+PRD167,"Quaker Rolled Oats 2kg",Quaker,Grocery,"Grocery & Essentials",45,85,36036.090000000004,1507.4500000000007
+PRD168,"Tata Sampann Unpolished Toor Dal 1kg","Tata Sampann",Grocery,"Grocery & Essentials",34,63,11778.04,760.4099999999999
+PRD169,"Britannia Good Day Cashew Cookies (Pack of 6)",Britannia,Grocery,"Grocery & Essentials",58,91,14541.43,682.11
+PRD170,"Dove Intense Repair Shampoo 650ml",Dove,"Personal Care","Beauty & Personal Care",77,142,65461.259999999966,11772.259999999993
+PRD171,"Gillette Mach3 Razor with 2 Cartridges",Gillette,"Personal Care","Beauty & Personal Care",13,17,6901.430000000001,1661.21
+PRD172,"Philips BT3231 Beard Trimmer",Philips,"Personal Care","Beauty & Personal Care",41,58,99890.40000000001,20164.389999999996
+PRD173,"Philips HP8120 Hair Dryer",Philips,"Personal Care","Beauty & Personal Care",4,4,4505.360000000001,1125.58
+PRD174,"Colgate MaxFresh Toothpaste (3 x 150g)",COLGATE,"Personal Care","Beauty & Personal Care",39,67,22642.950000000004,4542.030000000001
+PRD175,"Oral-B Vitality Electric Toothbrush",Oral-B,"Personal Care","Beauty & Personal Care",92,113,224823.72999999992,43548.27000000001
+PRD176,"Dettol Liquid Handwash Refill (Pack of 3)",Dettol,"Personal Care","Beauty & Personal Care",14,20,6419.800000000002,1597.0999999999995
+PRD177,"Axe Signature Deodorant 150ml",Axe,"Personal Care","Beauty & Personal Care",13,26,6881.290000000003,1670.0400000000002
+PRD178,"Nivea Men Deep Impact Face Wash 100ml",Nivea,"Personal Care","Beauty & Personal Care",22,40,11823.9,2154.2499999999995
+PRD179,"Pantene Hair Fall Control Shampoo 1L",Pantene,"Personal Care","Beauty & Personal Care",13,15,10060.690000000002,1842.8999999999999
+PRD180,"Havells BT5190 Beard Trimmer",Havells,"Personal Care","Beauty & Personal Care",67,94,152019.11000000002,35477.36
+PRD181,"Pears Pure & Gentle Soap (Pack of 5)",Pears,"Personal Care","Beauty & Personal Care",49,81,23870.029999999995,5254.33
+PRD182,"Head & Shoulders Cool Menthol Shampoo 650ml","Head & Shoulders","Personal Care","Beauty & Personal Care",210,397,189351.7200000004,36043.679999999964
+PRD183,"Park Avenue Good Morning Gift Set","Park Avenue","Personal Care","Beauty & Personal Care",181,321,167188.30000000005,36438.629999999976
+PRD184,"Apple 20W USB-C Power Adapter",Apple,Accessories,"Fashion & Lifestyle",27,31,62309.50999999999,22264.69
+PRD185,"Samsung 25W Fast Charger",Samsung,Accessories,"Fashion & Lifestyle",39,47,74025.11000000002,23431.699999999997
+PRD186,"Anker PowerCore 10000 Power Bank",Anker,Accessories,"Fashion & Lifestyle",37,47,83844.94000000003,32868.90999999999
+PRD187,"Xiaomi Mi Power Bank 3i 20000mAh",Xiaomi,Accessories,"Fashion & Lifestyle",30,35,105808.16,37234.40000000001
+PRD188,"boAt Type-C Braided Cable 1.5m",boAt,Accessories,"Fashion & Lifestyle",14,17,9921.940000000002,3714.53
+PRD189,"Portronics Car Power 24 Car Charger",Portronics,Accessories,"Fashion & Lifestyle",10,11,8946.3,3319.54
+PRD190,"Wildcraft Laptop Backpack 35L",Wildcraft,Accessories,"Fashion & Lifestyle",161,166,396353.78999999916,135997.31
+PRD191,"American Tourister Casual Backpack","American Tourister",Accessories,"Fashion & Lifestyle",150,159,397195.44999999955,141909.06
+PRD193,"Titan Raga Women Analog Watch",Titan,Accessories,"Fashion & Lifestyle",148,153,1067078.0100000026,340573.2199999997
+PRD194,"Casio Digital Sports Watch",Casio,Accessories,"Fashion & Lifestyle",84,89,207159.9100000002,68246.50999999995
+PRD195,"SanDisk Ultra 128GB microSD Card",SanDisk,Accessories,"Fashion & Lifestyle",122,166,181821.85000000003,68031.79999999994
+PRD196,"Logitech M331 Silent Wireless Mouse",Logitech,Accessories,"Fashion & Lifestyle",12,13,18942.67,6521.11
+PRD197,"HP v236w 64GB USB 3.0 Pen Drive",HP,Accessories,"Fashion & Lifestyle",34,43,38137.100000000006,13263.67
+PRD198,"LIBAS WOMEN COTTON KURTI",Libas,Fashion,"Fashion & Lifestyle",29,34,41214.030000000006,14181.449999999997
+PRD199,"Nike Dri-FIT Men Round Neck T-Shirt",nike,Fashion,"Fashion & Lifestyle",31,43,73902.86,28537.719999999994
+PRD200,"Bose  QuietComfort 45 Headphones",Bose,Audio,"Consumer Electronics",4,4,134150.25,32944.89

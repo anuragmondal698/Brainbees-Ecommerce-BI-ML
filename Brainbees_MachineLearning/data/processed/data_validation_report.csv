@@ -1,0 +1,19 @@
+﻿table,check,issue_count,status
+fact_orders,Missing Order_ID,0,PASS
+fact_orders,Missing Customer_ID,0,PASS
+fact_orders,Missing Order_Date,0,PASS
+fact_orders,Missing Order_Total,0,PASS
+fact_orders,Unparseable Order_Date,0,PASS
+fact_orders,Rows with repeated Order_ID,0,PASS
+fact_orders,Non-numeric Order_Total,0,PASS
+fact_order_items,Missing Order_Item_ID,0,PASS
+fact_order_items,Missing Order_ID,0,PASS
+fact_order_items,Missing Product_ID,0,PASS
+fact_order_items,Missing Quantity,0,PASS
+fact_order_items,Missing Line_Total,0,PASS
+fact_order_items,Rows with repeated Order_Item_ID,0,PASS
+fact_order_items,Non-numeric Quantity,0,PASS
+fact_order_items,Non-positive Quantity,0,PASS
+fact_order_items,Non-numeric Line_Total,0,PASS
+fact_orders,Customer_ID not found in dim_customers,365,REVIEW
+fact_order_items,Product_ID not found in dim_products,267,REVIEW

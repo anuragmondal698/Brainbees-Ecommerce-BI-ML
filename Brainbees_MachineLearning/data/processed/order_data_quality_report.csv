@@ -1,0 +1,8 @@
+Check,Result,Status
+Total source rows,4950,INFO
+Distinct non-null order IDs,4950,INFO
+Missing Order_ID,0,PASS
+Missing Customer_ID,0,PASS
+Missing Order_Date,0,PASS
+Repeated non-null Order_IDs,0,PASS
+Missing calendar months,0,PASS

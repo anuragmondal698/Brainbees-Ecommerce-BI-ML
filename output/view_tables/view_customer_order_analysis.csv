@@ -1,0 +1,1001 @@
+Customer_ID,First_Name,Last_Name,Customer_Segment,Loyalty_Tier,City,State,Order_ID,Order_Date,Order_Status,Order_Channel,Order_Total
+CUST00302,Sameer,Ansari,"High Value",Gold,Gurgaon,Haryana,ORD000001,2023-10-01,Delivered,"Mobile App",7624.96
+CUST00167,Shreya,Rao,"High Value",Platinum,Bangalore,Karnataka,ORD000002,2023-10-03,Delivered,"Mobile App",11293.09
+CUST00315,Kiran,Mehta,Regular,Silver,Pune,Maharashtra,ORD000003,2023-10-03,Delivered,Website,6253.58
+CUST00278,Dev,Chavan,"At Risk",Bronze,Surat,Gujarat,ORD000004,2023-10-03,Delivered,"Mobile App",2287.15
+CUST00145,Ashok,Meena,"At Risk",Bronze,Delhi,Delhi,ORD000006,2023-10-05,Delivered,Marketplace,10459.94
+CUST00317,Ramesh,Thakur,"At Risk",Bronze,Jaipur,Rajasthan,ORD000007,2023-10-07,Delivered,Website,7153.62
+CUST00163,Nikhil,Pawar,"At Risk",Bronze,Ahmedabad,Gujarat,ORD000008,2023-10-07,Returned,Marketplace,38040.8
+CUST00104,Pallavi,Jadhav,"At Risk",Silver,Indore,"Madhya Pradesh",ORD000009,2023-10-07,Delivered,"Mobile App",70589.45
+CUST00137,Arjun,Malhotra,"At Risk",Bronze,Delhi,Delhi,ORD000010,2023-10-08,Delivered,Website,852.75
+CUST00241,Anjali,Joshi,Regular,Bronze,Delhi,Delhi,ORD000011,2023-10-08,Cancelled,"Mobile App",30041.15
+CUST00288,Manish,Deshmukh,"At Risk",Bronze,Nagpur,Maharashtra,ORD000012,2023-10-08,Delivered,"Mobile App",891.1
+CUST00152,Sakshi,Modi,"At Risk",Bronze,Mumbai,Maharashtra,ORD000013,2023-10-09,Delivered,Marketplace,390.1
+CUST00269,Dev,Kurup,"High Value",Gold,Chennai,"Tamil Nadu",ORD000014,2023-10-09,Delivered,"Mobile App",75598.62
+CUST00052,Shruti,Arora,Regular,Silver,Delhi,Delhi,ORD000015,2023-10-10,Delivered,"Mobile App",32946.61
+CUST00042,Vikram,Patel,"At Risk",Bronze,Surat,Gujarat,ORD000016,2023-10-10,Delivered,Marketplace,5659.65
+CUST00033,Gaurav,Trivedi,"At Risk",Bronze,Pune,Maharashtra,ORD000017,2023-10-10,Cancelled,Website,68266.31
+CUST00194,Isha,Bhatt,"At Risk",Silver,Nagpur,Maharashtra,ORD000018,2023-10-10,Delivered,Website,23400.81
+CUST00321,Bhavna,Agarwal,Regular,Silver,Patna,Bihar,ORD000019,2023-10-10,Delivered,Website,2250.38
+CUST00253,Arnab,Mondal,"At Risk",Bronze,Guwahati,Assam,ORD000020,2023-10-10,Returned,Website,6691.1
+CUST00120,Sachin,Nair,Regular,Silver,Bangalore,Karnataka,ORD000021,2023-10-10,Delivered,"Mobile App",19174.41
+CUST00086,Rajesh,More,"At Risk",Bronze,Ahmedabad,Gujarat,ORD000022,2023-10-11,Delivered,"Mobile App",6260.82
+CUST00130,Riya,Deshmukh,Regular,Silver,Pune,Maharashtra,ORD000023,2023-10-11,Delivered,"Mobile App",26746.97
+CUST00023,Meera,Pillai,"At Risk",Silver,Hyderabad,Telangana,ORD000024,2023-10-11,Delivered,Website,94054.26
+CUST00041,Kavya,Bose,"High Value",Gold,Bhubaneswar,Odisha,ORD000025,2023-10-12,Delivered,"Mobile App",45623.87
+CUST00242,Nisha,Saxena,"At Risk",Bronze,Jaipur,Rajasthan,ORD000026,2023-10-12,Delivered,Marketplace,9339.33
+CUST00295,Sneha,Kapoor,"At Risk",Bronze,Jaipur,Rajasthan,ORD000027,2023-10-12,Delivered,Website,5525.52
+CUST00319,Rekha,Varma,"At Risk",Bronze,Bangalore,Karnataka,ORD000028,2023-10-12,Cancelled,"Mobile App",1232.91
+CUST00209,Sneha,Rao,"At Risk",Silver,Bangalore,Karnataka,ORD000029,2023-10-12,Returned,Website,15914.06
+CUST00244,Kavya,Modi,"At Risk",Bronze,Ahmedabad,Gujarat,ORD000030,2023-10-13,Cancelled,"Mobile App",55418.5
+CUST00069,Sachin,Agarwal,"High Value",Gold,Gurgaon,Haryana,ORD000031,2023-10-13,Delivered,"Mobile App",11047.81
+CUST00320,Naveen,Chavan,"High Value",Platinum,Mumbai,Maharashtra,ORD000032,2023-10-13,Delivered,"Mobile App",116006.86
+CUST00144,Gaurav,Naik,Regular,Silver,Mumbai,Maharashtra,ORD000034,2023-10-13,Delivered,"Mobile App",833.27
+CUST00111,Swati,Raman,Regular,Silver,Chennai,"Tamil Nadu",ORD000035,2023-10-13,Delivered,Website,5050.69
+CUST00114,Ankit,Joshi,Vip,Platinum,Mumbai,Maharashtra,ORD000036,2023-10-13,Delivered,Website,17036.84
+CUST00219,Payal,Subramanian,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000038,2023-10-13,Delivered,"Mobile App",1238.83
+CUST00292,Gayathri,Gowda,"At Risk",Silver,Kochi,Kerala,ORD000039,2023-10-13,Delivered,Website,4925.56
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000040,2023-10-13,Returned,Website,13315.36
+CUST00189,Manpreet,Mishra,Regular,Silver,Chandigarh,Chandigarh,ORD000041,2023-10-14,Returned,Marketplace,5944.84
+CUST00179,Ananya,Gowda,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD000043,2023-10-15,Delivered,Marketplace,2581.55
+CUST00318,Aditya,Khanna,Regular,Bronze,Noida,"Uttar Pradesh",ORD000044,2023-10-15,Delivered,"Mobile App",2486.95
+CUST00323,Rajesh,Patel,"At Risk",Bronze,Mumbai,Maharashtra,ORD000045,2023-10-15,Delivered,Marketplace,1433.29
+CUST00154,Megha,Balaji,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000047,2023-10-16,Delivered,Website,68299.3
+CUST00225,Vijay,Arora,"High Value",Platinum,Delhi,Delhi,ORD000048,2023-10-16,Delivered,Marketplace,1801.51
+CUST00285,Yash,Kale,"At Risk",Gold,Pune,Maharashtra,ORD000049,2023-10-17,Delivered,"Mobile App",117692.02
+CUST00235,Shreya,Gaikwad,"At Risk",Silver,Mumbai,Maharashtra,ORD000052,2023-10-19,Delivered,Marketplace,85152.3
+CUST00165,Aarav,Verma,"High Value",Gold,Delhi,Delhi,ORD000053,2023-10-19,Delivered,"Mobile App",9687.51
+CUST00266,Harsh,Naidu,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000056,2023-10-20,Delivered,"Mobile App",20067.19
+CUST00268,Priya,Varma,"High Value",Gold,Bangalore,Karnataka,ORD000057,2023-10-20,Delivered,Website,1899.92
+CUST00287,Yash,Narayanan,New,Silver,Bangalore,Karnataka,ORD000058,2023-10-20,Delivered,"Mobile App",8317.3
+CUST00329,Anjali,Dubey,"At Risk",Gold,Delhi,Delhi,ORD000060,2023-10-22,Delivered,Website,46684.46
+CUST00109,Swapnil,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000061,2023-10-22,Delivered,"Mobile App",33081.64
+CUST00177,Gayathri,Gowda,"At Risk",Bronze,Bangalore,Karnataka,ORD000062,2023-10-22,Delivered,"Mobile App",384.68
+CUST00322,Aditya,Shah,"High Value",Gold,Surat,Gujarat,ORD000063,2023-10-22,Delivered,"Mobile App",6140.81
+CUST00016,Manpreet,Bhatia,"At Risk",Silver,Delhi,Delhi,ORD000064,2023-10-24,Delivered,"Mobile App",81200.16
+CUST00325,Naveen,Raman,Vip,Platinum,Kochi,Kerala,ORD000065,2023-10-24,Delivered,"Mobile App",5160.26
+CUST00071,Anjali,Malik,Regular,Gold,Pune,Maharashtra,ORD000066,2023-10-24,Delivered,"Mobile App",815.85
+CUST00247,Sneha,Naik,"At Risk",Bronze,Mumbai,Maharashtra,ORD000067,2023-10-24,Delivered,"Mobile App",1023.3
+CUST00133,Nikhil,Behera,"At Risk",Silver,Bhubaneswar,Odisha,ORD000069,2023-10-25,Delivered,Website,54862.75
+CUST00054,Shruti,Sen,"At Risk",Gold,Guwahati,Assam,ORD000071,2023-10-26,Delivered,"Mobile App",8533.16
+CUST00245,Swati,Pawar,"High Value",Gold,Nagpur,Maharashtra,ORD000073,2023-10-27,Delivered,Website,9720.84
+CUST00326,Pallavi,Sen,"At Risk",Silver,Bhubaneswar,Odisha,ORD000074,2023-10-27,Delivered,"Mobile App",28910
+CUST00057,Ayush,Deshmukh,"At Risk",Bronze,Pune,Maharashtra,ORD000075,2023-10-27,Cancelled,Website,494.88
+CUST00327,Ritu,Jadhav,"At Risk",Bronze,Mumbai,Maharashtra,ORD000076,2023-10-28,Delivered,"Mobile App",761.81
+CUST00277,Arjun,Mehra,"High Value",Silver,Delhi,Delhi,ORD000077,2023-10-28,Delivered,Website,7603.18
+CUST00101,Hardik,Bhosale,"At Risk",Bronze,Mumbai,Maharashtra,ORD000078,2023-10-28,Delivered,Website,293.76
+CUST00139,Tanvi,Bhat,"At Risk",Gold,Hyderabad,Telangana,ORD000079,2023-10-28,Delivered,"Mobile App",60201.63
+CUST00230,Gurpreet,Sharma,"High Value",Platinum,Patna,Bihar,ORD000080,2023-10-28,Delivered,Marketplace,20559.26
+CUST00300,Ankit,Khanna,"At Risk",Silver,Delhi,Delhi,ORD000081,2023-10-28,Delivered,"Mobile App",32967.05
+CUST00331,Jyoti,Joshi,"At Risk",Bronze,Gurgaon,Haryana,ORD000082,2023-10-29,Delivered,"Mobile App",8330.29
+CUST00171,Harpreet,Srivastava,"At Risk",Bronze,Noida,"Uttar Pradesh",ORD000083,2023-10-29,Returned,"Mobile App",25008.51
+CUST00283,Manpreet,Sharma,Regular,Silver,Chandigarh,Chandigarh,ORD000084,2023-10-29,Delivered,"Mobile App",727.2
+CUST00073,Manish,Subramanian,Regular,Gold,Bangalore,Karnataka,ORD000085,2023-10-29,Delivered,"Mobile App",2348.1
+CUST00328,Kiran,Krishnan,Regular,Gold,Bangalore,Karnataka,ORD000086,2023-10-29,Delivered,"Mobile App",2906.68
+CUST00004,Sunita,Menon,"At Risk",Bronze,Hyderabad,Telangana,ORD000087,2023-10-30,Delivered,Website,4444.27
+CUST00105,Vijay,Joshi,"High Value",Gold,Lucknow,"Uttar Pradesh",ORD000088,2023-10-30,Delivered,Marketplace,26485.22
+CUST00334,Ashok,Kapoor,"At Risk",Bronze,Delhi,Delhi,ORD000089,2023-10-30,Delivered,Website,2463.1
+CUST00027,Vignesh,Rao,Regular,Silver,Chennai,"Tamil Nadu",ORD000090,2023-10-30,Returned,Marketplace,3657.02
+CUST00219,Payal,Subramanian,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000091,2023-10-30,Delivered,"Mobile App",3766.28
+CUST00109,Swapnil,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000092,2023-10-30,Delivered,Website,2525.82
+CUST00182,Nilesh,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000093,2023-10-31,Cancelled,Website,2045.23
+CUST00052,Shruti,Arora,Regular,Silver,Delhi,Delhi,ORD000094,2023-10-31,Cancelled,"Mobile App",7481.58
+CUST00338,Neha,Sinha,"High Value",Gold,Patna,Bihar,ORD000095,2023-11-01,Delivered,Website,1516.53
+CUST00088,Amit,Deshmukh,"At Risk",Bronze,Pune,Maharashtra,ORD000096,2023-11-01,Cancelled,Website,2841.55
+CUST00248,Pranav,Iyer,"High Value",Gold,Bangalore,Karnataka,ORD000097,2023-11-01,Cancelled,Website,1008.2
+CUST00201,Ayush,Jha,"At Risk",Silver,Delhi,Delhi,ORD000099,2023-11-01,Delivered,Marketplace,30082.23
+CUST00107,Harleen,Ranjan,Regular,Silver,Delhi,Delhi,ORD000101,2023-11-02,Delivered,Website,2983.62
+CUST00240,Lakshmi,Krishnan,Regular,Gold,Kochi,Kerala,ORD000102,2023-11-02,Returned,Website,10010.91
+CUST00133,Nikhil,Behera,"At Risk",Silver,Bhubaneswar,Odisha,ORD000103,2023-11-02,Delivered,"Mobile App",2841.55
+CUST00033,Gaurav,Trivedi,"At Risk",Bronze,Pune,Maharashtra,ORD000104,2023-11-02,Delivered,Marketplace,1199.37
+CUST00330,Mayank,Chauhan,"High Value",Platinum,Chandigarh,Chandigarh,ORD000105,2023-11-03,Delivered,"Mobile App",4329.09
+CUST00151,Kunal,Parekh,Regular,Silver,Indore,"Madhya Pradesh",ORD000106,2023-11-04,Delivered,"Mobile App",2823.76
+CUST00335,Sonia,Malhotra,"At Risk",Bronze,Jaipur,Rajasthan,ORD000107,2023-11-04,Delivered,"Mobile App",2287.15
+CUST00128,Naveen,Jadhav,"High Value",Platinum,Mumbai,Maharashtra,ORD000109,2023-11-04,Delivered,Website,2668.29
+CUST00056,Kabir,Modi,"High Value",Gold,Pune,Maharashtra,ORD000110,2023-11-04,Delivered,Website,82678.18
+CUST00254,Naveen,Naik,Regular,Gold,Mumbai,Maharashtra,ORD000111,2023-11-04,Returned,Website,21308.44
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000112,2023-11-05,Returned,Marketplace,6222.51
+CUST00252,Sunita,Thakkar,"At Risk",Silver,Surat,Gujarat,ORD000113,2023-11-05,Delivered,Marketplace,28449.39
+CUST00258,Mahesh,Kurup,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD000114,2023-11-05,Delivered,"Mobile App",8253.84
+CUST00242,Nisha,Saxena,"At Risk",Bronze,Jaipur,Rajasthan,ORD000116,2023-11-06,Delivered,Website,2924.51
+CUST00266,Harsh,Naidu,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000117,2023-11-06,Delivered,"Mobile App",2053.8
+CUST00338,Neha,Sinha,"High Value",Gold,Patna,Bihar,ORD000118,2023-11-06,Delivered,"Mobile App",7594.48
+CUST00068,Abhishek,Hegde,"High Value",Gold,Hyderabad,Telangana,ORD000119,2023-11-06,Returned,Website,1500.91
+CUST00340,Komal,Bhat,"At Risk",Gold,Bengaluru,Karnataka,ORD000120,2023-11-06,Delivered,Website,334.68
+CUST00339,Biswajit,Bose,"High Value",Gold,Guwahati,Assam,ORD000122,2023-11-07,Delivered,Website,1852.7
+CUST00056,Kabir,Modi,"High Value",Gold,Pune,Maharashtra,ORD000123,2023-11-07,Delivered,Marketplace,21011.82
+CUST00193,Aditi,Sundaram,"At Risk",Bronze,Hyderabad,Telangana,ORD000124,2023-11-07,Delivered,"Mobile App",7787.41
+CUST00165,Aarav,Verma,"High Value",Gold,Delhi,Delhi,ORD000126,2023-11-07,Delivered,Website,4300.15
+CUST00109,Swapnil,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000127,2023-11-08,Delivered,Marketplace,22044.06
+CUST00055,Ananya,Chatterjee,Vip,Platinum,Guwahati,Assam,ORD000128,2023-11-08,Delivered,"Mobile App",4070.12
+CUST00258,Mahesh,Kurup,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD000129,2023-11-08,Delivered,"Mobile App",497.95
+CUST00313,Deepika,Gowda,Regular,Silver,Bangalore,Karnataka,ORD000130,2023-11-09,Delivered,Website,547.08
+CUST00147,Deepak,Ahmed,Regular,Silver,Noida,"Uttar Pradesh",ORD000131,2023-11-09,Delivered,Website,4165.7
+CUST00086,Rajesh,More,"At Risk",Bronze,Ahmedabad,Gujarat,ORD000132,2023-11-09,Delivered,Website,556.61
+CUST00310,Ritu,Reddy,"At Risk",Silver,Bangalore,Karnataka,ORD000133,2023-11-09,Delivered,Website,1816.54
+CUST00180,Poonam,Bhatia,Vip,Platinum,Patna,Bihar,ORD000134,2023-11-09,Delivered,Website,8395.66
+CUST00214,Divya,Siddiqui,"At Risk",Silver,Noida,"Uttar Pradesh",ORD000135,2023-11-09,Delivered,"Mobile App",17500.95
+CUST00128,Naveen,Jadhav,"High Value",Platinum,Mumbai,Maharashtra,ORD000136,2023-11-10,Delivered,"Mobile App",1246.17
+CUST00252,Sunita,Thakkar,"At Risk",Silver,Surat,Gujarat,ORD000137,2023-11-10,Delivered,"Mobile App",32225.78
+CUST00302,Sameer,Ansari,"High Value",Gold,Gurgaon,Haryana,ORD000138,2023-11-10,Delivered,Website,1413.64
+CUST00022,Pankaj,Reddy,"At Risk",Bronze,Hyderabad,Telangana,ORD000139,2023-11-10,Delivered,Marketplace,1975.23
+CUST00332,Karan,Ali,"At Risk",Bronze,Delhi,Delhi,ORD000140,2023-11-10,Delivered,Website,12631.58
+CUST00114,Ankit,Joshi,Vip,Platinum,Mumbai,Maharashtra,ORD000141,2023-11-11,Delivered,"Mobile App",4577.63
+CUST00314,Deepak,Mehra,Regular,Gold,Jaipur,Rajasthan,ORD000142,2023-11-11,Delivered,"Mobile App",6030.04
+CUST00308,Rajesh,Chavan,Regular,Silver,Ahmedabad,Gujarat,ORD000143,2023-11-11,Delivered,Website,1851.28
+CUST00013,Rekha,Kale,Regular,Silver,Mumbai,Maharashtra,ORD000144,2023-11-12,Delivered,Website,6713.67
+CUST00210,Karan,Kurup,"At Risk",Silver,Bangalore,Karnataka,ORD000145,2023-11-12,Delivered,"Mobile App",1467.86
+CUST00341,Deepika,Arora,"At Risk",Bronze,Delhi,Delhi,ORD000146,2023-11-12,Delivered,Website,1629.35
+CUST00334,Ashok,Kapoor,"At Risk",Bronze,Delhi,Delhi,ORD000147,2023-11-12,Returned,Website,1667.68
+CUST00225,Vijay,Arora,"High Value",Platinum,Delhi,Delhi,ORD000148,2023-11-12,Delivered,"Mobile App",17256.5
+CUST00250,Preeti,Bhatt,"At Risk",Bronze,Indore,"Madhya Pradesh",ORD000149,2023-11-12,Delivered,Website,2266.99
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000150,2023-11-12,Delivered,Marketplace,12109.03
+CUST00196,Mahesh,Thakur,"High Value",Platinum,Chandigarh,Chandigarh,ORD000151,2023-11-13,Delivered,Website,86201.48
+CUST00015,Nilesh,Shah,"At Risk",Bronze,Mumbai,Maharashtra,ORD000152,2023-11-13,Cancelled,Website,48949.82
+CUST00228,Rohan,Mishra,Regular,Silver,Delhi,Delhi,ORD000153,2023-11-13,Delivered,Website,3458.46
+CUST00099,Tanvi,Nair,"At Risk",Silver,Bangalore,Karnataka,ORD000155,2023-11-13,Returned,Website,2525.82
+CUST00199,Isha,Malhotra,Regular,Gold,Chandigarh,Chandigarh,ORD000156,2023-11-13,Delivered,Website,3816.45
+CUST00280,Jyoti,Murthy,"At Risk",Bronze,Kochi,Kerala,ORD000157,2023-11-13,Delivered,Website,4540.92
+CUST00336,Mayank,Shinde,Regular,Silver,Mumbai,Maharashtra,ORD000158,2023-11-14,Delivered,"Mobile App",1864.84
+CUST00249,Rishabh,Modi,"At Risk",Bronze,Mumbai,Maharashtra,ORD000159,2023-11-15,Delivered,Website,5463.36
+CUST00334,Ashok,Kapoor,"At Risk",Bronze,Delhi,Delhi,ORD000160,2023-11-15,Delivered,"Mobile App",3907.1
+CUST00312,Vivaan,Shetty,"At Risk",Silver,Hyderabad,Telangana,ORD000161,2023-11-15,Delivered,"Mobile App",17851.16
+CUST00026,Nikhil,Varma,"At Risk",Bronze,Bangalore,Karnataka,ORD000162,2023-11-15,Cancelled,"Mobile App",16234.44
+CUST00212,Shruti,Patel,"At Risk",Bronze,Ahmedabad,Gujarat,ORD000163,2023-11-15,Returned,"Mobile App",20863.9
+CUST00171,Harpreet,Srivastava,"At Risk",Bronze,Noida,"Uttar Pradesh",ORD000164,2023-11-15,Returned,Website,8710.42
+CUST00342,Arjun,Bhatia,"At Risk",Bronze,Jaipur,Rajasthan,ORD000165,2023-11-15,Delivered,Website,4892.27
+CUST00345,Nisha,Raman,"At Risk",Silver,Bangalore,Karnataka,ORD000166,2023-11-15,Delivered,"Mobile App",7366
+CUST00236,Naveen,Bhosale,"At Risk",Silver,Nagpur,Maharashtra,ORD000167,2023-11-16,Returned,"Mobile App",409.05
+CUST00343,Neha,Kurup,Regular,Gold,Chennai,"Tamil Nadu",ORD000168,2023-11-16,Delivered,Website,33987.4
+CUST00159,Sanjay,Shetty,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD000169,2023-11-16,Delivered,"Mobile App",1595.36
+CUST00224,Bhavani,Chandran,Regular,Gold,Chennai,"Tamil Nadu",ORD000171,2023-11-17,Delivered,Website,656.32
+CUST00136,Naveen,Jain,"At Risk",Silver,Gurgaon,Haryana,ORD000172,2023-11-17,Delivered,Marketplace,4289.42
+CUST00133,Nikhil,Behera,"At Risk",Silver,Bhubaneswar,Odisha,ORD000173,2023-11-18,Delivered,Marketplace,3598.44
+CUST00048,Ishaan,Khanna,"At Risk",Bronze,Gurgaon,Haryana,ORD000174,2023-11-18,Delivered,Website,612.42
+CUST00020,Neha,Roy,"At Risk",Bronze,Guwahati,Assam,ORD000175,2023-11-18,Delivered,"Mobile App",2842.36
+CUST00225,Vijay,Arora,"High Value",Platinum,Delhi,Delhi,ORD000176,2023-11-18,Delivered,"Mobile App",18501.22
+CUST00189,Manpreet,Mishra,Regular,Silver,Chandigarh,Chandigarh,ORD000177,2023-11-19,Delivered,"Mobile App",4239.04
+CUST00350,Nilesh,Kamat,"High Value",Gold,Nagpur,Maharashtra,ORD000178,2023-11-19,Returned,"Mobile App",69848.15
+CUST00205,Aditi,Jha,"High Value",Gold,Delhi,Delhi,ORD000179,2023-11-19,Delivered,Website,8766.22
+CUST00230,Gurpreet,Sharma,"High Value",Platinum,Patna,Bihar,ORD000180,2023-11-19,Delivered,Website,54137.98
+CUST00351,Anita,Joshi,Regular,Bronze,Chandigarh,Chandigarh,ORD000181,2023-11-20,Delivered,"Mobile App",8896.75
+CUST00060,Tanvi,Gupta,Regular,Gold,Noida,"Uttar Pradesh",ORD000182,2023-11-20,Delivered,Website,98210.06
+CUST00040,Ayush,Kulkarni,"High Value",Gold,Pune,Maharashtra,ORD000183,2023-11-20,Delivered,Marketplace,2204.5
+CUST00072,Ashok,Prasad,"At Risk",Bronze,Delhi,Delhi,ORD000184,2023-11-21,Delivered,"Mobile App",7503.18
+CUST00346,Sonia,Trivedi,"At Risk",Bronze,Indore,"Madhya Pradesh",ORD000185,2023-11-21,Delivered,Marketplace,2876.96
+CUST00065,Akash,Pandey,"High Value",Gold,Delhi,Delhi,ORD000186,2023-11-21,Delivered,Marketplace,5901.28
+CUST00344,Janvi,Kale,Regular,Silver,Surat,Gujarat,ORD000188,2023-11-22,Delivered,"Mobile App",330.61
+CUST00219,Payal,Subramanian,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000189,2023-11-23,Delivered,"Mobile App",21966.88
+CUST00165,Aarav,Verma,"High Value",Gold,Delhi,Delhi,ORD000190,2023-11-23,Delivered,"Mobile App",3157.28
+CUST00352,Gaurav,Bansal,Regular,Silver,Lucknow,"Uttar Pradesh",ORD000191,2023-11-23,Delivered,"Mobile App",2999.44
+CUST00019,Preeti,Chauhan,"At Risk",Bronze,Gurgaon,Haryana,ORD000192,2023-11-23,Delivered,Website,454.41
+CUST00038,Seema,Yadav,Vip,Platinum,Delhi,Delhi,ORD000193,2023-11-23,Returned,Marketplace,984.8
+CUST00044,Saurabh,Reddy,"At Risk",Bronze,Hyderabad,Telangana,ORD000194,2023-11-24,Delivered,Marketplace,2056.98
+CUST00149,Vinod,Rao,Vip,Platinum,Kochi,Kerala,ORD000195,2023-11-25,Delivered,"Mobile App",6170.31
+CUST00146,Anita,Prasad,"High Value",Platinum,Lucknow,"Uttar Pradesh",ORD000196,2023-11-25,Cancelled,"Mobile App",67935.64
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000197,2023-11-26,Returned,"Mobile App",76324.77
+CUST00053,Swati,Ali,Regular,Silver,Noida,"Uttar Pradesh",ORD000198,2023-11-26,Delivered,"Mobile App",1514.61
+CUST00036,Swati,Khanna,"At Risk",Silver,Patna,Bihar,ORD000199,2023-11-26,Returned,Website,4721.02
+CUST00282,Shruti,Thakur,"At Risk",Silver,Delhi,Delhi,ORD000200,2023-11-26,Delivered,Website,4694.83
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000201,2023-11-27,Delivered,"Mobile App",12582.58
+CUST00012,Pooja,Varma,"At Risk",Bronze,Hyderabad,Telangana,ORD000202,2023-11-27,Delivered,Website,555.22
+CUST00095,Varun,Goyal,"At Risk",Bronze,Chandigarh,Chandigarh,ORD000203,2023-11-27,Delivered,"Mobile App",4444.27
+CUST00347,Diya,Jadhav,Regular,Gold,Mumbai,Maharashtra,ORD000204,2023-11-28,Delivered,Website,63368.73
+CUST00140,Anil,Jha,"At Risk",Bronze,Jaipur,Rajasthan,ORD000206,2023-11-28,Delivered,"Mobile App",4721.02
+CUST00357,Ishaan,Mirza,"At Risk",Bronze,Ahmedabad,Gujarat,ORD000207,2023-11-29,Delivered,Website,2087.42
+CUST00131,Nikhil,Hegde,"High Value",Gold,Bangalore,Karnataka,ORD000208,2023-11-29,Delivered,Website,3472.73
+CUST00343,Neha,Kurup,Regular,Gold,Chennai,"Tamil Nadu",ORD000209,2023-11-29,Returned,"Mobile App",1817.98
+CUST00315,Kiran,Mehta,Regular,Silver,Pune,Maharashtra,ORD000210,2023-11-29,Delivered,Website,7868.3
+CUST00242,Nisha,Saxena,"At Risk",Bronze,Jaipur,Rajasthan,ORD000212,2023-11-29,Delivered,Website,1172.86
+CUST00354,Mansi,Kale,"At Risk",Bronze,Pune,Maharashtra,ORD000213,2023-11-30,Delivered,"Mobile App",626.31
+CUST00352,Gaurav,Bansal,Regular,Silver,Lucknow,"Uttar Pradesh",ORD000214,2023-11-30,Returned,"Mobile App",3256.28
+CUST00083,Janvi,Sawant,"High Value",Gold,Nagpur,Maharashtra,ORD000215,2023-11-30,Delivered,"Mobile App",39716.88
+CUST00349,Vinod,Sundaram,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD000216,2023-12-01,Delivered,Website,6760.5
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000217,2023-12-01,Delivered,"Mobile App",3157.28
+CUST00132,Vinod,Kurup,"At Risk",Bronze,Bangalore,Karnataka,ORD000218,2023-12-01,Delivered,"Mobile App",996.16
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000219,2023-12-01,Cancelled,"Mobile App",1863.22
+CUST00001,Vinod,Nayak,Regular,Gold,Kolkata,"West Bengal",ORD000220,2023-12-01,Delivered,"Mobile App",95063.45
+CUST00138,Dev,Chandran,"At Risk",Bronze,Bangalore,Karnataka,ORD000221,2023-12-01,Delivered,Website,1012.44
+CUST00182,Nilesh,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000222,2023-12-01,Delivered,Website,816.48
+CUST00144,Gaurav,Naik,Regular,Silver,Mumbai,Maharashtra,ORD000223,2023-12-02,Delivered,"Mobile App",4124.16
+CUST00037,Siddharth,Thakur,Regular,Bronze,Noida,"Uttar Pradesh",ORD000224,2023-12-02,Delivered,"Mobile App",2841.55
+CUST00311,Neha,Sinha,"At Risk",Silver,Delhi,Delhi,ORD000225,2023-12-02,Delivered,"Mobile App",29022.66
+CUST00211,Aarav,Deshmukh,"At Risk",Bronze,Mumbai,Maharashtra,ORD000226,2023-12-02,Delivered,Marketplace,1863.22
+CUST00182,Nilesh,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000228,2023-12-03,Delivered,Marketplace,5759.7
+CUST00359,Arjun,Trivedi,Vip,Platinum,Pune,Maharashtra,ORD000229,2023-12-03,Returned,"Mobile App",11582.22
+CUST00197,Naveen,Jadhav,"At Risk",Silver,Ahmedabad,Gujarat,ORD000230,2023-12-03,Delivered,Website,3157.28
+CUST00131,Nikhil,Hegde,"High Value",Gold,Bangalore,Karnataka,ORD000231,2023-12-03,Delivered,Website,1947.33
+CUST00358,Komal,Balaji,"At Risk",Silver,Bangalore,Karnataka,ORD000235,2023-12-04,Delivered,Website,6723.03
+CUST00268,Priya,Varma,"High Value",Gold,Bangalore,Karnataka,ORD000236,2023-12-04,Delivered,Website,15219.64
+CUST00109,Swapnil,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000237,2023-12-05,Delivered,"Mobile App",3032.28
+CUST00086,Rajesh,More,"At Risk",Bronze,Ahmedabad,Gujarat,ORD000238,2023-12-05,Delivered,"Mobile App",3767.9
+CUST00028,Payal,Jadhav,"At Risk",Gold,Indore,"Madhya Pradesh",ORD000239,2023-12-06,Returned,Website,7159.34
+CUST00213,Pankaj,Mehta,Regular,Silver,Pune,Maharashtra,ORD000240,2023-12-07,Cancelled,Marketplace,4691.18
+CUST00310,Ritu,Reddy,"At Risk",Silver,Bangalore,Karnataka,ORD000241,2023-12-07,Delivered,Website,1261.48
+CUST00139,Tanvi,Bhat,"At Risk",Gold,Hyderabad,Telangana,ORD000242,2023-12-08,Delivered,"Mobile App",66692.42
+CUST00064,Purvi,Kale,Regular,Gold,Pune,Maharashtra,ORD000243,2023-12-09,Delivered,Website,75340.82
+CUST00204,Akash,Menon,Regular,Silver,Bangalore,Karnataka,ORD000244,2023-12-09,Delivered,Website,6707.68
+CUST00337,Sakshi,Sawant,Regular,Bronze,Pune,Maharashtra,ORD000245,2023-12-09,Delivered,Marketplace,6847.78
+CUST00352,Gaurav,Bansal,Regular,Silver,Lucknow,"Uttar Pradesh",ORD000246,2023-12-09,Delivered,"Mobile App",758
+CUST00101,Hardik,Bhosale,"At Risk",Bronze,Mumbai,Maharashtra,ORD000247,2023-12-10,Delivered,Website,1243.63
+CUST00081,Kabir,Raman,"At Risk",Silver,Bangalore,Karnataka,ORD000248,2023-12-10,Delivered,"Mobile App",362.66
+CUST00303,Aarav,Hazarika,Regular,Silver,Guwahati,Assam,ORD000250,2023-12-10,Delivered,Marketplace,2409.68
+CUST00300,Ankit,Khanna,"At Risk",Silver,Delhi,Delhi,ORD000251,2023-12-11,Delivered,Website,3412.02
+CUST00302,Sameer,Ansari,"High Value",Gold,Gurgaon,Haryana,ORD000253,2023-12-11,Delivered,"Mobile App",3159.69
+CUST00362,Siddharth,Hussain,"High Value",Gold,Chennai,"Tamil Nadu",ORD000255,2023-12-11,Delivered,Marketplace,4694.83
+CUST00093,Amit,Goyal,"At Risk",Bronze,Delhi,Delhi,ORD000256,2023-12-12,Delivered,Marketplace,1658.58
+CUST00195,Sachin,Mehra,"At Risk",Bronze,Jaipur,Rajasthan,ORD000257,2023-12-12,Delivered,Marketplace,13095.74
+CUST00340,Komal,Bhat,"At Risk",Gold,Bengaluru,Karnataka,ORD000258,2023-12-12,Delivered,"Mobile App",1755.34
+CUST00045,Arun,Menon,Regular,Silver,Bangalore,Karnataka,ORD000259,2023-12-13,Delivered,Marketplace,2266.99
+CUST00288,Manish,Deshmukh,"At Risk",Bronze,Nagpur,Maharashtra,ORD000261,2023-12-13,Delivered,"Mobile App",8442.56
+CUST00080,Dev,Narayanan,"At Risk",Silver,Bangalore,Karnataka,ORD000262,2023-12-13,Delivered,"Mobile App",3733.99
+CUST00365,Sowmya,Iyer,Regular,Silver,Chennai,"Tamil Nadu",ORD000263,2023-12-14,Delivered,Website,857.03
+CUST00114,Ankit,Joshi,Vip,Platinum,Mumbai,Maharashtra,ORD000264,2023-12-14,Delivered,Marketplace,3767.9
+CUST00364,Saurabh,Chandran,Regular,Gold,Bangalore,Karnataka,ORD000265,2023-12-14,Delivered,Marketplace,1029.28
+CUST00181,Ankit,Sen,"High Value",Gold,Kolkata,"West Bengal",ORD000266,2023-12-14,Delivered,Website,197.63
+CUST00149,Vinod,Rao,Vip,Platinum,Kochi,Kerala,ORD000267,2023-12-15,Delivered,"Mobile App",7454.18
+CUST00055,Ananya,Chatterjee,Vip,Platinum,Guwahati,Assam,ORD000268,2023-12-16,Delivered,"Mobile App",7358
+CUST00105,Vijay,Joshi,"High Value",Gold,Lucknow,"Uttar Pradesh",ORD000269,2023-12-16,Delivered,Website,5019.41
+CUST00225,Vijay,Arora,"High Value",Platinum,Delhi,Delhi,ORD000270,2023-12-16,Delivered,Website,3097.15
+CUST00248,Pranav,Iyer,"High Value",Gold,Bangalore,Karnataka,ORD000271,2023-12-16,Delivered,"Mobile App",328.84
+CUST00288,Manish,Deshmukh,"At Risk",Bronze,Nagpur,Maharashtra,ORD000272,2023-12-16,Delivered,"Mobile App",7185.71
+CUST00060,Tanvi,Gupta,Regular,Gold,Noida,"Uttar Pradesh",ORD000273,2023-12-16,Delivered,"Mobile App",3412.72
+CUST00360,Shubham,Thakur,"At Risk",Silver,Noida,"Uttar Pradesh",ORD000274,2023-12-16,Delivered,Website,774.2
+CUST00059,Rohan,Sawant,"High Value",Gold,Mumbai,Maharashtra,ORD000275,2023-12-17,Delivered,Marketplace,60023.18
+CUST00062,Payal,Ranjan,"At Risk",Bronze,Delhi,Delhi,ORD000276,2023-12-17,Delivered,"Mobile App",2296.6
+CUST00270,Diya,Naidu,"At Risk",Bronze,Bangalore,Karnataka,ORD000277,2023-12-17,Delivered,Website,1702.51
+CUST00161,Aditya,Sharma,"At Risk",Bronze,Noida,"Uttar Pradesh",ORD000278,2023-12-17,Cancelled,Marketplace,14290.42
+CUST00215,Ananya,Sharma,"At Risk",Bronze,Jaipur,Rajasthan,ORD000279,2023-12-18,Delivered,"Mobile App",1050.32
+CUST00348,Vishal,Mehta,Regular,Gold,Pune,Maharashtra,ORD000280,2023-12-20,Delivered,Marketplace,4289.42
+CUST00368,Aditi,Shah,"At Risk",Bronze,Ahmedabad,Gujarat,ORD000281,2023-12-20,Delivered,Website,334.68
+CUST00180,Poonam,Bhatia,Vip,Platinum,Patna,Bihar,ORD000283,2023-12-20,Delivered,"Mobile App",3907.1
+CUST00119,Rajesh,Naidu,"At Risk",Silver,Bangalore,Karnataka,ORD000284,2023-12-20,Delivered,"Mobile App",67886.64
+CUST00339,Biswajit,Bose,"High Value",Gold,Guwahati,Assam,ORD000285,2023-12-20,Cancelled,"Mobile App",926.35
+CUST00199,Isha,Malhotra,Regular,Gold,Chandigarh,Chandigarh,ORD000286,2023-12-20,Delivered,"Mobile App",60023.18
+CUST00022,Pankaj,Reddy,"At Risk",Bronze,Hyderabad,Telangana,ORD000287,2023-12-21,Delivered,"Mobile App",3169.71
+CUST00086,Rajesh,More,"At Risk",Bronze,Ahmedabad,Gujarat,ORD000288,2023-12-21,Delivered,"Mobile App",2111.02
+CUST00362,Siddharth,Hussain,"High Value",Gold,Chennai,"Tamil Nadu",ORD000289,2023-12-21,Delivered,"Mobile App",3072.38
+CUST00068,Abhishek,Hegde,"High Value",Gold,Hyderabad,Telangana,ORD000290,2023-12-22,Delivered,Website,2210.02
+CUST00340,Komal,Bhat,"At Risk",Gold,Bengaluru,Karnataka,ORD000291,2023-12-22,Delivered,Website,127738.58
+CUST00139,Tanvi,Bhat,"At Risk",Gold,Hyderabad,Telangana,ORD000292,2023-12-22,Delivered,"Mobile App",5143.81
+CUST00366,Isha,Pawar,New,Silver,Mumbai,Maharashtra,ORD000293,2023-12-22,Delivered,"Mobile App",926.35
+CUST00310,Ritu,Reddy,"At Risk",Silver,Bangalore,Karnataka,ORD000294,2023-12-23,Delivered,Marketplace,14794.84
+CUST00363,Riya,Iyer,"High Value",Gold,Kochi,Kerala,ORD000295,2023-12-23,Returned,Website,4766.02
+CUST00002,Vishal,Hazarika,"High Value",Gold,Kolkata,"West Bengal",ORD000296,2023-12-23,Delivered,Marketplace,2768.64
+CUST00314,Deepak,Mehra,Regular,Gold,Jaipur,Rajasthan,ORD000298,2023-12-24,Delivered,"Mobile App",10554.7
+CUST00183,Snehal,Kamat,"At Risk",Bronze,Mumbai,Maharashtra,ORD000299,2023-12-24,Delivered,Website,11542.72
+CUST00039,Nisha,Gupta,"At Risk",Bronze,Jaipur,Rajasthan,ORD000301,2023-12-25,Delivered,Marketplace,2886.52
+CUST00371,Seema,Ranjan,"At Risk",Bronze,Patna,Bihar,ORD000302,2023-12-26,Delivered,Website,3775.44
+CUST00250,Preeti,Bhatt,"At Risk",Bronze,Indore,"Madhya Pradesh",ORD000303,2023-12-26,Delivered,Marketplace,4362.12
+CUST00172,Omkar,Deshmukh,"At Risk",Silver,Nagpur,Maharashtra,ORD000304,2023-12-26,Delivered,Website,34402.55
+CUST00065,Akash,Pandey,"High Value",Gold,Delhi,Delhi,ORD000305,2023-12-27,Returned,"Mobile App",3793.47
+CUST00161,Aditya,Sharma,"At Risk",Bronze,Noida,"Uttar Pradesh",ORD000306,2023-12-27,Delivered,"Mobile App",3642.13
+CUST00373,Pankaj,Sheikh,Regular,Silver,Mumbai,Maharashtra,ORD000307,2023-12-27,Delivered,"Mobile App",36335.57
+CUST00352,Gaurav,Bansal,Regular,Silver,Lucknow,"Uttar Pradesh",ORD000308,2023-12-27,Returned,"Mobile App",13134.75
+CUST00169,Payal,Reddy,"At Risk",Silver,Bangalore,Karnataka,ORD000309,2023-12-27,Delivered,Marketplace,27823.22
+CUST00128,Naveen,Jadhav,"High Value",Platinum,Mumbai,Maharashtra,ORD000310,2023-12-27,Delivered,Marketplace,1496.72
+CUST00369,Rukhsar,Mirza,Vip,Platinum,Hyderabad,Telangana,ORD000311,2023-12-27,Returned,"Mobile App",5355.68
+CUST00294,Sachin,Gogoi,"High Value",Gold,Kolkata,"West Bengal",ORD000312,2023-12-28,Delivered,"Mobile App",2617.05
+CUST00190,Sneha,Chauhan,"At Risk",Silver,Patna,Bihar,ORD000313,2023-12-28,Delivered,"Mobile App",2091.31
+CUST00219,Payal,Subramanian,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000314,2023-12-28,Delivered,"Mobile App",4865.55
+CUST00267,Harsh,Bhat,"At Risk",Bronze,Bangalore,Karnataka,ORD000315,2023-12-28,Delivered,Website,8888.54
+CUST00225,Vijay,Arora,"High Value",Platinum,Delhi,Delhi,ORD000316,2023-12-29,Delivered,Website,6802.52
+CUST00299,Harsh,Mehta,"At Risk",Bronze,Nagpur,Maharashtra,ORD000317,2023-12-29,Delivered,"Mobile App",504.6
+CUST00155,Utkarsh,Kurup,"High Value",Gold,Bangalore,Karnataka,ORD000318,2023-12-30,Delivered,Website,1794.37
+CUST00250,Preeti,Bhatt,"At Risk",Bronze,Indore,"Madhya Pradesh",ORD000319,2023-12-30,Cancelled,"Mobile App",4634.56
+CUST00258,Mahesh,Kurup,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD000320,2023-12-30,Returned,Website,2350.42
+CUST00330,Mayank,Chauhan,"High Value",Platinum,Chandigarh,Chandigarh,ORD000321,2023-12-30,Delivered,Website,2876.96
+CUST00051,Utkarsh,Narayanan,"At Risk",Bronze,Hyderabad,Telangana,ORD000322,2023-12-30,Returned,Marketplace,27785.64
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000323,2023-12-30,Delivered,"Mobile App",6086.44
+CUST00304,Ayush,Menon,"High Value",Platinum,Chennai,"Tamil Nadu",ORD000325,2023-12-31,Delivered,Website,13104.49
+CUST00380,Swati,Pandey,"At Risk",Silver,Lucknow,"Uttar Pradesh",ORD000326,2023-12-31,Cancelled,Website,19737.7
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000327,2023-12-31,Delivered,Marketplace,3487.55
+CUST00187,Megha,Patil,"At Risk",Bronze,Mumbai,Maharashtra,ORD000328,2024-01-01,Delivered,Website,926.35
+CUST00257,Sanjay,Ranjan,"At Risk",Bronze,Delhi,Delhi,ORD000329,2024-01-01,Delivered,Website,2167.7
+CUST00302,Sameer,Ansari,"High Value",Gold,Gurgaon,Haryana,ORD000330,2024-01-01,Cancelled,"Mobile App",60072.18
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000331,2024-01-01,Delivered,"Mobile App",2275.81
+CUST00375,Divya,Mirza,"At Risk",Bronze,Delhi,Delhi,ORD000333,2024-01-02,Returned,Website,4396.34
+CUST00165,Aarav,Verma,"High Value",Gold,Delhi,Delhi,ORD000334,2024-01-02,Returned,"Mobile App",2667.88
+CUST00172,Omkar,Deshmukh,"At Risk",Silver,Nagpur,Maharashtra,ORD000335,2024-01-02,Delivered,"Mobile App",60219.12
+CUST00217,Anita,Sundaram,"At Risk",Bronze,Hyderabad,Telangana,ORD000336,2024-01-02,Delivered,Website,3796.8
+CUST00293,Shubham,Nayak,"High Value",Gold,Bhubaneswar,Odisha,ORD000337,2024-01-02,Delivered,Marketplace,2409.68
+CUST00371,Seema,Ranjan,"At Risk",Bronze,Patna,Bihar,ORD000338,2024-01-02,Delivered,"Mobile App",14655.04
+CUST00378,Karan,Mehra,"At Risk",Bronze,Delhi,Delhi,ORD000339,2024-01-03,Delivered,"Mobile App",1925.28
+CUST00239,Akash,Krishnan,Regular,Gold,Hyderabad,Telangana,ORD000340,2024-01-03,Returned,"Mobile App",20399.22
+CUST00337,Sakshi,Sawant,Regular,Bronze,Pune,Maharashtra,ORD000341,2024-01-04,Delivered,Marketplace,14591.11
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000342,2024-01-04,Returned,"Mobile App",31501.96
+CUST00372,Pallavi,Subramanian,Regular,Silver,Chennai,"Tamil Nadu",ORD000343,2024-01-05,Delivered,Website,1645.04
+CUST00370,Sachin,Sinha,"At Risk",Bronze,Patna,Bihar,ORD000344,2024-01-05,Delivered,"Mobile App",478
+CUST00175,Rutuja,Patil,"At Risk",Silver,Indore,"Madhya Pradesh",ORD000345,2024-01-05,Delivered,"Mobile App",11100.74
+CUST00374,Manish,Singh,"High Value",Platinum,Noida,"Uttar Pradesh",ORD000346,2024-01-05,Delivered,Website,3392.73
+CUST00240,Lakshmi,Krishnan,Regular,Gold,Kochi,Kerala,ORD000348,2024-01-07,Delivered,"Mobile App",8149.18
+CUST00224,Bhavani,Chandran,Regular,Gold,Chennai,"Tamil Nadu",ORD000349,2024-01-07,Delivered,"Mobile App",24009.46
+CUST00376,Ananya,Naik,"At Risk",Silver,Ahmedabad,Gujarat,ORD000350,2024-01-08,Returned,"Mobile App",924.21
+CUST00006,Kiran,Patel,"At Risk",Gold,Pune,Maharashtra,ORD000351,2024-01-08,Delivered,"Mobile App",800.04
+CUST00197,Naveen,Jadhav,"At Risk",Silver,Ahmedabad,Gujarat,ORD000352,2024-01-08,Delivered,Website,2272.48
+CUST00203,Diya,Patel,Vip,Platinum,Nagpur,Maharashtra,ORD000353,2024-01-08,Delivered,Website,4886.33
+CUST00248,Pranav,Iyer,"High Value",Gold,Bangalore,Karnataka,ORD000354,2024-01-10,Cancelled,Marketplace,1061.45
+CUST00382,Darshan,Thakkar,"High Value",Gold,Mumbai,Maharashtra,ORD000355,2024-01-10,Delivered,"Mobile App",11114.7
+CUST00369,Rukhsar,Mirza,Vip,Platinum,Hyderabad,Telangana,ORD000356,2024-01-11,Delivered,"Mobile App",83546.74
+CUST00117,Radhika,Chauhan,"High Value",Gold,Chandigarh,Chandigarh,ORD000357,2024-01-11,Delivered,Marketplace,22141.62
+CUST00216,Radhika,Chatterjee,Regular,Silver,Kolkata,"West Bengal",ORD000358,2024-01-11,Delivered,Website,1014.3
+CUST00214,Divya,Siddiqui,"At Risk",Silver,Noida,"Uttar Pradesh",ORD000359,2024-01-12,Delivered,"Mobile App",66692.42
+CUST00386,Darshan,Patil,"High Value",Gold,Indore,"Madhya Pradesh",ORD000363,2024-01-13,Cancelled,Website,23732.9
+CUST00255,Anjali,Naik,"At Risk",Bronze,Nagpur,Maharashtra,ORD000365,2024-01-13,Returned,"Mobile App",4309.7
+CUST00384,Aarav,Narayanan,"At Risk",Bronze,Hyderabad,Telangana,ORD000366,2024-01-14,Delivered,Website,3586.46
+CUST00002,Vishal,Hazarika,"High Value",Gold,Kolkata,"West Bengal",ORD000367,2024-01-14,Delivered,Website,586.95
+CUST00298,Utkarsh,Jadhav,"At Risk",Bronze,Mumbai,Maharashtra,ORD000369,2024-01-15,Delivered,Website,911.2
+CUST00032,Sachin,Naik,Vip,Platinum,Mumbai,Maharashtra,ORD000370,2024-01-15,Cancelled,"Mobile App",7397.42
+CUST00089,Vinod,Varma,Regular,Silver,Chennai,"Tamil Nadu",ORD000371,2024-01-16,Delivered,Marketplace,9201.87
+CUST00230,Gurpreet,Sharma,"High Value",Platinum,Patna,Bihar,ORD000372,2024-01-16,Delivered,Marketplace,1673.24
+CUST00210,Karan,Kurup,"At Risk",Silver,Bangalore,Karnataka,ORD000374,2024-01-17,Returned,"Mobile App",53637.16
+CUST00379,Anita,Malhotra,Regular,Silver,Gurgaon,Haryana,ORD000375,2024-01-17,Delivered,"Mobile App",3359.03
+CUST00387,Salman,Ali,"At Risk",Bronze,Hyderabad,Telangana,ORD000376,2024-01-17,Cancelled,Website,9723.56
+CUST00078,Nikhil,Arora,"At Risk",Silver,Patna,Bihar,ORD000377,2024-01-17,Returned,Marketplace,2266.99
+CUST00250,Preeti,Bhatt,"At Risk",Bronze,Indore,"Madhya Pradesh",ORD000378,2024-01-18,Delivered,Website,2500.42
+CUST00277,Arjun,Mehra,"High Value",Silver,Delhi,Delhi,ORD000379,2024-01-18,Delivered,"Mobile App",2518.88
+CUST00065,Akash,Pandey,"High Value",Gold,Delhi,Delhi,ORD000380,2024-01-19,Delivered,Marketplace,14241.42
+CUST00385,Dev,Shinde,"At Risk",Bronze,Nagpur,Maharashtra,ORD000382,2024-01-19,Delivered,Website,4938.08
+CUST00328,Kiran,Krishnan,Regular,Gold,Bangalore,Karnataka,ORD000383,2024-01-20,Delivered,Website,2133.56
+CUST00288,Manish,Deshmukh,"At Risk",Bronze,Nagpur,Maharashtra,ORD000384,2024-01-20,Delivered,Website,3628.31
+CUST00060,Tanvi,Gupta,Regular,Gold,Noida,"Uttar Pradesh",ORD000385,2024-01-21,Delivered,"Mobile App",2229.82
+CUST00032,Sachin,Naik,Vip,Platinum,Mumbai,Maharashtra,ORD000386,2024-01-21,Delivered,"Mobile App",30439.89
+CUST00383,Suresh,Bose,Regular,Silver,Bhubaneshwar,Odisha,ORD000387,2024-01-21,Delivered,"Mobile App",774.2
+CUST00338,Neha,Sinha,"High Value",Gold,Patna,Bihar,ORD000389,2024-01-22,Delivered,Website,8716.12
+CUST00214,Divya,Siddiqui,"At Risk",Silver,Noida,"Uttar Pradesh",ORD000390,2024-01-23,Delivered,"Mobile App",7454.18
+CUST00040,Ayush,Kulkarni,"High Value",Gold,Pune,Maharashtra,ORD000391,2024-01-23,Delivered,Website,14372.46
+CUST00388,Kritika,Iyer,Vip,Platinum,Hyderabad,Telangana,ORD000392,2024-01-23,Returned,"Mobile App",2093.99
+CUST00075,Shabana,Sheikh,"At Risk",Bronze,Noida,"Uttar Pradesh",ORD000393,2024-01-24,Delivered,Website,2045.23
+CUST00083,Janvi,Sawant,"High Value",Gold,Nagpur,Maharashtra,ORD000394,2024-01-24,Delivered,"Mobile App",4223.07
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000395,2024-01-24,Delivered,Website,2018
+CUST00066,Saurabh,Kamat,Regular,Silver,Mumbai,Maharashtra,ORD000397,2024-01-24,Cancelled,"Mobile App",5455.5
+CUST00190,Sneha,Chauhan,"At Risk",Silver,Patna,Bihar,ORD000398,2024-01-25,Returned,"Mobile App",4673.28
+CUST00168,Utkarsh,Parekh,"At Risk",Bronze,Pune,Maharashtra,ORD000399,2024-01-25,Delivered,"Mobile App",547.08
+CUST00156,Simran,Banerjee,"At Risk",Bronze,Kolkata,"West Bengal",ORD000400,2024-01-25,Returned,Website,55546.36
+CUST00243,Mohit,Mehta,"At Risk",Silver,Mumbai,Maharashtra,ORD000401,2024-01-25,Delivered,Website,1567.62
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000402,2024-01-25,Delivered,"Mobile App",25568.24
+CUST00150,Yash,Singh,Regular,Silver,Jaipur,Rajasthan,ORD000403,2024-01-25,Delivered,"Mobile App",13529.35
+CUST00364,Saurabh,Chandran,Regular,Gold,Bangalore,Karnataka,ORD000405,2024-01-26,Cancelled,Marketplace,1732.75
+CUST00282,Shruti,Thakur,"At Risk",Silver,Delhi,Delhi,ORD000407,2024-01-26,Delivered,Website,10487.07
+CUST00090,Saurabh,Khanna,"At Risk",Bronze,Delhi,Delhi,ORD000409,2024-01-26,Delivered,Website,5097.45
+CUST00342,Arjun,Bhatia,"At Risk",Bronze,Jaipur,Rajasthan,ORD000410,2024-01-27,Delivered,Website,6036.91
+CUST00005,Rekha,Chandran,"At Risk",Silver,Bangalore,Karnataka,ORD000411,2024-01-27,Delivered,Website,26432.06
+CUST00203,Diya,Patel,Vip,Platinum,Nagpur,Maharashtra,ORD000412,2024-01-27,Delivered,"Mobile App",52968.1
+CUST00203,Diya,Patel,Vip,Platinum,Nagpur,Maharashtra,ORD000413,2024-01-27,Delivered,Website,448
+CUST00196,Mahesh,Thakur,"High Value",Platinum,Chandigarh,Chandigarh,ORD000414,2024-01-27,Returned,Marketplace,10831.57
+CUST00225,Vijay,Arora,"High Value",Platinum,Delhi,Delhi,ORD000415,2024-01-28,Delivered,Website,7105.04
+CUST00037,Siddharth,Thakur,Regular,Bronze,Noida,"Uttar Pradesh",ORD000416,2024-01-28,Delivered,"Mobile App",398
+CUST00096,Anitha,Raman,"At Risk",Bronze,Bangalore,Karnataka,ORD000417,2024-01-28,Delivered,Marketplace,821.21
+CUST00108,Anjali,Chavan,Regular,Bronze,Pune,Maharashtra,ORD000418,2024-01-28,Delivered,Marketplace,3131.3
+CUST00056,Kabir,Modi,"High Value",Gold,Pune,Maharashtra,ORD000419,2024-01-28,Delivered,"Mobile App",11194.66
+CUST00377,Neha,Deshmukh,Regular,Bronze,Surat,Gujarat,ORD000420,2024-01-28,Delivered,Marketplace,3043.22
+CUST00025,Mayank,Mehta,Regular,Silver,Ahmedabad,Gujarat,ORD000421,2024-01-29,Delivered,Marketplace,10310.18
+CUST00031,Ishaan,Naidu,"At Risk",Silver,Kochi,Kerala,ORD000422,2024-01-29,Delivered,Website,55362.37
+CUST00158,Megha,Meena,"High Value",Gold,Delhi,Delhi,ORD000423,2024-01-29,Delivered,Marketplace,6646
+CUST00325,Naveen,Raman,Vip,Platinum,Kochi,Kerala,ORD000424,2024-01-30,Delivered,"Mobile App",3956.01
+CUST00036,Swati,Khanna,"At Risk",Silver,Patna,Bihar,ORD000425,2024-01-30,Delivered,Website,47989.2
+CUST00303,Aarav,Hazarika,Regular,Silver,Guwahati,Assam,ORD000426,2024-01-31,Delivered,"Mobile App",5514.29
+CUST00219,Payal,Subramanian,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000427,2024-01-31,Delivered,Website,25016.94
+CUST00366,Isha,Pawar,New,Silver,Mumbai,Maharashtra,ORD000428,2024-02-01,Delivered,Marketplace,978.45
+CUST00099,Tanvi,Nair,"At Risk",Silver,Bangalore,Karnataka,ORD000429,2024-02-02,Delivered,Website,2334.04
+CUST00099,Tanvi,Nair,"At Risk",Silver,Bangalore,Karnataka,ORD000430,2024-02-04,Delivered,Marketplace,23266.06
+CUST00049,Vivaan,Malik,"At Risk",Silver,Chandigarh,Chandigarh,ORD000431,2024-02-05,Delivered,"Mobile App",3747.8
+CUST00063,Deepika,Narayanan,Regular,Silver,Bangalore,Karnataka,ORD000433,2024-02-06,Delivered,Marketplace,349.51
+CUST00181,Ankit,Sen,"High Value",Gold,Kolkata,"West Bengal",ORD000434,2024-02-06,Delivered,Marketplace,5725.16
+CUST00325,Naveen,Raman,Vip,Platinum,Kochi,Kerala,ORD000435,2024-02-07,Delivered,Website,2609
+CUST00033,Gaurav,Trivedi,"At Risk",Bronze,Pune,Maharashtra,ORD000436,2024-02-08,Delivered,Marketplace,529.91
+CUST00143,Amit,Barman,"At Risk",Bronze,Kolkata,"West Bengal",ORD000437,2024-02-09,Delivered,"Mobile App",3256.28
+CUST00067,Isha,Hussain,"At Risk",Silver,Noida,"Uttar Pradesh",ORD000438,2024-02-09,Delivered,"Mobile App",562.45
+CUST00199,Isha,Malhotra,Regular,Gold,Chandigarh,Chandigarh,ORD000439,2024-02-09,Returned,Website,8609.44
+CUST00224,Bhavani,Chandran,Regular,Gold,Chennai,"Tamil Nadu",ORD000440,2024-02-09,Returned,"Mobile App",8276.84
+CUST00056,Kabir,Modi,"High Value",Gold,Pune,Maharashtra,ORD000441,2024-02-12,Delivered,"Mobile App",5901.28
+CUST00325,Naveen,Raman,Vip,Platinum,Kochi,Kerala,ORD000442,2024-02-12,Delivered,"Mobile App",9723.72
+CUST00033,Gaurav,Trivedi,"At Risk",Bronze,Pune,Maharashtra,ORD000443,2024-02-12,Delivered,Marketplace,1026.9
+CUST00161,Aditya,Sharma,"At Risk",Bronze,Noida,"Uttar Pradesh",ORD000444,2024-02-12,Delivered,Website,428
+CUST00232,Aditya,Singh,"High Value",Gold,Chandigarh,Chandigarh,ORD000445,2024-02-12,Delivered,"Mobile App",64553.45
+CUST00314,Deepak,Mehra,Regular,Gold,Jaipur,Rajasthan,ORD000446,2024-02-13,Delivered,"Mobile App",98409.64
+CUST00285,Yash,Kale,"At Risk",Gold,Pune,Maharashtra,ORD000447,2024-02-14,Delivered,"Mobile App",33545.54
+CUST00167,Shreya,Rao,"High Value",Platinum,Bangalore,Karnataka,ORD000448,2024-02-15,Delivered,"Mobile App",2922.08
+CUST00199,Isha,Malhotra,Regular,Gold,Chandigarh,Chandigarh,ORD000449,2024-02-15,Returned,Website,11728.5
+CUST00068,Abhishek,Hegde,"High Value",Gold,Hyderabad,Telangana,ORD000450,2024-02-16,Delivered,"Mobile App",1500.91
+CUST00338,Neha,Sinha,"High Value",Gold,Patna,Bihar,ORD000451,2024-02-16,Delivered,Marketplace,85701.04
+CUST00184,Mohit,Menon,Vip,Platinum,Chennai,"Tamil Nadu",ORD000452,2024-02-16,Delivered,Marketplace,8282.42
+CUST00384,Aarav,Narayanan,"At Risk",Bronze,Hyderabad,Telangana,ORD000453,2024-02-16,Delivered,Website,14127.38
+CUST00282,Shruti,Thakur,"At Risk",Silver,Delhi,Delhi,ORD000454,2024-02-16,Delivered,"Mobile App",72456.44
+CUST00203,Diya,Patel,Vip,Platinum,Nagpur,Maharashtra,ORD000455,2024-02-16,Delivered,"Mobile App",19834.62
+CUST00376,Ananya,Naik,"At Risk",Silver,Ahmedabad,Gujarat,ORD000457,2024-02-18,Delivered,"Mobile App",47480.52
+CUST00287,Yash,Narayanan,New,Silver,Bangalore,Karnataka,ORD000459,2024-02-18,Delivered,"Mobile App",529.91
+CUST00348,Vishal,Mehta,Regular,Gold,Pune,Maharashtra,ORD000460,2024-02-19,Delivered,"Mobile App",23755.97
+CUST00350,Nilesh,Kamat,"High Value",Gold,Nagpur,Maharashtra,ORD000462,2024-02-19,Delivered,"Mobile App",1797.1
+CUST00054,Shruti,Sen,"At Risk",Gold,Guwahati,Assam,ORD000463,2024-02-21,Delivered,"Mobile App",952.26
+CUST00389,Rajesh,Bhat,"At Risk",Silver,Hyderabad,Telangana,ORD000464,2024-02-22,Delivered,"Mobile App",15089.96
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000465,2024-02-22,Cancelled,Website,18787.52
+CUST00125,Simran,Gaikwad,Regular,Gold,Ahmedabad,Gujarat,ORD000466,2024-02-22,Delivered,Website,10321.74
+CUST00064,Purvi,Kale,Regular,Gold,Pune,Maharashtra,ORD000467,2024-02-23,Cancelled,"Mobile App",3157.28
+CUST00219,Payal,Subramanian,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000468,2024-02-24,Delivered,"Mobile App",25761.06
+CUST00392,Pranav,Agarwal,"High Value",Gold,Chandigarh,Chandigarh,ORD000469,2024-02-24,Delivered,"Mobile App",2111.02
+CUST00301,Shreya,Shah,Regular,Silver,Pune,Maharashtra,ORD000470,2024-02-26,Cancelled,"Mobile App",1331.17
+CUST00002,Vishal,Hazarika,"High Value",Gold,Kolkata,"West Bengal",ORD000471,2024-02-26,Delivered,Website,6281.73
+CUST00283,Manpreet,Sharma,Regular,Silver,Chandigarh,Chandigarh,ORD000472,2024-02-26,Delivered,Website,10295.3
+CUST00149,Vinod,Rao,Vip,Platinum,Kochi,Kerala,ORD000473,2024-02-27,Delivered,"Mobile App",55118.42
+CUST00366,Isha,Pawar,New,Silver,Mumbai,Maharashtra,ORD000474,2024-02-29,Delivered,"Mobile App",586.95
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000475,2024-02-29,Cancelled,Website,8913.58
+CUST00058,Nikhil,Sheikh,Regular,Silver,Mumbai,Maharashtra,ORD000476,2024-02-29,Returned,Website,11951.76
+CUST00325,Naveen,Raman,Vip,Platinum,Kochi,Kerala,ORD000477,2024-02-29,Delivered,Marketplace,71459.62
+CUST00105,Vijay,Joshi,"High Value",Gold,Lucknow,"Uttar Pradesh",ORD000478,2024-02-29,Delivered,Website,43112.48
+CUST00398,Swapnil,Joshi,"At Risk",Bronze,Surat,Gujarat,ORD000479,2024-03-01,Delivered,"Mobile App",803.76
+CUST00260,Shubham,Kumar,"At Risk",Silver,Hyderabad,Telangana,ORD000480,2024-03-01,Delivered,"Mobile App",1251.36
+CUST00129,Abhishek,Panda,Regular,Gold,Kolkata,"West Bengal",ORD000481,2024-03-01,Returned,Website,12868.27
+CUST00391,Biswajit,Sen,"At Risk",Silver,Guwahati,Assam,ORD000483,2024-03-02,Delivered,Website,67886.64
+CUST00283,Manpreet,Sharma,Regular,Silver,Chandigarh,Chandigarh,ORD000484,2024-03-02,Returned,Website,704.48
+CUST00300,Ankit,Khanna,"At Risk",Silver,Delhi,Delhi,ORD000485,2024-03-03,Delivered,Marketplace,4766.02
+CUST00245,Swati,Pawar,"High Value",Gold,Nagpur,Maharashtra,ORD000486,2024-03-03,Delivered,"Mobile App",478
+CUST00390,Radhika,Desai,"At Risk",Gold,Ahmedabad,Gujarat,ORD000487,2024-03-03,Delivered,"Mobile App",6902.19
+CUST00359,Arjun,Trivedi,Vip,Platinum,Pune,Maharashtra,ORD000488,2024-03-04,Delivered,"Mobile App",15196.04
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000489,2024-03-04,Delivered,"Mobile App",5176.66
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000490,2024-03-04,Delivered,"Mobile App",3503.48
+CUST00393,Ashok,Pandey,Regular,Bronze,Delhi,Delhi,ORD000491,2024-03-04,Delivered,"Mobile App",10582.04
+CUST00203,Diya,Patel,Vip,Platinum,Nagpur,Maharashtra,ORD000492,2024-03-05,Delivered,Website,350.55
+CUST00266,Harsh,Naidu,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000494,2024-03-06,Delivered,Marketplace,797
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000495,2024-03-07,Delivered,Website,612.42
+CUST00199,Isha,Malhotra,Regular,Gold,Chandigarh,Chandigarh,ORD000496,2024-03-07,Delivered,Marketplace,239.81
+CUST00308,Rajesh,Chavan,Regular,Silver,Ahmedabad,Gujarat,ORD000499,2024-03-10,Delivered,Website,1827.82
+CUST00165,Aarav,Verma,"High Value",Gold,Delhi,Delhi,ORD000500,2024-03-10,Delivered,"Mobile App",2518.88
+CUST00339,Biswajit,Bose,"High Value",Gold,Guwahati,Assam,ORD000502,2024-03-11,Delivered,Website,6874.56
+CUST00394,Manish,Shetty,New,Gold,Chennai,"Tamil Nadu",ORD000503,2024-03-11,Cancelled,"Mobile App",885.46
+CUST00404,Mohit,Gaikwad,"At Risk",Bronze,Pune,Maharashtra,ORD000504,2024-03-11,Delivered,"Mobile App",5088.38
+CUST00347,Diya,Jadhav,Regular,Gold,Mumbai,Maharashtra,ORD000506,2024-03-11,Cancelled,Website,2426.82
+CUST00219,Payal,Subramanian,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000507,2024-03-12,Delivered,"Mobile App",1955.63
+CUST00397,Faisal,Ansari,Regular,Gold,Bangalore,Karnataka,ORD000508,2024-03-12,Delivered,"Mobile App",2785.66
+CUST00233,Deepak,Bhosale,"At Risk",Bronze,Nagpur,Maharashtra,ORD000509,2024-03-12,Delivered,"Mobile App",539.1
+CUST00190,Sneha,Chauhan,"At Risk",Silver,Patna,Bihar,ORD000510,2024-03-13,Delivered,Website,6578.27
+CUST00403,Neha,Ranjan,"At Risk",Bronze,Jaipur,Rajasthan,ORD000511,2024-03-13,Delivered,"Mobile App",2409.68
+CUST00308,Rajesh,Chavan,Regular,Silver,Ahmedabad,Gujarat,ORD000512,2024-03-13,Returned,Website,3143.16
+CUST00185,Pankaj,Pillai,"At Risk",Silver,Hyderabad,Telangana,ORD000513,2024-03-14,Delivered,"Mobile App",189.81
+CUST00394,Manish,Shetty,New,Gold,Chennai,"Tamil Nadu",ORD000514,2024-03-14,Delivered,"Mobile App",1880.48
+CUST00293,Shubham,Nayak,"High Value",Gold,Bhubaneswar,Odisha,ORD000515,2024-03-14,Delivered,"Mobile App",13606.02
+CUST00292,Gayathri,Gowda,"At Risk",Silver,Kochi,Kerala,ORD000516,2024-03-14,Delivered,"Mobile App",733.84
+CUST00405,Sunita,Thakur,"At Risk",Bronze,Delhi,Delhi,ORD000517,2024-03-14,Delivered,Website,4648.37
+CUST00109,Swapnil,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000518,2024-03-15,Delivered,Website,25735.9
+CUST00126,Deepak,Menon,Regular,Platinum,Kochi,Kerala,ORD000519,2024-03-15,Delivered,Website,4704.95
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000520,2024-03-16,Delivered,"Mobile App",1932.47
+CUST00396,Bhavna,Malhotra,Regular,Silver,Noida,"Uttar Pradesh",ORD000522,2024-03-16,Delivered,Website,14155.4
+CUST00202,Mansi,Kamat,"At Risk",Gold,Pune,Maharashtra,ORD000524,2024-03-17,Delivered,"Mobile App",25631.01
+CUST00105,Vijay,Joshi,"High Value",Gold,Lucknow,"Uttar Pradesh",ORD000525,2024-03-17,Delivered,Website,1909.24
+CUST00402,Anita,Verma,Regular,Silver,Delhi,Delhi,ORD000526,2024-03-17,Delivered,Marketplace,3157.28
+CUST00180,Poonam,Bhatia,Vip,Platinum,Patna,Bihar,ORD000527,2024-03-17,Delivered,"Mobile App",30836.98
+CUST00269,Dev,Kurup,"High Value",Gold,Chennai,"Tamil Nadu",ORD000529,2024-03-18,Delivered,"Mobile App",69175.46
+CUST00157,Rekha,Dubey,Regular,Bronze,Lucknow,"Uttar Pradesh",ORD000530,2024-03-19,Delivered,Website,2118.5
+CUST00219,Payal,Subramanian,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000532,2024-03-19,Delivered,Marketplace,20253.1
+CUST00109,Swapnil,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000533,2024-03-21,Returned,"Mobile App",5351.36
+CUST00262,Meera,Deshmukh,New,Silver,Mumbai,Maharashtra,ORD000534,2024-03-21,Delivered,"Mobile App",55033.87
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000535,2024-03-21,Delivered,Website,2677.42
+CUST00144,Gaurav,Naik,Regular,Silver,Mumbai,Maharashtra,ORD000536,2024-03-21,Delivered,"Mobile App",5901.28
+CUST00379,Anita,Malhotra,Regular,Silver,Gurgaon,Haryana,ORD000538,2024-03-21,Delivered,Marketplace,3335.36
+CUST00036,Swati,Khanna,"At Risk",Silver,Patna,Bihar,ORD000539,2024-03-23,Cancelled,Website,29404.42
+CUST00161,Aditya,Sharma,"At Risk",Bronze,Noida,"Uttar Pradesh",ORD000540,2024-03-23,Cancelled,Website,50207.82
+CUST00410,Vishal,Nayak,Regular,Silver,Bhubaneswar,Odisha,ORD000542,2024-03-24,Delivered,"Mobile App",2442.66
+CUST00339,Biswajit,Bose,"High Value",Gold,Guwahati,Assam,ORD000543,2024-03-24,Delivered,"Mobile App",29428.02
+CUST00173,Sachin,Chauhan,"High Value",Gold,Delhi,Delhi,ORD000544,2024-03-25,Delivered,"Mobile App",34836.94
+CUST00045,Arun,Menon,Regular,Silver,Bangalore,Karnataka,ORD000545,2024-03-25,Delivered,Marketplace,9138.08
+CUST00237,Divya,Dubey,Regular,Bronze,Chandigarh,Chandigarh,ORD000546,2024-03-26,Delivered,"Mobile App",363.1
+CUST00395,Radhika,Ranjan,"At Risk",Bronze,Noida,"Uttar Pradesh",ORD000547,2024-03-26,Delivered,Marketplace,1753.6
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000548,2024-03-27,Delivered,"Mobile App",1002.39
+CUST00397,Faisal,Ansari,Regular,Gold,Bangalore,Karnataka,ORD000549,2024-03-27,Returned,"Mobile App",816.48
+CUST00408,Megha,Parekh,Vip,Platinum,Mumbai,Maharashtra,ORD000550,2024-03-27,Delivered,Marketplace,50256.82
+CUST00131,Nikhil,Hegde,"High Value",Gold,Bangalore,Karnataka,ORD000551,2024-03-27,Delivered,Website,11862.04
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000552,2024-03-27,Delivered,"Mobile App",15728.22
+CUST00234,Swati,Mishra,Regular,Bronze,Lucknow,"Uttar Pradesh",ORD000553,2024-03-27,Delivered,"Mobile App",3112.09
+CUST00028,Payal,Jadhav,"At Risk",Gold,Indore,"Madhya Pradesh",ORD000554,2024-03-27,Delivered,Marketplace,2677.42
+CUST00388,Kritika,Iyer,Vip,Platinum,Hyderabad,Telangana,ORD000557,2024-03-28,Delivered,Marketplace,1506
+CUST00411,Gaurav,Gupta,"At Risk",Silver,Noida,"Uttar Pradesh",ORD000558,2024-03-28,Delivered,Website,38281.3
+CUST00039,Nisha,Gupta,"At Risk",Bronze,Jaipur,Rajasthan,ORD000559,2024-03-28,Delivered,Website,1925.28
+CUST00250,Preeti,Bhatt,"At Risk",Bronze,Indore,"Madhya Pradesh",ORD000560,2024-03-28,Delivered,Marketplace,3360.1
+CUST00182,Nilesh,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000561,2024-03-28,Delivered,"Mobile App",722.46
+CUST00286,Nisha,Sawant,Regular,Silver,Nagpur,Maharashtra,ORD000562,2024-03-31,Delivered,"Mobile App",35010.96
+CUST00052,Shruti,Arora,Regular,Silver,Delhi,Delhi,ORD000563,2024-03-31,Delivered,Website,5606.22
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000564,2024-04-02,Delivered,Website,16739.48
+CUST00406,Mohit,Patel,"At Risk",Bronze,Mumbai,Maharashtra,ORD000565,2024-04-02,Delivered,"Mobile App",3198.85
+CUST00413,Divya,Prasad,"High Value",Gold,Hyderabad,Telangana,ORD000566,2024-04-02,Delivered,Website,24578.02
+CUST00146,Anita,Prasad,"High Value",Platinum,Lucknow,"Uttar Pradesh",ORD000567,2024-04-03,Delivered,Website,70604.05
+CUST00194,Isha,Bhatt,"At Risk",Silver,Nagpur,Maharashtra,ORD000568,2024-04-03,Delivered,"Mobile App",2369.08
+CUST00091,Ashok,Goyal,"High Value",Gold,Lucknow,"Uttar Pradesh",ORD000569,2024-04-03,Delivered,Marketplace,63865.73
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000570,2024-04-03,Delivered,"Mobile App",2115.68
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000571,2024-04-04,Delivered,Marketplace,2418.26
+CUST00038,Seema,Yadav,Vip,Platinum,Delhi,Delhi,ORD000572,2024-04-04,Delivered,Marketplace,56338.74
+CUST00055,Ananya,Chatterjee,Vip,Platinum,Guwahati,Assam,ORD000573,2024-04-05,Delivered,Website,53564.81
+CUST00040,Ayush,Kulkarni,"High Value",Gold,Pune,Maharashtra,ORD000574,2024-04-05,Delivered,"Mobile App",612.42
+CUST00412,Payal,Murthy,"High Value",Gold,Bangalore,Karnataka,ORD000575,2024-04-06,Delivered,"Mobile App",1745.28
+CUST00240,Lakshmi,Krishnan,Regular,Gold,Kochi,Kerala,ORD000576,2024-04-06,Delivered,Website,41947.82
+CUST00134,Anil,Hegde,"High Value",Gold,Chennai,"Tamil Nadu",ORD000577,2024-04-06,Cancelled,Website,51379.29
+CUST00041,Kavya,Bose,"High Value",Gold,Bhubaneswar,Odisha,ORD000578,2024-04-06,Delivered,"Mobile App",3157.28
+CUST00368,Aditi,Shah,"At Risk",Bronze,Ahmedabad,Gujarat,ORD000579,2024-04-06,Delivered,"Mobile App",11709.3
+CUST00314,Deepak,Mehra,Regular,Gold,Jaipur,Rajasthan,ORD000580,2024-04-06,Cancelled,"Mobile App",1671.9
+CUST00033,Gaurav,Trivedi,"At Risk",Bronze,Pune,Maharashtra,ORD000581,2024-04-06,Delivered,Marketplace,1660.26
+CUST00266,Harsh,Naidu,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000582,2024-04-08,Returned,Website,2617.88
+CUST00379,Anita,Malhotra,Regular,Silver,Gurgaon,Haryana,ORD000583,2024-04-08,Cancelled,"Mobile App",440.1
+CUST00182,Nilesh,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000584,2024-04-09,Delivered,Website,2617.88
+CUST00330,Mayank,Chauhan,"High Value",Platinum,Chandigarh,Chandigarh,ORD000585,2024-04-09,Delivered,Website,77002.1
+CUST00261,Vivaan,Bhatia,"At Risk",Silver,Delhi,Delhi,ORD000586,2024-04-09,Delivered,"Mobile App",17814.51
+CUST00260,Shubham,Kumar,"At Risk",Silver,Hyderabad,Telangana,ORD000587,2024-04-09,Delivered,Website,6333.06
+CUST00248,Pranav,Iyer,"High Value",Gold,Bangalore,Karnataka,ORD000589,2024-04-10,Delivered,"Mobile App",2371.48
+CUST00320,Naveen,Chavan,"High Value",Platinum,Mumbai,Maharashtra,ORD000590,2024-04-11,Cancelled,"Mobile App",800.04
+CUST00414,Deepak,Gogoi,"At Risk",Gold,Kolkata,"West Bengal",ORD000591,2024-04-12,Delivered,"Mobile App",38890.66
+CUST00394,Manish,Shetty,New,Gold,Chennai,"Tamil Nadu",ORD000592,2024-04-12,Returned,"Mobile App",35092.78
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000594,2024-04-12,Cancelled,"Mobile App",2442.66
+CUST00124,Amit,Thakkar,"At Risk",Bronze,Mumbai,Maharashtra,ORD000595,2024-04-13,Returned,Website,98907.26
+CUST00003,Vikram,Singh,Regular,Bronze,Patna,Bihar,ORD000596,2024-04-14,Delivered,"Mobile App",16328.84
+CUST00418,Sonia,Murthy,Vip,Platinum,Kochi,Kerala,ORD000597,2024-04-14,Delivered,"Mobile App",66741.42
+CUST00243,Mohit,Mehta,"At Risk",Silver,Mumbai,Maharashtra,ORD000598,2024-04-14,Delivered,"Mobile App",30442.82
+CUST00399,Meera,Mehta,"At Risk",Bronze,Pune,Maharashtra,ORD000600,2024-04-15,Delivered,"Mobile App",3219.39
+CUST00161,Aditya,Sharma,"At Risk",Bronze,Noida,"Uttar Pradesh",ORD000601,2024-04-15,Delivered,Website,2932.16
+CUST00302,Sameer,Ansari,"High Value",Gold,Gurgaon,Haryana,ORD000603,2024-04-17,Delivered,Website,19834.62
+CUST00113,Sachin,Saxena,Regular,Gold,Lucknow,"Uttar Pradesh",ORD000604,2024-04-17,Delivered,Website,56035.84
+CUST00271,Ritu,Reddy,"At Risk",Bronze,Bangalore,Karnataka,ORD000605,2024-04-17,Delivered,Website,2498.36
+CUST00390,Radhika,Desai,"At Risk",Gold,Ahmedabad,Gujarat,ORD000606,2024-04-18,Delivered,Marketplace,1656.65
+CUST00266,Harsh,Naidu,"At Risk",Silver,Chennai,"Tamil Nadu",ORD000607,2024-04-18,Delivered,"Mobile App",6861.92
+CUST00001,Vinod,Nayak,Regular,Gold,Kolkata,"West Bengal",ORD000608,2024-04-19,Delivered,"Mobile App",440.1
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000610,2024-04-20,Delivered,"Mobile App",390.1
+CUST00161,Aditya,Sharma,"At Risk",Bronze,Noida,"Uttar Pradesh",ORD000611,2024-04-20,Returned,Website,10880.6
+CUST00230,Gurpreet,Sharma,"High Value",Platinum,Patna,Bihar,ORD000612,2024-04-20,Delivered,"Mobile App",104609.94
+CUST00419,Deepika,Iyer,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD000613,2024-04-21,Delivered,Website,1518.66
+CUST00415,Ashok,Chauhan,Vip,Platinum,Chandigarh,Chandigarh,ORD000614,2024-04-21,Delivered,Website,984.47
+CUST00416,Sneha,Balaji,Regular,Silver,Bangalore,Karnataka,ORD000615,2024-04-21,Cancelled,Website,4569.79
+CUST00089,Vinod,Varma,Regular,Silver,Chennai,"Tamil Nadu",ORD000616,2024-04-21,Delivered,Website,5715.9
+CUST00307,Harsh,Naik,"At Risk",Gold,Indore,"Madhya Pradesh",ORD000617,2024-04-21,Delivered,Website,3002.37
+CUST00289,Anita,Shinde,"High Value",Gold,Surat,Gujarat,ORD000618,2024-04-21,Delivered,"Mobile App",4312.22
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000619,2024-04-22,Delivered,Website,2736.02
+CUST00418,Sonia,Murthy,Vip,Platinum,Kochi,Kerala,ORD000620,2024-04-23,Delivered,"Mobile App",2409.68
+CUST00114,Ankit,Joshi,Vip,Platinum,Mumbai,Maharashtra,ORD000621,2024-04-23,Delivered,"Mobile App",2238.88
+CUST00409,Rohan,Tiwari,"High Value",Gold,Noida,"Uttar Pradesh",ORD000622,2024-04-23,Returned,Marketplace,2371.48
+CUST00345,Nisha,Raman,"At Risk",Silver,Bangalore,Karnataka,ORD000623,2024-04-23,Delivered,Website,73287.46
+CUST00268,Priya,Varma,"High Value",Gold,Bangalore,Karnataka,ORD000624,2024-04-23,Delivered,"Mobile App",6622.38
+CUST00323,Rajesh,Patel,"At Risk",Bronze,Mumbai,Maharashtra,ORD000625,2024-04-23,Delivered,"Mobile App",671.42
+CUST00310,Ritu,Reddy,"At Risk",Silver,Bangalore,Karnataka,ORD000627,2024-04-24,Delivered,"Mobile App",17722.42
+CUST00325,Naveen,Raman,Vip,Platinum,Kochi,Kerala,ORD000629,2024-04-25,Delivered,Website,71274.02
+CUST00374,Manish,Singh,"High Value",Platinum,Noida,"Uttar Pradesh",ORD000630,2024-04-26,Delivered,Website,96398.28
+CUST00286,Nisha,Sawant,Regular,Silver,Nagpur,Maharashtra,ORD000631,2024-04-27,Returned,Website,1667.68
+CUST00184,Mohit,Menon,Vip,Platinum,Chennai,"Tamil Nadu",ORD000632,2024-04-27,Delivered,"Mobile App",511.11
+CUST00418,Sonia,Murthy,Vip,Platinum,Kochi,Kerala,ORD000633,2024-04-29,Delivered,"Mobile App",16283.38
+CUST00417,Rohan,Kumar,"At Risk",Bronze,Bangalore,Karnataka,ORD000634,2024-04-29,Delivered,"Mobile App",650.18
+CUST00275,Praveen,Murthy,"High Value",Gold,Hyderabad,Telangana,ORD000635,2024-04-30,Delivered,Marketplace,5685.73
+CUST00121,Gayathri,Reddy,Regular,Bronze,Chennai,"Tamil Nadu",ORD000636,2024-04-30,Returned,Website,4477.76
+CUST00225,Vijay,Arora,"High Value",Platinum,Delhi,Delhi,ORD000637,2024-04-30,Delivered,Website,69309.66
+CUST00073,Manish,Subramanian,Regular,Gold,Bangalore,Karnataka,ORD000638,2024-05-01,Delivered,Website,3036.79
+CUST00274,Kabir,Bansal,"At Risk",Silver,Lucknow,"Uttar Pradesh",ORD000639,2024-05-01,Delivered,Website,17007.03
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000640,2024-05-01,Delivered,"Mobile App",1130.08
+CUST00047,Anil,Ansari,"At Risk",Bronze,Patna,Bihar,ORD000641,2024-05-02,Delivered,"Mobile App",3157.28
+CUST00228,Rohan,Mishra,Regular,Silver,Delhi,Delhi,ORD000643,2024-05-03,Delivered,Website,2753.25
+CUST00019,Preeti,Chauhan,"At Risk",Bronze,Gurgaon,Haryana,ORD000644,2024-05-03,Delivered,"Mobile App",1447.69
+CUST00287,Yash,Narayanan,New,Silver,Bangalore,Karnataka,ORD000645,2024-05-03,Delivered,Website,10361.97
+CUST00049,Vivaan,Malik,"At Risk",Silver,Chandigarh,Chandigarh,ORD000646,2024-05-04,Delivered,Website,87776.26
+CUST00059,Rohan,Sawant,"High Value",Gold,Mumbai,Maharashtra,ORD000647,2024-05-04,Delivered,"Mobile App",1945.23
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000648,2024-05-04,Delivered,Website,1298.08
+CUST00225,Vijay,Arora,"High Value",Platinum,Delhi,Delhi,ORD000649,2024-05-04,Delivered,Website,6360.32
+CUST00342,Arjun,Bhatia,"At Risk",Bronze,Jaipur,Rajasthan,ORD000650,2024-05-04,Returned,"Mobile App",7590.72
+CUST00303,Aarav,Hazarika,Regular,Silver,Guwahati,Assam,ORD000651,2024-05-04,Delivered,"Mobile App",8277.92
+CUST00369,Rukhsar,Mirza,Vip,Platinum,Hyderabad,Telangana,ORD000652,2024-05-05,Returned,"Mobile App",20287.98
+CUST00403,Neha,Ranjan,"At Risk",Bronze,Jaipur,Rajasthan,ORD000654,2024-05-06,Cancelled,"Mobile App",7434.17
+CUST00420,Aanya,Chandran,Regular,Bronze,Chennai,"Tamil Nadu",ORD000655,2024-05-07,Delivered,Website,555.22
+CUST00092,Rekha,Jain,"At Risk",Silver,Delhi,Delhi,ORD000656,2024-05-07,Delivered,Website,3715.94
+CUST00359,Arjun,Trivedi,Vip,Platinum,Pune,Maharashtra,ORD000657,2024-05-07,Delivered,Website,6657.68
+CUST00312,Vivaan,Shetty,"At Risk",Silver,Hyderabad,Telangana,ORD000658,2024-05-08,Delivered,Website,53428.61
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000659,2024-05-09,Delivered,"Mobile App",3915.28
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000660,2024-05-10,Delivered,Website,4527.72
+CUST00424,Vikram,Sawant,Regular,Gold,Mumbai,Maharashtra,ORD000661,2024-05-10,Delivered,"Mobile App",1721.62
+CUST00122,Akash,Sharma,New,Silver,Jaipur,Rajasthan,ORD000662,2024-05-11,Delivered,Website,528
+CUST00353,Diya,Thakkar,"At Risk",Silver,Mumbai,Maharashtra,ORD000663,2024-05-11,Delivered,Website,1050.32
+CUST00225,Vijay,Arora,"High Value",Platinum,Delhi,Delhi,ORD000664,2024-05-11,Delivered,Website,1848.42
+CUST00337,Sakshi,Sawant,Regular,Bronze,Pune,Maharashtra,ORD000665,2024-05-13,Delivered,"Mobile App",28482.84
+CUST00109,Swapnil,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000666,2024-05-13,Delivered,Website,2277.97
+CUST00146,Anita,Prasad,"High Value",Platinum,Lucknow,"Uttar Pradesh",ORD000667,2024-05-14,Delivered,Website,3254.04
+CUST00250,Preeti,Bhatt,"At Risk",Bronze,Indore,"Madhya Pradesh",ORD000668,2024-05-14,Delivered,"Mobile App",4341.22
+CUST00426,Vivaan,Arora,Regular,Silver,Delhi,Delhi,ORD000669,2024-05-14,Delivered,"Mobile App",17604.15
+CUST00017,Rishabh,Das,Regular,Bronze,Guwahati,Assam,ORD000670,2024-05-14,Delivered,Marketplace,3190.48
+CUST00427,Divya,More,"High Value",Gold,Mumbai,Maharashtra,ORD000671,2024-05-15,Delivered,Marketplace,4824.9
+CUST00056,Kabir,Modi,"High Value",Gold,Pune,Maharashtra,ORD000672,2024-05-15,Delivered,"Mobile App",3886.52
+CUST00064,Purvi,Kale,Regular,Gold,Pune,Maharashtra,ORD000673,2024-05-15,Delivered,Website,5318.52
+CUST00134,Anil,Hegde,"High Value",Gold,Chennai,"Tamil Nadu",ORD000674,2024-05-16,Delivered,"Mobile App",6649.44
+CUST00279,Meera,Rao,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD000675,2024-05-17,Delivered,Website,3738.67
+CUST00274,Kabir,Bansal,"At Risk",Silver,Lucknow,"Uttar Pradesh",ORD000676,2024-05-17,Delivered,Website,12163.44
+CUST00422,Vivaan,Reddy,"High Value",Platinum,Hyderabad,Telangana,ORD000677,2024-05-17,Delivered,Marketplace,2883.5
+CUST00418,Sonia,Murthy,Vip,Platinum,Kochi,Kerala,ORD000678,2024-05-17,Returned,Marketplace,9058.56
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000679,2024-05-18,Delivered,"Mobile App",3715.94
+CUST00320,Naveen,Chavan,"High Value",Platinum,Mumbai,Maharashtra,ORD000681,2024-05-18,Delivered,Website,17605.12
+CUST00425,Omkar,Shah,Regular,Silver,Surat,Gujarat,ORD000682,2024-05-18,Delivered,Marketplace,15394.58
+CUST00027,Vignesh,Rao,Regular,Silver,Chennai,"Tamil Nadu",ORD000685,2024-05-19,Delivered,"Mobile App",5044.64
+CUST00185,Pankaj,Pillai,"At Risk",Silver,Hyderabad,Telangana,ORD000686,2024-05-19,Delivered,Website,2125.66
+CUST00200,Omkar,Trivedi,Regular,Silver,Pune,Maharashtra,ORD000687,2024-05-20,Delivered,"Mobile App",64807.38
+CUST00300,Ankit,Khanna,"At Risk",Silver,Delhi,Delhi,ORD000688,2024-05-20,Delivered,Website,807.58
+CUST00387,Salman,Ali,"At Risk",Bronze,Hyderabad,Telangana,ORD000689,2024-05-20,Delivered,Website,2663.36
+CUST00073,Manish,Subramanian,Regular,Gold,Bangalore,Karnataka,ORD000690,2024-05-20,Delivered,"Mobile App",3157.28
+CUST00129,Abhishek,Panda,Regular,Gold,Kolkata,"West Bengal",ORD000691,2024-05-22,Delivered,Website,63939.6
+CUST00423,Mayank,Shah,"At Risk",Bronze,Surat,Gujarat,ORD000693,2024-05-22,Delivered,"Mobile App",2640.28
+CUST00421,Tarun,Jain,Regular,Bronze,Lucknow,"Uttar Pradesh",ORD000694,2024-05-22,Delivered,Website,600.18
+CUST00337,Sakshi,Sawant,Regular,Bronze,Pune,Maharashtra,ORD000695,2024-05-22,Delivered,"Mobile App",3196.62
+CUST00216,Radhika,Chatterjee,Regular,Silver,Kolkata,"West Bengal",ORD000696,2024-05-23,Delivered,Marketplace,9801.4
+CUST00175,Rutuja,Patil,"At Risk",Silver,Indore,"Madhya Pradesh",ORD000697,2024-05-23,Delivered,"Mobile App",2922.08
+CUST00363,Riya,Iyer,"High Value",Gold,Kochi,Kerala,ORD000698,2024-05-23,Delivered,"Mobile App",602.42
+CUST00151,Kunal,Parekh,Regular,Silver,Indore,"Madhya Pradesh",ORD000699,2024-05-23,Delivered,Marketplace,1111.87
+CUST00006,Kiran,Patel,"At Risk",Gold,Pune,Maharashtra,ORD000700,2024-05-24,Delivered,"Mobile App",3818.7
+CUST00038,Seema,Yadav,Vip,Platinum,Delhi,Delhi,ORD000702,2024-05-25,Delivered,Website,5838.88
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000703,2024-05-26,Delivered,"Mobile App",634.03
+CUST00273,Karan,Ahmed,Regular,Bronze,Delhi,Delhi,ORD000704,2024-05-26,Delivered,"Mobile App",3157.12
+CUST00329,Anjali,Dubey,"At Risk",Gold,Delhi,Delhi,ORD000705,2024-05-27,Delivered,"Mobile App",89778.84
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000706,2024-05-27,Delivered,"Mobile App",504.6
+CUST00128,Naveen,Jadhav,"High Value",Platinum,Mumbai,Maharashtra,ORD000707,2024-05-27,Cancelled,"Mobile App",2486.95
+CUST00366,Isha,Pawar,New,Silver,Mumbai,Maharashtra,ORD000708,2024-05-28,Delivered,Website,1252.93
+CUST00349,Vinod,Sundaram,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD000709,2024-05-28,Delivered,Marketplace,10393.44
+CUST00366,Isha,Pawar,New,Silver,Mumbai,Maharashtra,ORD000710,2024-05-29,Cancelled,Website,10492.84
+CUST00338,Neha,Sinha,"High Value",Gold,Patna,Bihar,ORD000711,2024-05-29,Delivered,"Mobile App",1899.92
+CUST00369,Rukhsar,Mirza,Vip,Platinum,Hyderabad,Telangana,ORD000712,2024-05-29,Delivered,Website,680.4
+CUST00071,Anjali,Malik,Regular,Gold,Pune,Maharashtra,ORD000713,2024-05-29,Delivered,"Mobile App",30313.24
+CUST00226,Mohit,Gowda,Regular,Silver,Kochi,Kerala,ORD000715,2024-05-30,Delivered,Marketplace,2609
+CUST00236,Naveen,Bhosale,"At Risk",Silver,Nagpur,Maharashtra,ORD000716,2024-05-30,Returned,"Mobile App",44846.73
+CUST00128,Naveen,Jadhav,"High Value",Platinum,Mumbai,Maharashtra,ORD000717,2024-05-31,Delivered,Website,15201.48
+CUST00389,Rajesh,Bhat,"At Risk",Silver,Hyderabad,Telangana,ORD000718,2024-05-31,Returned,Website,2518.88
+CUST00224,Bhavani,Chandran,Regular,Gold,Chennai,"Tamil Nadu",ORD000720,2024-05-31,Delivered,Website,2287.15
+CUST00180,Poonam,Bhatia,Vip,Platinum,Patna,Bihar,ORD000721,2024-06-01,Delivered,"Mobile App",2770.99
+CUST00343,Neha,Kurup,Regular,Gold,Chennai,"Tamil Nadu",ORD000722,2024-06-01,Returned,"Mobile App",662.67
+CUST00431,Subhajit,Saikia,"At Risk",Gold,Bhubaneswar,Odisha,ORD000723,2024-06-01,Delivered,"Mobile App",4655.95
+CUST00055,Ananya,Chatterjee,Vip,Platinum,Guwahati,Assam,ORD000724,2024-06-01,Delivered,Website,18631.02
+CUST00428,Abhishek,Pandey,"At Risk",Silver,Chandigarh,Chandigarh,ORD000726,2024-06-01,Delivered,Website,25019.66
+CUST00434,Biswajit,Das,"At Risk",Silver,Bhubaneswar,Odisha,ORD000727,2024-06-02,Delivered,"Mobile App",391.95
+CUST00292,Gayathri,Gowda,"At Risk",Silver,Kochi,Kerala,ORD000729,2024-06-04,Delivered,"Mobile App",4198.88
+CUST00058,Nikhil,Sheikh,Regular,Silver,Mumbai,Maharashtra,ORD000730,2024-06-04,Delivered,"Mobile App",3866.28
+CUST00423,Mayank,Shah,"At Risk",Bronze,Surat,Gujarat,ORD000731,2024-06-05,Returned,Marketplace,1867.07
+CUST00114,Ankit,Joshi,Vip,Platinum,Mumbai,Maharashtra,ORD000732,2024-06-05,Delivered,"Mobile App",1901.3
+CUST00207,Abhishek,Jadhav,"High Value",Gold,Pune,Maharashtra,ORD000733,2024-06-06,Delivered,Marketplace,1973.66
+CUST00052,Shruti,Arora,Regular,Silver,Delhi,Delhi,ORD000734,2024-06-06,Delivered,Website,4436.92
+CUST00286,Nisha,Sawant,Regular,Silver,Nagpur,Maharashtra,ORD000735,2024-06-07,Delivered,"Mobile App",11996.62
+CUST00306,Rahul,Pandey,"At Risk",Silver,Lucknow,"Uttar Pradesh",ORD000736,2024-06-07,Delivered,Website,547.08
+CUST00184,Mohit,Menon,Vip,Platinum,Chennai,"Tamil Nadu",ORD000737,2024-06-07,Delivered,Website,66692.42
+CUST00422,Vivaan,Reddy,"High Value",Platinum,Hyderabad,Telangana,ORD000738,2024-06-07,Delivered,Website,919.22
+CUST00433,Nisha,Sinha,"At Risk",Bronze,Gurgaon,Haryana,ORD000739,2024-06-08,Delivered,Website,2144.23
+CUST00085,Mansi,Roy,Regular,Silver,Kolkata,"West Bengal",ORD000740,2024-06-08,Delivered,Website,2684.25
+CUST00085,Mansi,Roy,Regular,Silver,Kolkata,"West Bengal",ORD000741,2024-06-09,Delivered,"Mobile App",29477.02
+CUST00046,Ankit,Ghosh,Regular,Silver,Kolkata,"West Bengal",ORD000743,2024-06-10,Delivered,Website,1050.32
+CUST00438,Radhika,Bansal,"At Risk",Bronze,Jaipur,Rajasthan,ORD000745,2024-06-11,Delivered,"Mobile App",480.1
+CUST00325,Naveen,Raman,Vip,Platinum,Kochi,Kerala,ORD000746,2024-06-11,Delivered,Marketplace,555.22
+CUST00173,Sachin,Chauhan,"High Value",Gold,Delhi,Delhi,ORD000747,2024-06-12,Delivered,"Mobile App",33866.62
+CUST00366,Isha,Pawar,New,Silver,Mumbai,Maharashtra,ORD000748,2024-06-15,Delivered,"Mobile App",46809.01
+CUST00437,Shweta,Gupta,Vip,Platinum,Noida,"Uttar Pradesh",ORD000749,2024-06-15,Delivered,"Mobile App",34709.49
+CUST00357,Ishaan,Mirza,"At Risk",Bronze,Ahmedabad,Gujarat,ORD000750,2024-06-15,Delivered,"Mobile App",2240.68
+CUST00107,Harleen,Ranjan,Regular,Silver,Delhi,Delhi,ORD000751,2024-06-15,Delivered,"Mobile App",3757.36
+CUST00437,Shweta,Gupta,Vip,Platinum,Noida,"Uttar Pradesh",ORD000752,2024-06-15,Delivered,"Mobile App",1791.1
+CUST00113,Sachin,Saxena,Regular,Gold,Lucknow,"Uttar Pradesh",ORD000753,2024-06-15,Delivered,Marketplace,7472.73
+CUST00339,Biswajit,Bose,"High Value",Gold,Guwahati,Assam,ORD000754,2024-06-16,Delivered,"Mobile App",64063.05
+CUST00073,Manish,Subramanian,Regular,Gold,Bangalore,Karnataka,ORD000755,2024-06-16,Delivered,Website,5161.8
+CUST00041,Kavya,Bose,"High Value",Gold,Bhubaneswar,Odisha,ORD000756,2024-06-16,Cancelled,Website,69338.24
+CUST00227,Ananya,Gaikwad,Regular,Silver,Mumbai,Maharashtra,ORD000757,2024-06-16,Delivered,Website,22110.98
+CUST00442,Aarav,More,"At Risk",Silver,Surat,Gujarat,ORD000758,2024-06-16,Delivered,Website,75348.11
+CUST00391,Biswajit,Sen,"At Risk",Silver,Guwahati,Assam,ORD000759,2024-06-17,Delivered,"Mobile App",4375.91
+CUST00304,Ayush,Menon,"High Value",Platinum,Chennai,"Tamil Nadu",ORD000761,2024-06-18,Delivered,Website,3303.06
+CUST00115,Biswajit,Gogoi,Regular,Silver,Guwahati,Assam,ORD000762,2024-06-18,Delivered,Website,13517.05
+CUST00388,Kritika,Iyer,Vip,Platinum,Hyderabad,Telangana,ORD000763,2024-06-18,Delivered,"Mobile App",2525.82
+CUST00436,Mahesh,Kurup,"High Value",Gold,Hyderabad,Telangana,ORD000765,2024-06-19,Delivered,Marketplace,5828.88
+CUST00085,Mansi,Roy,Regular,Silver,Kolkata,"West Bengal",ORD000766,2024-06-19,Delivered,Website,6299.39
+CUST00441,Amit,Chandran,Regular,Silver,Hyderabad,Telangana,ORD000767,2024-06-19,Delivered,Website,2133.56
+CUST00274,Kabir,Bansal,"At Risk",Silver,Lucknow,"Uttar Pradesh",ORD000768,2024-06-20,Delivered,"Mobile App",27398.54
+CUST00173,Sachin,Chauhan,"High Value",Gold,Delhi,Delhi,ORD000769,2024-06-20,Delivered,"Mobile App",5501.04
+CUST00443,Tanvi,Srivastava,"At Risk",Silver,Delhi,Delhi,ORD000771,2024-06-20,Delivered,Marketplace,758
+CUST00234,Swati,Mishra,Regular,Bronze,Lucknow,"Uttar Pradesh",ORD000772,2024-06-21,Delivered,Website,208.54
+CUST00308,Rajesh,Chavan,Regular,Silver,Ahmedabad,Gujarat,ORD000773,2024-06-21,Delivered,"Mobile App",3573.64
+CUST00446,Chirag,Sawant,"High Value",Platinum,Indore,"Madhya Pradesh",ORD000774,2024-06-21,Delivered,Website,7145.12
+CUST00167,Shreya,Rao,"High Value",Platinum,Bangalore,Karnataka,ORD000775,2024-06-22,Delivered,"Mobile App",2792.21
+CUST00063,Deepika,Narayanan,Regular,Silver,Bangalore,Karnataka,ORD000776,2024-06-23,Returned,Website,2436.66
+CUST00416,Sneha,Balaji,Regular,Silver,Bangalore,Karnataka,ORD000777,2024-06-23,Delivered,Website,9156.33
+CUST00118,Mayank,Ranjan,Regular,Bronze,Delhi,Delhi,ORD000779,2024-06-23,Delivered,Website,4589.03
+CUST00395,Radhika,Ranjan,"At Risk",Bronze,Noida,"Uttar Pradesh",ORD000780,2024-06-23,Delivered,"Mobile App",17324.37
+CUST00440,Kunal,Verma,Regular,Silver,Delhi,Delhi,ORD000781,2024-06-24,Returned,Marketplace,7792.77
+CUST00236,Naveen,Bhosale,"At Risk",Silver,Nagpur,Maharashtra,ORD000782,2024-06-24,Delivered,"Mobile App",606.4
+CUST00105,Vijay,Joshi,"High Value",Gold,Lucknow,"Uttar Pradesh",ORD000783,2024-06-24,Cancelled,"Mobile App",636.14
+CUST00398,Swapnil,Joshi,"At Risk",Bronze,Surat,Gujarat,ORD000784,2024-06-25,Delivered,"Mobile App",952.26
+CUST00305,Karan,Trivedi,"At Risk",Bronze,Mumbai,Maharashtra,ORD000785,2024-06-25,Delivered,Website,2386.15
+CUST00165,Aarav,Verma,"High Value",Gold,Delhi,Delhi,ORD000787,2024-06-26,Delivered,Marketplace,34445.04
+CUST00339,Biswajit,Bose,"High Value",Gold,Guwahati,Assam,ORD000788,2024-06-26,Delivered,Website,3965.2
+CUST00149,Vinod,Rao,Vip,Platinum,Kochi,Kerala,ORD000789,2024-06-27,Delivered,"Mobile App",1330.1
+CUST00225,Vijay,Arora,"High Value",Platinum,Delhi,Delhi,ORD000790,2024-06-27,Delivered,Website,5951.97
+CUST00074,Ankit,Narayanan,Regular,Silver,Bangalore,Karnataka,ORD000791,2024-06-27,Returned,Website,10209.92
+CUST00109,Swapnil,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000792,2024-06-27,Delivered,Website,58609.7
+CUST00424,Vikram,Sawant,Regular,Gold,Mumbai,Maharashtra,ORD000793,2024-06-28,Returned,"Mobile App",34268.68
+CUST00055,Ananya,Chatterjee,Vip,Platinum,Guwahati,Assam,ORD000794,2024-06-28,Delivered,"Mobile App",13578.35
+CUST00078,Nikhil,Arora,"At Risk",Silver,Patna,Bihar,ORD000795,2024-06-28,Delivered,Website,2525.82
+CUST00337,Sakshi,Sawant,Regular,Bronze,Pune,Maharashtra,ORD000796,2024-06-29,Delivered,Website,4621.98
+CUST00418,Sonia,Murthy,Vip,Platinum,Kochi,Kerala,ORD000797,2024-06-29,Delivered,Website,494.55
+CUST00203,Diya,Patel,Vip,Platinum,Nagpur,Maharashtra,ORD000798,2024-06-29,Delivered,"Mobile App",86091.66
+CUST00184,Mohit,Menon,Vip,Platinum,Chennai,"Tamil Nadu",ORD000799,2024-06-29,Returned,Website,9186.86
+CUST00320,Naveen,Chavan,"High Value",Platinum,Mumbai,Maharashtra,ORD000800,2024-06-29,Delivered,"Mobile App",13529.35
+CUST00302,Sameer,Ansari,"High Value",Gold,Gurgaon,Haryana,ORD000801,2024-06-29,Delivered,Website,63406.8
+CUST00111,Swati,Raman,Regular,Silver,Chennai,"Tamil Nadu",ORD000802,2024-06-29,Delivered,"Mobile App",1167.02
+CUST00346,Sonia,Trivedi,"At Risk",Bronze,Indore,"Madhya Pradesh",ORD000803,2024-06-30,Delivered,Website,12366.1
+CUST00439,Abhishek,Varma,"High Value",Gold,Kochi,Kerala,ORD000804,2024-06-30,Delivered,"Mobile App",5155.65
+CUST00293,Shubham,Nayak,"High Value",Gold,Bhubaneswar,Odisha,ORD000805,2024-06-30,Delivered,Website,2404.71
+CUST00437,Shweta,Gupta,Vip,Platinum,Noida,"Uttar Pradesh",ORD000806,2024-06-30,Delivered,Marketplace,67303.72
+CUST00443,Tanvi,Srivastava,"At Risk",Silver,Delhi,Delhi,ORD000807,2024-06-30,Delivered,Website,349.51
+CUST00054,Shruti,Sen,"At Risk",Gold,Guwahati,Assam,ORD000808,2024-07-01,Delivered,Marketplace,1204.2
+CUST00445,Rekha,Subramanian,"At Risk",Gold,Kochi,Kerala,ORD000809,2024-07-01,Delivered,"Mobile App",13113.58
+CUST00032,Sachin,Naik,Vip,Platinum,Mumbai,Maharashtra,ORD000810,2024-07-01,Delivered,"Mobile App",14516.04
+CUST00419,Deepika,Iyer,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD000811,2024-07-01,Delivered,Website,1901.38
+CUST00078,Nikhil,Arora,"At Risk",Silver,Patna,Bihar,ORD000812,2024-07-02,Delivered,"Mobile App",86493.18
+CUST00166,Ishaan,Prasad,Regular,Silver,Bangalore,Karnataka,ORD000813,2024-07-02,Delivered,"Mobile App",823.42
+CUST00394,Manish,Shetty,New,Gold,Chennai,"Tamil Nadu",ORD000814,2024-07-02,Delivered,Website,4289.42
+CUST00115,Biswajit,Gogoi,Regular,Silver,Guwahati,Assam,ORD000815,2024-07-02,Delivered,"Mobile App",5360.15
+CUST00272,Poonam,Yadav,Regular,Bronze,Chandigarh,Chandigarh,ORD000816,2024-07-03,Delivered,"Mobile App",4061.77
+CUST00427,Divya,More,"High Value",Gold,Mumbai,Maharashtra,ORD000817,2024-07-04,Delivered,"Mobile App",7575.02
+CUST00432,Siddharth,Nair,"At Risk",Bronze,Hyderabad,Telangana,ORD000818,2024-07-04,Delivered,"Mobile App",3514.5
+CUST00390,Radhika,Desai,"At Risk",Gold,Ahmedabad,Gujarat,ORD000819,2024-07-05,Delivered,Website,5160.26
+CUST00054,Shruti,Sen,"At Risk",Gold,Guwahati,Assam,ORD000820,2024-07-05,Delivered,Marketplace,494.55
+CUST00449,Mayank,Trivedi,"At Risk",Silver,Surat,Gujarat,ORD000821,2024-07-06,Delivered,Website,23700.94
+CUST00084,Kunal,Srivastava,Regular,Silver,Delhi,Delhi,ORD000823,2024-07-08,Delivered,Website,582.23
+CUST00450,Venkatesh,Raman,Regular,Gold,Bangalore,Karnataka,ORD000824,2024-07-09,Delivered,Website,5902.68
+CUST00327,Ritu,Jadhav,"At Risk",Bronze,Mumbai,Maharashtra,ORD000825,2024-07-10,Returned,"Mobile App",3717.28
+CUST00184,Mohit,Menon,Vip,Platinum,Chennai,"Tamil Nadu",ORD000826,2024-07-12,Delivered,Website,555.22
+CUST00448,Gopal,Kumar,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD000827,2024-07-12,Delivered,Website,2409.68
+CUST00452,Aditi,Patel,"High Value",Platinum,Mumbai,Maharashtra,ORD000828,2024-07-14,Cancelled,Website,40140.99
+CUST00025,Mayank,Mehta,Regular,Silver,Ahmedabad,Gujarat,ORD000829,2024-07-14,Returned,Website,10456.32
+CUST00451,Yash,Kurup,"At Risk",Bronze,Bangalore,Karnataka,ORD000830,2024-07-15,Delivered,Marketplace,67604.87
+CUST00073,Manish,Subramanian,Regular,Gold,Bangalore,Karnataka,ORD000831,2024-07-16,Delivered,"Mobile App",66692.42
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD000832,2024-07-16,Delivered,Marketplace,2115.68
+CUST00453,Sowmya,Bhat,"At Risk",Bronze,Hyderabad,Telangana,ORD000833,2024-07-18,Cancelled,Marketplace,76109.44
+CUST00447,Swati,Meena,"At Risk",Bronze,Jaipur,Rajasthan,ORD000834,2024-07-18,Delivered,"Mobile App",3078.88
+CUST00186,Gaurav,Joshi,"High Value",Platinum,Gurgaon,Haryana,ORD000835,2024-07-18,Delivered,Marketplace,34086.66
+CUST00350,Nilesh,Kamat,"High Value",Gold,Nagpur,Maharashtra,ORD000836,2024-07-18,Delivered,Website,2314.1
+CUST00248,Pranav,Iyer,"High Value",Gold,Bangalore,Karnataka,ORD000837,2024-07-18,Delivered,"Mobile App",1037.4
+CUST00333,Ishaan,Chandran,Regular,Silver,Hyderabad,Telangana,ORD000838,2024-07-19,Delivered,"Mobile App",3998.52
+CUST00185,Pankaj,Pillai,"At Risk",Silver,Hyderabad,Telangana,ORD000840,2024-07-21,Delivered,Website,30995.68
+CUST00327,Ritu,Jadhav,"At Risk",Bronze,Mumbai,Maharashtra,ORD000841,2024-07-21,Delivered,Marketplace,7397.42
+CUST00225,Vijay,Arora,"High Value",Platinum,Delhi,Delhi,ORD000842,2024-07-21,Delivered,Website,769
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000843,2024-07-22,Delivered,Website,593.42
+CUST00038,Seema,Yadav,Vip,Platinum,Delhi,Delhi,ORD000844,2024-07-22,Delivered,"Mobile App",66692.42
+CUST00442,Aarav,More,"At Risk",Silver,Surat,Gujarat,ORD000845,2024-07-23,Delivered,"Mobile App",1925.28
+CUST00175,Rutuja,Patil,"At Risk",Silver,Indore,"Madhya Pradesh",ORD000846,2024-07-23,Delivered,"Mobile App",1291.45
+CUST00454,Rutuja,Modi,"At Risk",Silver,Indore,"Madhya Pradesh",ORD000847,2024-07-23,Delivered,Website,20543.24
+CUST00422,Vivaan,Reddy,"High Value",Platinum,Hyderabad,Telangana,ORD000848,2024-07-23,Cancelled,"Mobile App",2571.22
+CUST00456,Kiran,Sinha,Regular,Bronze,Jaipur,Rajasthan,ORD000849,2024-07-23,Delivered,"Mobile App",278.48
+CUST00176,Siddharth,Rao,"High Value",Gold,Bangalore,Karnataka,ORD000850,2024-07-24,Delivered,"Mobile App",2282.56
+CUST00445,Rekha,Subramanian,"At Risk",Gold,Kochi,Kerala,ORD000851,2024-07-25,Delivered,Website,1229.08
+CUST00182,Nilesh,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000852,2024-07-25,Delivered,"Mobile App",1260.24
+CUST00230,Gurpreet,Sharma,"High Value",Platinum,Patna,Bihar,ORD000853,2024-07-25,Returned,Website,1700.16
+CUST00339,Biswajit,Bose,"High Value",Gold,Guwahati,Assam,ORD000854,2024-07-25,Delivered,"Mobile App",4349.9
+CUST00450,Venkatesh,Raman,Regular,Gold,Bangalore,Karnataka,ORD000855,2024-07-26,Delivered,"Mobile App",10102.22
+CUST00459,Mohit,Ghosh,"At Risk",Bronze,Guwahati,Assam,ORD000856,2024-07-27,Delivered,Website,2314.1
+CUST00457,Venkatesh,Kurup,Vip,Gold,Bangalore,Karnataka,ORD000857,2024-07-27,Delivered,"Mobile App",71459.62
+CUST00413,Divya,Prasad,"High Value",Gold,Hyderabad,Telangana,ORD000858,2024-07-28,Delivered,Marketplace,1801.8
+CUST00254,Naveen,Naik,Regular,Gold,Mumbai,Maharashtra,ORD000859,2024-07-29,Delivered,"Mobile App",26303.06
+CUST00230,Gurpreet,Sharma,"High Value",Platinum,Patna,Bihar,ORD000860,2024-07-29,Delivered,Website,2953.66
+CUST00261,Vivaan,Bhatia,"At Risk",Silver,Delhi,Delhi,ORD000861,2024-07-29,Delivered,"Mobile App",55703.03
+CUST00167,Shreya,Rao,"High Value",Platinum,Bangalore,Karnataka,ORD000862,2024-07-29,Delivered,Marketplace,5441.36
+CUST00089,Vinod,Varma,Regular,Silver,Chennai,"Tamil Nadu",ORD000863,2024-07-29,Returned,"Mobile App",4963.62
+CUST00002,Vishal,Hazarika,"High Value",Gold,Kolkata,"West Bengal",ORD000864,2024-07-30,Delivered,Website,729.24
+CUST00149,Vinod,Rao,Vip,Platinum,Kochi,Kerala,ORD000865,2024-07-31,Cancelled,"Mobile App",72482.74
+CUST00089,Vinod,Varma,Regular,Silver,Chennai,"Tamil Nadu",ORD000866,2024-07-31,Returned,Website,6482.76
+CUST00205,Aditi,Jha,"High Value",Gold,Delhi,Delhi,ORD000867,2024-08-01,Delivered,"Mobile App",9040.42
+CUST00162,Hiren,Bhatt,Regular,Silver,Mumbai,Maharashtra,ORD000868,2024-08-02,Returned,"Mobile App",9718.5
+CUST00458,Vishal,Khan,"At Risk",Silver,Lucknow,"Uttar Pradesh",ORD000869,2024-08-03,Delivered,Website,5580.34
+CUST00071,Anjali,Malik,Regular,Gold,Pune,Maharashtra,ORD000870,2024-08-04,Delivered,Website,4717.17
+CUST00344,Janvi,Kale,Regular,Silver,Surat,Gujarat,ORD000871,2024-08-05,Delivered,Website,598.81
+CUST00303,Aarav,Hazarika,Regular,Silver,Guwahati,Assam,ORD000872,2024-08-05,Delivered,Website,3256.28
+CUST00463,Omkar,Jadhav,"High Value",Gold,Mumbai,Maharashtra,ORD000874,2024-08-07,Delivered,Website,28372.24
+CUST00239,Akash,Krishnan,Regular,Gold,Hyderabad,Telangana,ORD000875,2024-08-07,Delivered,Website,1261.56
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000876,2024-08-08,Delivered,Marketplace,4028
+CUST00415,Ashok,Chauhan,Vip,Platinum,Chandigarh,Chandigarh,ORD000877,2024-08-08,Delivered,"Mobile App",704.48
+CUST00376,Ananya,Naik,"At Risk",Silver,Ahmedabad,Gujarat,ORD000878,2024-08-08,Delivered,Marketplace,9451.34
+CUST00328,Kiran,Krishnan,Regular,Gold,Bangalore,Karnataka,ORD000879,2024-08-09,Delivered,"Mobile App",479.29
+CUST00462,Vishal,Nayak,"At Risk",Bronze,Bhubaneswar,Odisha,ORD000880,2024-08-09,Delivered,Website,12803.42
+CUST00439,Abhishek,Varma,"High Value",Gold,Kochi,Kerala,ORD000881,2024-08-09,Delivered,"Mobile App",15064.06
+CUST00040,Ayush,Kulkarni,"High Value",Gold,Pune,Maharashtra,ORD000883,2024-08-10,Delivered,"Mobile App",4391.01
+CUST00226,Mohit,Gowda,Regular,Silver,Kochi,Kerala,ORD000884,2024-08-10,Delivered,Website,2185.54
+CUST00166,Ishaan,Prasad,Regular,Silver,Bangalore,Karnataka,ORD000885,2024-08-10,Returned,"Mobile App",2997.54
+CUST00461,Anita,Narayanan,"High Value",Gold,Hyderabad,Telangana,ORD000886,2024-08-11,Delivered,"Mobile App",2592.02
+CUST00181,Ankit,Sen,"High Value",Gold,Kolkata,"West Bengal",ORD000887,2024-08-11,Delivered,"Mobile App",10054.24
+CUST00408,Megha,Parekh,Vip,Platinum,Mumbai,Maharashtra,ORD000890,2024-08-12,Delivered,"Mobile App",5057.78
+CUST00192,Karan,Bhat,"At Risk",Silver,Kochi,Kerala,ORD000891,2024-08-12,Delivered,"Mobile App",27447.54
+CUST00388,Kritika,Iyer,Vip,Platinum,Hyderabad,Telangana,ORD000892,2024-08-12,Cancelled,"Mobile App",7811.3
+CUST00444,Neha,Naik,"At Risk",Bronze,Mumbai,Maharashtra,ORD000893,2024-08-13,Delivered,Marketplace,2863.62
+CUST00359,Arjun,Trivedi,Vip,Platinum,Pune,Maharashtra,ORD000895,2024-08-13,Delivered,"Mobile App",10898.25
+CUST00409,Rohan,Tiwari,"High Value",Gold,Noida,"Uttar Pradesh",ORD000896,2024-08-13,Delivered,"Mobile App",2782.69
+CUST00175,Rutuja,Patil,"At Risk",Silver,Indore,"Madhya Pradesh",ORD000897,2024-08-13,Delivered,"Mobile App",27128.12
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000898,2024-08-13,Delivered,Website,2275.81
+CUST00047,Anil,Ansari,"At Risk",Bronze,Patna,Bihar,ORD000899,2024-08-13,Delivered,Marketplace,730.55
+CUST00017,Rishabh,Das,Regular,Bronze,Guwahati,Assam,ORD000900,2024-08-14,Delivered,Website,5606.22
+CUST00455,Pallavi,Ranjan,"At Risk",Bronze,Delhi,Delhi,ORD000901,2024-08-14,Delivered,Website,5385.08
+CUST00337,Sakshi,Sawant,Regular,Bronze,Pune,Maharashtra,ORD000902,2024-08-15,Delivered,Marketplace,6061.66
+CUST00350,Nilesh,Kamat,"High Value",Gold,Nagpur,Maharashtra,ORD000903,2024-08-15,Delivered,"Mobile App",2392.94
+CUST00068,Abhishek,Hegde,"High Value",Gold,Hyderabad,Telangana,ORD000904,2024-08-15,Delivered,Website,5090.1
+CUST00203,Diya,Patel,Vip,Platinum,Nagpur,Maharashtra,ORD000905,2024-08-15,Delivered,"Mobile App",58992.85
+CUST00147,Deepak,Ahmed,Regular,Silver,Noida,"Uttar Pradesh",ORD000906,2024-08-16,Delivered,"Mobile App",1540.35
+CUST00058,Nikhil,Sheikh,Regular,Silver,Mumbai,Maharashtra,ORD000907,2024-08-16,Delivered,Marketplace,228.48
+CUST00413,Divya,Prasad,"High Value",Gold,Hyderabad,Telangana,ORD000908,2024-08-16,Delivered,"Mobile App",1298.08
+CUST00460,Dev,Parekh,"At Risk",Bronze,Pune,Maharashtra,ORD000909,2024-08-17,Delivered,"Mobile App",2776.42
+CUST00466,Vikram,Sheikh,"At Risk",Silver,Bangalore,Karnataka,ORD000910,2024-08-17,Delivered,Website,3590.44
+CUST00134,Anil,Hegde,"High Value",Gold,Chennai,"Tamil Nadu",ORD000911,2024-08-18,Delivered,"Mobile App",4709.18
+CUST00245,Swati,Pawar,"High Value",Gold,Nagpur,Maharashtra,ORD000912,2024-08-18,Delivered,"Mobile App",14941.81
+CUST00192,Karan,Bhat,"At Risk",Silver,Kochi,Kerala,ORD000913,2024-08-18,Delivered,"Mobile App",3157.28
+CUST00225,Vijay,Arora,"High Value",Platinum,Delhi,Delhi,ORD000914,2024-08-18,Delivered,Website,14769.28
+CUST00468,Tanvi,Nair,"At Risk",Bronze,Hyderabad,Telangana,ORD000915,2024-08-18,Delivered,"Mobile App",228.48
+CUST00111,Swati,Raman,Regular,Silver,Chennai,"Tamil Nadu",ORD000916,2024-08-19,Cancelled,"Mobile App",1976.82
+CUST00260,Shubham,Kumar,"At Risk",Silver,Hyderabad,Telangana,ORD000917,2024-08-19,Delivered,Website,2371.48
+CUST00064,Purvi,Kale,Regular,Gold,Pune,Maharashtra,ORD000918,2024-08-20,Delivered,"Mobile App",8213.9
+CUST00457,Venkatesh,Kurup,Vip,Gold,Bangalore,Karnataka,ORD000919,2024-08-20,Delivered,Website,816.48
+CUST00009,Shreya,Choudhury,Regular,Silver,Kolkata,"West Bengal",ORD000920,2024-08-20,Delivered,"Mobile App",36312.62
+CUST00292,Gayathri,Gowda,"At Risk",Silver,Kochi,Kerala,ORD000921,2024-08-20,Delivered,Website,6155.02
+CUST00465,Karan,Krishnan,"At Risk",Silver,Hyderabad,Telangana,ORD000923,2024-08-21,Delivered,"Mobile App",22488.44
+CUST00464,Kiran,Tiwari,"At Risk",Silver,Noida,"Uttar Pradesh",ORD000924,2024-08-21,Cancelled,"Mobile App",625.8
+CUST00078,Nikhil,Arora,"At Risk",Silver,Patna,Bihar,ORD000926,2024-08-21,Delivered,"Mobile App",4691.18
+CUST00419,Deepika,Iyer,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD000927,2024-08-21,Delivered,"Mobile App",4301.78
+CUST00458,Vishal,Khan,"At Risk",Silver,Lucknow,"Uttar Pradesh",ORD000928,2024-08-22,Delivered,"Mobile App",671.48
+CUST00275,Praveen,Murthy,"High Value",Gold,Hyderabad,Telangana,ORD000929,2024-08-22,Delivered,"Mobile App",26422.18
+CUST00472,Sreya,Saikia,"At Risk",Silver,Guwahati,Assam,ORD000930,2024-08-23,Delivered,"Mobile App",7397.42
+CUST00293,Shubham,Nayak,"High Value",Gold,Bhubaneswar,Odisha,ORD000931,2024-08-23,Delivered,Marketplace,6393.24
+CUST00032,Sachin,Naik,Vip,Platinum,Mumbai,Maharashtra,ORD000932,2024-08-23,Returned,"Mobile App",5090.23
+CUST00369,Rukhsar,Mirza,Vip,Platinum,Hyderabad,Telangana,ORD000933,2024-08-23,Delivered,Website,2337.88
+CUST00032,Sachin,Naik,Vip,Platinum,Mumbai,Maharashtra,ORD000935,2024-08-24,Delivered,"Mobile App",555.22
+CUST00032,Sachin,Naik,Vip,Platinum,Mumbai,Maharashtra,ORD000936,2024-08-25,Delivered,"Mobile App",32484.34
+CUST00467,Shreya,Patel,"High Value",Gold,Pune,Maharashtra,ORD000937,2024-08-25,Delivered,Website,15950.18
+CUST00390,Radhika,Desai,"At Risk",Gold,Ahmedabad,Gujarat,ORD000938,2024-08-26,Delivered,"Mobile App",70409.7
+CUST00357,Ishaan,Mirza,"At Risk",Bronze,Ahmedabad,Gujarat,ORD000939,2024-08-27,Delivered,Website,9793.71
+CUST00320,Naveen,Chavan,"High Value",Platinum,Mumbai,Maharashtra,ORD000940,2024-08-27,Delivered,"Mobile App",1680.39
+CUST00411,Gaurav,Gupta,"At Risk",Silver,Noida,"Uttar Pradesh",ORD000941,2024-08-28,Delivered,"Mobile App",11887.6
+CUST00394,Manish,Shetty,New,Gold,Chennai,"Tamil Nadu",ORD000942,2024-08-28,Delivered,"Mobile App",6691.1
+CUST00474,Revathi,Menon,Regular,Bronze,Chennai,"Tamil Nadu",ORD000943,2024-08-28,Delivered,Marketplace,2697.03
+CUST00469,Saurabh,Meena,Regular,Bronze,Noida,"Uttar Pradesh",ORD000944,2024-08-28,Delivered,Website,432.9
+CUST00471,Yash,Chavan,Regular,Silver,Mumbai,Maharashtra,ORD000946,2024-08-29,Delivered,"Mobile App",10949.93
+CUST00378,Karan,Mehra,"At Risk",Bronze,Delhi,Delhi,ORD000947,2024-08-30,Delivered,"Mobile App",8079.75
+CUST00190,Sneha,Chauhan,"At Risk",Silver,Patna,Bihar,ORD000948,2024-08-30,Delivered,Website,70895.02
+CUST00470,Kiran,Balaji,"At Risk",Silver,Hyderabad,Telangana,ORD000949,2024-08-31,Delivered,"Mobile App",61593.44
+CUST00475,Harpreet,Singh,"At Risk",Bronze,Gurgaon,Haryana,ORD000950,2024-09-01,Delivered,"Mobile App",1762.53
+CUST00473,Amit,Kumar,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD000951,2024-09-01,Delivered,Website,427.16
+CUST00437,Shweta,Gupta,Vip,Platinum,Noida,"Uttar Pradesh",ORD000952,2024-09-01,Cancelled,Website,8288.5
+CUST00054,Shruti,Sen,"At Risk",Gold,Guwahati,Assam,ORD000953,2024-09-01,Delivered,"Mobile App",5315.7
+CUST00041,Kavya,Bose,"High Value",Gold,Bhubaneswar,Odisha,ORD000954,2024-09-01,Delivered,"Mobile App",66692.42
+CUST00365,Sowmya,Iyer,Regular,Silver,Chennai,"Tamil Nadu",ORD000957,2024-09-02,Delivered,"Mobile App",21503.44
+CUST00392,Pranav,Agarwal,"High Value",Gold,Chandigarh,Chandigarh,ORD000958,2024-09-02,Delivered,"Mobile App",3157.28
+CUST00248,Pranav,Iyer,"High Value",Gold,Bangalore,Karnataka,ORD000959,2024-09-02,Delivered,"Mobile App",4453.34
+CUST00362,Siddharth,Hussain,"High Value",Gold,Chennai,"Tamil Nadu",ORD000960,2024-09-03,Returned,"Mobile App",2974.74
+CUST00461,Anita,Narayanan,"High Value",Gold,Hyderabad,Telangana,ORD000961,2024-09-03,Delivered,"Mobile App",33143.81
+CUST00112,Aanya,More,"At Risk",Silver,Surat,Gujarat,ORD000962,2024-09-04,Returned,Marketplace,4154.08
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000963,2024-09-04,Delivered,Marketplace,1331.68
+CUST00207,Abhishek,Jadhav,"High Value",Gold,Pune,Maharashtra,ORD000964,2024-09-05,Delivered,Marketplace,47697.43
+CUST00041,Kavya,Bose,"High Value",Gold,Bhubaneswar,Odisha,ORD000965,2024-09-05,Delivered,"Mobile App",46684.46
+CUST00364,Saurabh,Chandran,Regular,Gold,Bangalore,Karnataka,ORD000966,2024-09-05,Cancelled,"Mobile App",117124.72
+CUST00437,Shweta,Gupta,Vip,Platinum,Noida,"Uttar Pradesh",ORD000967,2024-09-06,Delivered,Marketplace,1719.26
+CUST00387,Salman,Ali,"At Risk",Bronze,Hyderabad,Telangana,ORD000968,2024-09-06,Delivered,"Mobile App",8958.83
+CUST00109,Swapnil,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000969,2024-09-06,Delivered,Website,20728.58
+CUST00442,Aarav,More,"At Risk",Silver,Surat,Gujarat,ORD000970,2024-09-07,Delivered,"Mobile App",652.42
+CUST00038,Seema,Yadav,Vip,Platinum,Delhi,Delhi,ORD000971,2024-09-07,Delivered,Website,1990.68
+CUST00251,Shreya,Bhatt,Regular,Silver,Mumbai,Maharashtra,ORD000972,2024-09-07,Delivered,"Mobile App",1549.46
+CUST00146,Anita,Prasad,"High Value",Platinum,Lucknow,"Uttar Pradesh",ORD000973,2024-09-08,Returned,"Mobile App",2266.99
+CUST00073,Manish,Subramanian,Regular,Gold,Bangalore,Karnataka,ORD000974,2024-09-09,Delivered,Website,29428.02
+CUST00125,Simran,Gaikwad,Regular,Gold,Ahmedabad,Gujarat,ORD000975,2024-09-09,Delivered,Marketplace,4711.4
+CUST00437,Shweta,Gupta,Vip,Platinum,Noida,"Uttar Pradesh",ORD000977,2024-09-09,Delivered,"Mobile App",19075.88
+CUST00148,Sakshi,Khanna,"At Risk",Silver,Lucknow,"Uttar Pradesh",ORD000978,2024-09-09,Delivered,Website,6244.5
+CUST00125,Simran,Gaikwad,Regular,Gold,Ahmedabad,Gujarat,ORD000980,2024-09-09,Delivered,"Mobile App",13425.44
+CUST00477,Mayank,Sharma,Regular,Gold,Gurgaon,Haryana,ORD000981,2024-09-09,Delivered,Website,2073.85
+CUST00084,Kunal,Srivastava,Regular,Silver,Delhi,Delhi,ORD000982,2024-09-09,Delivered,Website,341.95
+CUST00374,Manish,Singh,"High Value",Platinum,Noida,"Uttar Pradesh",ORD000983,2024-09-10,Delivered,Website,1660.26
+CUST00352,Gaurav,Bansal,Regular,Silver,Lucknow,"Uttar Pradesh",ORD000984,2024-09-10,Delivered,"Mobile App",21382.98
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000985,2024-09-10,Cancelled,Marketplace,1407
+CUST00223,Akash,Kamat,Regular,Silver,Indore,"Madhya Pradesh",ORD000986,2024-09-12,Delivered,Marketplace,32230.01
+CUST00359,Arjun,Trivedi,Vip,Platinum,Pune,Maharashtra,ORD000987,2024-09-13,Delivered,"Mobile App",8049.26
+CUST00128,Naveen,Jadhav,"High Value",Platinum,Mumbai,Maharashtra,ORD000988,2024-09-13,Delivered,"Mobile App",215.95
+CUST00116,Ramesh,Sharma,Regular,Silver,Lucknow,"Uttar Pradesh",ORD000989,2024-09-15,Delivered,Website,341.95
+CUST00452,Aditi,Patel,"High Value",Platinum,Mumbai,Maharashtra,ORD000990,2024-09-16,Delivered,Website,4401.12
+CUST00025,Mayank,Mehta,Regular,Silver,Ahmedabad,Gujarat,ORD000991,2024-09-16,Delivered,Marketplace,8798.72
+CUST00339,Biswajit,Bose,"High Value",Gold,Guwahati,Assam,ORD000992,2024-09-17,Delivered,"Mobile App",15777.22
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD000993,2024-09-17,Delivered,"Mobile App",1496.28
+CUST00394,Manish,Shetty,New,Gold,Chennai,"Tamil Nadu",ORD000994,2024-09-17,Returned,"Mobile App",8551.38
+CUST00036,Swati,Khanna,"At Risk",Silver,Patna,Bihar,ORD000995,2024-09-18,Delivered,Marketplace,1106.84
+CUST00437,Shweta,Gupta,Vip,Platinum,Noida,"Uttar Pradesh",ORD000996,2024-09-18,Cancelled,Marketplace,4442.09
+CUST00388,Kritika,Iyer,Vip,Platinum,Hyderabad,Telangana,ORD000997,2024-09-18,Delivered,Website,24059.64
+CUST00068,Abhishek,Hegde,"High Value",Gold,Hyderabad,Telangana,ORD000998,2024-09-19,Delivered,Website,23836.74
+CUST00063,Deepika,Narayanan,Regular,Silver,Bangalore,Karnataka,ORD000999,2024-09-19,Cancelled,"Mobile App",1912.96
+CUST00027,Vignesh,Rao,Regular,Silver,Chennai,"Tamil Nadu",ORD001000,2024-09-20,Delivered,Website,6523.04
+CUST00074,Ankit,Narayanan,Regular,Silver,Bangalore,Karnataka,ORD001001,2024-09-20,Delivered,Website,2924.94
+CUST00478,Bhavna,Jain,Regular,Silver,Delhi,Delhi,ORD001002,2024-09-21,Delivered,Website,1029.28
+CUST00352,Gaurav,Bansal,Regular,Silver,Lucknow,"Uttar Pradesh",ORD001003,2024-09-22,Delivered,Marketplace,327.3
+CUST00101,Hardik,Bhosale,"At Risk",Bronze,Mumbai,Maharashtra,ORD001004,2024-09-23,Delivered,Website,2264.68
+CUST00241,Anjali,Joshi,Regular,Bronze,Delhi,Delhi,ORD001005,2024-09-24,Delivered,"Mobile App",2115.68
+CUST00002,Vishal,Hazarika,"High Value",Gold,Kolkata,"West Bengal",ORD001006,2024-09-24,Delivered,"Mobile App",66093.04
+CUST00342,Arjun,Bhatia,"At Risk",Bronze,Jaipur,Rajasthan,ORD001007,2024-09-24,Delivered,Website,7609.82
+CUST00413,Divya,Prasad,"High Value",Gold,Hyderabad,Telangana,ORD001008,2024-09-24,Delivered,Marketplace,106918.98
+CUST00130,Riya,Deshmukh,Regular,Silver,Pune,Maharashtra,ORD001009,2024-09-24,Delivered,Website,2491.94
+CUST00479,Omkar,Trivedi,"High Value",Gold,Mumbai,Maharashtra,ORD001010,2024-09-25,Delivered,Website,4128.82
+CUST00480,Shreya,Reddy,Regular,Silver,Bangalore,Karnataka,ORD001012,2024-09-26,Delivered,"Mobile App",988.84
+CUST00275,Praveen,Murthy,"High Value",Gold,Hyderabad,Telangana,ORD001013,2024-09-27,Delivered,Marketplace,4341.22
+CUST00437,Shweta,Gupta,Vip,Platinum,Noida,"Uttar Pradesh",ORD001014,2024-09-27,Returned,Website,3852.59
+CUST00180,Poonam,Bhatia,Vip,Platinum,Patna,Bihar,ORD001017,2024-09-28,Delivered,"Mobile App",3096.62
+CUST00046,Ankit,Ghosh,Regular,Silver,Kolkata,"West Bengal",ORD001018,2024-09-28,Delivered,"Mobile App",2309.16
+CUST00293,Shubham,Nayak,"High Value",Gold,Bhubaneswar,Odisha,ORD001019,2024-09-28,Cancelled,"Mobile App",287.07
+CUST00010,Ishaan,Bhatt,Regular,Silver,Indore,"Madhya Pradesh",ORD001020,2024-09-28,Delivered,"Mobile App",5169.4
+CUST00046,Ankit,Ghosh,Regular,Silver,Kolkata,"West Bengal",ORD001021,2024-09-28,Delivered,"Mobile App",68565.03
+CUST00364,Saurabh,Chandran,Regular,Gold,Bangalore,Karnataka,ORD001022,2024-09-28,Delivered,"Mobile App",13578.35
+CUST00441,Amit,Chandran,Regular,Silver,Hyderabad,Telangana,ORD001023,2024-09-28,Cancelled,"Mobile App",11845.17
+CUST00248,Pranav,Iyer,"High Value",Gold,Bangalore,Karnataka,ORD001024,2024-09-28,Delivered,Website,988.84
+CUST00210,Karan,Kurup,"At Risk",Silver,Bangalore,Karnataka,ORD001025,2024-09-29,Delivered,Website,23065.46
+CUST00125,Simran,Gaikwad,Regular,Gold,Ahmedabad,Gujarat,ORD001026,2024-09-29,Returned,"Mobile App",28824.85
+CUST00091,Ashok,Goyal,"High Value",Gold,Lucknow,"Uttar Pradesh",ORD001027,2024-09-29,Delivered,Website,2737.94
+CUST00186,Gaurav,Joshi,"High Value",Platinum,Gurgaon,Haryana,ORD001028,2024-09-29,Delivered,Website,13368.99
+CUST00134,Anil,Hegde,"High Value",Gold,Chennai,"Tamil Nadu",ORD001029,2024-09-29,Delivered,Marketplace,761.42
+CUST00054,Shruti,Sen,"At Risk",Gold,Guwahati,Assam,ORD001030,2024-09-30,Delivered,"Mobile App",25219.78
+CUST00457,Venkatesh,Kurup,Vip,Gold,Bangalore,Karnataka,ORD001031,2024-09-30,Delivered,Website,86201.48
+CUST00362,Siddharth,Hussain,"High Value",Gold,Chennai,"Tamil Nadu",ORD001032,2024-09-30,Delivered,Marketplace,428.67
+CUST00058,Nikhil,Sheikh,Regular,Silver,Mumbai,Maharashtra,ORD001033,2024-09-30,Delivered,"Mobile App",3482.42
+CUST00241,Anjali,Joshi,Regular,Bronze,Delhi,Delhi,ORD001034,2024-09-30,Delivered,Marketplace,5938.79
+CUST00134,Anil,Hegde,"High Value",Gold,Chennai,"Tamil Nadu",ORD001035,2024-10-01,Returned,Marketplace,116670.39
+CUST00165,Aarav,Verma,"High Value",Gold,Delhi,Delhi,ORD001036,2024-10-01,Delivered,Marketplace,1711.08
+CUST00036,Swati,Khanna,"At Risk",Silver,Patna,Bihar,ORD001037,2024-10-01,Delivered,Marketplace,1029.28
+CUST00418,Sonia,Murthy,Vip,Platinum,Kochi,Kerala,ORD001038,2024-10-01,Delivered,"Mobile App",7828.8
+CUST00226,Mohit,Gowda,Regular,Silver,Kochi,Kerala,ORD001039,2024-10-02,Delivered,"Mobile App",912.45
+CUST00248,Pranav,Iyer,"High Value",Gold,Bangalore,Karnataka,ORD001041,2024-10-02,Cancelled,Website,6385.31
+CUST00262,Meera,Deshmukh,New,Silver,Mumbai,Maharashtra,ORD001042,2024-10-02,Delivered,"Mobile App",7397.42
+CUST00457,Venkatesh,Kurup,Vip,Gold,Bangalore,Karnataka,ORD001043,2024-10-02,Delivered,Website,156672.01
+CUST00300,Ankit,Khanna,"At Risk",Silver,Delhi,Delhi,ORD001044,2024-10-02,Delivered,"Mobile App",11207.52
+CUST00348,Vishal,Mehta,Regular,Gold,Pune,Maharashtra,ORD001045,2024-10-02,Cancelled,"Mobile App",2234.82
+CUST00142,Siddharth,Modi,Vip,Platinum,Pune,Maharashtra,ORD001046,2024-10-02,Delivered,"Mobile App",47697.43
+CUST00182,Nilesh,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD001047,2024-10-02,Delivered,Website,111856.42
+CUST00303,Aarav,Hazarika,Regular,Silver,Guwahati,Assam,ORD001048,2024-10-03,Delivered,"Mobile App",6019.01
+CUST00408,Megha,Parekh,Vip,Platinum,Mumbai,Maharashtra,ORD001049,2024-10-03,Delivered,Marketplace,185170.32
+CUST00360,Shubham,Thakur,"At Risk",Silver,Noida,"Uttar Pradesh",ORD001050,2024-10-03,Delivered,Website,76346.62
+CUST00485,Vikram,Krishnan,"At Risk",Bronze,Hyderabad,Telangana,ORD001051,2024-10-03,Delivered,Website,9544.43
+CUST00293,Shubham,Nayak,"High Value",Gold,Bhubaneswar,Odisha,ORD001052,2024-10-03,Delivered,"Mobile App",2876.96
+CUST00236,Naveen,Bhosale,"At Risk",Silver,Nagpur,Maharashtra,ORD001053,2024-10-03,Delivered,"Mobile App",504.6
+CUST00180,Poonam,Bhatia,Vip,Platinum,Patna,Bihar,ORD001055,2024-10-03,Delivered,Website,2611.46
+CUST00492,Purvi,Trivedi,"At Risk",Bronze,Mumbai,Maharashtra,ORD001056,2024-10-04,Delivered,"Mobile App",2875.37
+CUST00484,Mahesh,Dubey,Regular,Bronze,Delhi,Delhi,ORD001057,2024-10-04,Returned,"Mobile App",13155.26
+CUST00453,Sowmya,Bhat,"At Risk",Bronze,Hyderabad,Telangana,ORD001058,2024-10-04,Delivered,"Mobile App",377.16
+CUST00283,Manpreet,Sharma,Regular,Silver,Chandigarh,Chandigarh,ORD001059,2024-10-04,Delivered,Marketplace,22053.32
+CUST00114,Ankit,Joshi,Vip,Platinum,Mumbai,Maharashtra,ORD001060,2024-10-04,Delivered,Website,7579.19
+CUST00489,Karan,Sheikh,"At Risk",Bronze,Hyderabad,Telangana,ORD001061,2024-10-04,Delivered,Marketplace,4655.95
+CUST00234,Swati,Mishra,Regular,Bronze,Lucknow,"Uttar Pradesh",ORD001062,2024-10-04,Cancelled,"Mobile App",68826.28
+CUST00439,Abhishek,Varma,"High Value",Gold,Kochi,Kerala,ORD001063,2024-10-04,Delivered,Website,1032.36
+CUST00363,Riya,Iyer,"High Value",Gold,Kochi,Kerala,ORD001064,2024-10-04,Returned,"Mobile App",1227.23
+CUST00477,Mayank,Sharma,Regular,Gold,Gurgaon,Haryana,ORD001065,2024-10-04,Delivered,Marketplace,38677.8
+CUST00207,Abhishek,Jadhav,"High Value",Gold,Pune,Maharashtra,ORD001066,2024-10-04,Delivered,"Mobile App",1029.68
+CUST00457,Venkatesh,Kurup,Vip,Gold,Bangalore,Karnataka,ORD001067,2024-10-04,Delivered,"Mobile App",17907.22
+CUST00008,Ashok,Kapoor,"At Risk",Bronze,Patna,Bihar,ORD001068,2024-10-04,Cancelled,"Mobile App",41148.46
+CUST00054,Shruti,Sen,"At Risk",Gold,Guwahati,Assam,ORD001069,2024-10-04,Delivered,Marketplace,4198.32
+CUST00325,Naveen,Raman,Vip,Platinum,Kochi,Kerala,ORD001071,2024-10-04,Delivered,"Mobile App",15611.07
+CUST00213,Pankaj,Mehta,Regular,Silver,Pune,Maharashtra,ORD001072,2024-10-04,Delivered,Website,327.3
+CUST00227,Ananya,Gaikwad,Regular,Silver,Mumbai,Maharashtra,ORD001073,2024-10-04,Delivered,Website,3775.44
+CUST00473,Amit,Kumar,"At Risk",Bronze,Chennai,"Tamil Nadu",ORD001074,2024-10-04,Returned,Website,33222.6
+CUST00442,Aarav,More,"At Risk",Silver,Surat,Gujarat,ORD001075,2024-10-05,Cancelled,"Mobile App",1140.72
+CUST00488,Snehal,Kale,"At Risk",Bronze,Mumbay,Maharashtra,ORD001076,2024-10-05,Delivered,"Mobile App",1899.92
+CUST00181,Ankit,Sen,"High Value",Gold,Kolkata,"West Bengal",ORD001077,2024-10-05,Delivered,"Mobile App",5901.28
+CUST00199,Isha,Malhotra,Regular,Gold,Chandigarh,Chandigarh,ORD001078,2024-10-05,Delivered,Website,6360.32
+CUST00467,Shreya,Patel,"High Value",Gold,Pune,Maharashtra,ORD001079,2024-10-05,Delivered,Website,3345.54
+CUST00418,Sonia,Murthy,Vip,Platinum,Kochi,Kerala,ORD001080,2024-10-05,Returned,Website,3127.29
+CUST00293,Shubham,Nayak,"High Value",Gold,Bhubaneswar,Odisha,ORD001081,2024-10-05,Delivered,"Mobile App",4372.26
+CUST00006,Kiran,Patel,"At Risk",Gold,Pune,Maharashtra,ORD001082,2024-10-05,Delivered,"Mobile App",3706.9
+CUST00230,Gurpreet,Sharma,"High Value",Platinum,Patna,Bihar,ORD001083,2024-10-06,Delivered,Website,3914.36
+CUST00490,Aamir,Hussain,Regular,Silver,Bhubaneswar,Odisha,ORD001084,2024-10-06,Delivered,Website,3794.29
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD001085,2024-10-06,Delivered,"Mobile App",4247.56
+CUST00128,Naveen,Jadhav,"High Value",Platinum,Mumbai,Maharashtra,ORD001086,2024-10-06,Delivered,"Mobile App",2024.88
+CUST00267,Harsh,Bhat,"At Risk",Bronze,Bangalore,Karnataka,ORD001087,2024-10-06,Returned,Website,26327.24
+CUST00092,Rekha,Jain,"At Risk",Silver,Delhi,Delhi,ORD001088,2024-10-06,Delivered,"Mobile App",788.42
+CUST00424,Vikram,Sawant,Regular,Gold,Mumbai,Maharashtra,ORD001089,2024-10-07,Returned,Website,6079.36
+CUST00105,Vijay,Joshi,"High Value",Gold,Lucknow,"Uttar Pradesh",ORD001090,2024-10-07,Delivered,"Mobile App",782.88
+CUST00068,Abhishek,Hegde,"High Value",Gold,Hyderabad,Telangana,ORD001092,2024-10-08,Delivered,Website,4177.82
+CUST00064,Purvi,Kale,Regular,Gold,Pune,Maharashtra,ORD001093,2024-10-08,Returned,Marketplace,4015.6
+CUST00174,Sakshi,Shinde,"High Value",Gold,Ahmedabad,Gujarat,ORD001094,2024-10-08,Delivered,"Mobile App",7779.54
+CUST00494,Dev,Parekh,"At Risk",Gold,Indore,"Madhya Pradesh",ORD001095,2024-10-08,Delivered,Marketplace,17491.92
+CUST00482,Gaurav,Balaji,"At Risk",Bronze,Bangalore,Karnataka,ORD001096,2024-10-08,Delivered,Website,2043.61
+CUST00181,Ankit,Sen,"High Value",Gold,Kolkata,"West Bengal",ORD001097,2024-10-08,Delivered,Website,2160.64
+CUST00173,Sachin,Chauhan,"High Value",Gold,Delhi,Delhi,ORD001098,2024-10-09,Delivered,"Mobile App",103572.36
+CUST00214,Divya,Siddiqui,"At Risk",Silver,Noida,"Uttar Pradesh",ORD001099,2024-10-09,Delivered,"Mobile App",5592.02
+CUST00203,Diya,Patel,Vip,Platinum,Nagpur,Maharashtra,ORD001100,2024-10-10,Delivered,"Mobile App",51871.62
+CUST00394,Manish,Shetty,New,Gold,Chennai,"Tamil Nadu",ORD001101,2024-10-10,Delivered,Marketplace,8219.17
+CUST00382,Darshan,Thakkar,"High Value",Gold,Mumbai,Maharashtra,ORD001102,2024-10-10,Delivered,"Mobile App",730.55
+CUST00483,Aamir,Mirza,Regular,Bronze,Delhi,Delhi,ORD001103,2024-10-10,Delivered,"Mobile App",13788.65
+CUST00304,Ayush,Menon,"High Value",Platinum,Chennai,"Tamil Nadu",ORD001104,2024-10-10,Delivered,Marketplace,6629.24
+CUST00483,Aamir,Mirza,Regular,Bronze,Delhi,Delhi,ORD001105,2024-10-10,Delivered,"Mobile App",2409.68
+CUST00457,Venkatesh,Kurup,Vip,Gold,Bangalore,Karnataka,ORD001106,2024-10-10,Delivered,"Mobile App",1238.83
+CUST00076,Varun,Gupta,"At Risk",Bronze,Delhi,Delhi,ORD001107,2024-10-11,Delivered,Website,4711.84
+CUST00412,Payal,Murthy,"High Value",Gold,Bangalore,Karnataka,ORD001108,2024-10-11,Delivered,"Mobile App",46559.26
+CUST00493,Mohit,Mirza,"At Risk",Bronze,Kolkata,"West Bengal",ORD001109,2024-10-11,Delivered,Website,1790.88
+CUST00121,Gayathri,Reddy,Regular,Bronze,Chennai,"Tamil Nadu",ORD001111,2024-10-11,Delivered,"Mobile App",16371
+CUST00040,Ayush,Kulkarni,"High Value",Gold,Pune,Maharashtra,ORD001112,2024-10-12,Delivered,"Mobile App",2209.1
+CUST00107,Harleen,Ranjan,Regular,Silver,Delhi,Delhi,ORD001113,2024-10-12,Delivered,"Mobile App",1540.35
+CUST00437,Shweta,Gupta,Vip,Platinum,Noida,"Uttar Pradesh",ORD001114,2024-10-12,Delivered,"Mobile App",5733.62
+CUST00085,Mansi,Roy,Regular,Silver,Kolkata,"West Bengal",ORD001115,2024-10-12,Delivered,Marketplace,4086.88
+CUST00243,Mohit,Mehta,"At Risk",Silver,Mumbai,Maharashtra,ORD001116,2024-10-12,Delivered,"Mobile App",3097.52

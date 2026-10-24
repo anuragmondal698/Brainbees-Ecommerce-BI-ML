@@ -1,0 +1,8 @@
+Check,Result
+Products with recorded sales,200
+Monthly product rows after calendar completion,6508
+Duplicate product-month rows,0
+Missing product IDs,0
+Missing monthly demand values,0
+Product-months with zero recorded demand,2722
+Products missing dimension match,7

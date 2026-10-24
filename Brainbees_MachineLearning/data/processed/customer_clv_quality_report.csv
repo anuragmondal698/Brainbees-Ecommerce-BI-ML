@@ -1,0 +1,12 @@
+Metric,Value
+First transaction date,2023-10-01
+Last transaction date,2026-10-02
+Lookback window months,12
+Future CLV target months,12
+Historical snapshot count,12
+Training rows,6960
+Training customers,696
+Training snapshots,12
+Current customers to score,971
+Training target missing values,0
+Orders missing line totals,0

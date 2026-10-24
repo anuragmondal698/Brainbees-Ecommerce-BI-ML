@@ -1,0 +1,938 @@
+Customer_ID,First_Name,Last_Name,Gender,City,State,Customer_Segment,Loyalty_Tier,Total_Orders,Total_Spending,Average_Order_Value
+CUST00001,Vinod,Nayak,Male,Kolkata,"West Bengal",Regular,Gold,9,133098.93,14788.769999999999
+CUST00002,Vishal,Hazarika,Male,Kolkata,"West Bengal","High Value",Gold,15,241754.13000000003,16116.942000000003
+CUST00003,Vikram,Singh,Male,Patna,Bihar,Regular,Bronze,5,28403.31,5680.662
+CUST00004,Sunita,Menon,Female,Hyderabad,Telangana,"At Risk",Bronze,1,4444.27,4444.27
+CUST00005,Rekha,Chandran,Female,Bangalore,Karnataka,"At Risk",Silver,1,26432.06,26432.06
+CUST00006,Kiran,Patel,Female,Pune,Maharashtra,"At Risk",Gold,7,29682.600000000006,4240.3714285714295
+CUST00008,Ashok,Kapoor,Male,Patna,Bihar,"At Risk",Bronze,3,52530.01,17510.003333333334
+CUST00009,Shreya,Choudhury,Female,Kolkata,"West Bengal",Regular,Silver,2,37121.54,18560.77
+CUST00010,Ishaan,Bhatt,Male,Indore,"Madhya Pradesh",Regular,Silver,4,92473.71999999999,23118.429999999997
+CUST00011,Rakesh,Bhatia,Male,Delhi,Delhi,New,Silver,1,23523.54,23523.54
+CUST00012,Pooja,Varma,Female,Hyderabad,Telangana,"At Risk",Bronze,1,555.22,555.22
+CUST00013,Rekha,Kale,Female,Mumbai,Maharashtra,Regular,Silver,9,33499.9,3722.211111111111
+CUST00015,Nilesh,Shah,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,48949.82,48949.82
+CUST00016,Manpreet,Bhatia,Female,Delhi,Delhi,"At Risk",Silver,1,81200.16,81200.16
+CUST00017,Rishabh,Das,Male,Guwahati,Assam,Regular,Bronze,3,10531.24,3510.4133333333334
+CUST00019,Preeti,Chauhan,Female,Gurgaon,Haryana,"At Risk",Bronze,3,17918.35,5972.783333333333
+CUST00020,Neha,Roy,Female,Guwahati,Assam,"At Risk",Bronze,6,32081.670000000002,5346.945000000001
+CUST00021,Akash,Menon,Male,Hyderabad,Telangana,"At Risk",Silver,3,35508.47,11836.156666666668
+CUST00022,Pankaj,Reddy,Male,Hyderabad,Telangana,"At Risk",Bronze,2,5144.9400000000005,2572.4700000000003
+CUST00023,Meera,Pillai,Female,Hyderabad,Telangana,"At Risk",Silver,1,94054.26,94054.26
+CUST00024,Kabir,Pillai,Male,Bangalore,Karnataka,Regular,Bronze,5,23310.949999999997,4662.19
+CUST00025,Mayank,Mehta,Male,Ahmedabad,Gujarat,Regular,Silver,14,69180.66,4941.475714285714
+CUST00026,Nikhil,Varma,Male,Bangalore,Karnataka,"At Risk",Bronze,1,16234.44,16234.44
+CUST00027,Vignesh,Rao,Male,Chennai,"Tamil Nadu",Regular,Silver,10,43211.93,4321.193
+CUST00028,Payal,Jadhav,Female,Indore,"Madhya Pradesh","At Risk",Gold,4,153233.09,38308.2725
+CUST00029,Tarun,Deshmukh,Male,Ahmedabad,Gujarat,"At Risk",Bronze,0,0,0
+CUST00030,Naveen,Varma,Other,Bangalore,Karnataka,Regular,Silver,3,27504.94,9168.313333333334
+CUST00031,Ishaan,Naidu,Male,Kochi,Kerala,"At Risk",Silver,1,55362.37,55362.37
+CUST00032,Sachin,Naik,Male,Mumbai,Maharashtra,Vip,Platinum,16,364310.01999999996,22769.376249999998
+CUST00033,Gaurav,Trivedi,Male,Pune,Maharashtra,"At Risk",Bronze,5,72682.75,14536.55
+CUST00036,Swati,Khanna,Female,Patna,Bihar,"At Risk",Silver,7,88746.76,12678.108571428571
+CUST00037,Siddharth,Thakur,Male,Noida,"Uttar Pradesh",Regular,Bronze,6,66192.01,11032.001666666665
+CUST00038,Seema,Yadav,Female,Delhi,Delhi,Vip,Platinum,21,499204.14,23771.625714285714
+CUST00039,Nisha,Gupta,Female,Jaipur,Rajasthan,"At Risk",Bronze,2,4811.8,2405.9
+CUST00040,Ayush,Kulkarni,Male,Pune,Maharashtra,"High Value",Gold,13,119021.91999999998,9155.532307692307
+CUST00041,Kavya,Bose,Female,Bhubaneswar,Odisha,"High Value",Gold,7,234010.05000000002,33430.00714285715
+CUST00042,Vikram,Patel,unknown,Surat,Gujarat,"At Risk",Bronze,1,5659.65,5659.65
+CUST00043,Aditya,Malik,Male,Indore,"Madhya Pradesh",New,Bronze,1,366.42,366.42
+CUST00044,Saurabh,Reddy,Male,Hyderabad,Telangana,"At Risk",Bronze,1,2056.98,2056.98
+CUST00045,Arun,Menon,Male,Bangalore,Karnataka,Regular,Silver,3,51870.31,17290.103333333333
+CUST00046,Ankit,Ghosh,Male,Kolkata,"West Bengal",Regular,Silver,11,107507.24,9773.385454545454
+CUST00047,Anil,Ansari,Male,Patna,Bihar,"At Risk",Bronze,5,17346.32,3469.264
+CUST00048,Ishaan,Khanna,Male,Gurgaon,Haryana,"At Risk",Bronze,1,612.42,612.42
+CUST00049,Vivaan,Malik,Male,Chandigarh,Chandigarh,"At Risk",Silver,4,94191.87,23547.9675
+CUST00051,Utkarsh,Narayanan,Male,Hyderabad,Telangana,"At Risk",Bronze,1,27785.64,27785.64
+CUST00052,Shruti,Arora,Female,Delhi,Delhi,Regular,Silver,10,91616.97,9161.697
+CUST00053,Swati,Ali,Female,Noida,"Uttar Pradesh",Regular,Silver,6,108410.57,18068.428333333333
+CUST00054,Shruti,Sen,Female,Guwahati,Assam,"At Risk",Gold,14,227234.74000000002,16231.052857142859
+CUST00055,Ananya,Chatterjee,Female,Guwahati,Assam,Vip,Platinum,16,315156.99,19697.311875
+CUST00056,Kabir,Modi,Male,Pune,Maharashtra,"High Value",Gold,15,235102.56,15673.503999999999
+CUST00057,Ayush,Deshmukh,Male,Pune,Maharashtra,"At Risk",Bronze,1,494.88,494.88
+CUST00058,Nikhil,Sheikh,Male,Mumbai,Maharashtra,Regular,Silver,18,199942.22000000003,11107.901111111112
+CUST00059,Rohan,Sawant,Male,Mumbai,Maharashtra,"High Value",Gold,7,259016.74000000002,37002.391428571435
+CUST00060,Tanvi,Gupta,Female,Noida,"Uttar Pradesh",Regular,Gold,10,120009.95,12000.994999999999
+CUST00061,Deepika,Thakkar,Female,Indore,"Madhya Pradesh",Regular,Gold,9,142457.75,15828.638888888889
+CUST00062,Payal,Ranjan,Female,Delhi,Delhi,"At Risk",Bronze,1,2296.6,2296.6
+CUST00063,Deepika,Narayanan,Female,Bangalore,Karnataka,Regular,Silver,13,35314.439999999995,2716.4953846153844
+CUST00064,Purvi,Kale,Female,Pune,Maharashtra,Regular,Gold,18,262755.72,14597.539999999999
+CUST00065,Akash,Pandey,Male,Delhi,Delhi,"High Value",Gold,18,158145.03000000003,8785.835000000001
+CUST00066,Saurabh,Kamat,Male,Mumbai,Maharashtra,Regular,Silver,7,27761.179999999997,3965.8828571428567
+CUST00067,Isha,Hussain,Female,Noida,"Uttar Pradesh","At Risk",Silver,4,91777.66,22944.415
+CUST00068,Abhishek,Hegde,Male,Hyderabad,Telangana,"High Value",Gold,12,189877.68,15823.14
+CUST00069,Sachin,Agarwal,Male,Gurgaon,Haryana,"High Value",Gold,12,307603.82,25633.65166666667
+CUST00070,Vandana,Agarwal,Female,Lucknow,"Uttar Pradesh","At Risk",Bronze,2,65958.26000000001,32979.130000000005
+CUST00071,Anjali,Malik,Female,Pune,Maharashtra,Regular,Gold,9,136171.19,15130.132222222222
+CUST00072,Ashok,Prasad,Male,Delhi,Delhi,"At Risk",Bronze,1,7503.18,7503.18
+CUST00073,Manish,Subramanian,Male,Bangalore,Karnataka,Regular,Gold,10,146107.67,14610.767000000002
+CUST00074,Ankit,Narayanan,Male,Bangalore,Karnataka,Regular,Silver,10,56597.43,5659.743
+CUST00075,Shabana,Sheikh,Female,Noida,"Uttar Pradesh","At Risk",Bronze,1,2045.23,2045.23
+CUST00076,Varun,Gupta,Male,Delhi,Delhi,"At Risk",Bronze,2,5160.860000000001,2580.4300000000003
+CUST00078,Nikhil,Arora,Male,Patna,Bihar,"At Risk",Silver,7,130715.17,18673.595714285715
+CUST00080,Dev,Narayanan,Male,Bangalore,Karnataka,"At Risk",Silver,1,3733.99,3733.99
+CUST00081,Kabir,Raman,Male,Bangalore,Karnataka,"At Risk",Silver,6,27115.73,4519.288333333333
+CUST00082,Bhavna,Shinde,Female,Mumbai,Maharashtra,"At Risk",Silver,3,71485.67,23828.556666666667
+CUST00083,Janvi,Sawant,Female,Nagpur,Maharashtra,"High Value",Gold,7,158968.23,22709.747142857144
+CUST00084,Kunal,Srivastava,Male,Delhi,Delhi,Regular,Silver,4,69740.87999999999,17435.219999999998
+CUST00085,Mansi,Roy,Female,Kolkata,"West Bengal",Regular,Silver,5,43559.979999999996,8711.996
+CUST00086,Rajesh,More,Male,Ahmedabad,Gujarat,"At Risk",Bronze,4,12696.349999999999,3174.0874999999996
+CUST00088,Amit,Deshmukh,Male,Pune,Maharashtra,"At Risk",Bronze,1,2841.55,2841.55
+CUST00089,Vinod,Varma,Male,Chennai,"Tamil Nadu",Regular,Silver,11,52044.740000000005,4731.34
+CUST00090,Saurabh,Khanna,Male,Delhi,Delhi,"At Risk",Bronze,1,5097.45,5097.45
+CUST00091,Ashok,Goyal,Male,Lucknow,"Uttar Pradesh","High Value",Gold,10,182805.26,18280.526
+CUST00092,Rekha,Jain,unknown,Delhi,Delhi,"At Risk",Silver,6,23527.929999999997,3921.3216666666663
+CUST00093,Amit,Goyal,Male,Delhi,Delhi,"At Risk",Bronze,1,1658.58,1658.58
+CUST00094,Saurabh,Parekh,Male,Surat,Gujarat,"At Risk",Bronze,2,10878.099999999999,5439.049999999999
+CUST00095,Varun,Goyal,Male,Chandigarh,Chandigarh,"At Risk",Bronze,1,4444.27,4444.27
+CUST00096,Anitha,Raman,Female,Bangalore,Karnataka,"At Risk",Bronze,1,821.21,821.21
+CUST00098,Mansi,Saxena,Female,Lucknow,"Uttar Pradesh","At Risk",Bronze,2,8589.92,4294.96
+CUST00099,Tanvi,Nair,Female,Bangalore,Karnataka,"At Risk",Silver,8,123963.45,15495.43125
+CUST00100,Rajesh,Prasad,Male,Delhi,Delhi,"At Risk",Bronze,0,0,0
+CUST00101,Hardik,Bhosale,Male,Mumbai,Maharashtra,"At Risk",Bronze,4,5159.51,1289.8775
+CUST00102,Ramesh,Kurup,Male,Hyderabad,Telangana,Regular,Silver,7,54661.899999999994,7808.842857142857
+CUST00103,Rajesh,Kamat,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,3715.94,3715.94
+CUST00104,Pallavi,Jadhav,Female,Indore,"Madhya Pradesh","At Risk",Silver,1,70589.45,70589.45
+CUST00105,Vijay,Joshi,Male,Lucknow,"Uttar Pradesh","High Value",Gold,21,226724.49000000002,10796.404285714287
+CUST00107,Harleen,Ranjan,Female,Delhi,Delhi,Regular,Silver,13,92036.96999999999,7079.7669230769225
+CUST00108,Anjali,Chavan,Female,Pune,Maharashtra,Regular,Bronze,3,8412.91,2804.3033333333333
+CUST00109,Swapnil,Shinde,Male,Ahmedabad,Gujarat,"High Value",Gold,26,267325.1,10281.734615384614
+CUST00110,Kiran,Mohanty,Female,Kolkata,"West Bengal","At Risk",Bronze,0,0,0
+CUST00111,Swati,Raman,Female,Chennai,"Tamil Nadu",Regular,Silver,10,73492.35,7349.235000000001
+CUST00112,Aanya,More,Female,Surat,Gujarat,"At Risk",Silver,5,92111.99,18422.398
+CUST00113,Sachin,Saxena,Male,Lucknow,"Uttar Pradesh",Regular,Gold,9,158030.82,17558.98
+CUST00114,Ankit,Joshi,Male,Mumbai,Maharashtra,Vip,Platinum,24,333929.00000000006,13913.708333333336
+CUST00115,Biswajit,Gogoi,Male,Guwahati,Assam,Regular,Silver,15,44905.70999999999,2993.7139999999995
+CUST00116,Ramesh,Sharma,Male,Lucknow,"Uttar Pradesh",Regular,Silver,9,51616.19,5735.1322222222225
+CUST00117,Radhika,Chauhan,Female,Chandigarh,Chandigarh,"High Value",Gold,13,335261.02,25789.30923076923
+CUST00118,Mayank,Ranjan,Male,Delhi,Delhi,Regular,Bronze,3,18273.489999999998,6091.163333333333
+CUST00119,Rajesh,Naidu,Male,Bangalore,Karnataka,"At Risk",Silver,1,67886.64,67886.64
+CUST00120,Sachin,Nair,Male,Bangalore,Karnataka,Regular,Silver,4,110273.29,27568.3225
+CUST00121,Gayathri,Reddy,Female,Chennai,"Tamil Nadu",Regular,Bronze,12,140456.65000000002,11704.720833333335
+CUST00122,Akash,Sharma,Male,Jaipur,Rajasthan,New,Silver,9,44746.850000000006,4971.872222222223
+CUST00124,Amit,Thakkar,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,98907.26,98907.26
+CUST00125,Simran,Gaikwad,Female,Ahmedabad,Gujarat,Regular,Gold,14,150936.78999999998,10781.199285714285
+CUST00126,Deepak,Menon,Male,Kochi,Kerala,Regular,Platinum,8,124818.57,15602.32125
+CUST00127,Pranav,Gowda,Male,Bangalore,Karnataka,Regular,Silver,4,37741.94,9435.485
+CUST00128,Naveen,Jadhav,Male,Mumbai,Maharashtra,"High Value",Platinum,23,280599.08999999997,12199.960434782608
+CUST00129,Abhishek,Panda,Male,Kolkata,"West Bengal",Regular,Gold,9,139783.19,15531.465555555556
+CUST00130,Riya,Deshmukh,Female,Pune,Maharashtra,Regular,Silver,5,109130,21826
+CUST00131,Nikhil,Hegde,Male,Bangalore,Karnataka,"High Value",Gold,20,181335.59999999998,9066.779999999999
+CUST00132,Vinod,Kurup,Male,Bangalore,Karnataka,"At Risk",Bronze,3,94222.06000000001,31407.353333333336
+CUST00133,Nikhil,Behera,Male,Bhubaneswar,Odisha,"At Risk",Silver,3,61302.74,20434.246666666666
+CUST00134,Anil,Hegde,Male,Chennai,"Tamil Nadu","High Value",Gold,16,441272.75999999995,27579.547499999997
+CUST00136,Naveen,Jain,Male,Gurgaon,Haryana,"At Risk",Silver,8,80733.19,10091.64875
+CUST00137,Arjun,Malhotra,Male,Delhi,Delhi,"At Risk",Bronze,1,852.75,852.75
+CUST00138,Dev,Chandran,Male,Bangalore,Karnataka,"At Risk",Bronze,1,1012.44,1012.44
+CUST00139,Tanvi,Bhat,Female,Hyderabad,Telangana,"At Risk",Gold,5,195933.54,39186.708
+CUST00140,Anil,Jha,Male,Jaipur,Rajasthan,"At Risk",Bronze,1,4721.02,4721.02
+CUST00141,Utkarsh,Varma,Male,Bangalore,Karnataka,Regular,Bronze,5,13937.23,2787.446
+CUST00142,Siddharth,Modi,Male,Pune,Maharashtra,Vip,Platinum,55,491263.1600000001,8932.057454545456
+CUST00143,Amit,Barman,Male,Kolkata,"West Bengal","At Risk",Bronze,1,3256.28,3256.28
+CUST00144,Gaurav,Naik,Male,Mumbai,Maharashtra,Regular,Silver,12,37068.66999999999,3089.0558333333324
+CUST00145,Ashok,Meena,Male,Delhi,Delhi,"At Risk",Bronze,3,87461.87,29153.956666666665
+CUST00146,Anita,Prasad,Female,Lucknow,"Uttar Pradesh","High Value",Platinum,14,358792.14,25628.010000000002
+CUST00147,Deepak,Ahmed,Male,Noida,"Uttar Pradesh",Regular,Silver,10,33051.74,3305.174
+CUST00148,Sakshi,Khanna,Female,Lucknow,"Uttar Pradesh","At Risk",Silver,4,96440.39,24110.0975
+CUST00149,Vinod,Rao,Male,Kochi,Kerala,Vip,Platinum,19,462940.1299999999,24365.269999999993
+CUST00150,Yash,Singh,Male,Jaipur,Rajasthan,Regular,Silver,6,108103.67000000001,18017.278333333335
+CUST00151,Kunal,Parekh,Male,Indore,"Madhya Pradesh",Regular,Silver,4,65497.04000000001,16374.260000000002
+CUST00152,Sakshi,Modi,Female,Mumbai,Maharashtra,"At Risk",Bronze,1,390.1,390.1
+CUST00153,Vivaan,Prasad,Male,Chennai,"Tamil Nadu","At Risk",Silver,5,141574.23,28314.846
+CUST00154,Megha,Balaji,Female,Chennai,"Tamil Nadu","At Risk",Silver,1,68299.3,68299.3
+CUST00155,Utkarsh,Kurup,Male,Bangalore,Karnataka,"High Value",Gold,14,268451.31000000006,19175.093571428577
+CUST00156,Simran,Banerjee,Female,Kolkata,"West Bengal","At Risk",Bronze,1,55546.36,55546.36
+CUST00157,Rekha,Dubey,Female,Lucknow,"Uttar Pradesh",Regular,Bronze,2,2720.92,1360.46
+CUST00158,Megha,Meena,Female,Delhi,Delhi,"High Value",Gold,9,162815.91,18090.656666666666
+CUST00159,Sanjay,Shetty,Male,Chennai,"Tamil Nadu","At Risk",Bronze,2,4846.48,2423.24
+CUST00160,Meera,Dubey,Female,Gurgaon,Haryana,"At Risk",Bronze,0,0,0
+CUST00161,Aditya,Sharma,Other,Noida,"Uttar Pradesh","At Risk",Bronze,6,82381.13,13730.188333333334
+CUST00162,Hiren,Bhatt,Male,Mumbai,Maharashtra,Regular,Silver,6,138052.55,23008.75833333333
+CUST00163,Nikhil,Pawar,Male,Ahmedabad,Gujarat,"At Risk",Bronze,1,38040.8,38040.8
+CUST00165,Aarav,Verma,Male,Delhi,Delhi,"High Value",Gold,16,193838.85,12114.928125
+CUST00166,Ishaan,Prasad,Male,Bangalore,Karnataka,Regular,Silver,6,81645.36,13607.56
+CUST00167,Shreya,Rao,Female,Bangalore,Karnataka,"High Value",Platinum,15,293152.0400000001,19543.469333333338
+CUST00168,Utkarsh,Parekh,Male,Pune,Maharashtra,"At Risk",Bronze,1,547.08,547.08
+CUST00169,Payal,Reddy,Female,Bangalore,Karnataka,"At Risk",Silver,1,27823.22,27823.22
+CUST00170,Aarav,Hegde,Male,Bangalore,Karnataka,Regular,Silver,9,78206.77,8689.641111111112
+CUST00171,Harpreet,Srivastava,Male,Noida,"Uttar Pradesh","At Risk",Bronze,2,33718.93,16859.465
+CUST00172,Omkar,Deshmukh,Male,Nagpur,Maharashtra,"At Risk",Silver,2,94621.67000000001,47310.83500000001
+CUST00173,Sachin,Chauhan,Male,Delhi,Delhi,"High Value",Gold,9,266454.37,29606.04111111111
+CUST00174,Sakshi,Shinde,Female,Ahmedabad,Gujarat,"High Value",Gold,44,373670.8799999999,8492.519999999997
+CUST00175,Rutuja,Patil,Female,Indore,"Madhya Pradesh","At Risk",Silver,4,42442.39,10610.5975
+CUST00176,Siddharth,Rao,Male,Bangalore,Karnataka,"High Value",Gold,15,175717.47999999998,11714.498666666665
+CUST00177,Gayathri,Gowda,Female,Bangalore,Karnataka,"At Risk",Bronze,1,384.68,384.68
+CUST00178,Manish,Naidu,Male,Chennai,"Tamil Nadu","At Risk",Bronze,2,4481.94,2240.97
+CUST00179,Ananya,Gowda,Female,Chennai,"Tamil Nadu","At Risk",Bronze,1,2581.55,2581.55
+CUST00180,Poonam,Bhatia,Other,Patna,Bihar,Vip,Platinum,32,525513.6599999999,16422.301874999997
+CUST00181,Ankit,Sen,Male,Kolkata,"West Bengal","High Value",Gold,26,323749.32999999996,12451.897307692307
+CUST00182,Nilesh,Shinde,Male,Ahmedabad,Gujarat,"High Value",Gold,12,158257.49000000002,13188.124166666668
+CUST00183,Snehal,Kamat,Female,Mumbai,Maharashtra,"At Risk",Bronze,1,11542.72,11542.72
+CUST00184,Mohit,Menon,Male,Chennai,"Tamil Nadu",Vip,Platinum,12,452638.88999999996,37719.907499999994
+CUST00185,Pankaj,Pillai,Male,Hyderabad,Telangana,"At Risk",Silver,7,48630.42,6947.202857142857
+CUST00186,Gaurav,Joshi,Male,Gurgaon,Haryana,"High Value",Platinum,14,327652.81999999995,23403.772857142852
+CUST00187,Megha,Patil,Female,Mumbai,Maharashtra,"At Risk",Bronze,1,926.35,926.35
+CUST00188,Pankaj,Krishnan,Male,Bangalore,Karnataka,"At Risk",Silver,2,53190.94,26595.47
+CUST00189,Manpreet,Mishra,Female,Chandigarh,Chandigarh,Regular,Silver,10,78495.9,7849.589999999999
+CUST00190,Sneha,Chauhan,Female,Patna,Bihar,"At Risk",Silver,8,109544.35,13693.04375
+CUST00191,Arjun,Desai,Male,Surat,Gujarat,Regular,Silver,7,115499.44000000002,16499.920000000002
+CUST00192,Karan,Bhat,Male,Kochi,Kerala,"At Risk",Silver,4,51684.42,12921.105
+CUST00193,Aditi,Sundaram,unknown,Hyderabad,Telangana,"At Risk",Bronze,1,7787.41,7787.41
+CUST00194,Isha,Bhatt,Female,Nagpur,Maharashtra,"At Risk",Silver,2,25769.89,12884.945
+CUST00195,Sachin,Mehra,Male,Jaipur,Rajasthan,"At Risk",Bronze,1,13095.74,13095.74
+CUST00196,Mahesh,Thakur,Male,Chandigarh,Chandigarh,"High Value",Platinum,7,275204.64999999997,39314.95
+CUST00197,Naveen,Jadhav,Male,Ahmedabad,Gujarat,"At Risk",Silver,6,205265.27000000002,34210.878333333334
+CUST00198,Anil,Subramanian,Male,Bangalore,Karnataka,Regular,Silver,2,37647.29,18823.645
+CUST00199,Isha,Malhotra,Female,Chandigarh,Chandigarh,Regular,Gold,14,144435.4,10316.814285714285
+CUST00200,Omkar,Trivedi,Male,Pune,Maharashtra,Regular,Silver,3,68432.70999999999,22810.903333333332
+CUST00201,Ayush,Jha,Male,Delhi,Delhi,"At Risk",Silver,1,30082.23,30082.23
+CUST00202,Mansi,Kamat,Female,Pune,Maharashtra,"At Risk",Gold,4,133050.35,33262.5875
+CUST00203,Diya,Patel,Female,Nagpur,Maharashtra,Vip,Platinum,40,783643.52,19591.088
+CUST00204,Akash,Menon,Male,Bangalore,Karnataka,Regular,Silver,11,104963.38999999998,9542.126363636362
+CUST00205,Aditi,Jha,Female,Delhi,Delhi,"High Value",Gold,5,207203.63,41440.726
+CUST00206,Hiren,Patel,Male,Indore,"Madhya Pradesh","At Risk",Bronze,0,0,0
+CUST00207,Abhishek,Jadhav,Male,Pune,Maharashtra,"High Value",Gold,11,160573.36,14597.57818181818
+CUST00208,Shruti,Saxena,Female,Delhi,Delhi,"At Risk",Bronze,1,1568.25,1568.25
+CUST00209,Sneha,Rao,Female,Bangalore,Karnataka,"At Risk",Silver,2,83800.7,41900.35
+CUST00210,Karan,Kurup,Male,Bangalore,Karnataka,"At Risk",Silver,5,87597.8,17519.56
+CUST00211,Aarav,Deshmukh,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,1863.22,1863.22
+CUST00212,Shruti,Patel,Female,Ahmedabad,Gujarat,"At Risk",Bronze,1,20863.9,20863.9
+CUST00213,Pankaj,Mehta,Male,Pune,Maharashtra,Regular,Silver,7,59552.46000000001,8507.494285714287
+CUST00214,Divya,Siddiqui,Female,Noida,"Uttar Pradesh","At Risk",Silver,4,97239.56999999999,24309.892499999998
+CUST00215,Ananya,Sharma,Female,Jaipur,Rajasthan,"At Risk",Bronze,1,1050.32,1050.32
+CUST00216,Radhika,Chatterjee,Female,Kolkata,"West Bengal",Regular,Silver,13,183962.03000000003,14150.925384615386
+CUST00217,Anita,Sundaram,Female,Hyderabad,Telangana,"At Risk",Bronze,1,3796.8,3796.8
+CUST00219,Payal,Subramanian,Female,Chennai,"Tamil Nadu","At Risk",Silver,8,104824.27,13103.03375
+CUST00221,Bhavna,Srivastava,Female,Gurgaon,Haryana,"At Risk",Bronze,1,2738.9,2738.9
+CUST00222,Mukesh,Rathore,Male,Patna,Bihar,Regular,Silver,4,101015.28,25253.82
+CUST00223,Akash,Kamat,Male,Indore,"Madhya Pradesh",Regular,Silver,4,40045.409999999996,10011.352499999999
+CUST00224,Bhavani,Chandran,Female,Chennai,"Tamil Nadu",Regular,Gold,9,148340.1,16482.233333333334
+CUST00225,Vijay,Arora,Male,Delhi,Delhi,"High Value",Platinum,30,287960.19000000006,9598.673000000003
+CUST00226,Mohit,Gowda,Male,Kochi,Kerala,Regular,Silver,14,69387.37,4956.240714285714
+CUST00227,Ananya,Gaikwad,Female,Mumbai,Maharashtra,Regular,Silver,5,82779.3,16555.86
+CUST00228,Rohan,Mishra,Male,Delhi,Delhi,Regular,Silver,8,96350.81999999999,12043.852499999999
+CUST00229,Naveen,Balaji,Male,Kochi,Kerala,"At Risk",Silver,3,43247.240000000005,14415.746666666668
+CUST00230,Gurpreet,Sharma,Male,Patna,Bihar,"High Value",Platinum,16,292698.66,18293.66625
+CUST00231,Simran,Sharma,Female,Jaipur,Rajasthan,Regular,Bronze,3,76627.79,25542.596666666665
+CUST00232,Aditya,Singh,Male,Chandigarh,Chandigarh,"High Value",Gold,6,162692.55,27115.425
+CUST00233,Deepak,Bhosale,Male,Nagpur,Maharashtra,"At Risk",Bronze,1,539.1,539.1
+CUST00234,Swati,Mishra,Female,Lucknow,"Uttar Pradesh",Regular,Bronze,9,83248.80999999998,9249.867777777776
+CUST00235,Shreya,Gaikwad,Female,Mumbai,Maharashtra,"At Risk",Silver,1,85152.3,85152.3
+CUST00236,Naveen,Bhosale,Male,Nagpur,Maharashtra,"At Risk",Silver,6,109693.02,18282.170000000002
+CUST00237,Divya,Dubey,Female,Chandigarh,Chandigarh,Regular,Bronze,5,10904.27,2180.8540000000003
+CUST00239,Akash,Krishnan,Male,Hyderabad,Telangana,Regular,Gold,12,81563.03,6796.919166666667
+CUST00240,Lakshmi,Krishnan,Female,Kochi,Kerala,Regular,Gold,10,150817.31999999998,15081.731999999998
+CUST00241,Anjali,Joshi,Female,Delhi,Delhi,Regular,Bronze,7,129697.79000000001,18528.255714285715
+CUST00242,Nisha,Saxena,Female,Jaipur,Rajasthan,"At Risk",Bronze,3,13436.7,4478.900000000001
+CUST00243,Mohit,Mehta,Male,Mumbai,Maharashtra,"At Risk",Silver,4,83732.95999999999,20933.239999999998
+CUST00244,Kavya,Modi,unknown,Ahmedabad,Gujarat,"At Risk",Bronze,1,55418.5,55418.5
+CUST00245,Swati,Pawar,Female,Nagpur,Maharashtra,"High Value",Gold,17,220408.52,12965.20705882353
+CUST00246,Aditi,Khanna,Female,Delhi,Delhi,Regular,Bronze,3,14912.15,4970.716666666666
+CUST00247,Sneha,Naik,Female,Mumbai,Maharashtra,"At Risk",Bronze,1,1023.3,1023.3
+CUST00248,Pranav,Iyer,Male,Bangalore,Karnataka,"High Value",Gold,27,196713.31,7285.6781481481485
+CUST00249,Rishabh,Modi,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,5463.36,5463.36
+CUST00250,Preeti,Bhatt,Female,Indore,"Madhya Pradesh","At Risk",Bronze,6,21465.409999999996,3577.5683333333327
+CUST00251,Shreya,Bhatt,Female,Mumbai,Maharashtra,Regular,Silver,6,86331.42,14388.57
+CUST00252,Sunita,Thakkar,Female,Surat,Gujarat,"At Risk",Silver,2,60675.17,30337.585
+CUST00253,Arnab,Mondal,Male,Guwahati,Assam,"At Risk",Bronze,1,6691.1,6691.1
+CUST00254,Naveen,Naik,Male,Mumbai,Maharashtra,Regular,Gold,17,191051.77,11238.339411764706
+CUST00255,Anjali,Naik,Female,Nagpur,Maharashtra,"At Risk",Bronze,1,4309.7,4309.7
+CUST00256,Mohit,Modi,Male,Surat,Gujarat,Regular,Gold,8,126217.23999999999,15777.154999999999
+CUST00257,Sanjay,Ranjan,Male,Delhi,Delhi,"At Risk",Bronze,1,2167.7,2167.7
+CUST00258,Mahesh,Kurup,Male,Chennai,"Tamil Nadu","At Risk",Bronze,3,11102.21,3700.736666666666
+CUST00259,Kavya,Mehta,Female,Mumbai,Maharashtra,Regular,Bronze,3,65467.9,21822.633333333335
+CUST00260,Shubham,Kumar,Male,Hyderabad,Telangana,"At Risk",Silver,8,47201.15,5900.14375
+CUST00261,Vivaan,Bhatia,Male,Delhi,Delhi,"At Risk",Silver,5,83732.4,16746.48
+CUST00262,Meera,Deshmukh,Female,Mumbai,Maharashtra,New,Silver,5,72289.08,14457.816
+CUST00263,Bhavna,Bhosale,Female,Mumbai,Maharashtra,New,Bronze,1,2014.99,2014.99
+CUST00264,Vishal,Chauhan,Male,Delhi,Delhi,Regular,Bronze,2,71843.48999999999,35921.744999999995
+CUST00265,Gaurav,Shinde,Male,Mumbai,Maharashtra,"At Risk",Silver,5,30296.68,6059.336
+CUST00266,Harsh,Naidu,Male,Chennai,"Tamil Nadu","At Risk",Silver,5,32397.789999999997,6479.557999999999
+CUST00267,Harsh,Bhat,Male,Bangalore,Karnataka,"At Risk",Bronze,3,36462.130000000005,12154.043333333335
+CUST00268,Priya,Varma,Female,Bangalore,Karnataka,"High Value",Gold,9,172573.55000000002,19174.83888888889
+CUST00269,Dev,Kurup,Male,Chennai,"Tamil Nadu","High Value",Gold,9,239968.95,26663.216666666667
+CUST00270,Diya,Naidu,Female,Bangalore,Karnataka,"At Risk",Bronze,1,1702.51,1702.51
+CUST00271,Ritu,Reddy,Female,Bangalore,Karnataka,"At Risk",Bronze,1,2498.36,2498.36
+CUST00272,Poonam,Yadav,Female,Chandigarh,Chandigarh,Regular,Bronze,8,89362.36,11170.295
+CUST00273,Karan,Ahmed,Male,Delhi,Delhi,Regular,Bronze,5,57499.92,11499.984
+CUST00274,Kabir,Bansal,Male,Lucknow,"Uttar Pradesh","At Risk",Silver,3,56569.01,18856.336666666666
+CUST00275,Praveen,Murthy,Male,Hyderabad,Telangana,"High Value",Gold,9,162713.88,18079.32
+CUST00276,Saurabh,Khanna,Male,Delhi,Delhi,Regular,Bronze,3,8384.32,2794.773333333333
+CUST00277,Arjun,Mehra,Male,Delhi,Delhi,"High Value",Silver,10,173586.36,17358.636
+CUST00278,Dev,Chavan,Male,Surat,Gujarat,"At Risk",Bronze,1,2287.15,2287.15
+CUST00279,Meera,Rao,Female,Chennai,"Tamil Nadu","At Risk",Bronze,1,3738.67,3738.67
+CUST00280,Jyoti,Murthy,Female,Kochi,Kerala,"At Risk",Bronze,5,98345.06,19669.012
+CUST00282,Shruti,Thakur,Female,Delhi,Delhi,"At Risk",Silver,3,87638.34000000001,29212.780000000002
+CUST00283,Manpreet,Sharma,Female,Chandigarh,Chandigarh,Regular,Silver,8,84141.21,10517.65125
+CUST00285,Yash,Kale,Male,Pune,Maharashtra,"At Risk",Gold,2,151237.56,75618.78
+CUST00286,Nisha,Sawant,Female,Nagpur,Maharashtra,Regular,Silver,7,113562.16999999998,16223.16714285714
+CUST00287,Yash,Narayanan,Male,Bangalore,Karnataka,New,Silver,7,32823.78,4689.111428571428
+CUST00288,Manish,Deshmukh,Male,Nagpur,Maharashtra,"At Risk",Bronze,4,20147.68,5036.92
+CUST00289,Anita,Shinde,Female,Surat,Gujarat,"High Value",Gold,12,229994.08,19166.173333333332
+CUST00290,Siddharth,Jadhav,Male,Mumbai,Maharashtra,"At Risk",Gold,3,139995.52000000002,46665.17333333334
+CUST00291,Shruti,Mishra,Female,Noida,"Uttar Pradesh",Regular,Gold,5,120556.84,24111.368
+CUST00292,Gayathri,Gowda,Female,Kochi,Kerala,"At Risk",Silver,14,90369.9,6454.992857142856
+CUST00293,Shubham,Nayak,Male,Bhubaneswar,Odisha,"High Value",Gold,21,172624.11999999997,8220.196190476188
+CUST00294,Sachin,Gogoi,Male,Kolkata,"West Bengal","High Value",Gold,7,273753.5,39107.642857142855
+CUST00295,Sneha,Kapoor,Female,Jaipur,Rajasthan,"At Risk",Bronze,2,10881.01,5440.505
+CUST00296,Manish,Verma,Male,Delhi,Delhi,"At Risk",Bronze,0,0,0
+CUST00298,Utkarsh,Jadhav,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,911.2,911.2
+CUST00299,Harsh,Mehta,Male,Nagpur,Maharashtra,"At Risk",Bronze,1,504.6,504.6
+CUST00300,Ankit,Khanna,Male,Delhi,Delhi,"At Risk",Silver,5,53160.19,10632.038
+CUST00301,Shreya,Shah,Female,Pune,Maharashtra,Regular,Silver,7,24559.129999999997,3508.4471428571424
+CUST00302,Sameer,Ansari,Male,Gurgaon,Haryana,"High Value",Gold,16,215832.84,13489.5525
+CUST00303,Aarav,Hazarika,Male,Guwahati,Assam,Regular,Silver,8,62811.57,7851.44625
+CUST00304,Ayush,Menon,Male,Chennai,"Tamil Nadu","High Value",Platinum,11,339069.57,30824.506363636363
+CUST00305,Karan,Trivedi,Male,Mumbai,Maharashtra,"At Risk",Bronze,2,5693.59,2846.795
+CUST00306,Rahul,Pandey,Male,Lucknow,"Uttar Pradesh","At Risk",Silver,4,117927.63,29481.9075
+CUST00307,Harsh,Naik,Male,Indore,"Madhya Pradesh","At Risk",Gold,5,116183.47,23236.694
+CUST00308,Rajesh,Chavan,Male,Ahmedabad,Gujarat,Regular,Silver,12,49590.049999999996,4132.504166666667
+CUST00309,Mrunal,Mehta,Female,Pune,Maharashtra,"At Risk",Bronze,2,6507.4800000000005,3253.7400000000002
+CUST00310,Ritu,Reddy,Female,Bangalore,Karnataka,"At Risk",Silver,4,35595.28,8898.82
+CUST00311,Neha,Sinha,Female,Delhi,Delhi,"At Risk",Silver,1,29022.66,29022.66
+CUST00312,Vivaan,Shetty,Male,Hyderabad,Telangana,"At Risk",Silver,4,76952.06,19238.015
+CUST00313,Deepika,Gowda,Female,Bangalore,Karnataka,Regular,Silver,5,39041.520000000004,7808.304000000001
+CUST00314,Deepak,Mehra,Male,Jaipur,Rajasthan,Regular,Gold,11,147980.99000000002,13452.817272727274
+CUST00315,Kiran,Mehta,Female,Pune,Maharashtra,Regular,Silver,5,27468.75,5493.75
+CUST00316,Arjun,More,Male,Pune,Maharashtra,"At Risk",Bronze,0,0,0
+CUST00317,Ramesh,Thakur,Other,Jaipur,Rajasthan,"At Risk",Bronze,1,7153.62,7153.62
+CUST00318,Aditya,Khanna,Male,Noida,"Uttar Pradesh",Regular,Bronze,5,7395.68,1479.136
+CUST00319,Rekha,Varma,Other,Bangalore,Karnataka,"At Risk",Bronze,1,1232.91,1232.91
+CUST00320,Naveen,Chavan,Male,Mumbai,Maharashtra,"High Value",Platinum,20,330505.76,16525.288
+CUST00321,Bhavna,Agarwal,Female,Patna,Bihar,Regular,Silver,8,45460.130000000005,5682.516250000001
+CUST00322,Aditya,Shah,Male,Surat,Gujarat,"High Value",Gold,5,162472.73,32494.546000000002
+CUST00323,Rajesh,Patel,Male,Mumbai,Maharashtra,"At Risk",Bronze,2,2104.71,1052.355
+CUST00325,Naveen,Raman,Male,Kochi,Kerala,Vip,Platinum,18,377253.52,20958.52888888889
+CUST00326,Pallavi,Sen,Female,Bhubaneswar,Odisha,"At Risk",Silver,1,28910,28910
+CUST00327,Ritu,Jadhav,Female,Mumbai,Maharashtra,"At Risk",Bronze,7,23795.69,3399.3842857142854
+CUST00328,Kiran,Krishnan,Female,Bangalore,Karnataka,Regular,Gold,9,41231.8,4581.311111111111
+CUST00329,Anjali,Dubey,Female,Delhi,Delhi,"At Risk",Gold,3,138826.06,46275.35333333333
+CUST00330,Mayank,Chauhan,Male,Chandigarh,Chandigarh,"High Value",Platinum,15,279428.02,18628.534666666666
+CUST00331,Jyoti,Joshi,Female,Gurgaon,Haryana,"At Risk",Bronze,2,10905.170000000002,5452.585000000001
+CUST00332,Karan,Ali,Male,Delhi,Delhi,"At Risk",Bronze,2,16911.94,8455.97
+CUST00333,Ishaan,Chandran,Male,Hyderabad,Telangana,Regular,Silver,7,52721.62,7531.660000000001
+CUST00334,Ashok,Kapoor,Male,Delhi,Delhi,"At Risk",Bronze,7,14123.42,2017.6314285714286
+CUST00335,Sonia,Malhotra,Female,Jaipur,Rajasthan,"At Risk",Bronze,2,4554.139999999999,2277.0699999999997
+CUST00336,Mayank,Shinde,Male,Mumbai,Maharashtra,Regular,Silver,5,106169.62,21233.924
+CUST00337,Sakshi,Sawant,Female,Pune,Maharashtra,Regular,Bronze,15,113082.95,7538.863333333333
+CUST00338,Neha,Sinha,Female,Patna,Bihar,"High Value",Gold,28,276014.4,9857.657142857144
+CUST00339,Biswajit,Bose,unknown,Guwahati,Assam,"High Value",Gold,22,254987.11000000004,11590.323181818183
+CUST00340,Komal,Bhat,Female,Bengaluru,Karnataka,"At Risk",Gold,5,146684.86,29336.971999999998
+CUST00341,Deepika,Arora,Female,Delhi,Delhi,"At Risk",Bronze,1,1629.35,1629.35
+CUST00342,Arjun,Bhatia,Male,Jaipur,Rajasthan,"At Risk",Bronze,5,83766.25,16753.25
+CUST00343,Neha,Kurup,Female,Chennai,"Tamil Nadu",Regular,Gold,8,137175.43,17146.92875
+CUST00344,Janvi,Kale,Female,Surat,Gujarat,Regular,Silver,7,100900.3,14414.328571428572
+CUST00345,Nisha,Raman,Female,Bangalore,Karnataka,"At Risk",Silver,9,157580.09,17508.89888888889
+CUST00346,Sonia,Trivedi,Female,Indore,"Madhya Pradesh","At Risk",Bronze,2,15243.060000000001,7621.530000000001
+CUST00347,Diya,Jadhav,Female,Mumbai,Maharashtra,Regular,Gold,12,151867.34000000003,12655.61166666667
+CUST00348,Vishal,Mehta,Male,Pune,Maharashtra,Regular,Gold,8,82418.27,10302.28375
+CUST00349,Vinod,Sundaram,Male,Chennai,"Tamil Nadu","At Risk",Bronze,2,17153.940000000002,8576.970000000001
+CUST00350,Nilesh,Kamat,Male,Nagpur,Maharashtra,"High Value",Gold,15,237523.11000000002,15834.874000000002
+CUST00351,Anita,Joshi,Female,Chandigarh,Chandigarh,Regular,Bronze,2,10476.24,5238.12
+CUST00352,Gaurav,Bansal,Male,Lucknow,"Uttar Pradesh",Regular,Silver,13,86346.02,6642.001538461539
+CUST00353,Diya,Thakkar,Female,Mumbai,Maharashtra,"At Risk",Silver,15,101349.81000000001,6756.654
+CUST00354,Mansi,Kale,Female,Pune,Maharashtra,"At Risk",Bronze,2,8987.109999999999,4493.554999999999
+CUST00357,Ishaan,Mirza,Male,Ahmedabad,Gujarat,"At Risk",Bronze,3,14121.81,4707.2699999999995
+CUST00358,Komal,Balaji,Female,Bangalore,Karnataka,"At Risk",Silver,3,41537.229999999996,13845.743333333332
+CUST00359,Arjun,Trivedi,Male,Pune,Maharashtra,Vip,Platinum,11,364535.26999999996,33139.57
+CUST00360,Shubham,Thakur,Male,Noida,"Uttar Pradesh","At Risk",Silver,3,80153.09999999999,26717.699999999997
+CUST00362,Siddharth,Hussain,Male,Chennai,"Tamil Nadu","High Value",Gold,16,218839.61000000002,13677.475625000001
+CUST00363,Riya,Iyer,Female,Kochi,Kerala,"High Value",Gold,18,235652.89,13091.827222222222
+CUST00364,Saurabh,Chandran,Male,Bangalore,Karnataka,Regular,Gold,14,236339.16,16881.36857142857
+CUST00365,Sowmya,Iyer,Female,Chennai,"Tamil Nadu",Regular,Silver,8,61637.53,7704.69125
+CUST00366,Isha,Pawar,Female,Mumbai,Maharashtra,New,Silver,6,61046.53,10174.421666666667
+CUST00368,Aditi,Shah,Female,Ahmedabad,Gujarat,"At Risk",Bronze,3,14131.4,4710.466666666666
+CUST00369,Rukhsar,Mirza,unknown,Hyderabad,Telangana,Vip,Platinum,27,546113.7500000001,20226.43518518519
+CUST00370,Sachin,Sinha,Male,Patna,Bihar,"At Risk",Bronze,3,3954.46,1318.1533333333334
+CUST00371,Seema,Ranjan,Female,Patna,Bihar,"At Risk",Bronze,2,18430.48,9215.24
+CUST00372,Pallavi,Subramanian,Female,Chennai,"Tamil Nadu",Regular,Silver,3,107462.2,35820.73333333333
+CUST00373,Pankaj,Sheikh,Male,Mumbai,Maharashtra,Regular,Silver,2,43194.68,21597.34
+CUST00374,Manish,Singh,Male,Noida,"Uttar Pradesh","High Value",Platinum,11,265826.68999999994,24166.06272727272
+CUST00375,Divya,Mirza,Female,Delhi,Delhi,"At Risk",Bronze,2,6411.4400000000005,3205.7200000000003
+CUST00376,Ananya,Naik,Female,Ahmedabad,Gujarat,"At Risk",Silver,3,57856.07,19285.356666666667
+CUST00377,Neha,Deshmukh,Female,Surat,Gujarat,Regular,Bronze,3,40451.060000000005,13483.686666666668
+CUST00378,Karan,Mehra,Male,Delhi,Delhi,"At Risk",Bronze,2,10005.03,5002.515
+CUST00379,Anita,Malhotra,Female,Gurgaon,Haryana,Regular,Silver,8,41037.03,5129.62875
+CUST00380,Swati,Pandey,Female,Lucknow,"Uttar Pradesh","At Risk",Silver,2,72221.74,36110.87
+CUST00382,Darshan,Thakkar,Male,Mumbai,Maharashtra,"High Value",Gold,11,269603.55999999994,24509.41454545454
+CUST00383,Suresh,Bose,Male,Bhubaneshwar,Odisha,Regular,Silver,8,103624.46999999999,12953.058749999998
+CUST00384,Aarav,Narayanan,Male,Hyderabad,Telangana,"At Risk",Bronze,2,17713.84,8856.92
+CUST00385,Dev,Shinde,Male,Nagpur,Maharashtra,"At Risk",Bronze,1,4938.08,4938.08
+CUST00386,Darshan,Patil,Male,Indore,"Madhya Pradesh","High Value",Gold,11,188970.73,17179.157272727272
+CUST00387,Salman,Ali,Male,Hyderabad,Telangana,"At Risk",Bronze,4,27296.03,6824.0075
+CUST00388,Kritika,Iyer,Female,Hyderabad,Telangana,Vip,Platinum,22,389550.67999999993,17706.849090909087
+CUST00389,Rajesh,Bhat,Male,Hyderabad,Telangana,"At Risk",Silver,3,23667.44,7889.1466666666665
+CUST00390,Radhika,Desai,Female,Ahmedabad,Gujarat,"At Risk",Gold,8,134647.38999999998,16830.923749999998
+CUST00391,Biswajit,Sen,Male,Guwahati,Assam,"At Risk",Silver,4,100307.05,25076.7625
+CUST00392,Pranav,Agarwal,Male,Chandigarh,Chandigarh,"High Value",Gold,7,144783.72,20683.38857142857
+CUST00393,Ashok,Pandey,Male,Delhi,Delhi,Regular,Bronze,2,16279.82,8139.91
+CUST00394,Manish,Shetty,Male,Chennai,"Tamil Nadu",New,Gold,27,373253.75999999983,13824.213333333328
+CUST00395,Radhika,Ranjan,Female,Noida,"Uttar Pradesh","At Risk",Bronze,2,19077.969999999998,9538.984999999999
+CUST00396,Bhavna,Malhotra,Female,Noida,"Uttar Pradesh",Regular,Silver,5,24091.769999999997,4818.353999999999
+CUST00397,Faisal,Ansari,Male,Bangalore,Karnataka,Regular,Gold,6,205997.81,34332.96833333333
+CUST00398,Swapnil,Joshi,Male,Surat,Gujarat,"At Risk",Bronze,3,2122.44,707.48
+CUST00399,Meera,Mehta,Female,Pune,Maharashtra,"At Risk",Bronze,1,3219.39,3219.39
+CUST00402,Anita,Verma,Female,Delhi,Delhi,Regular,Silver,3,14246.51,4748.836666666667
+CUST00403,Neha,Ranjan,Female,Jaipur,Rajasthan,"At Risk",Bronze,2,9843.85,4921.925
+CUST00404,Mohit,Gaikwad,Male,Pune,Maharashtra,"At Risk",Bronze,4,17661.670000000002,4415.4175000000005
+CUST00405,Sunita,Thakur,Female,Delhi,Delhi,"At Risk",Bronze,1,4648.37,4648.37
+CUST00406,Mohit,Patel,Male,Mumbai,Maharashtra,"At Risk",Bronze,2,5471.33,2735.665
+CUST00408,Megha,Parekh,Female,Mumbai,Maharashtra,Vip,Platinum,15,605034.82,40335.65466666666
+CUST00409,Rohan,Tiwari,Male,Noida,"Uttar Pradesh","High Value",Gold,11,158708.35,14428.031818181818
+CUST00410,Vishal,Nayak,Male,Bhubaneswar,Odisha,Regular,Silver,4,22989.84,5747.46
+CUST00411,Gaurav,Gupta,Male,Noida,"Uttar Pradesh","At Risk",Silver,3,51635.75,17211.916666666668
+CUST00412,Payal,Murthy,Female,Bangalore,Karnataka,"High Value",Gold,8,152213.89,19026.73625
+CUST00413,Divya,Prasad,Female,Hyderabad,Telangana,"High Value",Gold,12,196855.42999999996,16404.619166666664
+CUST00414,Deepak,Gogoi,Male,Kolkata,"West Bengal","At Risk",Gold,3,104733.65000000001,34911.21666666667
+CUST00415,Ashok,Chauhan,Male,Chandigarh,Chandigarh,Vip,Platinum,17,349674.33999999997,20569.07882352941
+CUST00416,Sneha,Balaji,Female,Bangalore,Karnataka,Regular,Silver,5,26004.550000000003,5200.910000000001
+CUST00417,Rohan,Kumar,Male,Bangalore,Karnataka,"At Risk",Bronze,1,650.18,650.18
+CUST00418,Sonia,Murthy,Female,Kochi,Kerala,Vip,Platinum,25,342025.93,13681.037199999999
+CUST00419,Deepika,Iyer,Female,Chennai,"Tamil Nadu","At Risk",Bronze,6,15537.220000000001,2589.536666666667
+CUST00420,Aanya,Chandran,Female,Chennai,"Tamil Nadu",Regular,Bronze,3,58274.96000000001,19424.986666666668
+CUST00421,Tarun,Jain,Male,Lucknow,"Uttar Pradesh",Regular,Bronze,4,11207.220000000001,2801.8050000000003
+CUST00422,Vivaan,Reddy,Male,Hyderabad,Telangana,"High Value",Platinum,17,263594.36,15505.550588235294
+CUST00423,Mayank,Shah,Male,Surat,Gujarat,"At Risk",Bronze,2,4507.35,2253.675
+CUST00424,Vikram,Sawant,Male,Mumbai,Maharashtra,Regular,Gold,48,292237.16,6088.274166666666
+CUST00425,Omkar,Shah,Male,Surat,Gujarat,Regular,Silver,5,30996.99,6199.398
+CUST00426,Vivaan,Arora,Male,Delhi,Delhi,Regular,Silver,3,104880.07,34960.02333333334
+CUST00427,Divya,More,Female,Mumbai,Maharashtra,"High Value",Gold,7,154665.52,22095.074285714283
+CUST00428,Abhishek,Pandey,Male,Chandigarh,Chandigarh,"At Risk",Silver,1,25019.66,25019.66
+CUST00429,Dev,Kamat,Male,Pune,Maharashtra,"At Risk",Bronze,1,6657.68,6657.68
+CUST00431,Subhajit,Saikia,Male,Bhubaneswar,Odisha,"At Risk",Gold,3,162008.73,54002.91
+CUST00432,Siddharth,Nair,Male,Hyderabad,Telangana,"At Risk",Bronze,3,11091.55,3697.183333333333
+CUST00433,Nisha,Sinha,Female,Gurgaon,Haryana,"At Risk",Bronze,1,2144.23,2144.23
+CUST00434,Biswajit,Das,Male,Bhubaneswar,Odisha,"At Risk",Silver,6,72941.79,12156.964999999998
+CUST00435,Siddharth,Jain,Male,Jaipur,Rajasthan,"At Risk",Bronze,0,0,0
+CUST00436,Mahesh,Kurup,Male,Hyderabad,Telangana,"High Value",Gold,7,231860.86,33122.979999999996
+CUST00437,Shweta,Gupta,Female,Noida,"Uttar Pradesh",Vip,Platinum,48,626819.94,13058.748749999999
+CUST00438,Radhika,Bansal,Female,Jaipur,Rajasthan,"At Risk",Bronze,1,480.1,480.1
+CUST00439,Abhishek,Varma,Male,Kochi,Kerala,"High Value",Gold,12,412821.50000000006,34401.79166666667
+CUST00440,Kunal,Verma,Male,Delhi,Delhi,Regular,Silver,5,39067.61,7813.522
+CUST00441,Amit,Chandran,Other,Hyderabad,Telangana,Regular,Silver,4,37052.57,9263.1425
+CUST00442,Aarav,More,Male,Surat,Gujarat,"At Risk",Silver,5,84999.93,16999.985999999997
+CUST00443,Tanvi,Srivastava,Female,Delhi,Delhi,"At Risk",Silver,3,31633.809999999998,10544.603333333333
+CUST00444,Neha,Naik,Female,Mumbai,Maharashtra,"At Risk",Bronze,2,14101.73,7050.865
+CUST00445,Rekha,Subramanian,Female,Kochi,Kerala,"At Risk",Gold,7,136431.33,19490.19
+CUST00446,Chirag,Sawant,Male,Indore,"Madhya Pradesh","High Value",Platinum,20,380975.16000000003,19048.758
+CUST00447,Swati,Meena,Female,Jaipur,Rajasthan,"At Risk",Bronze,1,3078.88,3078.88
+CUST00448,Gopal,Kumar,Male,Chennai,"Tamil Nadu","At Risk",Bronze,1,2409.68,2409.68
+CUST00449,Mayank,Trivedi,Male,Surat,Gujarat,"At Risk",Silver,1,23700.94,23700.94
+CUST00450,Venkatesh,Raman,Male,Bangalore,Karnataka,Regular,Gold,15,272247.11,18149.807333333334
+CUST00451,Yash,Kurup,Male,Bangalore,Karnataka,"At Risk",Bronze,2,73691.31,36845.655
+CUST00452,Aditi,Patel,Female,Mumbai,Maharashtra,"High Value",Platinum,15,292070.65,19471.376666666667
+CUST00453,Sowmya,Bhat,Female,Hyderabad,Telangana,"At Risk",Bronze,2,76486.6,38243.3
+CUST00454,Rutuja,Modi,Female,Indore,"Madhya Pradesh","At Risk",Silver,2,35485.05,17742.525
+CUST00455,Pallavi,Ranjan,Female,Delhi,Delhi,"At Risk",Bronze,1,5385.08,5385.08
+CUST00456,Kiran,Sinha,Female,Jaipur,Rajasthan,Regular,Bronze,3,10916.73,3638.91
+CUST00457,Venkatesh,Kurup,Male,Bangalore,Karnataka,Vip,Gold,13,416169.26999999996,32013.020769230767
+CUST00458,Vishal,Khan,Male,Lucknow,"Uttar Pradesh","At Risk",Silver,6,77158.7,12859.783333333333
+CUST00459,Mohit,Ghosh,Male,Guwahati,Assam,"At Risk",Bronze,2,5674.2,2837.1
+CUST00460,Dev,Parekh,Male,Pune,Maharashtra,"At Risk",Bronze,1,2776.42,2776.42
+CUST00461,Anita,Narayanan,Female,Hyderabad,Telangana,"High Value",Gold,14,153473.88999999998,10962.420714285714
+CUST00462,Vishal,Nayak,Male,Bhubaneswar,Odisha,"At Risk",Bronze,1,12803.42,12803.42
+CUST00463,Omkar,Jadhav,Male,Mumbai,Maharashtra,"High Value",Gold,8,197642.88,24705.36
+CUST00464,Kiran,Tiwari,Female,Noida,"Uttar Pradesh","At Risk",Silver,1,625.8,625.8
+CUST00465,Karan,Krishnan,Other,Hyderabad,Telangana,"At Risk",Silver,6,80332.01,13388.668333333333
+CUST00466,Vikram,Sheikh,Male,Bangalore,Karnataka,"At Risk",Silver,4,88694.53,22173.6325
+CUST00467,Shreya,Patel,Female,Pune,Maharashtra,"High Value",Gold,10,164908.27,16490.826999999997
+CUST00468,Tanvi,Nair,Female,Hyderabad,Telangana,"At Risk",Bronze,1,228.48,228.48
+CUST00469,Saurabh,Meena,Male,Noida,"Uttar Pradesh",Regular,Bronze,8,13154.45,1644.30625
+CUST00470,Kiran,Balaji,Female,Hyderabad,Telangana,"At Risk",Silver,1,61593.44,61593.44
+CUST00471,Yash,Chavan,Male,Mumbai,Maharashtra,Regular,Silver,6,92999.15000000002,15499.858333333337
+CUST00472,Sreya,Saikia,Female,Guwahati,Assam,"At Risk",Silver,2,23474.89,11737.445
+CUST00473,Amit,Kumar,Male,Chennai,"Tamil Nadu","At Risk",Bronze,2,33649.76,16824.88
+CUST00474,Revathi,Menon,Female,Chennai,"Tamil Nadu",Regular,Bronze,2,9724.58,4862.29
+CUST00475,Harpreet,Singh,Male,Gurgaon,Haryana,"At Risk",Bronze,1,1762.53,1762.53
+CUST00477,Mayank,Sharma,Male,Gurgaon,Haryana,Regular,Gold,8,141330.49000000002,17666.311250000002
+CUST00478,Bhavna,Jain,Female,Delhi,Delhi,Regular,Silver,6,60960.11999999999,10160.019999999999
+CUST00479,Omkar,Trivedi,Male,Mumbai,Maharashtra,"High Value",Gold,14,270621.12,19330.079999999998
+CUST00480,Shreya,Reddy,Female,Bangalore,Karnataka,Regular,Silver,5,68246.15000000001,13649.230000000001
+CUST00481,Harleen,Goyal,Female,Delhi,Delhi,Regular,Silver,4,64619.39000000001,16154.847500000002
+CUST00482,Gaurav,Balaji,Male,Bangalore,Karnataka,"At Risk",Bronze,1,2043.61,2043.61
+CUST00483,Aamir,Mirza,Male,Delhi,Delhi,Regular,Bronze,3,19365.77,6455.256666666667
+CUST00484,Mahesh,Dubey,Male,Delhi,Delhi,Regular,Bronze,5,31972.4,6394.4800000000005
+CUST00485,Vikram,Krishnan,Male,Hyderabad,Telangana,"At Risk",Bronze,3,15238,5079.333333333333
+CUST00486,Pranav,Joshi,Male,Chandigarh,Chandigarh,"High Value",Gold,11,201435.28,18312.298181818183
+CUST00488,Snehal,Kale,Female,Mumbay,Maharashtra,"At Risk",Bronze,1,1899.92,1899.92
+CUST00489,Karan,Sheikh,Male,Hyderabad,Telangana,"At Risk",Bronze,2,9561.349999999999,4780.674999999999
+CUST00490,Aamir,Hussain,Male,Bhubaneswar,Odisha,Regular,Silver,8,69466.01,8683.25125
+CUST00491,Sanjay,Joshi,Male,Ahmedabad,Gujarat,"At Risk",Bronze,1,600.18,600.18
+CUST00492,Purvi,Trivedi,Female,Mumbai,Maharashtra,"At Risk",Bronze,3,13526.869999999999,4508.956666666666
+CUST00493,Mohit,Mirza,Male,Kolkata,"West Bengal","At Risk",Bronze,7,21761.85,3108.835714285714
+CUST00494,Dev,Parekh,Male,Indore,"Madhya Pradesh","At Risk",Gold,11,188511.11,17137.373636363634
+CUST00495,Rohan,Chavan,Male,Nagpur,Maharashtra,Vip,Platinum,29,446698.6599999999,15403.402068965514
+CUST00496,Anil,Kamat,Male,Indore,"Madhya Pradesh","High Value",Gold,17,343855.33999999997,20226.78470588235
+CUST00497,Varun,Menon,Male,Bangalore,Karnataka,"At Risk",Bronze,5,18839.79,3767.958
+CUST00498,Ankit,Thakur,Male,Delhi,Delhi,"At Risk",Gold,5,114045.11,22809.022
+CUST00499,Vikram,Kamat,Male,Pune,Maharashtra,Regular,Silver,12,105782.39,8815.199166666667
+CUST00501,Sunita,Meena,Female,Noida,"Uttar Pradesh","At Risk",Bronze,2,6087.96,3043.98
+CUST00502,Vivaan,Reddy,Male,Hyderabad,Telangana,"At Risk",Bronze,1,4030.18,4030.18
+CUST00503,Rahul,Narayanan,Male,Bangalore,Karnataka,Regular,Silver,4,28778.5,7194.625
+CUST00504,Yash,Verma,Male,Lucknow,"Uttar Pradesh","At Risk",Bronze,0,0,0
+CUST00505,Tarun,Rathore,Male,Lucknow,"Uttar Pradesh","At Risk",Gold,2,175282.79,87641.395
+CUST00506,Megha,Naik,Female,Indore,"Madhya Pradesh","At Risk",Silver,1,34377.12,34377.12
+CUST00507,Pallavi,Thakur,Female,Delhi,Delhi,Regular,Silver,3,90536.57,30178.85666666667
+CUST00508,Karthik,Reddy,Male,Kochi,Kerala,"At Risk",Silver,3,34463.09,11487.696666666665
+CUST00509,Komal,Sharma,Female,Jaipur,Rajasthan,Regular,Bronze,2,5870.74,2935.37
+CUST00510,Rajesh,Verma,Male,Delhi,Delhi,Vip,Platinum,15,424428.26,28295.217333333334
+CUST00511,Rajesh,Dutta,Male,Bhubaneswar,Odisha,"At Risk",Silver,7,46530.31,6647.187142857142
+CUST00512,Shruti,Parekh,Female,Mumbai,Maharashtra,"High Value",Gold,13,164644.90999999997,12664.993076923074
+CUST00513,Ruchi,Prasad,Female,Noida,"Uttar Pradesh",Vip,Platinum,31,663984.2400000002,21418.84645161291
+CUST00514,Rituparna,Banerjee,Female,Kolkata,"West Bengal",Regular,Silver,4,52127.659999999996,13031.914999999999
+CUST00516,Komal,Bhatt,Female,Mumbai,Maharashtra,"At Risk",Bronze,4,69914.01000000001,17478.502500000002
+CUST00517,Tanvi,Kamat,Other,Nagpur,Maharashtra,"At Risk",Silver,7,75114.46,10730.637142857144
+CUST00518,Sneha,Chauhan,Female,Delhi,Delhi,"At Risk",Bronze,2,4350.37,2175.185
+CUST00519,Sowmya,Nair,Female,Bangalore,Karnataka,"At Risk",Bronze,6,40464.52,6744.086666666666
+CUST00521,Nisha,Arora,Female,Gurgaon,Haryana,"At Risk",Bronze,1,1396,1396
+CUST00522,Mansi,Chauhan,Female,Jaipur,Rajasthan,Regular,Bronze,4,13527.92,3381.98
+CUST00523,Deepak,Ranjan,Male,Delhi,Delhi,"High Value",Gold,13,217068.92,16697.60923076923
+CUST00524,Siddharth,Kumar,Male,Hyderabad,Telangana,"At Risk",Silver,3,118809.36,39603.12
+CUST00525,Mayank,Sheikh,Male,Guwahati,Assam,"At Risk",Gold,8,159816.83,19977.10375
+CUST00526,Neha,Modi,Female,Pune,Maharashtra,"At Risk",Bronze,1,6022.78,6022.78
+CUST00527,Bhavna,Bansal,Female,Delhi,Delhi,Regular,Silver,6,50344.33,8390.721666666666
+CUST00528,Payal,Naik,Female,Ahmedabad,Gujarat,"At Risk",Bronze,1,4112.19,4112.19
+CUST00529,Manish,Pawar,Male,Nagpur,Maharashtra,"At Risk",Bronze,0,0,0
+CUST00530,Dev,Sinha,Male,Patna,Bihar,"At Risk",Bronze,3,2487.8999999999996,829.2999999999998
+CUST00531,Praveen,Varma,Male,Bangalore,Karnataka,"At Risk",Silver,2,20242.3,10121.15
+CUST00532,Amit,Reddy,Male,Bangalore,Karnataka,Regular,Silver,6,66730.07,11121.678333333335
+CUST00533,Radhika,Roy,Female,Guwahati,Assam,"High Value",Gold,9,255759.63,28417.736666666668
+CUST00534,Vandana,Dubey,Female,Jaipur,Rajasthan,Regular,Silver,9,81760.87,9084.54111111111
+CUST00535,Ishaan,Prasad,Male,Chennai,"Tamil Nadu",Regular,Silver,7,42959.72,6137.102857142857
+CUST00537,Nilesh,Bhatt,Male,Mumbai,Maharashtra,Regular,Silver,4,41514.759999999995,10378.689999999999
+CUST00538,Priya,Ali,Female,Bangalore,Karnataka,Regular,Silver,10,98816.55000000002,9881.655000000002
+CUST00539,Deepika,Naidu,Female,Kochi,Kerala,"At Risk",Bronze,2,20535.71,10267.855
+CUST00540,Sonia,Qureshi,Female,Mumbai,Maharashtra,Regular,Silver,12,123394.09000000001,10282.840833333334
+CUST00541,Siddharth,Kulkarni,Male,Mumbai,Maharashtra,Regular,Silver,7,82044.9,11720.699999999999
+CUST00542,Deepika,Verma,Female,Delhi,Delhi,Vip,Platinum,16,328398.7799999999,20524.923749999994
+CUST00543,Nazia,Khan,Female,Indore,"Madhya Pradesh",Regular,Bronze,4,10651.15,2662.7875
+CUST00544,Mahesh,Kulkarni,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,366.42,366.42
+CUST00545,Ananya,Singh,Female,Delhi,Delhi,"At Risk",Silver,1,23541.36,23541.36
+CUST00546,Shruti,Prasad,unknown,Bangalore,Karnataka,Regular,Silver,5,64614.34,12922.867999999999
+CUST00547,Aditya,More,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,7962.88,7962.88
+CUST00548,Aarav,Raman,Male,Bangalore,Karnataka,"At Risk",Bronze,1,4986.18,4986.18
+CUST00549,Sonia,Parekh,Female,Indore,"Madhya Pradesh",Regular,Silver,3,128059.91999999998,42686.63999999999
+CUST00550,Riya,Mehra,Female,Delhi,Delhi,"At Risk",Bronze,0,0,0
+CUST00551,Jyoti,Sheikh,Female,Chandigarh,Chandigarh,"At Risk",Bronze,2,3039.66,1519.83
+CUST00552,Pranav,Tiwari,Male,Jaipur,Rajasthan,"At Risk",Bronze,1,1653.21,1653.21
+CUST00553,Preeti,Bose,Female,Kolkata,"West Bengal","At Risk",Bronze,2,9228.58,4614.29
+CUST00554,Saurabh,Patil,Male,Surat,Gujarat,Regular,Bronze,3,15816.11,5272.036666666667
+CUST00555,Ramesh,Jadhav,Male,Mumbai,Maharashtra,"High Value",Gold,8,327449.79000000004,40931.223750000005
+CUST00556,Neha,Hegde,Female,Kochi,Kerala,"High Value",Platinum,22,332650.8499999999,15120.493181818178
+CUST00557,Sachin,Rao,Male,Chennai,"Tamil Nadu","At Risk",Silver,3,37131.97,12377.323333333334
+CUST00558,Sanjay,Joshi,Male,Lucknow,"Uttar Pradesh","At Risk",Bronze,1,950.69,950.69
+CUST00559,Shubham,Jain,Male,Gurgaon,Haryana,"At Risk",Bronze,3,16891.46,5630.486666666667
+CUST00560,Tarun,Bhatia,Male,Lucknow,"Uttar Pradesh",Regular,Bronze,4,13164.529999999999,3291.1324999999997
+CUST00561,Suresh,Patel,Male,Ahmedabad,Gujarat,Regular,Silver,2,37342.09,18671.045
+CUST00562,Aditya,Jadhav,Male,Ahmedabad,Gujarat,"At Risk",Silver,2,64448.630000000005,32224.315000000002
+CUST00563,Preeti,Chatterjee,Female,Bhubaneswar,Odisha,"At Risk",Silver,1,88488.63,88488.63
+CUST00564,Megha,Singh,Female,Noida,"Uttar Pradesh","At Risk",Bronze,1,428,428
+CUST00565,Pallavi,Narayanan,Female,Hyderabad,Telangana,"At Risk",Bronze,2,9119.369999999999,4559.6849999999995
+CUST00566,Naveen,Yadav,Male,Noida,"Uttar Pradesh",Regular,Bronze,2,4861.33,2430.665
+CUST00567,Akash,Bhat,Male,Chennai,"Tamil Nadu","At Risk",Silver,4,24098.120000000003,6024.530000000001
+CUST00568,Rishabh,Joshi,Male,Patna,Bihar,Regular,Silver,12,86599.39000000001,7216.615833333334
+CUST00569,Omkar,Kamat,Male,Mumbai,Maharashtra,"At Risk",Bronze,4,9012.06,2253.015
+CUST00570,Naveen,Tiwari,Male,Noida,"Uttar Pradesh","At Risk",Silver,2,40228.13,20114.065
+CUST00571,Divya,Dubey,Female,Lucknow,"Uttar Pradesh","At Risk",Bronze,1,1732.75,1732.75
+CUST00572,Manish,Verma,Male,Noida,"Uttar Pradesh","High Value",Gold,6,186257.51,31042.918333333335
+CUST00573,Bhavna,Bhat,Female,Hyderabad,Telangana,"At Risk",Silver,5,60562.2,12112.439999999999
+CUST00575,Payal,Kurup,Female,Chennai,"Tamil Nadu","At Risk",Silver,4,93802.45,23450.6125
+CUST00578,Hiren,Kamat,Male,Pune,Maharashtra,Regular,Bronze,3,16525.57,5508.5233333333335
+CUST00579,Akash,Chandran,Male,Chennai,"Tamil Nadu",Regular,Bronze,2,9929.92,4964.96
+CUST00580,Anil,Sinha,Male,Lucknow,"Uttar Pradesh","At Risk",Bronze,1,2963.86,2963.86
+CUST00581,Megha,Krishnan,Female,Hyderabad,Telangana,Regular,Bronze,5,12362.48,2472.496
+CUST00582,Mrunal,Patil,Female,Ahmedabad,Gujarat,"At Risk",Bronze,4,12744.14,3186.035
+CUST00583,Pranav,Ranjan,Male,Noida,"Uttar Pradesh",Regular,Bronze,3,29480.32,9826.773333333333
+CUST00584,Kunal,Banerjee,Male,Bhubaneswar,Odisha,"At Risk",Silver,1,71459.62,71459.62
+CUST00585,Meera,Thakur,Other,Jaipur,Rajasthan,"At Risk",Bronze,4,24286.180000000004,6071.545000000001
+CUST00586,Gayathri,Shetty,Female,Bangalore,Karnataka,"At Risk",Bronze,1,2677.42,2677.42
+CUST00587,Mansi,Naidu,Female,Bangalore,Karnataka,"High Value",Gold,6,158982.19999999998,26497.03333333333
+CUST00588,Shruti,Modi,Female,Mumbai,Maharashtra,Regular,Silver,7,44931.409999999996,6418.772857142857
+CUST00589,Mahesh,Yadav,Male,Chandigarh,Chandigarh,"At Risk",Bronze,1,4891.58,4891.58
+CUST00590,Sanjay,Thakkar,Male,Pune,Maharashtra,Regular,Gold,11,204194.56,18563.14181818182
+CUST00591,Suresh,Pandey,Male,Chandigarh,Chandigarh,"At Risk",Silver,2,44327.22,22163.61
+CUST00592,Manish,Bhosale,Male,Ahmedabad,Gujarat,"High Value",Platinum,8,195956.60999999996,24494.576249999995
+CUST00593,Aditya,Mishra,Male,Patna,Bihar,"At Risk",Bronze,1,7923.3,7923.3
+CUST00594,Balaji,Krishnan,Male,Bangalore,Karnataka,"At Risk",Bronze,1,3236.52,3236.52
+CUST00595,Ankit,Shah,Male,Mumbai,Maharashtra,Regular,Gold,3,139964.36,46654.78666666666
+CUST00596,Vandana,Ranjan,Female,Noida,"Uttar Pradesh",Regular,Bronze,8,28491.27,3561.40875
+CUST00598,Kavya,Parekh,Female,Mumbai,Maharashtra,"At Risk",Silver,2,106284.08,53142.04
+CUST00599,Anjali,Barman,Female,Bhubaneswar,Odisha,"High Value",Gold,12,226822.39,18901.865833333333
+CUST00600,Nikhil,Sharma,Male,Delhi,Delhi,"At Risk",Bronze,1,334.68,334.68
+CUST00601,Mitali,Barman,Female,Guwahati,Assam,"At Risk",Bronze,2,6378.33,3189.165
+CUST00602,Revathi,Narayanan,Female,Hyderabad,Telangana,Regular,Silver,2,60858.63,30429.315
+CUST00603,Rohan,Yadav,Male,Delhi,Delhi,"At Risk",Gold,2,148885.28,74442.64
+CUST00606,Swapnil,Kamat,Male,Mumbai,Maharashtra,"At Risk",Bronze,2,11247.98,5623.99
+CUST00607,Shreya,Parekh,Female,Pune,Maharashtra,"At Risk",Bronze,1,6112.5,6112.5
+CUST00608,Yash,Chandran,Male,Bangalore,Karnataka,"At Risk",Silver,5,54773.53,10954.706
+CUST00609,Manish,Reddy,Male,Hyderabad,Telangana,"At Risk",Silver,2,27306.96,13653.48
+CUST00610,Deepak,Chauhan,Male,Jaipur,Rajasthan,"At Risk",Bronze,1,409.02,409.02
+CUST00611,Aditya,Arora,Male,Delhi,Delhi,Regular,Silver,6,51414.21,8569.035
+CUST00612,Harsh,Rathore,Male,Delhi,Delhi,Regular,Bronze,1,2770.99,2770.99
+CUST00613,Mrunal,Trivedi,Female,Pune,Maharashtra,"At Risk",Bronze,3,19697.73,6565.91
+CUST00614,Payal,Thakur,Female,Delhi,Delhi,"At Risk",Silver,3,67205.14,22401.713333333333
+CUST00615,Ramesh,Malhotra,Male,Lucknow,"Uttar Pradesh","High Value",Gold,17,236923.28,13936.663529411764
+CUST00616,Ritu,Sen,Female,Kolkata,"West Bengal",Regular,Gold,10,128000.39,12800.039
+CUST00617,Shubham,Iyer,Male,Hyderabad,Telangana,Regular,Silver,2,5094.62,2547.31
+CUST00618,Bhavna,Singh,Female,Delhi,Delhi,Regular,Silver,4,47960.380000000005,11990.095000000001
+CUST00620,Rajesh,Krishnan,Male,Chennai,"Tamil Nadu",Regular,Bronze,3,20180.219999999998,6726.739999999999
+CUST00621,Sonia,Thakkar,Female,Mumbai,Maharashtra,Regular,Silver,3,31818.97,10606.323333333334
+CUST00622,Ananya,Thakur,Female,Noida,"Uttar Pradesh","At Risk",Silver,1,35319.36,35319.36
+CUST00623,Deepak,Malik,Male,Pune,Maharashtra,"At Risk",Bronze,1,1419.9,1419.9
+CUST00624,Snehal,Shah,Female,Mumbai,Maharashtra,Regular,Silver,3,112742.34,37580.78
+CUST00625,Suresh,Narayanan,Male,Hyderabad,Telangana,Regular,Silver,7,40918.21,5845.458571428571
+CUST00626,Jyoti,Raman,Female,Chennai,"Tamil Nadu",Regular,Silver,3,29261.36,9753.786666666667
+CUST00627,Kritika,Pillai,Female,Hyderabad,Telangana,"High Value",Gold,6,215654.43,35942.405
+CUST00628,Ritu,Mishra,Female,Delhi,Delhi,Regular,Silver,8,69434.1,8679.2625
+CUST00629,Sameer,Malik,Male,Kolkata,"West Bengal","At Risk",Bronze,1,12048.42,12048.42
+CUST00630,Purvi,Kulkarni,Female,Mumbai,Maharashtra,"At Risk",Bronze,2,6240.2,3120.1
+CUST00631,Kunal,Kamat,Male,Nagpur,Maharashtra,"At Risk",Bronze,1,912.45,912.45
+CUST00632,Rajesh,Sheikh,Male,Mumbai,Maharashtra,Regular,Bronze,2,4063.1000000000004,2031.5500000000002
+CUST00633,Snehal,Sawant,Female,Ahmedabad,Gujarat,"At Risk",Bronze,1,2504.97,2504.97
+CUST00634,Sachin,Ranjan,Male,Lucknow,"Uttar Pradesh","At Risk",Silver,2,71193.26,35596.63
+CUST00635,Pranav,More,Male,Indore,"Madhya Pradesh",Regular,Silver,4,8439.52,2109.88
+CUST00636,Sowmya,Narayanan,Female,Bangalore,Karnataka,Regular,Bronze,3,10670.01,3556.67
+CUST00637,Vinod,Murthy,Male,Bangalore,Karnataka,Regular,Silver,4,34427.66,8606.915
+CUST00638,Arjun,Prasad,Male,Gurgaon,Haryana,"At Risk",Gold,1,152607.28,152607.28
+CUST00639,Tarun,Kulkarni,Male,Pune,Maharashtra,"At Risk",Silver,1,2447.1,2447.1
+CUST00640,Sneha,Verma,Female,Gurgaon,Haryana,Regular,Bronze,2,8917.92,4458.96
+CUST00641,Yash,Gupta,Male,Jaipur,Rajasthan,"At Risk",Silver,3,57973.81999999999,19324.606666666663
+CUST00642,Ananya,Patil,Female,Mumbai,Maharashtra,Regular,Silver,5,62997.34,12599.467999999999
+CUST00645,Preeti,Arora,Female,Noida,"Uttar Pradesh","At Risk",Silver,4,30376.7,7594.175
+CUST00646,Rishabh,Bhosale,Male,Ahmedabad,Gujarat,"At Risk",Silver,1,79361.5,79361.5
+CUST00647,Karthik,Subramanian,Male,Bangalore,Karnataka,Regular,Silver,6,27719.939999999995,4619.989999999999
+CUST00648,Rajesh,Meena,Male,Lucknow,"Uttar Pradesh",Regular,Silver,5,102556.25,20511.25
+CUST00649,Ishaan,Bansal,Male,Noida,"Uttar Pradesh","High Value",Gold,10,316148.53,31614.853000000003
+CUST00650,Manish,Khan,Male,Ahmedabad,Gujarat,Regular,Silver,8,35648.28,4456.035
+CUST00651,Devendra,Singh,Male,Gurgaon,Haryana,Regular,Silver,7,97641.10999999999,13948.729999999998
+CUST00652,Sakshi,Bhat,Female,Bangalore,Karnataka,Regular,Silver,4,3938.9900000000002,984.7475000000001
+CUST00653,Abhishek,Kale,Male,Indore,"Madhya Pradesh","At Risk",Bronze,2,68175.88,34087.94
+CUST00654,Preeti,Balaji,Female,Hyderabad,Telangana,Regular,Bronze,5,47532.340000000004,9506.468
+CUST00656,Venkatesh,Reddy,Male,Hyderabad,Telangana,"At Risk",Silver,1,34672.72,34672.72
+CUST00657,Ananya,Mirza,Female,Delhi,Delhi,Regular,Bronze,1,5160.26,5160.26
+CUST00658,Mayank,Shinde,Male,Mumbai,Maharashtra,"At Risk",Bronze,2,2658.67,1329.335
+CUST00659,Hetal,More,Female,Surat,Gujarat,"High Value",Gold,7,194139.65000000002,27734.235714285718
+CUST00660,Sowmya,Gowda,Female,Hyderabad,Telangana,Regular,Silver,12,94854.35000000002,7904.529166666668
+CUST00661,Sachin,More,Male,Mumbai,Maharashtra,"At Risk",Bronze,2,5875.76,2937.88
+CUST00662,Rajesh,Malhotra,Male,Gurgaon,Haryana,"At Risk",Bronze,2,78921.08,39460.54
+CUST00663,Varun,Khan,Male,Delhi,Delhi,"At Risk",Bronze,1,12339.67,12339.67
+CUST00664,Kritika,Hegde,Female,Bangalore,Karnataka,Regular,Silver,5,39254.130000000005,7850.826000000001
+CUST00665,Swati,Mehta,Female,Pune,Maharashtra,"At Risk",Bronze,3,72693.40000000001,24231.133333333335
+CUST00666,Arjun,Yadav,Male,Jaipur,Rajasthan,"At Risk",Bronze,1,5552.28,5552.28
+CUST00667,Anjali,Balaji,Female,Bangalore,Karnataka,"At Risk",Bronze,1,4629.17,4629.17
+CUST00668,Siddharth,Nair,Other,Chennai,"Tamil Nadu",Regular,Silver,9,166533.50999999998,18503.72333333333
+CUST00669,Ankit,Khanna,Male,Delhi,Delhi,Regular,Bronze,5,13336.789999999999,2667.3579999999997
+CUST00670,Poonam,Singh,Female,Noida,"Uttar Pradesh",Regular,Silver,15,154279.19999999995,10285.279999999997
+CUST00671,Abhishek,Varma,Other,Banglore,Karnataka,Regular,Silver,4,70427.78,17606.945
+CUST00672,Arun,Nair,Male,Bangalore,Karnataka,Regular,Silver,2,20686.05,10343.025
+CUST00673,Sunita,Joshi,Female,Indore,"Madhya Pradesh","High Value",Platinum,16,436879.08999999997,27304.943124999998
+CUST00675,Tarun,Bhatt,unknown,Surat,Gujarat,"At Risk",Bronze,1,3105.83,3105.83
+CUST00676,Anjali,Qureshi,Female,Delhi,Delhi,Regular,Bronze,6,41896.00000000001,6982.666666666668
+CUST00677,Sonia,Ahmed,Female,Bangalore,Karnataka,"At Risk",Bronze,0,0,0
+CUST00678,Pranav,Saxena,Male,Noida,"Uttar Pradesh",Regular,Silver,2,66707.14,33353.57
+CUST00680,Karan,Ali,Male,Hyderabad,Telangana,"At Risk",Bronze,1,2841.55,2841.55
+CUST00681,Kabir,Ghosh,Male,Bhubaneswar,Odisha,"At Risk",Bronze,1,1441.14,1441.14
+CUST00682,Harsh,Malhotra,Male,Gurgaon,Haryana,"High Value",Gold,11,143742.76,13067.523636363638
+CUST00683,Anita,Desai,Female,Pune,Maharashtra,Regular,Bronze,2,6587.3099999999995,3293.6549999999997
+CUST00684,Rishabh,Thakur,Male,Gurgaon,Haryana,"At Risk",Bronze,1,2314.1,2314.1
+CUST00685,Mahesh,More,Male,Indore,"Madhya Pradesh",Regular,Bronze,3,10472.15,3490.7166666666667
+CUST00686,Swapnil,Kale,Male,Mumbai,Maharashtra,Regular,Bronze,4,122155.82999999999,30538.957499999997
+CUST00687,Swati,Gaikwad,Female,Ahmedabad,Gujarat,Regular,Silver,8,85825.17,10728.14625
+CUST00688,Kunal,Desai,Male,Mumbai,Maharashtra,Regular,Silver,15,67914.95,4527.663333333333
+CUST00690,Divya,Thakur,Female,Patna,Bihar,"At Risk",Bronze,1,3550.14,3550.14
+CUST00691,Ananya,Malhotra,Female,Lucknow,"Uttar Pradesh","At Risk",Bronze,1,2782.69,2782.69
+CUST00692,Amit,Bhatt,Male,Pune,Maharashtra,New,Silver,7,143639.33,20519.904285714285
+CUST00693,Diya,Krishnan,Female,Hyderabad,Telangana,"At Risk",Silver,4,82158.36,20539.59
+CUST00694,Suresh,Mohanty,Male,Bhubaneswar,Odisha,"At Risk",Bronze,1,996.16,996.16
+CUST00695,Saurabh,Sawant,Male,Mumbai,Maharashtra,Vip,Platinum,16,556542.2,34783.8875
+CUST00696,Preeti,Pawar,Female,Indore,"Madhya Pradesh",Regular,Silver,3,46006.41,15335.470000000001
+CUST00697,Ashok,Dubey,Male,Chandigarh,Chandigarh,"At Risk",Bronze,1,8387.68,8387.68
+CUST00698,Kunal,Reddy,Male,Kochi,Kerala,Vip,Platinum,13,472868.52999999997,36374.5023076923
+CUST00699,Hardik,Bhatt,Male,Indore,"Madhya Pradesh","At Risk",Silver,1,70895.02,70895.02
+CUST00700,Priya,Panda,Female,Kolkata,"West Bengal","At Risk",Silver,1,2139.01,2139.01
+CUST00701,Ruchi,Arora,Female,Delhi,Delhi,"At Risk",Gold,2,46361.4,23180.7
+CUST00702,Radhika,Deshmukh,Female,Pune,Maharashtra,Regular,Gold,7,57072.49999999999,8153.214285714284
+CUST00703,Chirag,Parekh,Male,Ahmedabad,Gujarat,"At Risk",Bronze,1,1500.91,1500.91
+CUST00704,Ayush,Iyer,Male,Chennai,"Tamil Nadu",Regular,Silver,6,105944.72,17657.453333333335
+CUST00705,Vivaan,Sawant,Male,Pune,Maharashtra,"At Risk",Bronze,1,2477.66,2477.66
+CUST00706,Riya,Sheikh,Female,Chennai,"Tamil Nadu","At Risk",Bronze,2,8525.11,4262.555
+CUST00707,Sunita,More,Female,Mumbai,Maharashtra,"At Risk",Bronze,2,1520.1399999999999,760.0699999999999
+CUST00708,Pankaj,Singh,Male,Gurgaon,Haryana,Regular,Silver,2,27403.44,13701.72
+CUST00709,Sowmya,Sundaram,Female,Bangalore,Karnataka,"At Risk",Bronze,1,1216.22,1216.22
+CUST00710,Rahul,Sundaram,Male,Hyderabad,Telangana,Regular,Silver,5,112999.47,22599.894
+CUST00711,Vishal,Srivastava,Male,Gurgaon,Haryana,"At Risk",Bronze,1,1178.35,1178.35
+CUST00712,Sunita,Balaji,Female,Bangalore,Karnataka,Regular,Bronze,3,19731.03,6577.009999999999
+CUST00714,Simran,Sharma,Female,Noida,"Uttar Pradesh","At Risk",Bronze,1,4562.88,4562.88
+CUST00715,Ayush,Pawar,Male,Surat,Gujarat,"At Risk",Bronze,1,3114.53,3114.53
+CUST00716,Nisha,Hazarika,Female,Kolkata,"West Bengal",Regular,Gold,12,126432.89,10536.074166666667
+CUST00717,Ankit,Thakkar,Male,Pune,Maharashtra,"At Risk",Bronze,1,120420.87,120420.87
+CUST00718,Anil,Ranjan,Male,Lucknow,"Uttar Pradesh","At Risk",Silver,1,3367.64,3367.64
+CUST00719,Venkatesh,Narayanan,Male,Bangalore,Karnataka,Regular,Bronze,2,2075.27,1037.635
+CUST00720,Sonia,Naik,Female,Mumbai,Maharashtra,Regular,Silver,5,69786.70000000001,13957.340000000002
+CUST00721,Preeti,Bansal,Female,Chandigarh,Chandigarh,Vip,Platinum,20,430434.44,21521.722
+CUST00722,Pankaj,Roy,Male,Kolkata,"West Bengal",Regular,Silver,3,69239.34,23079.78
+CUST00723,Dev,Nair,Male,Bangalore,Karnataka,"At Risk",Silver,3,49091.31,16363.769999999999
+CUST00724,Snehal,Patil,Female,Ahmedabad,Gujarat,"At Risk",Bronze,1,18200.56,18200.56
+CUST00725,Rishabh,Kapoor,Male,Delhi,Delhi,"At Risk",Bronze,0,0,0
+CUST00726,Kabir,Saxena,Male,Noida,"Uttar Pradesh",Regular,Silver,2,63262.75,31631.375
+CUST00727,Tarun,Bhatia,Male,Jaipur,Rajasthan,"At Risk",Bronze,1,926.35,926.35
+CUST00728,Swati,Balaji,Female,Bangalore,Karnataka,Regular,Silver,3,33845.25,11281.75
+CUST00729,Harsh,Iyer,Male,Bangalore,Karnataka,Regular,Silver,6,105815.60000000002,17635.933333333338
+CUST00730,Rekha,Malhotra,Female,Lucknow,"Uttar Pradesh",Regular,Silver,4,102265.47,25566.3675
+CUST00731,Gaurav,Narayanan,Male,Bangalore,Karnataka,"At Risk",Gold,1,25522.93,25522.93
+CUST00732,Shruti,Naik,Female,Mumbai,Maharashtra,Regular,Silver,4,46758.17,11689.5425
+CUST00733,Arif,Ahmed,Male,Jaipur,Rajasthan,"At Risk",Bronze,2,6083.22,3041.61
+CUST00734,Divya,Krishnan,Female,Chennai,"Tamil Nadu","At Risk",Bronze,1,821.21,821.21
+CUST00735,Deepak,Mondal,Male,Kolkata,"West Bengal",Regular,Silver,5,48452.630000000005,9690.526000000002
+CUST00736,Divya,Thakkar,Female,Mumbai,Maharashtra,Regular,Bronze,2,6699.620000000001,3349.8100000000004
+CUST00739,Vikram,Menon,Male,Kochi,Kerala,Regular,Bronze,3,4658.29,1552.7633333333333
+CUST00740,Pankaj,Pillai,Male,Chennai,"Tamil Nadu",Regular,Silver,2,20188.7,10094.35
+CUST00741,Neha,Gowda,Female,Bangalore,Karnataka,Regular,Bronze,5,22799.690000000002,4559.938
+CUST00742,Megha,Hegde,Female,Kochi,Kerala,"At Risk",Bronze,1,2770.99,2770.99
+CUST00743,Kavya,Ranjan,Female,Lucknow,"Uttar Pradesh","At Risk",Bronze,1,7569.83,7569.83
+CUST00744,Tarun,Mukherjee,Male,Kolkata,"West Bengal","At Risk",Bronze,1,3593.18,3593.18
+CUST00745,Manish,Sundaram,Male,Bangalore,Karnataka,"At Risk",Bronze,1,6841.18,6841.18
+CUST00746,Aanya,More,Female,Ahmedabad,Gujarat,Regular,Bronze,4,9329.91,2332.4775
+CUST00747,Pranab,Bhattacharya,Male,Kolkata,"West Bengal",Regular,Silver,1,75566.02,75566.02
+CUST00748,Vinod,Bansal,Male,Jaipur,Rajasthan,Regular,Silver,4,86065.29,21516.3225
+CUST00749,Deepak,Patil,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,1557.96,1557.96
+CUST00750,Rajesh,Jha,Male,Delhi,Delhi,"At Risk",Bronze,1,1921.7,1921.7
+CUST00751,Amit,Nayak,Male,Kolkata,"West Bengal","At Risk",Bronze,1,538.94,538.94
+CUST00752,Vignesh,Menon,Male,Hyderabad,Telangana,"At Risk",Bronze,1,1507.8,1507.8
+CUST00753,Sanjay,Deshmukh,Male,Pune,Maharashtra,"High Value",Gold,4,177526.63,44381.6575
+CUST00754,Rakesh,Thakur,Male,Patna,Bihar,"At Risk",Bronze,1,1838.44,1838.44
+CUST00755,Ishaan,Kurup,Other,Bangalore,Karnataka,Regular,Silver,3,112876.61000000002,37625.536666666674
+CUST00756,Shubham,Khanna,Male,Jaipur,Rajasthan,"At Risk",Bronze,1,911.2,911.2
+CUST00757,Siddharth,Joshi,Male,Pune,Maharashtra,"At Risk",Bronze,1,320.95,320.95
+CUST00758,Rekha,Jha,Female,Lucknow,"Uttar Pradesh",Regular,Silver,5,78627.74,15725.548
+CUST00759,Ananya,Chandran,Female,Kochi,Kerala,"At Risk",Silver,0,0,0
+CUST00760,Ankit,Menon,Male,Kochi,Kerala,"At Risk",Bronze,1,13417.99,13417.99
+CUST00761,Vinod,Prasad,Male,Bangalore,Karnataka,"At Risk",Bronze,1,4866.96,4866.96
+CUST00762,Karan,Goyal,Male,Patna,Bihar,Regular,Bronze,4,14996.75,3749.1875
+CUST00763,Abhishek,More,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,5531.9,5531.9
+CUST00764,Ankit,Kamat,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,7027.55,7027.55
+CUST00765,Priya,Prasad,Female,Delhi,Delhi,"At Risk",Bronze,1,5311.15,5311.15
+CUST00766,Seema,Arora,Female,Lucknow,"Uttar Pradesh","At Risk",Bronze,1,2638.94,2638.94
+CUST00767,Anita,Sundaram,Female,Bangalore,Karnataka,Regular,Silver,3,27211.870000000003,9070.623333333335
+CUST00768,Hardik,Joshi,Male,Nagpur,Maharashtra,Regular,Bronze,2,19939.98,9969.99
+CUST00769,Preeti,Shah,Female,Nagpur,Maharashtra,Regular,Bronze,2,4707.48,2353.74
+CUST00770,Aarav,Mehta,Male,Pune,Maharashtra,"At Risk",Bronze,1,3240.72,3240.72
+CUST00771,Pallavi,Behera,Female,Kolkata,"West Bengal","At Risk",Silver,1,26485.22,26485.22
+CUST00772,Mayank,Krishnan,Male,Bangalore,Karnataka,Regular,Bronze,3,8725.42,2908.4733333333334
+CUST00773,Venkatesh,Chandran,Other,Bangalore,Karnataka,"At Risk",Bronze,1,1547.34,1547.34
+CUST00774,Riya,Kurup,Female,Chennai,"Tamil Nadu",Regular,Silver,5,22096.15,4419.2300000000005
+CUST00775,Deepak,Agarwal,Male,Noida,"Uttar Pradesh",Regular,Bronze,4,36897.2,9224.3
+CUST00776,Mohit,Ranjan,Male,Delhi,Delhi,Regular,Silver,5,49816.23,9963.246000000001
+CUST00777,Utkarsh,Narayanan,Male,Chennai,"Tamil Nadu",Regular,Silver,2,23493.29,11746.645
+CUST00778,Rohan,Prasad,Male,Chennai,"Tamil Nadu",Regular,Bronze,4,8300.34,2075.085
+CUST00779,Gaurav,Sawant,Male,Ahmedabad,Gujarat,"High Value",Platinum,6,291271.9,48545.31666666667
+CUST00780,Siddharth,Dutta,Male,Guwahati,Assam,Regular,Bronze,2,6233.92,3116.96
+CUST00781,Manish,Tiwari,Male,Gurgaon,Haryana,"At Risk",Silver,1,52688.1,52688.1
+CUST00782,Komal,Trivedi,Female,Mumbai,Maharashtra,Regular,Silver,7,89123.35,12731.907142857144
+CUST00783,Ramesh,Ahmed,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,14378.42,14378.42
+CUST00784,Tanvi,Saxena,Female,Delhi,Delhi,"High Value",Gold,14,154165.34999999998,11011.810714285713
+CUST00785,Deepa,Narayanan,Female,Bangalore,Karnataka,"At Risk",Bronze,1,682.2,682.2
+CUST00786,Sachin,Kale,Male,Nagpur,Maharashtra,"At Risk",Bronze,1,16395.4,16395.4
+CUST00787,Utkarsh,Goyal,Male,Delhi,Delhi,Regular,Silver,13,146377.74,11259.826153846154
+CUST00788,Karan,Borah,Male,Kolkata,"West Bengal","At Risk",Bronze,1,2508.68,2508.68
+CUST00790,Sachin,Sharma,Male,Noida,"Uttar Pradesh","At Risk",Silver,1,51307.26,51307.26
+CUST00791,Siddharth,Khan,Male,Hyderabad,Telangana,"At Risk",Bronze,1,4475.32,4475.32
+CUST00792,Praveen,Murthy,Male,Hyderabad,Telangana,"At Risk",Bronze,2,3952.8900000000003,1976.4450000000002
+CUST00793,Bhavna,Rathore,Female,Delhi,Delhi,Regular,Silver,4,85318.72,21329.68
+CUST00794,Janvi,Patil,Female,Mumbai,Maharashtra,Regular,Silver,3,68575.49999999999,22858.499999999996
+CUST00795,Rekha,Gogoi,Female,Guwahati,Assam,"At Risk",Silver,0,0,0
+CUST00796,Tanvi,Sen,Female,Kolkata,"West Bengal","At Risk",Bronze,1,3945.72,3945.72
+CUST00797,Vishal,Jadhav,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,1178.35,1178.35
+CUST00798,Simran,Shetty,Female,Hyderabad,Telangana,Regular,Silver,7,145701.94999999998,20814.564285714285
+CUST00799,Aanya,Naidu,Female,Hyderabad,Telangana,"At Risk",Bronze,1,16256.22,16256.22
+CUST00800,Mahesh,Tiwari,Male,Patna,Bihar,Regular,Silver,7,32185.67,4597.952857142857
+CUST00801,Isha,Subramanian,Female,Chennai,"Tamil Nadu","At Risk",Silver,1,22311.37,22311.37
+CUST00802,Riya,Arora,Female,Jaipur,Rajasthan,Regular,Bronze,2,4204.2,2102.1
+CUST00803,Sneha,Gupta,Female,Noida,"Uttar Pradesh",Regular,Silver,5,102075.44999999998,20415.089999999997
+CUST00804,Harsh,Prasad,Male,Gurgaon,Haryana,Regular,Bronze,2,12488.33,6244.165
+CUST00805,Abhishek,Gowda,Male,Kochi,Kerala,"At Risk",Bronze,1,511.11,511.11
+CUST00806,Karan,Srivastava,Male,Lucknow,"Uttar Pradesh","At Risk",Bronze,1,5311.15,5311.15
+CUST00807,Shreya,Menon,Female,Hyderabad,Telangana,Regular,Silver,9,88217.72000000002,9801.96888888889
+CUST00808,Rukhsar,Malik,Female,Kochi,Kerala,Regular,Bronze,1,3956.1,3956.1
+CUST00809,Tanvi,Pandey,Female,Lucknow,"Uttar Pradesh",Regular,Silver,4,54430.69,13607.6725
+CUST00810,Rekha,Gaikwad,Female,Mumbai,Maharashtra,"At Risk",Bronze,1,1026.34,1026.34
+CUST00811,Utkarsh,Trivedi,Male,Ahmedabad,Gujarat,Regular,Gold,4,60453.53,15113.3825
+CUST00812,Sneha,Bose,Female,Guwahati,Assam,"At Risk",Bronze,1,17237.78,17237.78
+CUST00813,Vinod,Behera,Male,Bhubaneswar,Odisha,Regular,Bronze,3,15413.530000000002,5137.843333333334
+CUST00814,Mansi,Jadhav,Female,Mumbai,Maharashtra,"At Risk",Bronze,1,3509.5,3509.5
+CUST00815,Dev,Bhatt,Male,Indore,"Madhya Pradesh","At Risk",Bronze,1,2473.02,2473.02
+CUST00816,Saurabh,Malhotra,Male,Patna,Bihar,"At Risk",Bronze,1,4925.56,4925.56
+CUST00817,Sonia,Bhatia,Female,Delhi,Delhi,"At Risk",Bronze,1,3122.28,3122.28
+CUST00818,Dev,Arora,Male,Noida,"Uttar Pradesh","At Risk",Silver,1,64671.55,64671.55
+CUST00819,Sunita,Dubey,Female,Patna,Bihar,"At Risk",Silver,2,10419.7,5209.85
+CUST00820,Sneha,Patel,Female,Indore,"Madhya Pradesh","At Risk",Bronze,1,4444.27,4444.27
+CUST00821,Akash,Sawant,Male,Mumbai,Maharashtra,"At Risk",Bronze,1,6050.28,6050.28
+CUST00823,Kritika,Modi,Female,Pune,Maharashtra,Regular,Bronze,3,8532.54,2844.1800000000003
+CUST00824,Tarun,Naik,Male,Ahmedabad,Gujarat,Regular,Silver,3,31929.01,10643.003333333332
+CUST00825,Kavya,Shah,Female,Mumbai,Maharashtra,"At Risk",Bronze,1,1368.86,1368.86
+CUST00826,Rutuja,Deshmukh,Female,Ahmedabad,Gujarat,"At Risk",Bronze,1,10658.18,10658.18
+CUST00827,Shreya,Mukherjee,Female,Kolkata,"West Bengal",Regular,Silver,6,40027.69,6671.281666666667
+CUST00828,Nilesh,Patil,Male,Mumbai,Maharashtra,"High Value",Gold,7,160195.53999999998,22885.07714285714
+CUST00829,Akash,Bhat,Male,Hyderabad,Telangana,New,Bronze,1,228.48,228.48
+CUST00830,Pranav,Shinde,Male,Mumbai,Maharashtra,Regular,Silver,2,28679.36,14339.68
+CUST00831,Ayush,Deshmukh,Male,Indore,"Madhya Pradesh",New,Silver,5,47634.83,9526.966
+CUST00832,Rekha,Mishra,Female,Chandigarh,Chandigarh,Regular,Bronze,2,5263.17,2631.585
+CUST00833,Pallavi,Desai,Female,Surat,Gujarat,New,Bronze,1,1050.32,1050.32
+CUST00834,Arjun,Kulkarni,Male,Mumbai,Maharashtra,New,Silver,1,38720.12,38720.12
+CUST00835,Bhavna,Mehta,Female,Mumbai,Maharashtra,"At Risk",Bronze,0,0,0
+CUST00837,Megha,Trivedi,Female,Surat,Gujarat,New,Silver,1,30176.66,30176.66
+CUST00838,Aanya,Gaikwad,Female,Mumbai,Maharashtra,Regular,Bronze,4,12835.27,3208.8175
+CUST00839,Gurpreet,Goyal,Male,Delhi,Delhi,"High Value",Gold,9,207027.53999999998,23003.059999999998
+CUST00840,Bhavna,Rao,Female,Hyderabad,Telangana,Regular,Gold,6,138481.9,23080.316666666666
+CUST00841,Vishal,Goyal,Male,Lucknow,"Uttar Pradesh",Regular,Bronze,2,9526.7,4763.35
+CUST00842,Sanjay,Pandey,Male,Delhi,Delhi,Regular,Bronze,8,17453.359999999997,2181.6699999999996
+CUST00843,Swapnil,Gaikwad,Male,Nagpur,Maharashtra,"At Risk",Bronze,1,3157.28,3157.28
+CUST00844,Karan,Malik,Male,Mumbai,Maharashtra,Regular,Silver,2,17101.34,8550.67
+CUST00845,Naveen,Bhosale,Male,Pune,Maharashtra,New,Silver,1,22615.27,22615.27
+CUST00846,Gayathri,Nair,Female,Bangalore,Karnataka,Regular,Bronze,7,169507.77000000002,24215.395714285718
+CUST00847,Sunita,Bhat,Female,Bangalore,Karnataka,Regular,Gold,10,132599.63999999998,13259.963999999998
+CUST00848,Meera,Bhatt,Female,Surat,Gujarat,Regular,Silver,2,73908.75,36954.375
+CUST00849,Manpreet,Bansal,Female,Chandigarh,Chandigarh,"At Risk",Bronze,1,7053.98,7053.98
+CUST00850,Rekha,Kulkarni,Female,Ahmedabad,Gujarat,New,Bronze,1,7992.32,7992.32
+CUST00851,Ananya,Desai,Female,Mumbai,Maharashtra,New,Bronze,1,2409.68,2409.68
+CUST00852,Aditya,Sahoo,Male,Guwahati,Assam,Regular,Silver,7,63481.08,9068.725714285714
+CUST00853,Vivaan,Yadav,Male,Delhi,Delhi,"At Risk",Bronze,1,1319.47,1319.47
+CUST00854,Shubham,Thakur,Male,Gurgaon,Haryana,New,Silver,1,31560.2,31560.2
+CUST00855,Aarav,Patel,Male,Pune,Maharashtra,New,Bronze,1,15064.47,15064.47
+CUST00856,Kritika,Patil,Female,Surat,Gujarat,New,Bronze,1,4972.92,4972.92
+CUST00857,Preeti,Chauhan,Female,Delhi,Delhi,New,Bronze,1,5374.88,5374.88
+CUST00858,Aarav,Thakkar,Male,Indore,"Madhya Pradesh",New,Bronze,1,685.95,685.95
+CUST00859,Megha,Agarwal,Female,Chandigarh,Chandigarh,New,Bronze,1,3799.84,3799.84
+CUST00860,Varun,Bhosale,Male,Surat,Gujarat,New,Bronze,1,1010.4,1010.4
+CUST00861,Saurabh,Kapoor,Male,Noida,"Uttar Pradesh",New,Bronze,1,358,358
+CUST00862,Tarun,Prasad,Male,Chennai,"Tamil Nadu",New,Bronze,1,3556.64,3556.64
+CUST00863,Radhika,Menon,Female,Bangalore,Karnataka,Regular,Bronze,2,10522.68,5261.34
+CUST00864,Simran,Iyer,Other,Kochi,Kerala,New,Bronze,1,556.61,556.61
+CUST00865,Vignesh,Sundaram,Male,Bangalore,Karnataka,New,Silver,1,32814.38,32814.38
+CUST00866,Anita,Ahmed,Female,Pune,Maharashtra,New,Silver,1,50207.82,50207.82
+CUST00867,Komal,Qureshi,Female,Kochi,Kerala,"At Risk",Bronze,0,0,0
+CUST00868,Karan,Kulkarni,Male,Pune,Maharashtra,Regular,Silver,3,37812.32,12604.106666666667
+CUST00870,Yash,Varma,Male,Bangalore,Karnataka,"At Risk",Bronze,1,2209.7,2209.7
+CUST00871,Jyoti,Bansal,Female,Delhi,Delhi,New,Bronze,1,1718.32,1718.32
+CUST00874,Deepika,Modi,Female,Indore,"Madhya Pradesh",Regular,Silver,4,28630.46,7157.615
+CUST00875,Abhishek,More,Male,Mumbai,Maharashtra,"At Risk",Bronze,0,0,0
+CUST00876,Riya,Iyer,Female,Kochi,Kerala,New,Bronze,1,5160.26,5160.26
+CUST00877,Kiran,Ahmed,Female,Noida,"Uttar Pradesh",Regular,Silver,4,40073.10999999999,10018.277499999998
+CUST00878,Mrunal,Bhatt,Female,Indore,"Madhya Pradesh",Regular,Bronze,2,12845.640000000001,6422.820000000001
+CUST00879,Pooja,Srivastava,Female,Jaipur,Rajasthan,Regular,Silver,3,66146,22048.666666666668
+CUST00880,Kiran,Gupta,Female,Patna,Bihar,Regular,Bronze,2,8397.1,4198.55
+CUST00881,Revathi,Chandran,Female,Kochi,Kerala,Regular,Bronze,4,19423.93,4855.9825
+CUST00883,Suresh,Malik,Male,Delhi,Delhi,New,Bronze,1,16435.04,16435.04
+CUST00884,Tanvi,Naik,Female,Pune,Maharashtra,"At Risk",Bronze,0,0,0
+CUST00885,Rakesh,Khanna,Male,Jaipur,Rajasthan,New,Bronze,1,10242.61,10242.61
+CUST00886,Mahesh,Kulkarni,Male,Indore,"Madhya Pradesh","At Risk",Bronze,0,0,0
+CUST00887,Priya,Kapoor,Female,Noida,"Uttar Pradesh",Regular,Silver,4,41777.71000000001,10444.427500000002
+CUST00889,Payal,Joshi,Female,Delhi,Delhi,Regular,Bronze,2,37078.5,18539.25
+CUST00890,Anil,Agarwal,Male,Noida,"Uttar Pradesh",Regular,Silver,7,35299.33,5042.761428571429
+CUST00891,Aarav,Gaikwad,Male,Indore,"Madhya Pradesh",New,Bronze,1,2677.42,2677.42
+CUST00892,Tarun,Thakur,Male,Jaipur,Rajasthan,Regular,Silver,3,25924.46,8641.486666666666
+CUST00893,Varun,Kapoor,Male,Delhi,Delhi,Regular,Bronze,2,8223.18,4111.59
+CUST00894,Saurabh,Singh,Male,Lucknow,"Uttar Pradesh",New,Silver,1,69892.57,69892.57
+CUST00895,Vinod,Yadav,Other,Jaipur,Rajasthan,New,Bronze,1,2287.15,2287.15
+CUST00896,Vivaan,Verma,Male,Delhi,Delhi,New,Bronze,1,5160.26,5160.26
+CUST00897,Biswajit,Banerjee,Male,Kolkata,"West Bengal",New,Bronze,1,2392.94,2392.94
+CUST00898,Ayush,Bhatt,Other,Mumbai,Maharashtra,"At Risk",Bronze,1,48257.84,48257.84
+CUST00899,Mrunal,Joshi,Female,Mumbai,Maharashtra,New,Bronze,1,2056.98,2056.98
+CUST00900,Vikram,Trivedi,Male,Surat,Gujarat,New,Bronze,1,1324.32,1324.32
+CUST00901,Lakshmi,Gowda,Female,Bangalore,Karnataka,New,Bronze,1,2368.04,2368.04
+CUST00902,Preeti,Arora,Female,Delhi,Delhi,Regular,Silver,3,35138.840000000004,11712.946666666669
+CUST00903,Mahesh,Khanna,Male,Lucknow,"Uttar Pradesh",Regular,Silver,4,23777.8,5944.45
+CUST00904,Komal,Rathore,Female,Delhi,Delhi,New,Bronze,1,3263.65,3263.65
+CUST00905,Kritika,Dubey,Female,Delhi,Delhi,"At Risk",Bronze,0,0,0
+CUST00906,Suresh,Rao,Male,Hyderabad,Telangana,New,Bronze,1,678,678
+CUST00907,Sonia,Jain,Female,Gurgaon,Haryana,"At Risk",Bronze,0,0,0
+CUST00908,Sunita,Chandran,Female,Chennai,"Tamil Nadu",New,Silver,1,43524.72,43524.72
+CUST00909,Abhijit,Ghosh,Male,Calcutta,"West Bengal",New,Bronze,1,9916.3,9916.3
+CUST00910,Neha,Arora,Female,Noida,"Uttar Pradesh",New,Bronze,1,11464.02,11464.02
+CUST00911,Devendra,Rathore,Male,Lucknow,"Uttar Pradesh","At Risk",Bronze,1,15728.22,15728.22
+CUST00912,Arjun,Agarwal,Male,Chandigarh,Chandigarh,New,Bronze,1,3812.82,3812.82
+CUST00913,Rohan,Deshmukh,Male,Pune,Maharashtra,New,Bronze,1,6435.51,6435.51
+CUST00914,Sanjay,Kumar,Male,Bangalore,Karnataka,New,Bronze,1,10796.3,10796.3
+CUST00915,Sanjay,Sheikh,Male,Chandigarh,Chandigarh,New,Bronze,1,15138.96,15138.96
+CUST00916,Kabir,Trivedi,Male,Mumbai,Maharashtra,New,Bronze,1,2887.9,2887.9
+CUST00917,Anita,Bhosale,Female,Ahmedabad,Gujarat,New,Bronze,1,14129.68,14129.68
+CUST00918,Aditya,Tiwari,Male,Delhi,Delhi,New,Bronze,1,27099.06,27099.06
+CUST00919,Harsh,Yadav,Male,Delhi,Delhi,New,Bronze,1,5106.14,5106.14
+CUST00920,Shruti,Prasad,Female,Bangalore,Karnataka,New,Bronze,1,2312.38,2312.38
+CUST00921,Mohit,Bansal,Male,Delhi,Delhi,"At Risk",Bronze,0,0,0
+CUST00922,Ankit,Kulkarni,Male,Pune,Maharashtra,New,Bronze,1,10422.29,10422.29
+CUST00923,Sakshi,Thakkar,Female,Pune,Maharashtra,"High Value",Gold,3,162560.84,54186.94666666666
+CUST00924,Deepa,Balaji,Female,Banglore,Karnataka,New,Bronze,1,3085.47,3085.47
+CUST00925,Manish,Iyer,Male,Chennai,"Tamil Nadu",New,Bronze,1,9636.3,9636.3
+CUST00926,Rutuja,Patel,Female,Ahmedabad,Gujarat,"At Risk",Bronze,0,0,0
+CUST00927,Sakshi,Patil,Female,Mumbai,Maharashtra,New,Bronze,1,1319.47,1319.47
+CUST00928,Sachin,Menon,Male,Bangalore,Karnataka,New,Silver,1,24849.74,24849.74
+CUST00929,Sachin,Srivastava,Male,Jaipur,Rajasthan,New,Bronze,1,2837.9,2837.9
+CUST00930,Sunita,Sinha,Female,Gurgaon,Haryana,New,Bronze,1,2518.88,2518.88
+CUST00931,Ramesh,Chauhan,Male,Delhi,Delhi,New,Bronze,1,1178.35,1178.35
+CUST00932,Kiran,Srivastava,Female,Patna,Bihar,New,Bronze,1,2841.55,2841.55
+CUST00933,Pallavi,Malik,Female,Chennai,"Tamil Nadu",New,Bronze,1,5385.58,5385.58
+CUST00934,Sachin,Kapoor,Male,Chandigarh,Chandigarh,New,Bronze,1,10595.91,10595.91
+CUST00935,Tanushree,Banerjee,Female,Kolkata,"West Bengal",New,Bronze,1,632.39,632.39
+CUST00936,Anil,Gowda,Male,Chennai,"Tamil Nadu",New,Bronze,1,1667.68,1667.68
+CUST00937,Mukesh,Pandey,Male,Noida,"Uttar Pradesh",New,Bronze,1,3826.28,3826.28
+CUST00938,Vinod,Choudhury,Male,Kolkata,"West Bengal",New,Bronze,1,14682.01,14682.01
+CUST00939,Vinod,Desai,Male,Surat,Gujarat,New,Bronze,1,1223.66,1223.66
+CUST00940,Nikhil,Tiwari,Male,Gurgaon,Haryana,New,Bronze,1,6957.83,6957.83
+CUST00941,Meera,Naidu,Female,Kochi,Kerala,New,Bronze,1,3068.35,3068.35
+CUST00943,Karthik,Shetty,Male,Kochi,Kerala,New,Bronze,1,1283.32,1283.32
+CUST00944,Rohan,Chandran,Male,Bangalore,Karnataka,New,Bronze,1,4167.73,4167.73
+CUST00945,Gurpreet,Joshi,Male,Delhi,Delhi,New,Bronze,1,7888.98,7888.98
+CUST00946,Vivaan,Prasad,Male,Patna,Bihar,"At Risk",Bronze,1,958.16,958.16
+CUST00947,Kavya,Sarkar,Female,Bhubaneswar,Odisha,New,Bronze,2,4530.219999999999,2265.1099999999997
+CUST00948,Vivaan,Sen,Male,Bhubaneswar,Odisha,"At Risk",Bronze,1,99680.5,99680.5
+CUST00949,Chirag,Patel,Male,Mumbai,Maharashtra,New,Bronze,1,17734.22,17734.22
+CUST00950,Suresh,Dubey,Male,Delhi,Delhi,New,Bronze,1,783.76,783.76
+CUST00951,Payal,Subramanian,Female,Hyderabad,Telangana,"At Risk",Bronze,1,7609.82,7609.82
+CUST00952,Aarav,Bhosale,Male,Nagpur,Maharashtra,New,Silver,1,59112.1,59112.1
+CUST00953,Swati,Malik,Female,Mumbai,Maharashtra,New,Bronze,1,4548.12,4548.12
+CUST00954,Nidhi,Gowda,Female,Hyderabad,Telangana,New,Bronze,1,4126.55,4126.55
+CUST00955,Abhishek,Shetty,Male,Hyderabad,Telangana,New,Bronze,1,4586.66,4586.66
+CUST00956,Komal,Malik,Female,Bangalore,Karnataka,New,Bronze,1,407.96,407.96
+CUST00957,Vandana,Chauhan,Female,Delhi,Delhi,New,Bronze,1,1123.5,1123.5
+CUST00958,Saurabh,Saikia,Male,Kolkata,"West Bengal",New,Silver,1,69260.3,69260.3
+CUST00959,Komal,Kapoor,Female,Gurgaon,Haryana,New,Bronze,1,4595.47,4595.47
+CUST00960,Sonia,Kamat,Female,Pune,Maharashtra,New,Bronze,1,4269.58,4269.58
+CUST00961,Suresh,Malik,Male,Lucknow,"Uttar Pradesh",New,Bronze,1,32378.02,32378.02
+CUST00962,Jyoti,Naik,Female,Mumbai,Maharashtra,New,Bronze,0,0,0
+CUST00963,Gaurav,Patel,Male,Ahmedabad,Gujarat,New,Bronze,1,10522.64,10522.64
+CUST00964,Ishaan,Malik,Male,Delhi,Delhi,New,Silver,1,23650.94,23650.94
+CUST00965,Pallavi,Mehta,Female,Nagpur,Maharashtra,New,Bronze,0,0,0
+CUST00966,Ruchi,Arora,Female,Delhi,Delhi,New,Bronze,2,18042.32,9021.16
+CUST00967,Sanjay,Bhat,Male,Bangalore,Karnataka,New,Bronze,1,13500.67,13500.67
+CUST00968,Amit,Prasad,Male,Kochi,Kerala,New,Bronze,1,1506.51,1506.51
+CUST00969,Harsh,Trivedi,Male,Ahmedabad,Gujarat,New,Bronze,1,3098.42,3098.42
+CUST00970,Kiran,Sahoo,Female,Guwahati,Assam,New,Bronze,1,3256.28,3256.28
+CUST00971,Manish,Modi,Male,Nagpur,Maharashtra,New,Bronze,1,46282.14,46282.14
+CUST00972,Shabana,Ali,Female,Delhi,Delhi,New,Bronze,1,4164.22,4164.22
+CUST00973,Rohan,Naidu,Male,Bangalore,Karnataka,New,Bronze,1,623.95,623.95
+CUST00974,Mansi,Naidu,Female,Bangalore,Karnataka,New,Bronze,1,428,428
+CUST00975,Rakesh,Bhatia,Male,Noida,"Uttar Pradesh",New,Bronze,1,1556.04,1556.04
+CUST00976,Divya,Banerjee,Female,Kolkata,"West Bengal",Regular,Bronze,0,0,0
+CUST00977,Ayesha,Qureshi,Female,Lucknow,"Uttar Pradesh",New,Bronze,1,1805.61,1805.61
+CUST00978,Kiran,Shetty,Female,Hyderabad,Telangana,New,Silver,1,62614.46,62614.46
+CUST00979,Bhavna,Choudhury,Female,Kolkata,"West Bengal",New,Bronze,1,3340.22,3340.22
+CUST00980,Shruti,Goyal,Female,Jaipur,Rajasthan,New,Bronze,1,3010.06,3010.06
+CUST00981,Diya,Trivedi,Female,Pune,Maharashtra,New,Bronze,1,10439.85,10439.85
+CUST00983,Kunal,Prasad,Male,Chandigarh,Chandigarh,New,Bronze,1,6601.4,6601.4
+CUST00984,Venkatesh,Narayanan,Male,Bangalore,Karnataka,New,Silver,2,69868.48,34934.24
+CUST00985,Revathi,Chandran,Female,Kochi,Kerala,New,Bronze,1,18484.49,18484.49
+CUST00986,Saurabh,Singh,Male,Lucknow,"Uttar Pradesh",New,Bronze,1,1824.9,1824.9
+CUST00987,Suresh,Ranjan,Male,Patna,Bihar,New,Bronze,1,428,428
+CUST00988,Neha,Parekh,Female,Surat,Gujarat,New,Bronze,0,0,0
+CUST00989,Anjali,Sarkar,Female,Bhubaneswar,Odisha,New,Silver,1,25077.16,25077.16
+CUST00990,Deepak,Khanna,Male,Jaipur,Rajasthan,New,Bronze,1,8282.42,8282.42
+CUST00991,Deepak,Pillai,Male,Bangalore,Karnataka,New,Bronze,1,3450.44,3450.44
+CUST00992,Sanjay,Bhattacharya,Male,Bhubaneswar,Odisha,New,Bronze,1,816.95,816.95
+CUST00993,Aarav,Mishra,Male,Delhi,Delhi,New,Bronze,1,3951.82,3951.82
+CUST00994,Abhishek,Gowda,Male,Bangalore,Karnataka,New,Bronze,1,1821.58,1821.58
+CUST00995,Ananya,Naik,Female,Indore,"Madhya Pradesh",New,Bronze,1,8754.73,8754.73
+CUST00997,Kritika,Bose,Female,Bhubaneswar,Odisha,New,Silver,1,5423.88,5423.88
+CUST00998,Harleen,Chauhan,Female,Lucknow,"Uttar Pradesh",New,Silver,1,4128.82,4128.82
+CUST00999,Riya,Kale,Female,Pune,Maharashtra,New,Bronze,1,1010.2,1010.2
+CUST01000,Riya,Kale,Female,Ahmedabad,Gujarat,New,Bronze,1,2940.55,2940.55

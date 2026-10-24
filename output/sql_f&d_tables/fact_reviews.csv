@@ -1,0 +1,1001 @@
+Review_ID,Customer_ID,Product_ID,Order_ID,Rating,Review_Text,Review_Date
+REV00003,CUST00302,PRD064,ORD000001,4,"Totally worth the price. Size chart was accurate and the quality is great.",14-10-2023
+REV00004,CUST00315,PRD089,ORD000003,5,"Good product at this price. Long lasting and gives good coverage. Using the Sugar Cosmetics Matte As Hell Crayon Lipstick for three months now.",14-10-2023
+REV00005,CUST00163,PRD096,ORD000008,4,"Totally worth the price. Great quality for the price. Very sturdy and does the job perfectly. Using the Whirlpool 265L Double Door Refrigerator for three months now. Recommended to friends and family.",15-10-2023
+REV00006,CUST00315,PRD126,ORD000003,3,"Decent for the price but nothing special. Okay for beginners, not for heavy use. Using the Adidas Pro Training Football for three months now. Delivery got delayed by 1 day. Okay for the price.",15-10-2023
+REV00007,CUST00242,PRD153,ORD000026,5,"Packaging was neat and the product is genuine. Great gift for a birthday. Colourful, safe and well made. Delivered earlier than promised.",16-10-2023
+REV00008,CUST00120,PRD078,ORD000021,4,"Excellent quality! Colour is exactly as shown in the pictures.",18-10-2023
+REV00009,CUST00163,PRD190,ORD000008,2,"Customer support was unhelpful. The product does not match the specifications on the listing. Please improve quality control.",18-10-2023
+REV00010,CUST00042,PRD058,ORD000016,3,"It's an okay product, does the job. Colour slightly different from the photos. Delivery was on time. Okay for the price.",20-10-2023
+REV00011,CUST00114,PRD061,ORD000036,4,"Totally worth the price. Fabric is soft and the fit is perfect. Stitching is neat and it is very comfortable to wear. Delivery got delayed by 1 day. Will buy again.",21-10-2023
+REV00012,CUST00278,PRD073,ORD000004,4,"Very happy with this. Colour is exactly as shown in the pictures. Five stars from me.",22-10-2023
+REV00013,CUST00242,PRD079,ORD000026,5,"Great value for money. Long lasting and gives good coverage. Suits my skin well with no irritation. Delivered earlier than promised. Five stars from me.",22-10-2023
+REV00014,CUST00320,PRD055,ORD000032,5,"Superb product, highly recommended. Size chart was accurate and the quality is great. Highly recommended.",24-10-2023
+REV00015,CUST00235,PRD078,ORD000052,4,"Great value for money. Size chart was accurate and the quality is great. Delivery was on time.",25-10-2023
+REV00016,CUST00145,PRD109,ORD000006,5,"Totally worth the price. Easy to clean and looks good at home. Using the Featherlite Ergonomic Office Chair for three months now. Highly recommended.",25-10-2023
+REV00017,CUST00174,PRD193,ORD000040,3,"Product is fine, but I expected a little more. Battery life is average. Delivery was on time.",27-10-2023
+REV00018,CUST00179,PRD099,ORD000043,5,"Superb product, highly recommended. Very sturdy and does the job perfectly. Easy to clean and looks good at home. Using the Prestige Non-Stick Cookware Set for a month now. Delivery was on time.",28-10-2023
+REV00019,CUST00321,PRD104,ORD000042,4,"Packaging was neat and the product is genuine. Very sturdy and does the job perfectly. Easy to clean and looks good at home. Using the Eureka Forbes Aquaguard Aura RO Water Purifier for two weeks now. Delivery got delayed by 1 day.",29-10-2023
+REV00020,CUST00320,PRD024,ORD000032,4,"Excellent quality! Battery life is great and it charges quickly. Setup was easy and it works flawlessly. Using the Apple MacBook Air M3 for two weeks now. Delivery was on time. Go for it!",30-10-2023
+REV00021,CUST00189,PRD100,ORD000041,4,"Bought it during the sale and it was a good deal. Installation team was prompt and professional. Delivery was on time. Five stars from me.",30-10-2023
+REV00022,CUST00194,PRD010,ORD000018,4,"Superb product, highly recommended. Battery life is great and it charges quickly. Five stars from me.",01-11-2023
+REV00023,CUST00145,PRD195,ORD000006,5,"Good product at this price. Looks premium and feels well built. Value for money is excellent compared to similar products. Using the SanDisk Ultra 128GB microSD Card for a week now.",02-11-2023
+REV00024,CUST00219,PRD058,ORD000091,4,"Very happy with this. Colour is exactly as shown in the pictures.",04-11-2023
+REV00025,CUST00014,PRD172,ORD000037,5,"Bought it during the sale and it was a good deal. Fragrance is mild and I could see results in two weeks. Go for it!",04-11-2023
+REV00026,CUST00154,PRD003,ORD000047,5,"Packaging was neat and the product is genuine. Performance is smooth and the build quality feels solid. Battery life is great and it charges quickly. Delivery was on time.",05-11-2023
+REV00027,CUST00235,PRD064,ORD000052,4,"Works exactly as described. Fabric is soft and the fit is perfect. Using the Wrangler Men Regular Fit Jeans for two weeks now. Highly recommended.",05-11-2023
+REV00028,CUST00114,PRD102,ORD000036,4,"Good product at this price. Installation team was prompt and professional. Using the Havells Ceiling Fan 1200mm for a week now.",05-11-2023
+REV00029,CUST00268,PRD175,ORD000057,3,"Not bad, not great. Works okay but results are not dramatic. Delivery got delayed by 4 days. Might consider alternatives next time.",05-11-2023
+REV00030,CUST00016,PRD022,ORD000064,4,"Totally worth the price. Looks premium and feels well built. Will buy again.",06-11-2023
+REV00031,CUST00324,PRD142,ORD000054,4,"Excellent quality! Print quality and paper are good. Will buy again.",06-11-2023
+REV00032,CUST00177,PRD178,ORD000062,3,"Mixed feelings about this one. Average product, packaging could be better. Could be better.",07-11-2023
+REV00033,CUST00240,PRD077,ORD000102,3,"Product is fine, but I expected a little more. Colour slightly different from the photos.",08-11-2023
+REV00034,CUST00300,PRD052,ORD000081,3,"Quality average hai, expect kuch aur kiya tha.",09-11-2023
+REV00035,CUST00201,PRD078,ORD000099,3,"Quality average hai, expect kuch aur kiya tha.",09-11-2023
+REV00036,CUST00240,PRD095,ORD000102,2,"Quality is much below expectations. Quality is far below expectations. Using the Pigeon Stovekraft Pressure Cooker 3L for three months now. Please improve quality control.",11-11-2023
+REV00037,CUST00328,PRD190,ORD000086,3,"Mixed feelings about this one. Build quality is fine, nothing exceptional.",11-11-2023
+REV00038,CUST00042,PRD190,ORD000016,4,"Totally worth the price. Value for money is excellent compared to similar products. Performance is smooth and the build quality feels solid. Go for it!",11-11-2023
+REV00039,CUST00325,PRD046,ORD000065,4,"Packaging was neat and the product is genuine. Performance is smooth and the build quality feels solid. Setup was easy and it works flawlessly. Using the Sony SRS-XB13 Portable Speaker for a month now.",12-11-2023
+REV00040,CUST00027,PRD063,ORD000090,2,"Really regret buying this. Looks nothing like the picture. Waste of money.",12-11-2023
+REV00041,CUST00033,PRD164,ORD000104,4,"Very happy with this. Quality is same as the store and packaging was secure. Using the Amul Pure Ghee 1L for two weeks now.",12-11-2023
+REV00042,CUST00322,PRD138,ORD000063,2,"Really regret buying this. Book arrived with a torn cover. Delivery got delayed by 2 days.",13-11-2023
+REV00043,CUST00332,PRD049,ORD000140,5,"Excellent quality! Looks premium and feels well built. Value for money is excellent compared to similar products. Using the Samsung Galaxy Buds2 Pro for two weeks now.",16-11-2023
+REV00044,CUST00340,PRD090,ORD000120,4,"Totally worth the price. Suits my skin well with no irritation. Recommended to friends and family.",16-11-2023
+REV00045,CUST00055,PRD136,ORD000128,5,"Works exactly as described. Print quality and paper are good. Insightful and easy to understand. Highly recommended.",16-11-2023
+REV00046,CUST00114,PRD149,ORD000141,4,"Great value for money. Great gift for a birthday. Go for it!",16-11-2023
+REV00047,CUST00283,PRD134,ORD000084,5,"Works exactly as described. Fantastic read with practical takeaways. Print quality and paper are good. Delivered earlier than promised. Highly recommended.",17-11-2023
+REV00048,CUST00247,PRD138,ORD000067,3,"Product is fine, but I expected a little more. Good content but a bit repetitive in places. Delivery got delayed by 1 day. Might consider alternatives next time.",17-11-2023
+REV00049,CUST00240,PRD090,ORD000102,4,"Price ke hisaab se top class hai bhai.",18-11-2023
+REV00050,CUST00171,PRD013,ORD000083,3,"Decent for the price but nothing special. Battery life is average. Delivery got delayed by 2 days. Might consider alternatives next time.",19-11-2023
+REV00051,CUST00022,PRD197,ORD000139,5,"Great value for money. Value for money is excellent compared to similar products. Performance is smooth and the build quality feels solid.",19-11-2023
+REV00052,CUST00252,PRD076,ORD000137,5,"Good product at this price. Fabric is soft and the fit is perfect. Stitching is neat and it is very comfortable to wear. Using the Campus Men Running Shoes for two weeks now.",20-11-2023
+REV00053,CUST00128,PRD155,ORD000136,4,"Very happy with this. Good quality and kept the kids busy for hours. Using the Ravensburger 1000 Piece Jigsaw Puzzle for a week now. Will buy again.",22-11-2023
+REV00054,CUST00225,PRD002,ORD000176,4,"Great value for money. Performance is smooth and the build quality feels solid. Value for money is excellent compared to similar products. Five stars from me.",24-11-2023
+REV00055,CUST00228,PRD177,ORD000153,5,"Packaging was neat and the product is genuine. Suits my skin well with no irritation.",24-11-2023
+REV00056,CUST00330,PRD190,ORD000105,5,"Very happy with this. Performance is smooth and the build quality feels solid. Using the Wildcraft Laptop Backpack 35L for a week now.",24-11-2023
+REV00057,CUST00254,PRD008,ORD000111,3,"Product is fine, but I expected a little more. Performance is okay but I expected a bit more at this price. Build quality is fine, nothing exceptional. Might consider alternatives next time.",25-11-2023
+REV00058,CUST00330,PRD055,ORD000105,5,"Great value for money. Size chart was accurate and the quality is great. Stitching is neat and it is very comfortable to wear. Delivered earlier than promised.",25-11-2023
+REV00059,CUST00050,PRD169,ORD000070,5,"Bought it during the sale and it was a good deal. Fresh stock with a long expiry date. Delivery was on time. Recommended to friends and family.",25-11-2023
+REV00060,CUST00055,PRD084,ORD000128,5,"Superb product, highly recommended. Long lasting and gives good coverage.",26-11-2023
+REV00061,CUST00147,PRD169,ORD000131,4,"Packaging was neat and the product is genuine. Great price for the pack size. Using the Britannia Good Day Cashew Cookies for a month now. Delivery was on time. Highly recommended.",26-11-2023
+REV00062,CUST00334,PRD057,ORD000147,3,"It's an okay product, does the job. Colour slightly different from the photos. Decent quality for the price. Using the W Women Printed Straight Kurta for two weeks now. Could be better.",29-11-2023
+REV00063,CUST00342,PRD144,ORD000165,4,"Excellent quality! My kid loves it and plays with it daily. Using the LEGO Classic Medium Creative Brick Box for three months now. Delivered earlier than promised. Will buy again.",29-11-2023
+REV00064,CUST00065,PRD145,ORD000186,5,"Very happy with this. Good quality and kept the kids busy for hours. Delivery got delayed by 2 days. Recommended to friends and family.",29-11-2023
+REV00065,CUST00210,PRD148,ORD000145,4,"Packaging was neat and the product is genuine. Good quality and kept the kids busy for hours. Five stars from me.",29-11-2023
+REV00066,CUST00180,PRD055,ORD000134,5,"Totally worth the price. Stitching is neat and it is very comfortable to wear. Size chart was accurate and the quality is great. Five stars from me.",30-11-2023
+REV00067,CUST00189,PRD058,ORD000177,4,"Totally worth the price. Size chart was accurate and the quality is great.",30-11-2023
+REV00068,CUST00219,PRD104,ORD000189,4,"Great value for money. Easy to clean and looks good at home. Installation team was prompt and professional. Highly recommended.",30-11-2023
+REV00069,CUST00230,PRD055,ORD000180,4,"Good product at this price. Colour is exactly as shown in the pictures.",01-12-2023
+REV00070,CUST00020,PRD164,ORD000175,4,"Superb product, highly recommended. Fresh stock with a long expiry date. Five stars from me.",02-12-2023
+REV00071,CUST00131,PRD058,ORD000208,3,"Mixed feelings about this one. Decent quality for the price. Fit is okay but the fabric is a bit thin. Okay for the price.",04-12-2023
+REV00072,CUST00214,PRD058,ORD000135,4,"Superb product, highly recommended. Stitching is neat and it is very comfortable to wear. Using the Biba Women Anarkali Kurta Set for three months now. Five stars from me.",04-12-2023
+REV00073,CUST00142,PRD059,ORD000150,3,"Mixed feelings about this one. Colour slightly different from the photos. Delivery got delayed by 2 days.",05-12-2023
+REV00074,CUST00142,PRD076,ORD000150,3,"Decent for the price but nothing special. Decent quality for the price. Delivery got delayed by 2 days.",05-12-2023
+REV00075,CUST00131,PRD164,ORD000208,5,"Superb product, highly recommended. Great price for the pack size. Delivery was on time.",05-12-2023
+REV00076,CUST00149,PRD197,ORD000195,4,"Superb product, highly recommended. Battery life is great and it charges quickly. Performance is smooth and the build quality feels solid.",05-12-2023
+REV00077,CUST00354,PRD163,ORD000213,5,"Superb product, highly recommended. Quality is same as the store and packaging was secure. Great price for the pack size.",06-12-2023
+REV00078,CUST00135,PRD162,ORD000187,5,"Very happy with this. Great price for the pack size. Recommended to friends and family.",07-12-2023
+REV00079,CUST00219,PRD182,ORD000189,4,"Superb product, highly recommended. Suits my skin well with no irritation.",07-12-2023
+REV00080,CUST00308,PRD180,ORD000143,4,"Bought it during the sale and it was a good deal. Texture is lightweight and non-sticky. Will buy again.",08-12-2023
+REV00081,CUST00350,PRD058,ORD000178,2,"Not worth the money. Size runs small, had to return. Looks nothing like the picture. Using the Biba Women Anarkali Kurta Set for a week now. Delivery got delayed by 1 day.",09-12-2023
+REV00084,CUST00182,PRD103,ORD000228,4,"Packaging was neat and the product is genuine. Great quality for the price. Installation team was prompt and professional. Using the Cello Opalware Dinner Set for a week now.",10-12-2023
+REV00085,CUST00053,PRD159,ORD000198,5,"Absolutely love this purchase. Delivered well sealed and fresh. Delivered earlier than promised.",10-12-2023
+REV00086,CUST00083,PRD052,ORD000215,3,"It's an okay product, does the job. Performance is okay but I expected a bit more at this price. Delivery got delayed by 1 day. Might consider alternatives next time.",11-12-2023
+REV00087,CUST00133,PRD172,ORD000173,3,"Mixed feelings about this one. Works okay but results are not dramatic. Could be better.",11-12-2023
+REV00088,CUST00358,PRD152,ORD000235,4,"Totally worth the price. Great gift for a birthday.",12-12-2023
+REV00089,CUST00341,PRD197,ORD000146,3,"Na zyada accha na bura, bas okay hai.",13-12-2023
+REV00090,CUST00139,PRD027,ORD000242,3,"Decent for the price but nothing special. Works as advertised, though the accessories feel basic. Okay for the price.",14-12-2023
+REV00091,CUST00086,PRD057,ORD000238,4,"Works exactly as described. Fabric is soft and the fit is perfect. Colour is exactly as shown in the pictures. Highly recommended.",15-12-2023
+REV00092,CUST00214,PRD049,ORD000135,5,"Good product at this price. Looks premium and feels well built. Using the Samsung Galaxy Buds2 Pro for a month now. Go for it!",16-12-2023
+REV00093,CUST00001,PRD078,ORD000220,3,"Average experience overall. Fit is okay but the fabric is a bit thin. Delivery got delayed by 2 days. Okay for the price.",16-12-2023
+REV00094,CUST00182,PRD180,ORD000228,5,"Very happy with this. Texture is lightweight and non-sticky.",17-12-2023
+REV00095,CUST00101,PRD165,ORD000247,5,"Packaging was neat and the product is genuine. Great price for the pack size. Quality is same as the store and packaging was secure. Delivered earlier than promised. Will buy again.",19-12-2023
+REV00096,CUST00060,PRD084,ORD000182,4,"Good product at this price. Texture is lightweight and non-sticky. Using the Minimalist 10% Vitamin C Face Serum 30ml for a week now. Will buy again.",21-12-2023
+REV00097,CUST00028,PRD130,ORD000239,3,"Product is fine, but I expected a little more. Does the job for casual use. Okay for the price.",22-12-2023
+REV00098,CUST00060,PRD021,ORD000182,5,"Very happy with this. Setup was easy and it works flawlessly. Will buy again.",23-12-2023
+REV00099,CUST00288,PRD145,ORD000261,4,"Works exactly as described. Good quality and kept the kids busy for hours. My kid loves it and plays with it daily.",23-12-2023
+REV00100,CUST00352,PRD078,ORD000214,2,"Very disappointed with this purchase. Looks nothing like the picture. Size runs small, had to return. Delivery got delayed by 3 days.",25-12-2023
+REV00101,CUST00028,PRD152,ORD000239,4,"Superb product, highly recommended. Good quality and kept the kids busy for hours.",26-12-2023
+REV00102,CUST00019,PRD167,ORD000192,4,"Good product at this price. Fresh stock with a long expiry date. Using the Quaker Rolled Oats 2kg for three months now. Delivery was on time.",26-12-2023
+REV00103,CUST00195,PRD133,ORD000257,5,"Great value for money. Insightful and easy to understand. Highly recommended.",27-12-2023
+REV00104,CUST00334,PRD103,ORD000160,5,"Superb product, highly recommended. Easy to clean and looks good at home. Great quality for the price.",28-12-2023
+REV00105,CUST00300,PRD182,ORD000251,4,"Great value for money. Texture is lightweight and non-sticky. Long lasting and gives good coverage. Will buy again.",29-12-2023
+REV00106,CUST00028,PRD048,ORD000239,4,"Works exactly as described. Looks premium and feels well built. Recommended to friends and family.",30-12-2023
+REV00107,CUST00369,PRD061,ORD000311,3,"Product is fine, but I expected a little more. Decent quality for the price. Delivery got delayed by 1 day.",30-12-2023
+REV00108,CUST00343,PRD063,ORD000209,2,"Customer support was unhelpful. Size runs small, had to return. Please improve quality control.",30-12-2023
+REV00109,CUST00340,PRD024,ORD000291,5,"Great value for money. Performance is smooth and the build quality feels solid. Recommended to friends and family.",31-12-2023
+REV00110,CUST00282,PRD041,ORD000200,5,"Bahut accha laga, delivery bhi time pe aayi.",31-12-2023
+REV00111,CUST00142,PRD078,ORD000217,5,"Excellent quality! Colour is exactly as shown in the pictures. Size chart was accurate and the quality is great.",01-01-2024
+REV00112,CUST00160,PRD138,ORD000205,3,"Not bad, not great. Decent read, expected more depth. Could be better.",01-01-2024
+REV00113,CUST00282,PRD166,ORD000200,4,"Works exactly as described. Great price for the pack size. Highly recommended.",01-01-2024
+REV00114,CUST00062,PRD055,ORD000276,3,"It's an okay product, does the job. Colour slightly different from the photos. Delivery was on time. Might consider alternatives next time.",03-01-2024
+REV00115,CUST00105,PRD148,ORD000269,5,"Excellent quality! My kid loves it and plays with it daily. Colourful, safe and well made. Using the Funskool Scrabble Board Game for three months now. Delivery was on time.",03-01-2024
+REV00116,CUST00172,PRD011,ORD000304,4,"Good product at this price. Battery life is great and it charges quickly. Five stars from me.",04-01-2024
+REV00117,CUST00012,PRD182,ORD000202,3,"Product is fine, but I expected a little more. Fragrance is a bit strong for me. Delivery got delayed by 2 days. Could be better.",04-01-2024
+REV00118,CUST00361,PRD066,ORD000249,5,"Works exactly as described. Size chart was accurate and the quality is great. Fabric is soft and the fit is perfect. Delivery got delayed by 2 days.",07-01-2024
+REV00119,CUST00225,PRD154,ORD000316,3,"Na zyada accha na bura, bas okay hai.",07-01-2024
+REV00120,CUST00304,PRD041,ORD000325,5,"Superb product, highly recommended. Setup was easy and it works flawlessly.",08-01-2024
+REV00121,CUST00359,PRD154,ORD000229,3,"Mixed feelings about this one. Quality is okay for the price. Could be better.",09-01-2024
+REV00122,CUST00371,PRD083,ORD000338,4,"Totally worth the price. Fragrance is mild and I could see results in two weeks. Long lasting and gives good coverage. Highly recommended.",11-01-2024
+REV00123,CUST00288,PRD192,ORD000272,5,"Great value for money. Value for money is excellent compared to similar products. Looks premium and feels well built. Highly recommended.",11-01-2024
+REV00124,CUST00080,PRD178,ORD000262,5,"Good product at this price. Fragrance is mild and I could see results in two weeks.",12-01-2024
+REV00125,CUST00181,PRD165,ORD000266,5,"Excellent quality! Fresh stock with a long expiry date. Great price for the pack size. Using the Maggi 2-Minute Masala Noodles for a month now. Five stars from me.",14-01-2024
+REV00126,CUST00381,PRD190,ORD000332,3,"Mixed feelings about this one. Performance is okay but I expected a bit more at this price. Battery life is average. Using the Wildcraft Laptop Backpack 35L for a month now. Delivery got delayed by 1 day. Okay for the price.",14-01-2024
+REV00127,CUST00002,PRD191,ORD000296,5,"Totally worth the price. Looks premium and feels well built. Performance is smooth and the build quality feels solid. Using the American Tourister Casual Backpack for a month now.",14-01-2024
+REV00128,CUST00217,PRD044,ORD000336,4,"Works exactly as described. Setup was easy and it works flawlessly. Looks premium and feels well built. Highly recommended.",15-01-2024
+REV00129,CUST00093,PRD082,ORD000256,4,"Bought it during the sale and it was a good deal. Fragrance is mild and I could see results in two weeks. Using the Mamaearth Vitamin C Face Wash 100ml for two weeks now.",22-01-2024
+REV00130,CUST00105,PRD180,ORD000368,4,"Very happy with this. Texture is lightweight and non-sticky. Long lasting and gives good coverage. Recommended to friends and family.",22-01-2024
+REV00131,CUST00210,PRD017,ORD000374,2,"Not worth the money. Build quality feels cheap and there was a scratch on arrival. Delivery got delayed by 1 day. Please improve quality control.",23-01-2024
+REV00132,CUST00174,PRD153,ORD000327,4,"Superb product, highly recommended. Colourful, safe and well made.",23-01-2024
+REV00134,CUST00079,PRD027,ORD000360,4,"Very happy with this. Battery life is great and it charges quickly. Looks premium and feels well built. Using the LG 55-inch 4K UHD Smart TV for a month now. Go for it!",24-01-2024
+REV00135,CUST00007,PRD058,ORD000362,4,"Totally worth the price. Fabric is soft and the fit is perfect. Highly recommended.",24-01-2024
+REV00136,CUST00172,PRD014,ORD000335,5,"Superb product, highly recommended. Performance is smooth and the build quality feels solid. Using the HP Pavilion 15 for two weeks now.",25-01-2024
+REV00137,CUST00240,PRD069,ORD000348,3,"It's an okay product, does the job. Fit is okay but the fabric is a bit thin. Delivered earlier than promised. Okay for the price.",26-01-2024
+REV00138,CUST00250,PRD123,ORD000303,4,"Superb product, highly recommended. Great grip and very durable. Good quality and the weight is balanced.",26-01-2024
+REV00139,CUST00045,PRD064,ORD000259,3,"Product is fine, but I expected a little more. Colour slightly different from the photos. Decent quality for the price. Delivery got delayed by 1 day. Okay for the price.",27-01-2024
+REV00140,CUST00379,PRD119,ORD000375,5,"Bought it during the sale and it was a good deal. Comfortable to use for long sessions.",27-01-2024
+REV00141,CUST00155,PRD175,ORD000318,4,"Very happy with this. Fragrance is mild and I could see results in two weeks. Long lasting and gives good coverage. Highly recommended.",27-01-2024
+REV00142,CUST00210,PRD154,ORD000374,4,"Excellent quality! Great gift for a birthday. Delivery got delayed by 1 day. Recommended to friends and family.",28-01-2024
+REV00143,CUST00117,PRD037,ORD000357,5,"Totally worth the price. Looks premium and feels well built. Highly recommended.",30-01-2024
+REV00144,CUST00370,PRD138,ORD000344,3,"Not bad, not great. Decent read, expected more depth. Delivery got delayed by 6 days. Okay for the price.",30-01-2024
+REV00145,CUST00314,PRD193,ORD000298,5,"Bought it during the sale and it was a good deal. Performance is smooth and the build quality feels solid. Value for money is excellent compared to similar products.",30-01-2024
+REV00147,CUST00353,PRD138,ORD000395,4,"Superb product, highly recommended. Insightful and easy to understand. Fantastic read with practical takeaways.",31-01-2024
+REV00148,CUST00383,PRD189,ORD000387,3,"Not bad, not great. Works as advertised, though the accessories feel basic. Using the Portronics Car Power 24 Car Charger for a month now. Delivery got delayed by 4 days. Could be better.",31-01-2024
+REV00149,CUST00353,PRD037,ORD000402,5,"Superb product, highly recommended. Battery life is great and it charges quickly. Five stars from me.",01-02-2024
+REV00150,CUST00374,PRD079,ORD000346,5,"Totally worth the price. Long lasting and gives good coverage. Suits my skin well with no irritation.",01-02-2024
+REV00151,CUST00210,PRD079,ORD000374,3,"Product is fine, but I expected a little more. Fragrance is a bit strong for me. Delivery got delayed by 1 day. Okay for the price.",02-02-2024
+REV00152,CUST00105,PRD013,ORD000368,4,"Totally worth the price. Setup was easy and it works flawlessly. Battery life is great and it charges quickly. Five stars from me.",04-02-2024
+REV00153,CUST00288,PRD076,ORD000384,5,"Totally worth the price. Size chart was accurate and the quality is great. Using the Campus Men Running Shoes for a month now.",04-02-2024
+REV00154,CUST00196,PRD078,ORD000414,4,"Packaging was neat and the product is genuine. Size chart was accurate and the quality is great. Go for it!",04-02-2024
+REV00155,CUST00379,PRD129,ORD000375,3,"Not bad, not great. Does the job for casual use. Material is average. Delivery was on time. Could be better.",04-02-2024
+REV00156,CUST00032,PRD133,ORD000386,3,"Product is fine, but I expected a little more. Decent read, expected more depth. Good content but a bit repetitive in places. Delivery was on time. Might consider alternatives next time.",04-02-2024
+REV00157,CUST00086,PRD175,ORD000288,5,"Totally worth the price. Fragrance is mild and I could see results in two weeks. Long lasting and gives good coverage. Using the Oral-B Vitality Electric Toothbrush for three months now. Will buy again.",05-02-2024
+REV00158,CUST00025,PRD184,ORD000421,5,"Good product at this price. Setup was easy and it works flawlessly. Value for money is excellent compared to similar products. Using the Apple 20W USB-C Power Adapter for three months now. Will buy again.",05-02-2024
+REV00159,CUST00377,PRD099,ORD000420,5,"Excellent quality! Very sturdy and does the job perfectly.",06-02-2024
+REV00160,CUST00032,PRD008,ORD000386,4,"Packaging was neat and the product is genuine. Battery life is great and it charges quickly. Using the Xiaomi Redmi 13C 5G for a week now.",08-02-2024
+REV00161,CUST00007,PRD132,ORD000381,3,"Decent for the price but nothing special. Decent read, expected more depth. Good content but a bit repetitive in places.",08-02-2024
+REV00162,CUST00142,PRD064,ORD000342,2,"Bilkul bekar product hai, paisa barbaad.",09-02-2024
+REV00163,CUST00238,PRD136,ORD000408,4,"Very happy with this. Fantastic read with practical takeaways. Insightful and easy to understand. Delivered earlier than promised. Go for it!",09-02-2024
+REV00164,CUST00366,PRD166,ORD000428,5,"Works exactly as described. Delivered well sealed and fresh. Five stars from me.",10-02-2024
+REV00165,CUST00388,PRD134,ORD000392,4,"Totally worth the price. Print quality and paper are good. Could not put it down, finished in two days.",11-02-2024
+REV00166,CUST00142,PRD191,ORD000331,3,"Mixed feelings about this one. Performance is okay but I expected a bit more at this price. Delivery got delayed by 5 days.",11-02-2024
+REV00167,CUST00214,PRD092,ORD000390,5,"Totally worth the price. Great quality for the price. Recommended to friends and family.",12-02-2024
+REV00168,CUST00196,PRD126,ORD000414,3,"Average experience overall. Material is average. Could be better.",14-02-2024
+REV00169,CUST00099,PRD037,ORD000430,4,"Bahut accha laga, delivery bhi time pe aayi.",16-02-2024
+REV00170,CUST00083,PRD080,ORD000394,4,"Packaging was neat and the product is genuine. Suits my skin well with no irritation. Using the Maybelline Fit Me Matte Foundation for three months now. Delivery was on time. Recommended to friends and family.",16-02-2024
+REV00171,CUST00036,PRD103,ORD000425,5,"Absolutely love this purchase. Great quality for the price. Delivered earlier than promised. Recommended to friends and family.",16-02-2024
+REV00172,CUST00224,PRD072,ORD000440,1,"Really regret buying this. Stitching came off within a week. Fabric quality is poor and colour faded after the first wash. Delivery got delayed by 4 days.",19-02-2024
+REV00173,CUST00219,PRD105,ORD000427,4,"Great value for money. Great quality for the price.",22-02-2024
+REV00174,CUST00338,PRD008,ORD000451,4,"Bought it during the sale and it was a good deal. Performance is smooth and the build quality feels solid. Value for money is excellent compared to similar products. Using the Xiaomi Redmi 13C 5G for a month now. Go for it!",25-02-2024
+REV00175,CUST00156,PRD138,ORD000400,2,"Quality is much below expectations. Content is nothing new and overpriced.",26-02-2024
+REV00176,CUST00158,PRD103,ORD000423,5,"Packaging was neat and the product is genuine. Easy to clean and looks good at home. Recommended to friends and family.",29-02-2024
+REV00177,CUST00123,PRD134,ORD000458,3,"Decent for the price but nothing special. Print quality is average. Good content but a bit repetitive in places. Delivery got delayed by 1 day. Might consider alternatives next time.",29-02-2024
+REV00178,CUST00389,PRD051,ORD000464,5,"Superb product, highly recommended. Performance is smooth and the build quality feels solid. Looks premium and feels well built. Delivery was on time. Go for it!",01-03-2024
+REV00179,CUST00181,PRD064,ORD000434,4,"Good product at this price. Size chart was accurate and the quality is great. Go for it!",02-03-2024
+REV00180,CUST00125,PRD058,ORD000466,3,"Mixed feelings about this one. Fit is okay but the fabric is a bit thin. Using the Biba Women Anarkali Kurta Set for three months now.",03-03-2024
+REV00181,CUST00031,PRD018,ORD000422,4,"Superb product, highly recommended. Looks premium and feels well built. Value for money is excellent compared to similar products. Five stars from me.",05-03-2024
+REV00182,CUST00002,PRD041,ORD000471,4,"Absolutely love this purchase. Battery life is great and it charges quickly. Using the boAt Airdopes 141 True Wireless Earbuds for two weeks now.",06-03-2024
+REV00183,CUST00105,PRD175,ORD000478,5,"Superb product, highly recommended. Texture is lightweight and non-sticky. Fragrance is mild and I could see results in two weeks. Delivery was on time. Highly recommended.",06-03-2024
+REV00184,CUST00285,PRD104,ORD000447,5,"Good product at this price. Easy to clean and looks good at home. Great quality for the price. Using the Eureka Forbes Aquaguard Aura RO Water Purifier for a month now. Recommended to friends and family.",07-03-2024
+REV00185,CUST00219,PRD147,ORD000427,5,"Very happy with this. Colourful, safe and well made. Great gift for a birthday.",07-03-2024
+REV00186,CUST00123,PRD182,ORD000458,4,"Packaging was neat and the product is genuine. Long lasting and gives good coverage. Delivery got delayed by 1 day.",07-03-2024
+REV00187,CUST00049,PRD044,ORD000431,4,"Good product at this price. Looks premium and feels well built. Five stars from me.",08-03-2024
+REV00188,CUST00099,PRD190,ORD000430,3,"Quality average hai, expect kuch aur kiya tha.",08-03-2024
+REV00189,CUST00283,PRD193,ORD000472,5,"Very happy with this. Performance is smooth and the build quality feels solid. Battery life is great and it charges quickly.",08-03-2024
+REV00190,CUST00224,PRD061,ORD000440,1,"Very disappointed with this purchase. Stitching came off within a week. Size runs small, had to return. Using the Adidas Men Training Track Pants for two weeks now. Delivery got delayed by 4 days.",09-03-2024
+REV00191,CUST00225,PRD126,ORD000415,5,"Bought it during the sale and it was a good deal. Feels sturdy and perfect for daily workouts. Delivered earlier than promised.",13-03-2024
+REV00192,CUST00324,PRD078,ORD000456,4,"Absolutely love this purchase. Fabric is soft and the fit is perfect. Size chart was accurate and the quality is great.",14-03-2024
+REV00193,CUST00174,PRD190,ORD000490,5,"Very happy with this. Value for money is excellent compared to similar products.",15-03-2024
+REV00195,CUST00325,PRD155,ORD000442,4,"Works exactly as described. Colourful, safe and well made. My kid loves it and plays with it daily. Using the Ravensburger 1000 Piece Jigsaw Puzzle for a month now. Delivery was on time. Highly recommended.",19-03-2024
+REV00197,CUST00203,PRD181,ORD000492,3,"Mixed feelings about this one. Fragrance is a bit strong for me. Average product, packaging could be better. Using the Pears Pure & Gentle Soap for two weeks now. Okay for the price.",21-03-2024
+REV00198,CUST00393,PRD143,ORD000491,5,"Bought it during the sale and it was a good deal. Print quality and paper are good. Using the Wiley Data Science for Business for a week now.",23-03-2024
+REV00199,CUST00281,PRD037,ORD000493,5,"Excellent quality! Battery life is great and it charges quickly.",24-03-2024
+REV00200,CUST00006,PRD091,ORD000351,4,"Totally worth the price. Suits my skin well with no irritation. Using the Nivea Soft Light Moisturising Cream 300ml for two weeks now. Delivered earlier than promised.",24-03-2024
+REV00201,CUST00174,PRD182,ORD000489,4,"Price ke hisaab se top class hai bhai.",24-03-2024
+REV00202,CUST00262,PRD177,ORD000534,5,"Works exactly as described. Long lasting and gives good coverage. Fragrance is mild and I could see results in two weeks.",26-03-2024
+REV00203,CUST00180,PRD007,ORD000527,3,"Decent for the price but nothing special. Build quality is fine, nothing exceptional. Delivery got delayed by 1 day.",29-03-2024
+REV00204,CUST00174,PRD191,ORD000535,5,"Good product at this price. Performance is smooth and the build quality feels solid. Setup was easy and it works flawlessly. Delivery was on time. Five stars from me.",31-03-2024
+REV00205,CUST00405,PRD180,ORD000517,5,"Excellent quality! Fragrance is mild and I could see results in two weeks. Five stars from me.",02-04-2024
+REV00206,CUST00199,PRD055,ORD000439,4,"Totally worth the price. Size chart was accurate and the quality is great. Highly recommended.",05-04-2024
+REV00207,CUST00199,PRD165,ORD000496,5,"Excellent quality! Quality is same as the store and packaging was secure. Great price for the pack size. Go for it!",05-04-2024
+REV00208,CUST00097,PRD019,ORD000528,2,"Received a product that was not up to the mark. It started heating up and hanging after a few days. Stopped working within a month and service centre response was slow. Do not buy.",07-04-2024
+REV00210,CUST00397,PRD152,ORD000549,5,"Works exactly as described. Colourful, safe and well made.",08-04-2024
+REV00211,CUST00233,PRD137,ORD000509,2,"Really regret buying this. Pages are poorly printed and the binding is loose. Book arrived with a torn cover.",09-04-2024
+REV00212,CUST00413,PRD104,ORD000566,3,"Na zyada accha na bura, bas okay hai.",10-04-2024
+REV00213,CUST00131,PRD162,ORD000551,4,"Bought it during the sale and it was a good deal. Great price for the pack size. Delivery was on time.",10-04-2024
+REV00214,CUST00219,PRD094,ORD000468,5,"Bought it during the sale and it was a good deal. Installation team was prompt and professional. Easy to clean and looks good at home. Using the Bajaj Majesty Induction Cooktop for two weeks now. Recommended to friends and family.",11-04-2024
+REV00215,CUST00395,PRD097,ORD000547,4,"Superb product, highly recommended. Very sturdy and does the job perfectly. Five stars from me.",12-04-2024
+REV00216,CUST00412,PRD158,ORD000575,3,"Decent for the price but nothing special. Price is slightly higher than the local store. Using the Aashirvaad Whole Wheat Atta 10kg for a month now. Okay for the price.",14-04-2024
+REV00218,CUST00146,PRD169,ORD000567,5,"Bought it during the sale and it was a good deal. Great price for the pack size.",14-04-2024
+REV00219,CUST00261,PRD104,ORD000586,4,"Packaging was neat and the product is genuine. Easy to clean and looks good at home. Great quality for the price. Using the Eureka Forbes Aquaguard Aura RO Water Purifier for three months now. Delivered earlier than promised.",15-04-2024
+REV00221,CUST00406,PRD158,ORD000565,3,"Product is fine, but I expected a little more. Packaging could be better. Quality is fine but the expiry date is shorter than I expected. Delivery was on time. Could be better.",15-04-2024
+REV00222,CUST00353,PRD182,ORD000564,4,"Good product at this price. Texture is lightweight and non-sticky. Fragrance is mild and I could see results in two weeks. Using the Head & Shoulders Cool Menthol Shampoo 650ml for a month now. Delivery was on time. Five stars from me.",15-04-2024
+REV00223,CUST00353,PRD192,ORD000564,3,"Average experience overall. Works as advertised, though the accessories feel basic. Using the Fastrack UV Protected Sunglasses for two weeks now. Delivery got delayed by 1 day.",15-04-2024
+REV00224,CUST00219,PRD064,ORD000532,3,"Decent for the price but nothing special. Decent quality for the price. Using the Wrangler Men Regular Fit Jeans for two weeks now. Delivery got delayed by 2 days.",16-04-2024
+REV00225,CUST00353,PRD190,ORD000564,3,"Mixed feelings about this one. Battery life is average. Using the Wildcraft Laptop Backpack 35L for a week now. Delivery got delayed by 1 day.",17-04-2024
+REV00226,CUST00260,PRD175,ORD000587,4,"Good product at this price. Long lasting and gives good coverage. Using the Oral-B Vitality Electric Toothbrush for three months now.",18-04-2024
+REV00227,CUST00353,PRD043,ORD000564,4,"Packaging was neat and the product is genuine. Setup was easy and it works flawlessly. Value for money is excellent compared to similar products. Using the JBL Flip 6 Portable Speaker for three months now. Delivery got delayed by 1 day.",19-04-2024
+REV00229,CUST00234,PRD138,ORD000553,4,"Packaging was neat and the product is genuine. Could not put it down, finished in two days. Print quality and paper are good. Delivery was on time. Five stars from me.",20-04-2024
+REV00230,CUST00173,PRD092,ORD000544,4,"Works exactly as described. Great quality for the price. Go for it!",21-04-2024
+REV00231,CUST00124,PRD142,ORD000595,1,"Customer support was unhelpful. Book arrived with a torn cover. Will not buy again.",21-04-2024
+REV00232,CUST00330,PRD119,ORD000585,5,"Superb product, highly recommended. Comfortable to use for long sessions. Using the Yonex Mavis 350 Nylon Shuttlecock for three months now.",22-04-2024
+REV00233,CUST00399,PRD175,ORD000600,4,"Totally worth the price. Texture is lightweight and non-sticky. Suits my skin well with no irritation. Highly recommended.",28-04-2024
+REV00234,CUST00415,PRD083,ORD000614,5,"Superb product, highly recommended. Suits my skin well with no irritation.",30-04-2024
+REV00235,CUST00310,PRD105,ORD000627,4,"Excellent quality! Installation team was prompt and professional. Using the Wakefit Orthopedic Memory Foam Mattress for two weeks now.",30-04-2024
+REV00236,CUST00161,PRD103,ORD000611,4,"Totally worth the price. Easy to clean and looks good at home.",04-05-2024
+REV00238,CUST00302,PRD037,ORD000603,4,"Packaging was neat and the product is genuine. Setup was easy and it works flawlessly.",08-05-2024
+REV00239,CUST00059,PRD163,ORD000647,4,"Totally worth the price. Delivered well sealed and fresh. Recommended to friends and family.",08-05-2024
+REV00240,CUST00367,PRD084,ORD000642,5,"Bought it during the sale and it was a good deal. Texture is lightweight and non-sticky.",09-05-2024
+REV00241,CUST00303,PRD194,ORD000651,5,"Superb product, highly recommended. Setup was easy and it works flawlessly.",10-05-2024
+REV00242,CUST00307,PRD182,ORD000617,4,"Packaging was neat and the product is genuine. Long lasting and gives good coverage. Fragrance is mild and I could see results in two weeks.",11-05-2024
+REV00243,CUST00303,PRD078,ORD000651,3,"Average experience overall. Fit is okay but the fabric is a bit thin. Might consider alternatives next time.",14-05-2024
+REV00244,CUST00019,PRD088,ORD000644,5,"Totally worth the price. Fragrance is mild and I could see results in two weeks. Using the WOW Skin Science Apple Cider Vinegar Shampoo 300ml for three months now. Five stars from me.",15-05-2024
+REV00245,CUST00274,PRD049,ORD000639,5,"Great value for money. Looks premium and feels well built.",17-05-2024
+REV00246,CUST00289,PRD064,ORD000618,4,"Paisa vasool product! Quality bahut badhiya hai.",17-05-2024
+REV00247,CUST00017,PRD079,ORD000670,5,"Bought it during the sale and it was a good deal. Suits my skin well with no irritation. Long lasting and gives good coverage. Will buy again.",18-05-2024
+REV00248,CUST00426,PRD165,ORD000669,4,"Totally worth the price. Delivered well sealed and fresh.",21-05-2024
+REV00249,CUST00425,PRD049,ORD000682,4,"Very happy with this. Value for money is excellent compared to similar products. Recommended to friends and family.",23-05-2024
+REV00250,CUST00049,PRD145,ORD000646,5,"Packaging was neat and the product is genuine. Good quality and kept the kids busy for hours. Highly recommended.",23-05-2024
+REV00251,CUST00374,PRD072,ORD000630,4,"Excellent quality! Size chart was accurate and the quality is great. Delivery was on time.",24-05-2024
+REV00252,CUST00401,PRD078,ORD000628,2,"Quality is much below expectations. Looks nothing like the picture. Fabric quality is poor and colour faded after the first wash. Delivery was on time. Will not buy again.",25-05-2024
+REV00253,CUST00274,PRD041,ORD000676,4,"Excellent quality! Setup was easy and it works flawlessly. Using the boAt Airdopes 141 True Wireless Earbuds for a month now. Delivery was on time. Will buy again.",26-05-2024
+REV00254,CUST00049,PRD072,ORD000646,3,"Product is fine, but I expected a little more. Colour slightly different from the photos. Okay for the price.",26-05-2024
+REV00255,CUST00049,PRD003,ORD000646,5,"Good product at this price. Looks premium and feels well built. Five stars from me.",29-05-2024
+REV00256,CUST00134,PRD058,ORD000674,3,"Not bad, not great. Fit is okay but the fabric is a bit thin. Delivery got delayed by 1 day. Okay for the price.",29-05-2024
+REV00257,CUST00324,PRD044,ORD000692,4,"Superb product, highly recommended. Performance is smooth and the build quality feels solid.",30-05-2024
+REV00258,CUST00425,PRD183,ORD000682,4,"Superb product, highly recommended. Suits my skin well with no irritation.",30-05-2024
+REV00259,CUST00200,PRD007,ORD000687,5,"Bought it during the sale and it was a good deal. Setup was easy and it works flawlessly. Looks premium and feels well built.",01-06-2024
+REV00260,CUST00027,PRD054,ORD000685,4,"Superb product, highly recommended. Fabric is soft and the fit is perfect. Delivery got delayed by 2 days. Will buy again.",02-06-2024
+REV00261,CUST00109,PRD169,ORD000666,5,"Superb product, highly recommended. Quality is same as the store and packaging was secure. Delivery was on time.",02-06-2024
+REV00262,CUST00274,PRD193,ORD000676,5,"Great value for money. Setup was easy and it works flawlessly. Battery life is great and it charges quickly. Delivery got delayed by 1 day. Recommended to friends and family.",02-06-2024
+REV00263,CUST00353,PRD195,ORD000663,4,"Totally worth the price. Looks premium and feels well built. Value for money is excellent compared to similar products. Using the SanDisk Ultra 128GB microSD Card for a week now. Delivery was on time.",02-06-2024
+REV00264,CUST00142,PRD123,ORD000648,3,"It's an okay product, does the job. Material is average. Does the job for casual use. Might consider alternatives next time.",04-06-2024
+REV00265,CUST00056,PRD083,ORD000672,3,"Decent for the price but nothing special. Works okay but results are not dramatic. Delivery got delayed by 1 day. Okay for the price.",05-06-2024
+REV00266,CUST00426,PRD008,ORD000669,5,"Bought it during the sale and it was a good deal. Performance is smooth and the build quality feels solid. Using the Xiaomi Redmi 13C 5G for a week now. Delivery was on time.",06-06-2024
+REV00267,CUST00387,PRD151,ORD000689,4,"Excellent quality! Colourful, safe and well made. Good quality and kept the kids busy for hours. Delivery was on time. Five stars from me.",07-06-2024
+REV00268,CUST00058,PRD058,ORD000730,3,"Not bad, not great. Colour slightly different from the photos. Okay for the price.",08-06-2024
+REV00269,CUST00273,PRD163,ORD000704,4,"Works exactly as described. Delivered well sealed and fresh.",08-06-2024
+REV00270,CUST00369,PRD169,ORD000712,5,"Works exactly as described. Quality is same as the store and packaging was secure. Delivered well sealed and fresh. Recommended to friends and family.",08-06-2024
+REV00271,CUST00236,PRD005,ORD000716,5,"Packaging was neat and the product is genuine. Performance is smooth and the build quality feels solid. Highly recommended.",10-06-2024
+REV00272,CUST00361,PRD027,ORD000725,4,"Excellent quality! Setup was easy and it works flawlessly.",10-06-2024
+REV00273,CUST00128,PRD097,ORD000717,3,"Decent for the price but nothing special. Works fine, finishing is average. Decent product but assembly took time.",12-06-2024
+REV00274,CUST00369,PRD158,ORD000712,3,"Decent for the price but nothing special. Price is slightly higher than the local store. Delivery got delayed by 3 days.",12-06-2024
+REV00275,CUST00114,PRD197,ORD000732,5,"Very happy with this. Setup was easy and it works flawlessly. Value for money is excellent compared to similar products.",12-06-2024
+REV00276,CUST00422,PRD083,ORD000677,1,"Really regret buying this. Seal was broken when it arrived. Delivery got delayed by 5 days. Waste of money.",13-06-2024
+REV00277,CUST00250,PRD103,ORD000668,3,"Not bad, not great. Decent product but assembly took time. Delivery got delayed by 1 day.",14-06-2024
+REV00278,CUST00423,PRD162,ORD000731,4,"Superb product, highly recommended. Delivered well sealed and fresh. Recommended to friends and family.",14-06-2024
+REV00279,CUST00038,PRD180,ORD000702,4,"Absolutely love this purchase. Suits my skin well with no irritation. Long lasting and gives good coverage. Using the Havells BT5190 Beard Trimmer for a month now. Go for it!",14-06-2024
+REV00280,CUST00038,PRD041,ORD000702,5,"Great value for money. Performance is smooth and the build quality feels solid. Looks premium and feels well built.",15-06-2024
+REV00281,CUST00114,PRD086,ORD000732,5,"Superb product, highly recommended. Suits my skin well with no irritation. Will buy again.",16-06-2024
+REV00282,CUST00184,PRD027,ORD000737,5,"Absolutely love this purchase. Performance is smooth and the build quality feels solid. Delivery was on time. Recommended to friends and family.",21-06-2024
+REV00283,CUST00337,PRD187,ORD000695,5,"Absolutely love this purchase. Looks premium and feels well built. Delivery was on time. Five stars from me.",22-06-2024
+REV00284,CUST00286,PRD074,ORD000735,4,"Great value for money. Stitching is neat and it is very comfortable to wear. Recommended to friends and family.",23-06-2024
+REV00285,CUST00173,PRD191,ORD000769,5,"Bought it during the sale and it was a good deal. Value for money is excellent compared to similar products. Battery life is great and it charges quickly. Will buy again.",23-06-2024
+REV00286,CUST00050,PRD028,ORD000719,4,"Good product at this price. Performance is smooth and the build quality feels solid. Setup was easy and it works flawlessly. Five stars from me.",24-06-2024
+REV00287,CUST00046,PRD195,ORD000743,4,"Bought it during the sale and it was a good deal. Performance is smooth and the build quality feels solid. Battery life is great and it charges quickly.",24-06-2024
+REV00288,CUST00423,PRD197,ORD000731,3,"Mixed feelings about this one. Performance is okay but I expected a bit more at this price.",25-06-2024
+REV00289,CUST00286,PRD084,ORD000735,5,"Good product at this price. Long lasting and gives good coverage. Delivery was on time. Five stars from me.",27-06-2024
+REV00290,CUST00167,PRD054,ORD000775,5,"Bought it during the sale and it was a good deal. Size chart was accurate and the quality is great.",30-06-2024
+REV00291,CUST00284,PRD092,ORD000778,3,"It's an okay product, does the job. Works fine, finishing is average. Delivered earlier than promised.",30-06-2024
+REV00293,CUST00077,PRD119,ORD000770,5,"Good product at this price. Feels sturdy and perfect for daily workouts.",02-07-2024
+REV00294,CUST00128,PRD144,ORD000717,5,"Great value for money. Good quality and kept the kids busy for hours. Go for it!",02-07-2024
+REV00295,CUST00437,PRD055,ORD000752,4,"Bought it during the sale and it was a good deal. Colour is exactly as shown in the pictures. Recommended to friends and family.",04-07-2024
+REV00296,CUST00436,PRD078,ORD000765,4,"Totally worth the price. Fabric is soft and the fit is perfect. Using the Red Tape Men Casual Sneakers for a month now.",04-07-2024
+REV00297,CUST00339,PRD053,ORD000788,4,"Works exactly as described. Stitching is neat and it is very comfortable to wear.",05-07-2024
+REV00298,CUST00292,PRD072,ORD000729,3,"Mixed feelings about this one. Decent quality for the price. Fit is okay but the fabric is a bit thin. Using the Skechers Go Walk Slip-On Shoes for two weeks now. Delivery got delayed by 1 day. Might consider alternatives next time.",05-07-2024
+REV00299,CUST00357,PRD134,ORD000750,2,"Really regret buying this. Content is nothing new and overpriced. Delivery got delayed by 5 days. Asked for a refund.",05-07-2024
+REV00300,CUST00442,PRD025,ORD000758,4,"Absolutely love this purchase. Looks premium and feels well built. Delivery was on time.",07-07-2024
+REV00301,CUST00339,PRD062,ORD000754,2,"Not worth the money. Size runs small, had to return. Will not buy again.",07-07-2024
+REV00302,CUST00165,PRD064,ORD000787,4,"Works exactly as described. Fabric is soft and the fit is perfect. Delivery was on time. Will buy again.",07-07-2024
+REV00303,CUST00346,PRD138,ORD000803,4,"Very happy with this. Could not put it down, finished in two days. Insightful and easy to understand. Highly recommended.",07-07-2024
+REV00304,CUST00113,PRD040,ORD000753,4,"Excellent quality! Value for money is excellent compared to similar products. Looks premium and feels well built. Go for it!",08-07-2024
+REV00305,CUST00416,PRD190,ORD000777,5,"Works exactly as described. Looks premium and feels well built. Performance is smooth and the build quality feels solid.",08-07-2024
+REV00306,CUST00111,PRD195,ORD000802,5,"Works exactly as described. Setup was easy and it works flawlessly. Delivered earlier than promised.",09-07-2024
+REV00307,CUST00437,PRD014,ORD000806,5,"Works exactly as described. Battery life is great and it charges quickly. Using the HP Pavilion 15 for two weeks now. Delivery was on time.",10-07-2024
+REV00308,CUST00366,PRD154,ORD000708,5,"Absolutely love this purchase. Colourful, safe and well made. Using the Webby Remote Control Racing Car for a week now. Delivered earlier than promised.",10-07-2024
+REV00309,CUST00419,PRD183,ORD000811,4,"Packaging was neat and the product is genuine. Suits my skin well with no irritation. Using the Park Avenue Good Morning Gift Set for a week now. Delivery was on time. Go for it!",11-07-2024
+REV00310,CUST00446,PRD172,ORD000774,4,"Totally worth the price. Fragrance is mild and I could see results in two weeks. Using the Philips BT3231 Beard Trimmer for a week now.",12-07-2024
+REV00311,CUST00272,PRD194,ORD000816,4,"Very happy with this. Value for money is excellent compared to similar products. Battery life is great and it charges quickly. Using the Casio Digital Sports Watch for three months now. Will buy again.",12-07-2024
+REV00312,CUST00225,PRD199,ORD000790,4,"Bought it during the sale and it was a good deal. Colour is exactly as shown in the pictures. Delivered earlier than promised. Will buy again.",12-07-2024
+REV00313,CUST00074,PRD078,ORD000791,5,"Totally worth the price. Size chart was accurate and the quality is great. Colour is exactly as shown in the pictures. Delivery was on time.",13-07-2024
+REV00314,CUST00327,PRD058,ORD000825,4,"Very happy with this. Fabric is soft and the fit is perfect. Five stars from me.",16-07-2024
+REV00315,CUST00427,PRD191,ORD000817,5,"Excellent quality! Looks premium and feels well built. Delivery was on time. Five stars from me.",16-07-2024
+REV00316,CUST00077,PRD191,ORD000760,5,"Superb product, highly recommended. Battery life is great and it charges quickly. Highly recommended.",16-07-2024
+REV00317,CUST00450,PRD097,ORD000824,5,"Price ke hisaab se top class hai bhai.",17-07-2024
+REV00318,CUST00085,PRD154,ORD000766,4,"Very happy with this. My kid loves it and plays with it daily. Delivery got delayed by 4 days.",17-07-2024
+REV00319,CUST00074,PRD058,ORD000791,2,"Customer support was unhelpful. Stitching came off within a week. Using the Biba Women Anarkali Kurta Set for a week now.",18-07-2024
+REV00320,CUST00165,PRD011,ORD000787,4,"Excellent quality! Performance is smooth and the build quality feels solid. Using the OPPO F27 5G for a month now. Delivery was on time.",20-07-2024
+REV00321,CUST00450,PRD097,ORD000824,5,"Price ke hisaab se top class hai bhai.",20-07-2024
+REV00322,CUST00165,PRD138,ORD000787,2,"Very disappointed with this purchase. Looks like a pirated copy. Delivery got delayed by 4 days.",20-07-2024
+REV00323,CUST00339,PRD001,ORD000754,3,"Not bad, not great. Battery life is average. Delivery was on time. Might consider alternatives next time.",21-07-2024
+REV00324,CUST00032,PRD035,ORD000810,3,"Product is fine, but I expected a little more. Works as advertised, though the accessories feel basic. Battery life is average. Using the Amazon Echo Dot for two weeks now. Might consider alternatives next time.",22-07-2024
+REV00325,CUST00025,PRD062,ORD000829,3,"It's an okay product, does the job. Decent quality for the price. Fit is okay but the fabric is a bit thin.",24-07-2024
+REV00326,CUST00449,PRD078,ORD000821,4,"Totally worth the price. Size chart was accurate and the quality is great. Using the Red Tape Men Casual Sneakers for a week now.",26-07-2024
+REV00327,CUST00304,PRD040,ORD000761,3,"Decent for the price but nothing special. Build quality is fine, nothing exceptional. Works as advertised, though the accessories feel basic. Might consider alternatives next time.",27-07-2024
+REV00328,CUST00227,PRD193,ORD000757,5,"Great value for money. Value for money is excellent compared to similar products. Delivered earlier than promised. Go for it!",27-07-2024
+REV00329,CUST00302,PRD027,ORD000801,3,"Average experience overall. Build quality is fine, nothing exceptional.",28-07-2024
+REV00331,CUST00450,PRD180,ORD000855,4,"Packaging was neat and the product is genuine. Long lasting and gives good coverage. Recommended to friends and family.",28-07-2024
+REV00332,CUST00225,PRD142,ORD000842,4,"Very happy with this. Could not put it down, finished in two days. Delivered earlier than promised. Five stars from me.",29-07-2024
+REV00333,CUST00442,PRD158,ORD000758,3,"Not bad, not great. Price is slightly higher than the local store. Using the Aashirvaad Whole Wheat Atta 10kg for two weeks now. Could be better.",29-07-2024
+REV00334,CUST00366,PRD018,ORD000748,4,"Packaging was neat and the product is genuine. Performance is smooth and the build quality feels solid. Using the Lenovo IdeaPad Slim 3 for three months now. Delivery was on time. Recommended to friends and family.",31-07-2024
+REV00336,CUST00175,PRD138,ORD000846,3,"Decent for the price but nothing special. Good content but a bit repetitive in places. Decent read, expected more depth.",01-08-2024
+REV00337,CUST00078,PRD078,ORD000795,3,"Average experience overall. Decent quality for the price. Fit is okay but the fabric is a bit thin.",02-08-2024
+REV00338,CUST00254,PRD199,ORD000859,5,"Excellent quality! Fabric is soft and the fit is perfect. Five stars from me.",04-08-2024
+REV00339,CUST00450,PRD148,ORD000855,4,"Good product at this price. Great gift for a birthday. Recommended to friends and family.",05-08-2024
+REV00340,CUST00261,PRD078,ORD000861,5,"Great value for money. Size chart was accurate and the quality is great. Stitching is neat and it is very comfortable to wear. Delivery was on time. Five stars from me.",06-08-2024
+REV00341,CUST00182,PRD183,ORD000852,4,"Totally worth the price. Long lasting and gives good coverage. Using the Park Avenue Good Morning Gift Set for a week now. Delivery was on time.",07-08-2024
+REV00342,CUST00450,PRD143,ORD000855,4,"Good product at this price. Insightful and easy to understand. Delivery was on time. Five stars from me.",08-08-2024
+REV00343,CUST00457,PRD003,ORD000857,5,"Excellent quality! Setup was easy and it works flawlessly.",09-08-2024
+REV00344,CUST00254,PRD058,ORD000859,4,"Great value for money. Colour is exactly as shown in the pictures. Fabric is soft and the fit is perfect. Delivered earlier than promised.",10-08-2024
+REV00345,CUST00089,PRD146,ORD000866,4,"Superb product, highly recommended. My kid loves it and plays with it daily. Good quality and kept the kids busy for hours. Five stars from me.",10-08-2024
+REV00346,CUST00167,PRD064,ORD000862,4,"Totally worth the price. Size chart was accurate and the quality is great. Using the Wrangler Men Regular Fit Jeans for a week now. Will buy again.",11-08-2024
+REV00347,CUST00415,PRD119,ORD000877,5,"Superb product, highly recommended. Comfortable to use for long sessions. Great grip and very durable.",13-08-2024
+REV00348,CUST00261,PRD074,ORD000861,4,"Good product at this price. Stitching is neat and it is very comfortable to wear. Size chart was accurate and the quality is great. Five stars from me.",14-08-2024
+REV00349,CUST00451,PRD162,ORD000830,5,"Bahut accha laga, delivery bhi time pe aayi.",19-08-2024
+REV00350,CUST00458,PRD187,ORD000869,5,"Great value for money. Setup was easy and it works flawlessly. Performance is smooth and the build quality feels solid. Using the Xiaomi Mi Power Bank 3i 20000mAh for two weeks now. Recommended to friends and family.",19-08-2024
+REV00351,CUST00376,PRD195,ORD000878,5,"Excellent quality! Setup was easy and it works flawlessly. Go for it!",22-08-2024
+REV00352,CUST00439,PRD105,ORD000881,4,"Great value for money. Installation team was prompt and professional. Will buy again.",23-08-2024
+REV00353,CUST00401,PRD155,ORD000888,4,"Bought it during the sale and it was a good deal. My kid loves it and plays with it daily. Good quality and kept the kids busy for hours. Go for it!",25-08-2024
+REV00354,CUST00376,PRD145,ORD000878,4,"Works exactly as described. Good quality and kept the kids busy for hours. Great gift for a birthday. Using the LEGO City Fire Station Set for two weeks now.",26-08-2024
+REV00355,CUST00444,PRD077,ORD000893,5,"Excellent quality! Size chart was accurate and the quality is great. Delivered earlier than promised. Will buy again.",27-08-2024
+REV00356,CUST00409,PRD078,ORD000896,4,"Good product at this price. Size chart was accurate and the quality is great. Fabric is soft and the fit is perfect. Using the Red Tape Men Casual Sneakers for a month now.",27-08-2024
+REV00357,CUST00401,PRD147,ORD000873,3,"Average experience overall. Batteries are not included, which was disappointing. Quality is okay for the price.",27-08-2024
+REV00358,CUST00466,PRD091,ORD000910,4,"Totally worth the price. Suits my skin well with no irritation. Texture is lightweight and non-sticky. Using the Nivea Soft Light Moisturising Cream 300ml for a week now. Five stars from me.",28-08-2024
+REV00359,CUST00466,PRD162,ORD000910,4,"Absolutely love this purchase. Delivered well sealed and fresh.",28-08-2024
+REV00360,CUST00079,PRD019,ORD000925,4,"Good product at this price. Looks premium and feels well built.",29-08-2024
+REV00361,CUST00337,PRD084,ORD000902,4,"Packaging was neat and the product is genuine. Long lasting and gives good coverage. Fragrance is mild and I could see results in two weeks. Will buy again.",29-08-2024
+REV00362,CUST00459,PRD190,ORD000856,3,"Theek thak hai, price ke hisaab se chalega.",29-08-2024
+REV00363,CUST00413,PRD123,ORD000908,4,"Packaging was neat and the product is genuine. Feels sturdy and perfect for daily workouts.",31-08-2024
+REV00365,CUST00472,PRD193,ORD000930,5,"Works exactly as described. Battery life is great and it charges quickly. Performance is smooth and the build quality feels solid. Delivery was on time. Will buy again.",01-09-2024
+REV00366,CUST00462,PRD114,ORD000880,3,"Product is fine, but I expected a little more. Decent product but assembly took time.",02-09-2024
+REV00367,CUST00009,PRD049,ORD000920,4,"Packaging was neat and the product is genuine. Value for money is excellent compared to similar products. Setup was easy and it works flawlessly.",03-09-2024
+REV00368,CUST00184,PRD148,ORD000799,4,"Very happy with this. My kid loves it and plays with it daily. Delivered earlier than promised. Will buy again.",03-09-2024
+REV00369,CUST00339,PRD055,ORD000854,5,"Works exactly as described. Colour is exactly as shown in the pictures.",04-09-2024
+REV00370,CUST00032,PRD182,ORD000935,3,"Mixed feelings about this one. Average product, packaging could be better. Fragrance is a bit strong for me. Delivered earlier than promised. Might consider alternatives next time.",04-09-2024
+REV00371,CUST00344,PRD090,ORD000871,5,"Absolutely love this purchase. Texture is lightweight and non-sticky.",05-09-2024
+REV00373,CUST00078,PRD074,ORD000926,5,"Superb product, highly recommended. Size chart was accurate and the quality is great. Go for it!",07-09-2024
+REV00374,CUST00411,PRD062,ORD000941,4,"Superb product, highly recommended. Size chart was accurate and the quality is great. Highly recommended.",08-09-2024
+REV00375,CUST00470,PRD170,ORD000949,5,"Excellent quality! Long lasting and gives good coverage. Delivery got delayed by 1 day. Recommended to friends and family.",10-09-2024
+REV00376,CUST00275,PRD164,ORD000929,5,"Excellent quality! Fresh stock with a long expiry date. Go for it!",11-09-2024
+REV00377,CUST00465,PRD105,ORD000923,3,"Not bad, not great. Decent product but assembly took time.",12-09-2024
+REV00378,CUST00079,PRD162,ORD000956,4,"Superb product, highly recommended. Fresh stock with a long expiry date. Quality is same as the store and packaging was secure. Using the Saffola Gold Edible Oil 5L for two weeks now. Delivered earlier than promised.",12-09-2024
+REV00379,CUST00248,PRD078,ORD000959,4,"Totally worth the price. Stitching is neat and it is very comfortable to wear. Delivery was on time.",13-09-2024
+REV00380,CUST00032,PRD007,ORD000936,5,"Superb product, highly recommended. Battery life is great and it charges quickly. Using the Xiaomi Redmi Note 13 Pro 5G for a month now. Highly recommended.",14-09-2024
+REV00381,CUST00073,PRD007,ORD000974,5,"Very happy with this. Performance is smooth and the build quality feels solid. Using the Xiaomi Redmi Note 13 Pro 5G for two weeks now. Go for it!",15-09-2024
+REV00382,CUST00465,PRD041,ORD000923,5,"Great value for money. Performance is smooth and the build quality feels solid. Delivery was on time.",15-09-2024
+REV00383,CUST00378,PRD165,ORD000947,4,"Packaging was neat and the product is genuine. Delivered well sealed and fresh. Using the Maggi 2-Minute Masala Noodles for two weeks now. Highly recommended.",15-09-2024
+REV00384,CUST00281,PRD182,ORD000955,3,"Mixed feelings about this one. Fragrance is a bit strong for me. Delivery got delayed by 3 days. Might consider alternatives next time.",15-09-2024
+REV00385,CUST00146,PRD064,ORD000973,2,"Very disappointed with this purchase. Fabric quality is poor and colour faded after the first wash. Delivery got delayed by 3 days. Will not buy again.",17-09-2024
+REV00386,CUST00009,PRD123,ORD000920,4,"Works exactly as described. Good quality and the weight is balanced. Feels sturdy and perfect for daily workouts. Delivery was on time. Five stars from me.",17-09-2024
+REV00387,CUST00365,PRD137,ORD000957,4,"Very happy with this. Insightful and easy to understand. Recommended to friends and family.",17-09-2024
+REV00388,CUST00455,PRD199,ORD000901,3,"Average experience overall. Colour slightly different from the photos. Decent quality for the price.",17-09-2024
+REV00389,CUST00474,PRD055,ORD000943,4,"Great value for money. Fabric is soft and the fit is perfect. Colour is exactly as shown in the pictures. Using the Van Heusen Men Slim Fit Cotton Shirt for a week now.",19-09-2024
+REV00390,CUST00458,PRD084,ORD000928,3,"It's an okay product, does the job. Fragrance is a bit strong for me. Works okay but results are not dramatic. Delivery got delayed by 3 days.",19-09-2024
+REV00391,CUST00292,PRD097,ORD000921,3,"It's an okay product, does the job. Decent product but assembly took time. Works fine, finishing is average. Using the Milton Thermosteel Flask 1000ml for three months now. Delivery got delayed by 1 day. Might consider alternatives next time.",20-09-2024
+REV00392,CUST00002,PRD083,ORD000864,4,"Totally worth the price. Fragrance is mild and I could see results in two weeks. Using the Nykaa Kajal Eyeliner for a month now. Highly recommended.",21-09-2024
+REV00393,CUST00352,PRD183,ORD000984,1,"Customer support was unhelpful. Smell is strange, not sure if it is genuine. Delivery got delayed by 3 days.",24-09-2024
+REV00394,CUST00190,PRD014,ORD000948,4,"Superb product, highly recommended. Battery life is great and it charges quickly. Using the HP Pavilion 15 for two weeks now.",25-09-2024
+REV00395,CUST00455,PRD064,ORD000901,4,"Superb product, highly recommended. Stitching is neat and it is very comfortable to wear. Using the Wrangler Men Regular Fit Jeans for three months now. Go for it!",25-09-2024
+REV00396,CUST00437,PRD179,ORD000977,3,"Na zyada accha na bura, bas okay hai.",25-09-2024
+REV00398,CUST00437,PRD116,ORD000977,3,"Mixed feelings about this one. Decent product but assembly took time. Works fine, finishing is average. Delivery was on time.",26-09-2024
+REV00399,CUST00174,PRD151,ORD000963,5,"Excellent quality! Great gift for a birthday. Delivered earlier than promised. Five stars from me.",28-09-2024
+REV00400,CUST00109,PRD142,ORD000969,4,"Ekdum mast, sabko recommend karunga.",29-09-2024
+REV00401,CUST00388,PRD049,ORD000997,5,"Totally worth the price. Battery life is great and it charges quickly. Value for money is excellent compared to similar products. Highly recommended.",30-09-2024
+REV00402,CUST00125,PRD199,ORD000975,3,"Average experience overall. Colour slightly different from the photos. Decent quality for the price. Okay for the price.",30-09-2024
+REV00403,CUST00364,PRD008,ORD001022,5,"Excellent quality! Value for money is excellent compared to similar products. Delivered earlier than promised.",01-10-2024
+REV00404,CUST00125,PRD061,ORD000975,4,"Very happy with this. Colour is exactly as shown in the pictures. Recommended to friends and family.",01-10-2024
+REV00405,CUST00388,PRD092,ORD000997,5,"Absolutely love this purchase. Easy to clean and looks good at home. Installation team was prompt and professional. Will buy again.",01-10-2024
+REV00406,CUST00027,PRD102,ORD001000,5,"Totally worth the price. Installation team was prompt and professional. Great quality for the price. Delivery was on time.",01-10-2024
+REV00407,CUST00352,PRD165,ORD000984,2,"Not worth the money. Product had a bad smell and was not fresh. Delivery got delayed by 3 days.",03-10-2024
+REV00408,CUST00362,PRD064,ORD000960,3,"Not bad, not great. Fit is okay but the fabric is a bit thin. Delivered earlier than promised. Might consider alternatives next time.",04-10-2024
+REV00409,CUST00046,PRD064,ORD001021,3,"Quality average hai, expect kuch aur kiya tha.",06-10-2024
+REV00410,CUST00408,PRD043,ORD001049,4,"Packaging was neat and the product is genuine. Battery life is great and it charges quickly. Performance is smooth and the build quality feels solid. Will buy again.",08-10-2024
+REV00411,CUST00284,PRD048,ORD001015,5,"Excellent quality! Performance is smooth and the build quality feels solid. Looks premium and feels well built. Using the OnePlus Nord Buds 2r True Wireless Earbuds for a month now.",08-10-2024
+REV00412,CUST00394,PRD126,ORD000994,2,"Customer support was unhelpful. Material feels cheap and flimsy. Delivery got delayed by 5 days.",08-10-2024
+REV00413,CUST00058,PRD170,ORD001033,5,"Excellent quality! Fragrance is mild and I could see results in two weeks. Delivery got delayed by 1 day. Highly recommended.",08-10-2024
+REV00414,CUST00248,PRD170,ORD001024,3,"It's an okay product, does the job. Average product, packaging could be better. Works okay but results are not dramatic. Could be better.",09-10-2024
+REV00415,CUST00210,PRD037,ORD001025,5,"Good product at this price. Setup was easy and it works flawlessly. Delivered earlier than promised.",12-10-2024
+REV00416,CUST00068,PRD040,ORD001092,4,"Superb product, highly recommended. Value for money is excellent compared to similar products. Highly recommended.",12-10-2024
+REV00417,CUST00226,PRD162,ORD001039,5,"Superb product, highly recommended. Great price for the pack size. Fresh stock with a long expiry date.",12-10-2024
+REV00418,CUST00473,PRD070,ORD001074,4,"Works exactly as described. Stitching is neat and it is very comfortable to wear. Highly recommended.",13-10-2024
+REV00419,CUST00394,PRD169,ORD001101,4,"Totally worth the price. Great price for the pack size. Quality is same as the store and packaging was secure. Recommended to friends and family.",14-10-2024
+REV00420,CUST00303,PRD186,ORD001048,5,"Great value for money. Performance is smooth and the build quality feels solid. Five stars from me.",14-10-2024
+REV00421,CUST00262,PRD193,ORD001042,5,"Absolutely love this purchase. Setup was easy and it works flawlessly. Value for money is excellent compared to similar products. Five stars from me.",14-10-2024
+REV00422,CUST00241,PRD195,ORD001034,3,"It's an okay product, does the job. Works as advertised, though the accessories feel basic. Performance is okay but I expected a bit more at this price. Might consider alternatives next time.",14-10-2024
+REV00423,CUST00479,PRD040,ORD001010,5,"Totally worth the price. Performance is smooth and the build quality feels solid. Using the boAt Rockerz 450 Bluetooth Headphones for two weeks now. Delivery got delayed by 1 day.",15-10-2024
+REV00424,CUST00457,PRD062,ORD001043,5,"Superb product, highly recommended. Fabric is soft and the fit is perfect. Using the Nike Dri-FIT Men Round Neck T-Shirt for three months now. Delivery was on time. Highly recommended.",15-10-2024
+REV00425,CUST00010,PRD094,ORD001020,3,"Product is fine, but I expected a little more. Works fine, finishing is average. Noise is a bit higher than expected. Delivery got delayed by 1 day. Could be better.",15-10-2024
+REV00426,CUST00174,PRD152,ORD000993,5,"Superb product, highly recommended. Colourful, safe and well made. Using the Fisher-Price Rock-a-Stack Toy for a week now.",15-10-2024
+REV00427,CUST00473,PRD010,ORD001074,3,"Decent for the price but nothing special. Works as advertised, though the accessories feel basic. Battery life is average. Okay for the price.",16-10-2024
+REV00428,CUST00054,PRD061,ORD001069,3,"Mixed feelings about this one. Decent quality for the price. Delivery was on time.",16-10-2024
+REV00429,CUST00230,PRD064,ORD001083,5,"Absolutely love this purchase. Fabric is soft and the fit is perfect. Colour is exactly as shown in the pictures. Will buy again.",16-10-2024
+REV00430,CUST00489,PRD118,ORD001061,2,"Really regret buying this. Poor stitching and finishing. Delivery was on time. Do not buy.",16-10-2024
+REV00431,CUST00134,PRD006,ORD001035,1,"Very disappointed with this purchase. It started heating up and hanging after a few days. Using the OnePlus 12R 5G for three months now. Please improve quality control.",17-10-2024
+REV00432,CUST00325,PRD049,ORD001071,5,"Excellent quality! Battery life is great and it charges quickly. Delivery got delayed by 3 days. Five stars from me.",19-10-2024
+REV00433,CUST00493,PRD129,ORD001109,5,"Great value for money. Comfortable to use for long sessions. Good quality and the weight is balanced. Will buy again.",19-10-2024
+REV00434,CUST00488,PRD175,ORD001076,4,"Works exactly as described. Long lasting and gives good coverage. Suits my skin well with no irritation. Five stars from me.",19-10-2024
+REV00435,CUST00457,PRD028,ORD001043,5,"Superb product, highly recommended. Setup was easy and it works flawlessly.",20-10-2024
+REV00436,CUST00490,PRD061,ORD001084,4,"Very happy with this. Fabric is soft and the fit is perfect.",20-10-2024
+REV00437,CUST00058,PRD062,ORD001033,2,"Really regret buying this. Stitching came off within a week. Delivery got delayed by 1 day.",20-10-2024
+REV00438,CUST00230,PRD095,ORD001083,3,"Mixed feelings about this one. Decent product but assembly took time. Works fine, finishing is average. Delivery got delayed by 1 day. Could be better.",20-10-2024
+REV00439,CUST00500,PRD125,ORD001110,5,"Price ke hisaab se top class hai bhai.",20-10-2024
+REV00440,CUST00181,PRD145,ORD001077,4,"Bought it during the sale and it was a good deal. Colourful, safe and well made. Delivered earlier than promised. Highly recommended.",21-10-2024
+REV00441,CUST00284,PRD183,ORD001070,4,"Totally worth the price. Suits my skin well with no irritation. Fragrance is mild and I could see results in two weeks. Using the Park Avenue Good Morning Gift Set for a month now.",21-10-2024
+REV00442,CUST00173,PRD125,ORD001098,4,"Absolutely love this purchase. Great grip and very durable. Good quality and the weight is balanced. Five stars from me.",24-10-2024
+REV00443,CUST00007,PRD152,ORD001091,4,"Excellent quality! Good quality and kept the kids busy for hours. Highly recommended.",25-10-2024
+REV00444,CUST00243,PRD183,ORD001116,5,"Packaging was neat and the product is genuine. Texture is lightweight and non-sticky. Fragrance is mild and I could see results in two weeks. Five stars from me.",27-10-2024
+REV00446,CUST00210,PRD191,ORD001025,5,"Packaging was neat and the product is genuine. Value for money is excellent compared to similar products. Delivered earlier than promised. Highly recommended.",28-10-2024
+REV00447,CUST00227,PRD041,ORD001191,5,"Very happy with this. Performance is smooth and the build quality feels solid. Using the boAt Airdopes 141 True Wireless Earbuds for two weeks now. Will buy again.",29-10-2024
+REV00448,CUST00267,PRD078,ORD001087,3,"Decent for the price but nothing special. Colour slightly different from the photos. Decent quality for the price. Delivered earlier than promised. Could be better.",29-10-2024
+REV00449,CUST00496,PRD084,ORD001130,4,"Totally worth the price. Suits my skin well with no irritation. Highly recommended.",29-10-2024
+REV00450,CUST00050,PRD109,ORD001139,5,"Excellent quality! Great quality for the price. Very sturdy and does the job perfectly.",29-10-2024
+REV00451,CUST00314,PRD191,ORD001124,5,"Great value for money. Value for money is excellent compared to similar products. Delivery was on time. Five stars from me.",29-10-2024
+REV00452,CUST00114,PRD078,ORD001179,4,"Great value for money. Fabric is soft and the fit is perfect. Delivery was on time. Five stars from me.",30-10-2024
+REV00453,CUST00402,PRD018,ORD001164,4,"Excellent quality! Setup was easy and it works flawlessly. Looks premium and feels well built. Using the Lenovo IdeaPad Slim 3 for a week now. Delivery got delayed by 1 day.",31-10-2024
+REV00454,CUST00199,PRD031,ORD001078,4,"Totally worth the price. Setup was easy and it works flawlessly. Five stars from me.",31-10-2024
+REV00455,CUST00498,PRD049,ORD001145,4,"Price ke hisaab se top class hai bhai.",31-10-2024
+REV00456,CUST00490,PRD121,ORD001184,2,"Quality is much below expectations. Size was not as described. Delivery got delayed by 1 day.",31-10-2024
+REV00457,CUST00432,PRD163,ORD001150,5,"Superb product, highly recommended. Great price for the pack size. Delivery was on time. Five stars from me.",31-10-2024
+REV00458,CUST00213,PRD163,ORD001072,5,"Superb product, highly recommended. Great price for the pack size. Delivered well sealed and fresh. Will buy again.",31-10-2024
+REV00459,CUST00230,PRD083,ORD001083,3,"It's an okay product, does the job. Average product, packaging could be better. Delivery got delayed by 1 day. Okay for the price.",01-11-2024
+REV00460,CUST00418,PRD122,ORD001038,3,"Average experience overall. Does the job for casual use. Could be better.",02-11-2024
+REV00461,CUST00482,PRD138,ORD001096,3,"Average experience overall. Print quality is average.",02-11-2024
+REV00462,CUST00339,PRD063,ORD001171,2,"Quality is much below expectations. Stitching came off within a week. Delivery got delayed by 3 days.",03-11-2024
+REV00463,CUST00041,PRD086,ORD001188,3,"Theek thak hai, price ke hisaab se chalega.",04-11-2024
+REV00464,CUST00054,PRD027,ORD001217,5,"Superb product, highly recommended. Looks premium and feels well built. Using the LG 55-inch 4K UHD Smart TV for a week now.",05-11-2024
+REV00465,CUST00503,PRD060,ORD001228,4,"Packaging was neat and the product is genuine. Size chart was accurate and the quality is great. Using the Puma Men Polo T-Shirt for two weeks now. Five stars from me.",05-11-2024
+REV00466,CUST00321,PRD064,ORD001156,5,"Totally worth the price. Colour is exactly as shown in the pictures.",05-11-2024
+REV00467,CUST00483,PRD078,ORD001103,3,"Mixed feelings about this one. Colour slightly different from the photos.",05-11-2024
+REV00468,CUST00292,PRD183,ORD001202,2,"Really regret buying this. Seal was broken when it arrived. Delivery got delayed by 1 day.",05-11-2024
+REV00469,CUST00147,PRD183,ORD001233,5,"Totally worth the price. Suits my skin well with no irritation. Using the Park Avenue Good Morning Gift Set for three months now.",05-11-2024
+REV00470,CUST00197,PRD008,ORD001204,3,"Average experience overall. Battery life is average. Performance is okay but I expected a bit more at this price. Delivery got delayed by 2 days.",07-11-2024
+REV00471,CUST00180,PRD061,ORD001177,4,"Packaging was neat and the product is genuine. Size chart was accurate and the quality is great. Colour is exactly as shown in the pictures. Using the Adidas Men Training Track Pants for a week now.",07-11-2024
+REV00472,CUST00348,PRD063,ORD001136,5,"Superb product, highly recommended. Stitching is neat and it is very comfortable to wear.",07-11-2024
+REV00473,CUST00203,PRD119,ORD001211,2,"Customer support was unhelpful. Material feels cheap and flimsy. Poor stitching and finishing. Delivery was on time.",07-11-2024
+REV00474,CUST00006,PRD169,ORD001082,4,"Bought it during the sale and it was a good deal. Great price for the pack size.",07-11-2024
+REV00475,CUST00054,PRD078,ORD001217,3,"Theek thak hai, price ke hisaab se chalega.",08-11-2024
+REV00476,CUST00181,PRD130,ORD001159,5,"Great value for money. Comfortable to use for long sessions. Delivered earlier than promised. Recommended to friends and family.",08-11-2024
+REV00477,CUST00225,PRD163,ORD001218,4,"Totally worth the price. Delivered well sealed and fresh. Five stars from me.",08-11-2024
+REV00478,CUST00122,PRD061,ORD001118,5,"Absolutely love this purchase. Size chart was accurate and the quality is great.",09-11-2024
+REV00479,CUST00180,PRD162,ORD001177,4,"Bought it during the sale and it was a good deal. Delivered well sealed and fresh. Using the Saffola Gold Edible Oil 5L for two weeks now. Recommended to friends and family.",09-11-2024
+REV00480,CUST00339,PRD190,ORD001141,2,"Not worth the money. Stopped working within a month and service centre response was slow. Delivery got delayed by 3 days. Do not buy.",09-11-2024
+REV00481,CUST00121,PRD193,ORD001111,4,"Packaging was neat and the product is genuine. Setup was easy and it works flawlessly.",09-11-2024
+REV00482,CUST00243,PRD057,ORD001252,4,"Absolutely love this purchase. Colour is exactly as shown in the pictures. Using the W Women Printed Straight Kurta for two weeks now. Delivery was on time. Highly recommended.",10-11-2024
+REV00483,CUST00050,PRD062,ORD001274,4,"Packaging was neat and the product is genuine. Colour is exactly as shown in the pictures. Size chart was accurate and the quality is great. Recommended to friends and family.",10-11-2024
+REV00484,CUST00131,PRD064,ORD001230,1,"Customer support was unhelpful. Fabric quality is poor and colour faded after the first wash. Size runs small, had to return. Using the Wrangler Men Regular Fit Jeans for a week now. Delivery got delayed by 2 days. Asked for a refund.",10-11-2024
+REV00485,CUST00510,PRD044,ORD001278,3,"Mixed feelings about this one. Works as advertised, though the accessories feel basic. Could be better.",11-11-2024
+REV00486,CUST00503,PRD145,ORD001228,5,"Bought it during the sale and it was a good deal. Colourful, safe and well made. Good quality and kept the kids busy for hours.",11-11-2024
+REV00487,CUST00388,PRD158,ORD001244,4,"Superb product, highly recommended. Fresh stock with a long expiry date. Great price for the pack size. Delivery was on time. Highly recommended.",11-11-2024
+REV00488,CUST00049,PRD181,ORD001174,3,"Quality average hai, expect kuch aur kiya tha.",11-11-2024
+REV00489,CUST00437,PRD031,ORD001253,5,"Superb product, highly recommended. Value for money is excellent compared to similar products. Recommended to friends and family.",12-11-2024
+REV00490,CUST00203,PRD054,ORD001234,4,"Excellent quality! Size chart was accurate and the quality is great. Colour is exactly as shown in the pictures. Delivery got delayed by 3 days.",13-11-2024
+REV00491,CUST00314,PRD066,ORD001124,5,"Works exactly as described. Stitching is neat and it is very comfortable to wear. Delivered earlier than promised.",13-11-2024
+REV00492,CUST00078,PRD134,ORD001238,2,"Not worth the money. Content is nothing new and overpriced. Using the HarperCollins The Alchemist for two weeks now. Delivery got delayed by 2 days. Asked for a refund.",13-11-2024
+REV00493,CUST00197,PRD023,ORD001204,2,"Very disappointed with this purchase. The product does not match the specifications on the listing. Using the MSI Thin GF63 for a week now. Delivery got delayed by 2 days.",14-11-2024
+REV00494,CUST00078,PRD190,ORD001238,4,"Very happy with this. Setup was easy and it works flawlessly. Go for it!",14-11-2024
+REV00495,CUST00478,PRD010,ORD001266,4,"Totally worth the price. Looks premium and feels well built. Setup was easy and it works flawlessly.",15-11-2024
+REV00496,CUST00155,PRD163,ORD001261,5,"Excellent quality! Quality is same as the store and packaging was secure. Fresh stock with a long expiry date. Delivery was on time.",15-11-2024
+REV00497,CUST00181,PRD162,ORD001159,5,"Superb product, highly recommended. Fresh stock with a long expiry date. Great price for the pack size.",16-11-2024
+REV00498,CUST00030,PRD182,ORD001210,4,"Price ke hisaab se top class hai bhai.",16-11-2024
+REV00499,CUST00275,PRD053,ORD001148,4,"Very happy with this. Size chart was accurate and the quality is great. Using the Levi's 511 Slim Fit Jeans for a week now. Highly recommended.",17-11-2024
+REV00500,CUST00125,PRD064,ORD001165,4,"Totally worth the price. Stitching is neat and it is very comfortable to wear. Colour is exactly as shown in the pictures. Delivery was on time.",17-11-2024
+REV00501,CUST00203,PRD110,ORD001234,4,"Works exactly as described. Great quality for the price. Highly recommended.",17-11-2024
+REV00502,CUST00292,PRD058,ORD001166,3,"Mixed feelings about this one. Colour slightly different from the photos.",18-11-2024
+REV00504,CUST00345,PRD153,ORD001224,5,"Totally worth the price. My kid loves it and plays with it daily. Colourful, safe and well made. Using the Skillmatics Educational Game Guess in 10 for two weeks now. Recommended to friends and family.",19-11-2024
+REV00505,CUST00520,PRD165,ORD001283,3,"Theek thak hai, price ke hisaab se chalega.",19-11-2024
+REV00506,CUST00061,PRD044,ORD001293,2,"Received a product that was not up to the mark. Build quality feels cheap and there was a scratch on arrival. Delivery was on time. Will not buy again.",20-11-2024
+REV00507,CUST00272,PRD083,ORD001294,5,"Totally worth the price. Fragrance is mild and I could see results in two weeks. Highly recommended.",20-11-2024
+REV00508,CUST00523,PRD138,ORD001280,3,"Product is fine, but I expected a little more. Decent read, expected more depth. Good content but a bit repetitive in places. Delivery was on time. Could be better.",20-11-2024
+REV00509,CUST00446,PRD145,ORD001180,3,"Not bad, not great. Kids liked it but it is a bit small. Quality is okay for the price.",20-11-2024
+REV00510,CUST00304,PRD049,ORD001262,4,"Works exactly as described. Performance is smooth and the build quality feels solid. Using the Samsung Galaxy Buds2 Pro for a week now. Delivered earlier than promised. Go for it!",21-11-2024
+REV00511,CUST00180,PRD064,ORD001221,4,"Excellent quality! Size chart was accurate and the quality is great.",21-11-2024
+REV00512,CUST00510,PRD079,ORD001278,4,"Great value for money. Fragrance is mild and I could see results in two weeks. Using the Lakme 9to5 Primer + Matte Lipstick for a month now. Delivery was on time.",21-11-2024
+REV00513,CUST00027,PRD077,ORD001207,2,"Not worth the money. Size runs small, had to return. Delivery was on time. Do not buy.",22-11-2024
+REV00514,CUST00520,PRD007,ORD001283,4,"Packaging was neat and the product is genuine. Setup was easy and it works flawlessly. Performance is smooth and the build quality feels solid. Highly recommended.",23-11-2024
+REV00515,CUST00508,PRD010,ORD001181,3,"It's an okay product, does the job. Battery life is average. Delivery got delayed by 1 day.",23-11-2024
+REV00516,CUST00243,PRD015,ORD001252,3,"Average experience overall. Battery life is average. Delivery got delayed by 2 days.",23-11-2024
+REV00517,CUST00054,PRD064,ORD001276,5,"Good product at this price. Stitching is neat and it is very comfortable to wear. Using the Wrangler Men Regular Fit Jeans for a week now. Five stars from me.",23-11-2024
+REV00518,CUST00525,PRD164,ORD001296,4,"Totally worth the price. Quality is same as the store and packaging was secure. Will buy again.",23-11-2024
+REV00519,CUST00510,PRD027,ORD001257,1,"Not worth the money. Battery drains very quickly. Using the LG 55-inch 4K UHD Smart TV for two weeks now. Delivery got delayed by 1 day. Asked for a refund.",24-11-2024
+REV00520,CUST00054,PRD057,ORD001276,3,"Mixed feelings about this one. Colour slightly different from the photos.",24-11-2024
+REV00521,CUST00360,PRD059,ORD001302,3,"Average experience overall. Fit is okay but the fabric is a bit thin. Colour slightly different from the photos.",24-11-2024
+REV00522,CUST00526,PRD063,ORD001324,4,"Excellent quality! Fabric is soft and the fit is perfect. Using the U.S. Polo Assn. Men Polo T-Shirt for a month now.",25-11-2024
+REV00523,CUST00148,PRD089,ORD001309,3,"Average experience overall. Fragrance is a bit strong for me. Delivery got delayed by 2 days. Might consider alternatives next time.",25-11-2024
+REV00524,CUST00320,PRD180,ORD001190,4,"Packaging was neat and the product is genuine. Texture is lightweight and non-sticky. Long lasting and gives good coverage. Delivery got delayed by 2 days. Recommended to friends and family.",25-11-2024
+REV00525,CUST00136,PRD006,ORD001329,4,"Totally worth the price. Setup was easy and it works flawlessly.",27-11-2024
+REV00526,CUST00526,PRD077,ORD001324,3,"Product is fine, but I expected a little more. Fit is okay but the fabric is a bit thin. Decent quality for the price.",27-11-2024
+REV00527,CUST00511,PRD145,ORD001328,5,"Bought it during the sale and it was a good deal. Great gift for a birthday.",28-11-2024
+REV00528,CUST00390,PRD040,ORD001254,3,"Not bad, not great. Build quality is fine, nothing exceptional. Delivered earlier than promised.",29-11-2024
+REV00529,CUST00190,PRD040,ORD001305,5,"Absolutely love this purchase. Setup was easy and it works flawlessly. Highly recommended.",29-11-2024
+REV00530,CUST00432,PRD064,ORD001310,4,"Superb product, highly recommended. Fabric is soft and the fit is perfect. Delivery was on time. Go for it!",29-11-2024
+REV00531,CUST00065,PRD040,ORD001291,4,"Good product at this price. Battery life is great and it charges quickly. Delivery was on time. Will buy again.",30-11-2024
+REV00532,CUST00365,PRD086,ORD001320,5,"Very happy with this. Texture is lightweight and non-sticky.",30-11-2024
+REV00533,CUST00418,PRD126,ORD001335,3,"It's an okay product, does the job. Okay for beginners, not for heavy use. Does the job for casual use. Could be better.",30-11-2024
+REV00534,CUST00511,PRD190,ORD001328,3,"Product is fine, but I expected a little more. Battery life is average. Works as advertised, though the accessories feel basic. Using the Wildcraft Laptop Backpack 35L for a month now.",30-11-2024
+REV00535,CUST00505,PRD193,ORD001315,4,"Bahut accha laga, delivery bhi time pe aayi.",30-11-2024
+REV00536,CUST00136,PRD060,ORD001329,4,"Very happy with this. Size chart was accurate and the quality is great. Recommended to friends and family.",01-12-2024
+REV00537,CUST00513,PRD049,ORD001285,5,"Superb product, highly recommended. Looks premium and feels well built. Highly recommended.",02-12-2024
+REV00538,CUST00422,PRD078,ORD001220,3,"Na zyada accha na bura, bas okay hai.",02-12-2024
+REV00539,CUST00007,PRD141,ORD001304,4,"Very happy with this. Could not put it down, finished in two days. Recommended to friends and family.",02-12-2024
+REV00541,CUST00136,PRD180,ORD001329,5,"Works exactly as described. Long lasting and gives good coverage.",03-12-2024
+REV00542,CUST00327,PRD170,ORD001340,5,"Very happy with this. Suits my skin well with no irritation. Go for it!",04-12-2024
+REV00543,CUST00508,PRD075,ORD001386,5,"Bought it during the sale and it was a good deal. Colour is exactly as shown in the pictures. Highly recommended.",06-12-2024
+REV00544,CUST00142,PRD134,ORD001342,3,"Not bad, not great. Print quality is average. Could be better.",06-12-2024
+REV00545,CUST00294,PRD145,ORD001260,5,"Bought it during the sale and it was a good deal. Colourful, safe and well made.",06-12-2024
+REV00546,CUST00007,PRD049,ORD001365,4,"Superb product, highly recommended. Value for money is excellent compared to similar products. Using the Samsung Galaxy Buds2 Pro for a week now. Delivery was on time.",07-12-2024
+REV00547,CUST00516,PRD080,ORD001338,5,"Absolutely love this purchase. Long lasting and gives good coverage. Texture is lightweight and non-sticky. Five stars from me.",08-12-2024
+REV00548,CUST00216,PRD078,ORD001269,3,"Product is fine, but I expected a little more. Colour slightly different from the photos. Using the Red Tape Men Casual Sneakers for a week now. Could be better.",10-12-2024
+REV00549,CUST00082,PRD003,ORD001167,4,"Superb product, highly recommended. Looks premium and feels well built. Highly recommended.",11-12-2024
+REV00551,CUST00180,PRD128,ORD001362,3,"Quality average hai, expect kuch aur kiya tha.",11-12-2024
+REV00552,CUST00121,PRD040,ORD001153,5,"Great value for money. Setup was easy and it works flawlessly. Five stars from me.",12-12-2024
+REV00553,CUST00495,PRD100,ORD001368,3,"It's an okay product, does the job. Works fine, finishing is average. Delivery got delayed by 2 days. Could be better.",12-12-2024
+REV00554,CUST00524,PRD019,ORD001357,3,"Mixed feelings about this one. Battery life is average. Delivery was on time.",13-12-2024
+REV00555,CUST00386,PRD145,ORD001358,4,"Packaging was neat and the product is genuine. Great gift for a birthday.",13-12-2024
+REV00556,CUST00162,PRD036,ORD001367,3,"Product is fine, but I expected a little more. Works as advertised, though the accessories feel basic. Build quality is fine, nothing exceptional. Using the TP-Link Archer C6 AC1200 Wi-Fi Router for a week now. Delivery got delayed by 2 days. Okay for the price.",14-12-2024
+REV00557,CUST00058,PRD103,ORD001361,3,"Average experience overall. Noise is a bit higher than expected. Decent product but assembly took time. Delivery got delayed by 1 day.",14-12-2024
+REV00558,CUST00496,PRD191,ORD001412,5,"Bought it during the sale and it was a good deal. Setup was easy and it works flawlessly.",14-12-2024
+REV00559,CUST00439,PRD129,ORD001394,4,"Very happy with this. Feels sturdy and perfect for daily workouts. Great grip and very durable. Using the Speedo Endurance Swimwear for a week now. Delivery was on time. Recommended to friends and family.",15-12-2024
+REV00560,CUST00499,PRD146,ORD001332,5,"Superb product, highly recommended. My kid loves it and plays with it daily. Recommended to friends and family.",15-12-2024
+REV00561,CUST00192,PRD062,ORD001351,4,"Packaging was neat and the product is genuine. Colour is exactly as shown in the pictures. Using the Nike Dri-FIT Men Round Neck T-Shirt for a month now.",16-12-2024
+REV00562,CUST00452,PRD093,ORD001355,4,"Ekdum mast, sabko recommend karunga.",16-12-2024
+REV00563,CUST00181,PRD118,ORD001356,4,"Great value for money. Comfortable to use for long sessions. Good quality and the weight is balanced. Using the Yonex Astrox 3DG Badminton Racquet for three months now.",16-12-2024
+REV00564,CUST00061,PRD073,ORD001381,2,"Very disappointed with this purchase. Stitching came off within a week. Size runs small, had to return. Please improve quality control.",17-12-2024
+REV00565,CUST00369,PRD103,ORD001370,5,"Good product at this price. Great quality for the price. Delivery was on time.",17-12-2024
+REV00566,CUST00306,PRD182,ORD001345,3,"Na zyada accha na bura, bas okay hai.",17-12-2024
+REV00567,CUST00286,PRD142,ORD001344,5,"Good product at this price. Print quality and paper are good. Fantastic read with practical takeaways. Using the Oxford Advanced Learner's Dictionary for a week now.",18-12-2024
+REV00568,CUST00369,PRD165,ORD001370,5,"Paisa vasool product! Quality bahut badhiya hai.",18-12-2024
+REV00569,CUST00344,PRD054,ORD001349,5,"Excellent quality! Colour is exactly as shown in the pictures. Go for it!",19-12-2024
+REV00570,CUST00505,PRD044,ORD001315,2,"Quality is much below expectations. Build quality feels cheap and there was a scratch on arrival. The product does not match the specifications on the listing. Delivery got delayed by 1 day.",20-12-2024
+REV00571,CUST00513,PRD141,ORD001372,5,"Totally worth the price. Could not put it down, finished in two days. Print quality and paper are good. Delivery was on time. Will buy again.",20-12-2024
+REV00573,CUST00166,PRD001,ORD001426,5,"Very happy with this. Looks premium and feels well built. Value for money is excellent compared to similar products. Five stars from me.",22-12-2024
+REV00575,CUST00404,PRD155,ORD001402,4,"Good product at this price. Colourful, safe and well made. Using the Ravensburger 1000 Piece Jigsaw Puzzle for three months now. Delivery got delayed by 1 day. Five stars from me.",22-12-2024
+REV00576,CUST00446,PRD195,ORD001376,5,"Totally worth the price. Value for money is excellent compared to similar products. Using the SanDisk Ultra 128GB microSD Card for a month now. Delivery was on time.",26-12-2024
+REV00577,CUST00079,PRD073,ORD001406,5,"Bought it during the sale and it was a good deal. Colour is exactly as shown in the pictures. Five stars from me.",27-12-2024
+REV00578,CUST00513,PRD058,ORD001436,3,"Decent for the price but nothing special. Colour slightly different from the photos. Delivery was on time. Okay for the price.",28-12-2024
+REV00579,CUST00540,PRD191,ORD001439,3,"Average experience overall. Battery life is average. Using the American Tourister Casual Backpack for a month now. Could be better.",28-12-2024
+REV00580,CUST00527,PRD083,ORD001432,5,"Packaging was neat and the product is genuine. Texture is lightweight and non-sticky. Delivered earlier than promised. Will buy again.",29-12-2024
+REV00581,CUST00360,PRD138,ORD001302,4,"Great value for money. Print quality and paper are good. Could not put it down, finished in two days. Using the HarperCollins Think Like a Monk for a week now. Five stars from me.",29-12-2024
+REV00582,CUST00061,PRD170,ORD001381,3,"Average experience overall. Works okay but results are not dramatic. Could be better.",30-12-2024
+REV00583,CUST00505,PRD015,ORD001467,4,"Very happy with this. Battery life is great and it charges quickly. Using the HP 15s for two weeks now.",31-12-2024
+REV00584,CUST00401,PRD164,ORD001408,5,"Superb product, highly recommended. Delivered well sealed and fresh. Quality is same as the store and packaging was secure.",31-12-2024
+REV00585,CUST00539,PRD061,ORD001461,5,"Totally worth the price. Colour is exactly as shown in the pictures. Fabric is soft and the fit is perfect. Will buy again.",01-01-2025
+REV00586,CUST00305,PRD163,ORD001390,4,"Absolutely love this purchase. Quality is same as the store and packaging was secure.",01-01-2025
+REV00587,CUST00481,PRD090,ORD001459,3,"Decent for the price but nothing special. Fragrance is a bit strong for me. Using the Biotique Bio Almond Oil Body Lotion for three months now. Delivery got delayed by 4 days. Might consider alternatives next time.",02-01-2025
+REV00588,CUST00365,PRD055,ORD001477,3,"Decent for the price but nothing special. Colour slightly different from the photos. Delivery was on time. Could be better.",03-01-2025
+REV00589,CUST00481,PRD175,ORD001459,4,"Great value for money. Fragrance is mild and I could see results in two weeks. Delivery got delayed by 4 days. Recommended to friends and family.",03-01-2025
+REV00590,CUST00228,PRD058,ORD001413,4,"Absolutely love this purchase. Fabric is soft and the fit is perfect.",04-01-2025
+REV00591,CUST00437,PRD078,ORD001454,5,"Packaging was neat and the product is genuine. Fabric is soft and the fit is perfect. Five stars from me.",04-01-2025
+REV00592,CUST00493,PRD142,ORD001481,4,"Great value for money. Could not put it down, finished in two days. Fantastic read with practical takeaways. Using the Oxford Advanced Learner's Dictionary for a week now. Delivered earlier than promised. Go for it!",05-01-2025
+REV00593,CUST00060,PRD078,ORD001383,4,"Works exactly as described. Colour is exactly as shown in the pictures. Stitching is neat and it is very comfortable to wear. Highly recommended.",07-01-2025
+REV00594,CUST00538,PRD076,ORD001493,4,"Totally worth the price. Fabric is soft and the fit is perfect. Go for it!",10-01-2025
+REV00595,CUST00513,PRD037,ORD001436,5,"Totally worth the price. Value for money is excellent compared to similar products. Using the Samsung Galaxy Tab A9+ 5G for three months now. Five stars from me.",12-01-2025
+REV00596,CUST00484,PRD079,ORD001451,5,"Excellent quality! Long lasting and gives good coverage. Recommended to friends and family.",12-01-2025
+REV00597,CUST00532,PRD058,ORD001471,4,"Absolutely love this purchase. Fabric is soft and the fit is perfect. Stitching is neat and it is very comfortable to wear. Will buy again.",13-01-2025
+REV00598,CUST00248,PRD062,ORD001483,3,"Na zyada accha na bura, bas okay hai.",13-01-2025
+REV00599,CUST00320,PRD154,ORD001398,4,"Good product at this price. My kid loves it and plays with it daily. Using the Webby Remote Control Racing Car for three months now. Will buy again.",13-01-2025
+REV00600,CUST00134,PRD026,ORD001515,5,"Good product at this price. Battery life is great and it charges quickly. Performance is smooth and the build quality feels solid. Using the Lenovo ThinkPad E14 for three months now.",15-01-2025
+REV00601,CUST00134,PRD049,ORD001515,3,"Mixed feelings about this one. Build quality is fine, nothing exceptional. Could be better.",15-01-2025
+REV00602,CUST00545,PRD078,ORD001494,4,"Great value for money. Colour is exactly as shown in the pictures. Five stars from me.",15-01-2025
+REV00603,CUST00102,PRD093,ORD001462,5,"Bought it during the sale and it was a good deal. Very sturdy and does the job perfectly. Easy to clean and looks good at home. Delivered earlier than promised. Five stars from me.",17-01-2025
+REV00604,CUST00401,PRD007,ORD001521,4,"Great value for money. Battery life is great and it charges quickly.",18-01-2025
+REV00605,CUST00511,PRD141,ORD001469,4,"Very happy with this. Fantastic read with practical takeaways. Could not put it down, finished in two days. Using the BPB Let Us C for a week now.",18-01-2025
+REV00606,CUST00102,PRD165,ORD001462,5,"Bought it during the sale and it was a good deal. Quality is same as the store and packaging was secure. Using the Maggi 2-Minute Masala Noodles for two weeks now. Delivered earlier than promised.",19-01-2025
+REV00607,CUST00418,PRD009,ORD001500,4,"Superb product, highly recommended. Value for money is excellent compared to similar products. Battery life is great and it charges quickly. Using the realme Narzo 70 Pro 5G for a month now. Will buy again.",20-01-2025
+REV00608,CUST00552,PRD084,ORD001522,4,"Excellent quality! Long lasting and gives good coverage. Suits my skin well with no irritation. Using the Minimalist 10% Vitamin C Face Serum 30ml for two weeks now. Delivered earlier than promised.",20-01-2025
+REV00609,CUST00293,PRD145,ORD001517,5,"Excellent quality! Good quality and kept the kids busy for hours. Colourful, safe and well made. Using the LEGO City Fire Station Set for a month now. Go for it!",20-01-2025
+REV00610,CUST00401,PRD169,ORD001464,4,"Good product at this price. Quality is same as the store and packaging was secure. Great price for the pack size. Using the Britannia Good Day Cashew Cookies for a month now. Recommended to friends and family.",21-01-2025
+REV00611,CUST00545,PRD049,ORD001494,3,"Decent for the price but nothing special. Performance is okay but I expected a bit more at this price. Delivery got delayed by 1 day.",22-01-2025
+REV00612,CUST00450,PRD154,ORD001453,5,"Excellent quality! Colourful, safe and well made. Go for it!",22-01-2025
+REV00613,CUST00495,PRD055,ORD001368,4,"Good product at this price. Stitching is neat and it is very comfortable to wear. Delivery was on time. Will buy again.",23-01-2025
+REV00614,CUST00422,PRD053,ORD001468,4,"Packaging was neat and the product is genuine. Stitching is neat and it is very comfortable to wear.",25-01-2025
+REV00615,CUST00362,PRD190,ORD001574,5,"Great value for money. Value for money is excellent compared to similar products. Setup was easy and it works flawlessly.",26-01-2025
+REV00616,CUST00418,PRD043,ORD001554,5,"Great value for money. Performance is smooth and the build quality feels solid. Using the JBL Flip 6 Portable Speaker for three months now. Delivery got delayed by 1 day. Will buy again.",27-01-2025
+REV00617,CUST00554,PRD121,ORD001520,3,"Decent for the price but nothing special. Does the job for casual use. Could be better.",27-01-2025
+REV00618,CUST00538,PRD043,ORD001493,4,"Absolutely love this purchase. Performance is smooth and the build quality feels solid.",28-01-2025
+REV00619,CUST00552,PRD077,ORD001522,4,"Bought it during the sale and it was a good deal. Colour is exactly as shown in the pictures. Delivered earlier than promised.",28-01-2025
+REV00620,CUST00256,PRD195,ORD001562,5,"Excellent quality! Looks premium and feels well built. Value for money is excellent compared to similar products.",30-01-2025
+REV00621,CUST00070,PRD076,ORD001559,4,"Good product at this price. Fabric is soft and the fit is perfect.",31-01-2025
+REV00622,CUST00112,PRD059,ORD001553,3,"Average experience overall. Decent quality for the price. Might consider alternatives next time.",01-02-2025
+REV00623,CUST00070,PRD161,ORD001559,5,"Excellent quality! Fresh stock with a long expiry date. Using the Nescafe Classic Instant Coffee 200g for a month now. Delivery was on time. Highly recommended.",01-02-2025
+REV00624,CUST00050,PRD162,ORD001509,5,"Bought it during the sale and it was a good deal. Great price for the pack size. Delivery was on time. Go for it!",01-02-2025
+REV00625,CUST00256,PRD182,ORD001562,5,"Paisa vasool product! Quality bahut badhiya hai.",01-02-2025
+REV00626,CUST00556,PRD191,ORD001578,5,"Superb product, highly recommended. Battery life is great and it charges quickly. Setup was easy and it works flawlessly.",01-02-2025
+REV00628,CUST00545,PRD190,ORD001494,5,"Packaging was neat and the product is genuine. Battery life is great and it charges quickly. Highly recommended.",02-02-2025
+REV00629,CUST00189,PRD034,ORD001561,5,"Great value for money. Performance is smooth and the build quality feels solid. Delivered earlier than promised.",03-02-2025
+REV00630,CUST00422,PRD100,ORD001506,3,"Product is fine, but I expected a little more. Decent product but assembly took time. Noise is a bit higher than expected. Using the Hawkins Contura Pressure Cooker 3L for two weeks now. Delivery got delayed by 1 day. Okay for the price.",03-02-2025
+REV00631,CUST00537,PRD176,ORD001524,5,"Excellent quality! Long lasting and gives good coverage. Fragrance is mild and I could see results in two weeks. Delivery was on time. Go for it!",03-02-2025
+REV00632,CUST00534,PRD104,ORD001544,2,"Quality is much below expectations. Stopped working after two weeks. Delivery got delayed by 7 days. Please improve quality control.",05-02-2025
+REV00633,CUST00554,PRD126,ORD001520,4,"Superb product, highly recommended. Good quality and the weight is balanced. Feels sturdy and perfect for daily workouts. Five stars from me.",06-02-2025
+REV00634,CUST00562,PRD179,ORD001571,5,"Great value for money. Texture is lightweight and non-sticky. Delivery was on time. Highly recommended.",06-02-2025
+REV00635,CUST00415,PRD182,ORD001572,5,"Bought it during the sale and it was a good deal. Texture is lightweight and non-sticky. Delivery was on time.",06-02-2025
+REV00636,CUST00556,PRD190,ORD001605,5,"Very happy with this. Value for money is excellent compared to similar products. Five stars from me.",06-02-2025
+REV00637,CUST00519,PRD190,ORD001596,3,"Product is fine, but I expected a little more. Works as advertised, though the accessories feel basic. Build quality is fine, nothing exceptional. Delivery was on time. Okay for the price.",06-02-2025
+REV00638,CUST00556,PRD119,ORD001605,4,"Excellent quality! Good quality and the weight is balanced. Comfortable to use for long sessions. Using the Yonex Mavis 350 Nylon Shuttlecock for a week now. Will buy again.",07-02-2025
+REV00639,CUST00537,PRD129,ORD001524,2,"Customer support was unhelpful. Size was not as described. Will not buy again.",07-02-2025
+REV00640,CUST00543,PRD138,ORD001502,3,"Decent for the price but nothing special. Good content but a bit repetitive in places. Delivery got delayed by 1 day. Okay for the price.",07-02-2025
+REV00641,CUST00390,PRD051,ORD001626,4,"Packaging was neat and the product is genuine. Performance is smooth and the build quality feels solid. Setup was easy and it works flawlessly.",08-02-2025
+REV00642,CUST00126,PRD163,ORD001565,2,"Bilkul bekar product hai, paisa barbaad.",09-02-2025
+REV00643,CUST00269,PRD180,ORD001622,5,"Absolutely love this purchase. Fragrance is mild and I could see results in two weeks. Texture is lightweight and non-sticky. Using the Havells BT5190 Beard Trimmer for three months now. Delivery was on time.",09-02-2025
+REV00644,CUST00437,PRD180,ORD001613,4,"Bought it during the sale and it was a good deal. Suits my skin well with no irritation. Will buy again.",10-02-2025
+REV00645,CUST00176,PRD198,ORD001604,2,"Received a product that was not up to the mark. Looks nothing like the picture. Will not buy again.",10-02-2025
+REV00646,CUST00541,PRD086,ORD001631,5,"Totally worth the price. Texture is lightweight and non-sticky. Fragrance is mild and I could see results in two weeks. Using the Himalaya Neem Face Wash 150ml for three months now. Will buy again.",11-02-2025
+REV00647,CUST00566,PRD158,ORD001560,4,"Absolutely love this purchase. Fresh stock with a long expiry date. Using the Aashirvaad Whole Wheat Atta 10kg for two weeks now. Delivery was on time. Go for it!",13-02-2025
+REV00648,CUST00239,PRD063,ORD001614,4,"Absolutely love this purchase. Stitching is neat and it is very comfortable to wear. Delivery was on time.",14-02-2025
+REV00649,CUST00558,PRD079,ORD001535,5,"Totally worth the price. Long lasting and gives good coverage. Texture is lightweight and non-sticky. Delivered earlier than promised.",14-02-2025
+REV00650,CUST00437,PRD183,ORD001613,3,"Average experience overall. Fragrance is a bit strong for me. Works okay but results are not dramatic. Using the Park Avenue Good Morning Gift Set for two weeks now. Delivery was on time.",15-02-2025
+REV00651,CUST00551,PRD119,ORD001511,5,"Superb product, highly recommended. Great grip and very durable. Highly recommended.",16-02-2025
+REV00652,CUST00389,PRD194,ORD001587,3,"Not bad, not great. Performance is okay but I expected a bit more at this price. Delivery was on time. Might consider alternatives next time.",16-02-2025
+REV00653,CUST00434,PRD017,ORD001650,5,"Excellent quality! Performance is smooth and the build quality feels solid. Looks premium and feels well built. Recommended to friends and family.",17-02-2025
+REV00654,CUST00439,PRD015,ORD001656,4,"Works exactly as described. Setup was easy and it works flawlessly. Value for money is excellent compared to similar products. Go for it!",18-02-2025
+REV00655,CUST00439,PRD078,ORD001656,3,"Average experience overall. Fit is okay but the fabric is a bit thin. Using the Red Tape Men Casual Sneakers for a month now. Might consider alternatives next time.",18-02-2025
+REV00656,CUST00573,PRD061,ORD001643,4,"Packaging was neat and the product is genuine. Fabric is soft and the fit is perfect. Using the Adidas Men Training Track Pants for three months now. Highly recommended.",19-02-2025
+REV00657,CUST00465,PRD167,ORD001667,3,"Theek thak hai, price ke hisaab se chalega.",19-02-2025
+REV00658,CUST00440,PRD142,ORD001591,3,"Na zyada accha na bura, bas okay hai.",20-02-2025
+REV00659,CUST00434,PRD138,ORD001650,4,"Great value for money. Fantastic read with practical takeaways. Could not put it down, finished in two days. Delivery was on time. Recommended to friends and family.",21-02-2025
+REV00660,CUST00074,PRD044,ORD001666,5,"Ekdum mast, sabko recommend karunga.",22-02-2025
+REV00661,CUST00180,PRD003,ORD001595,5,"Excellent quality! Value for money is excellent compared to similar products. Setup was easy and it works flawlessly. Delivery was on time. Five stars from me.",24-02-2025
+REV00662,CUST00516,PRD138,ORD001659,4,"Excellent quality! Could not put it down, finished in two days. Delivered earlier than promised.",24-02-2025
+REV00663,CUST00418,PRD103,ORD001618,3,"It's an okay product, does the job. Noise is a bit higher than expected. Decent product but assembly took time. Delivery was on time.",25-02-2025
+REV00664,CUST00564,PRD138,ORD001647,4,"Very happy with this. Print quality and paper are good.",27-02-2025
+REV00665,CUST00459,PRD084,ORD001693,5,"Packaging was neat and the product is genuine. Fragrance is mild and I could see results in two weeks. Delivery got delayed by 1 day.",28-02-2025
+REV00666,CUST00418,PRD194,ORD001618,1,"Received a product that was not up to the mark. Battery drains very quickly.",28-02-2025
+REV00668,CUST00439,PRD025,ORD001656,2,"Bilkul bekar product hai, paisa barbaad.",03-03-2025
+REV00669,CUST00392,PRD062,ORD001683,2,"Received a product that was not up to the mark. Fabric quality is poor and colour faded after the first wash. Delivery was on time. Do not buy.",04-03-2025
+REV00670,CUST00337,PRD078,ORD001533,5,"Absolutely love this purchase. Size chart was accurate and the quality is great. Colour is exactly as shown in the pictures. Using the Red Tape Men Casual Sneakers for a month now.",04-03-2025
+REV00671,CUST00562,PRD180,ORD001571,4,"Works exactly as described. Fragrance is mild and I could see results in two weeks.",04-03-2025
+REV00672,CUST00555,PRD164,ORD001564,4,"Very happy with this. Quality is same as the store and packaging was secure. Highly recommended.",05-03-2025
+REV00673,CUST00569,PRD170,ORD001697,4,"Works exactly as described. Long lasting and gives good coverage.",05-03-2025
+REV00674,CUST00328,PRD175,ORD001473,5,"Very happy with this. Suits my skin well with no irritation. Delivered earlier than promised.",05-03-2025
+REV00675,CUST00396,PRD183,ORD001671,4,"Very happy with this. Texture is lightweight and non-sticky. Suits my skin well with no irritation. Delivery was on time.",05-03-2025
+REV00676,CUST00579,PRD059,ORD001664,1,"Dobara kabhi nahi lunga, bahut disappointed hoon.",06-03-2025
+REV00677,CUST00563,PRD073,ORD001649,3,"Decent for the price but nothing special. Decent quality for the price. Delivery got delayed by 5 days.",06-03-2025
+REV00678,CUST00585,PRD123,ORD001709,3,"Decent for the price but nothing special. Okay for beginners, not for heavy use.",06-03-2025
+REV00679,CUST00007,PRD007,ORD001721,3,"Theek thak hai, price ke hisaab se chalega.",07-03-2025
+REV00680,CUST00374,PRD053,ORD001689,4,"Excellent quality! Size chart was accurate and the quality is great. Will buy again.",07-03-2025
+REV00681,CUST00394,PRD062,ORD001728,3,"Product is fine, but I expected a little more. Colour slightly different from the photos. Decent quality for the price. Delivery was on time.",10-03-2025
+REV00683,CUST00492,PRD151,ORD001701,5,"Works exactly as described. Great gift for a birthday. Delivery was on time. Recommended to friends and family.",13-03-2025
+REV00684,CUST00404,PRD070,ORD001714,3,"Product is fine, but I expected a little more. Fit is okay but the fabric is a bit thin. Might consider alternatives next time.",14-03-2025
+REV00685,CUST00225,PRD128,ORD001678,2,"Not worth the money. Material feels cheap and flimsy. Using the Hero Sprint 26T Cycle for two weeks now. Delivery got delayed by 4 days.",14-03-2025
+REV00686,CUST00248,PRD191,ORD001733,4,"Bought it during the sale and it was a good deal. Performance is smooth and the build quality feels solid. Highly recommended.",14-03-2025
+REV00687,CUST00383,PRD118,ORD001713,4,"Packaging was neat and the product is genuine. Great grip and very durable. Using the Yonex Astrox 3DG Badminton Racquet for a month now.",15-03-2025
+REV00688,CUST00589,PRD175,ORD001731,4,"Price ke hisaab se top class hai bhai.",15-03-2025
+REV00689,CUST00480,PRD087,ORD001754,4,"Totally worth the price. Long lasting and gives good coverage. Will buy again.",19-03-2025
+REV00690,CUST00391,PRD062,ORD001657,5,"Absolutely love this purchase. Stitching is neat and it is very comfortable to wear. Delivery was on time. Go for it!",20-03-2025
+REV00691,CUST00107,PRD190,ORD001747,4,"Great value for money. Setup was easy and it works flawlessly. Battery life is great and it charges quickly. Five stars from me.",20-03-2025
+REV00692,CUST00142,PRD113,ORD001750,3,"Not bad, not great. Works fine, finishing is average. Decent product but assembly took time. Okay for the price.",21-03-2025
+REV00693,CUST00576,PRD183,ORD001736,5,"Works exactly as described. Texture is lightweight and non-sticky. Suits my skin well with no irritation. Delivery was on time.",21-03-2025
+REV00694,CUST00174,PRD027,ORD001743,5,"Great value for money. Looks premium and feels well built. Performance is smooth and the build quality feels solid. Using the LG 55-inch 4K UHD Smart TV for a month now. Delivery was on time. Highly recommended.",22-03-2025
+REV00695,CUST00102,PRD078,ORD001729,2,"Customer support was unhelpful. Stitching came off within a week. Using the Red Tape Men Casual Sneakers for a month now.",23-03-2025
+REV00696,CUST00576,PRD184,ORD001736,4,"Ekdum mast, sabko recommend karunga.",23-03-2025
+REV00697,CUST00167,PRD185,ORD001772,5,"Very happy with this. Battery life is great and it charges quickly. Highly recommended.",23-03-2025
+REV00698,CUST00479,PRD154,ORD001732,5,"Absolutely love this purchase. Good quality and kept the kids busy for hours. Five stars from me.",24-03-2025
+REV00699,CUST00268,PRD145,ORD001758,5,"Excellent quality! Colourful, safe and well made. Great gift for a birthday. Go for it!",25-03-2025
+REV00700,CUST00577,PRD141,ORD001633,3,"Product is fine, but I expected a little more. Decent read, expected more depth. Using the BPB Let Us C for a week now. Okay for the price.",26-03-2025
+REV00701,CUST00571,PRD060,ORD001655,2,"Received a product that was not up to the mark. Stitching came off within a week. Delivery got delayed by 4 days. Asked for a refund.",27-03-2025
+REV00703,CUST00268,PRD183,ORD001758,4,"Works exactly as described. Texture is lightweight and non-sticky.",27-03-2025
+REV00704,CUST00414,PRD012,ORD001749,1,"Customer support was unhelpful. Stopped working within a month and service centre response was slow. Delivery got delayed by 3 days. Please improve quality control.",28-03-2025
+REV00705,CUST00251,PRD074,ORD001789,4,"Works exactly as described. Fabric is soft and the fit is perfect. Using the Woodland Men Leather Casual Boots for three months now.",30-03-2025
+REV00706,CUST00541,PRD049,ORD001784,3,"It's an okay product, does the job. Works as advertised, though the accessories feel basic. Battery life is average. Using the Samsung Galaxy Buds2 Pro for a week now.",31-03-2025
+REV00707,CUST00035,PRD090,ORD001812,3,"Not bad, not great. Works okay but results are not dramatic. Average product, packaging could be better. Delivery was on time. Okay for the price.",31-03-2025
+REV00708,CUST00167,PRD070,ORD001755,5,"Good product at this price. Size chart was accurate and the quality is great. Using the Puma Smash V2 Sneakers for a month now. Highly recommended.",01-04-2025
+REV00709,CUST00446,PRD076,ORD001762,5,"Bought it during the sale and it was a good deal. Colour is exactly as shown in the pictures.",01-04-2025
+REV00710,CUST00394,PRD091,ORD001815,5,"Bought it during the sale and it was a good deal. Texture is lightweight and non-sticky. Delivery was on time. Highly recommended.",01-04-2025
+REV00711,CUST00292,PRD060,ORD001799,4,"Bought it during the sale and it was a good deal. Fabric is soft and the fit is perfect. Delivery was on time. Five stars from me.",02-04-2025
+REV00712,CUST00158,PRD080,ORD001783,4,"Works exactly as described. Fragrance is mild and I could see results in two weeks. Long lasting and gives good coverage. Will buy again.",02-04-2025
+REV00713,CUST00251,PRD145,ORD001789,4,"Excellent quality! Good quality and kept the kids busy for hours. My kid loves it and plays with it daily. Five stars from me.",02-04-2025
+REV00714,CUST00479,PRD148,ORD001803,3,"Decent for the price but nothing special. Quality is okay for the price. Delivery got delayed by 1 day.",02-04-2025
+REV00715,CUST00126,PRD172,ORD001757,5,"Works exactly as described. Fragrance is mild and I could see results in two weeks. Delivery was on time. Five stars from me.",02-04-2025
+REV00716,CUST00035,PRD015,ORD001812,4,"Totally worth the price. Performance is smooth and the build quality feels solid.",03-04-2025
+REV00717,CUST00170,PRD143,ORD001738,4,"Good product at this price. Print quality and paper are good. Five stars from me.",03-04-2025
+REV00718,CUST00394,PRD058,ORD001815,3,"Not bad, not great. Fit is okay but the fabric is a bit thin.",04-04-2025
+REV00719,CUST00592,PRD078,ORD001805,5,"Bought it during the sale and it was a good deal. Colour is exactly as shown in the pictures. Using the Red Tape Men Casual Sneakers for three months now.",05-04-2025
+REV00720,CUST00035,PRD049,ORD001812,5,"Bahut accha laga, delivery bhi time pe aayi.",06-04-2025
+REV00721,CUST00292,PRD078,ORD001799,4,"Totally worth the price. Size chart was accurate and the quality is great. Stitching is neat and it is very comfortable to wear. Recommended to friends and family.",06-04-2025
+REV00722,CUST00427,PRD132,ORD001703,5,"Totally worth the price. Fantastic read with practical takeaways. Could not put it down, finished in two days. Using the Manjul Rich Dad Poor Dad for two weeks now.",06-04-2025
+REV00723,CUST00446,PRD077,ORD001801,3,"It's an okay product, does the job. Fit is okay but the fabric is a bit thin. Delivery was on time. Might consider alternatives next time.",07-04-2025
+REV00724,CUST00497,PRD175,ORD001810,4,"Totally worth the price. Suits my skin well with no irritation. Using the Oral-B Vitality Electric Toothbrush for two weeks now. Will buy again.",07-04-2025
+REV00726,CUST00397,PRD027,ORD001804,4,"Price ke hisaab se top class hai bhai.",11-04-2025
+REV00727,CUST00512,PRD138,ORD001797,2,"Very disappointed with this purchase. Book arrived with a torn cover. Content is nothing new and overpriced. Using the HarperCollins Think Like a Monk for two weeks now. Please improve quality control.",11-04-2025
+REV00728,CUST00338,PRD198,ORD001826,3,"Product is fine, but I expected a little more. Colour slightly different from the photos. Decent quality for the price. Might consider alternatives next time.",12-04-2025
+REV00729,CUST00466,PRD165,ORD001796,3,"Product is fine, but I expected a little more. Packaging could be better. Could be better.",13-04-2025
+REV00730,CUST00142,PRD086,ORD001825,5,"Works exactly as described. Suits my skin well with no irritation.",15-04-2025
+REV00731,CUST00329,PRD119,ORD001794,5,"Ekdum mast, sabko recommend karunga.",15-04-2025
+REV00732,CUST00061,PRD172,ORD001730,5,"Superb product, highly recommended. Suits my skin well with no irritation.",15-04-2025
+REV00733,CUST00170,PRD138,ORD001807,4,"Excellent quality! Insightful and easy to understand.",16-04-2025
+REV00734,CUST00025,PRD065,ORD001827,3,"Average experience overall. Fit is okay but the fabric is a bit thin. Colour slightly different from the photos. Delivered earlier than promised.",17-04-2025
+REV00735,CUST00251,PRD183,ORD001789,5,"Good product at this price. Fragrance is mild and I could see results in two weeks.",17-04-2025
+REV00736,CUST00556,PRD040,ORD001776,3,"Na zyada accha na bura, bas okay hai.",18-04-2025
+REV00737,CUST00424,PRD055,ORD001831,5,"Good product at this price. Fabric is soft and the fit is perfect. Five stars from me.",19-04-2025
+REV00738,CUST00608,PRD138,ORD001863,3,"Average experience overall. Good content but a bit repetitive in places. Delivery got delayed by 2 days.",19-04-2025
+REV00739,CUST00268,PRD037,ORD001836,5,"Packaging was neat and the product is genuine. Value for money is excellent compared to similar products. Using the Samsung Galaxy Tab A9+ 5G for a month now. Go for it!",21-04-2025
+REV00740,CUST00422,PRD041,ORD001856,3,"Mixed feelings about this one. Performance is okay but I expected a bit more at this price. Delivery got delayed by 3 days.",21-04-2025
+REV00741,CUST00287,PRD142,ORD001850,3,"Decent for the price but nothing special. Print quality is average. Good content but a bit repetitive in places. Might consider alternatives next time.",21-04-2025
+REV00743,CUST00605,PRD185,ORD001838,3,"Average experience overall. Works as advertised, though the accessories feel basic. Using the Samsung 25W Fast Charger for a month now. Delivery was on time. Could be better.",24-04-2025
+REV00745,CUST00615,PRD160,ORD001897,2,"Received a product that was not up to the mark. Quantity felt less than the pack size.",25-04-2025
+REV00746,CUST00613,PRD102,ORD001866,2,"Customer support was unhelpful. Assembly instructions are confusing and parts did not fit. Using the Havells Ceiling Fan 1200mm for a week now. Asked for a refund.",26-04-2025
+REV00747,CUST00604,PRD138,ORD001890,3,"Quality average hai, expect kuch aur kiya tha.",27-04-2025
+REV00748,CUST00599,PRD034,ORD001872,3,"It's an okay product, does the job. Battery life is average. Using the Canon EOS 1500D DSLR with 18-55mm Lens for a month now. Delivery got delayed by 1 day.",29-04-2025
+REV00750,CUST00269,PRD064,ORD001882,3,"It's an okay product, does the job. Fit is okay but the fabric is a bit thin. Could be better.",01-05-2025
+REV00751,CUST00616,PRD062,ORD001917,1,"Not worth the money. Fabric quality is poor and colour faded after the first wash. Do not buy.",02-05-2025
+REV00752,CUST00297,PRD164,ORD001928,5,"Bought it during the sale and it was a good deal. Delivered well sealed and fresh. Delivered earlier than promised. Highly recommended.",02-05-2025
+REV00753,CUST00107,PRD076,ORD001747,5,"Superb product, highly recommended. Size chart was accurate and the quality is great. Fabric is soft and the fit is perfect. Delivery was on time. Five stars from me.",04-05-2025
+REV00754,CUST00593,PRD078,ORD001769,4,"Totally worth the price. Stitching is neat and it is very comfortable to wear. Highly recommended.",04-05-2025
+REV00755,CUST00613,PRD092,ORD001866,3,"Decent for the price but nothing special. Decent product but assembly took time. Noise is a bit higher than expected. Delivery was on time.",04-05-2025
+REV00756,CUST00532,PRD154,ORD001904,4,"Totally worth the price. My kid loves it and plays with it daily. Colourful, safe and well made. Highly recommended.",04-05-2025
+REV00757,CUST00345,PRD044,ORD001934,4,"Great value for money. Performance is smooth and the build quality feels solid. Using the JBL Go 3 Portable Speaker for three months now. Will buy again.",05-05-2025
+REV00758,CUST00052,PRD104,ORD001895,3,"Not bad, not great. Noise is a bit higher than expected. Decent product but assembly took time. Using the Eureka Forbes Aquaguard Aura RO Water Purifier for two weeks now.",05-05-2025
+REV00759,CUST00467,PRD064,ORD001935,4,"Packaging was neat and the product is genuine. Size chart was accurate and the quality is great. Delivery was on time. Five stars from me.",06-05-2025
+REV00760,CUST00099,PRD078,ORD001946,4,"Bahut accha laga, delivery bhi time pe aayi.",06-05-2025
+REV00761,CUST00265,PRD058,ORD001942,2,"Very disappointed with this purchase. Size runs small, had to return. Looks nothing like the picture. Using the Biba Women Anarkali Kurta Set for two weeks now. Delivery was on time.",07-05-2025
+REV00762,CUST00490,PRD135,ORD001939,4,"Superb product, highly recommended. Print quality and paper are good. Insightful and easy to understand. Highly recommended.",07-05-2025
+REV00763,CUST00615,PRD074,ORD001897,3,"Not bad, not great. Colour slightly different from the photos. Fit is okay but the fabric is a bit thin.",08-05-2025
+REV00764,CUST00590,PRD183,ORD001896,3,"It's an okay product, does the job. Average product, packaging could be better. Fragrance is a bit strong for me.",08-05-2025
+REV00765,CUST00188,PRD015,ORD001954,3,"Na zyada accha na bura, bas okay hai.",09-05-2025
+REV00766,CUST00078,PRD145,ORD001860,3,"Not bad, not great. Quality is okay for the price. Batteries are not included, which was disappointing. Delivery got delayed by 2 days.",09-05-2025
+REV00767,CUST00418,PRD078,ORD001916,4,"Absolutely love this purchase. Size chart was accurate and the quality is great. Colour is exactly as shown in the pictures. Delivery was on time.",10-05-2025
+REV00768,CUST00132,PRD091,ORD001919,5,"Packaging was neat and the product is genuine. Fragrance is mild and I could see results in two weeks. Texture is lightweight and non-sticky.",11-05-2025
+REV00769,CUST00330,PRD134,ORD001955,5,"Packaging was neat and the product is genuine. Insightful and easy to understand.",11-05-2025
+REV00770,CUST00347,PRD061,ORD001874,3,"Product is fine, but I expected a little more. Decent quality for the price. Using the Adidas Men Training Track Pants for two weeks now. Could be better.",12-05-2025
+REV00771,CUST00307,PRD058,ORD001918,3,"It's an okay product, does the job. Colour slightly different from the photos. Decent quality for the price. Might consider alternatives next time.",13-05-2025
+REV00772,CUST00020,PRD069,ORD001909,4,"Works exactly as described. Colour is exactly as shown in the pictures. Stitching is neat and it is very comfortable to wear. Highly recommended.",13-05-2025
+REV00773,CUST00364,PRD064,ORD001990,5,"Superb product, highly recommended. Size chart was accurate and the quality is great. Using the Wrangler Men Regular Fit Jeans for two weeks now. Five stars from me.",14-05-2025
+REV00774,CUST00614,PRD163,ORD002008,5,"Superb product, highly recommended. Fresh stock with a long expiry date.",18-05-2025
+REV00775,CUST00297,PRD027,ORD001982,4,"Superb product, highly recommended. Battery life is great and it charges quickly. Performance is smooth and the build quality feels solid. Using the LG 55-inch 4K UHD Smart TV for three months now. Delivery was on time. Highly recommended.",19-05-2025
+REV00776,CUST00071,PRD135,ORD001883,3,"Not bad, not great. Decent read, expected more depth. Good content but a bit repetitive in places. Using the Universities Press Wings of Fire for a week now. Delivered earlier than promised.",19-05-2025
+REV00777,CUST00490,PRD163,ORD001939,4,"Totally worth the price. Quality is same as the store and packaging was secure. Five stars from me.",19-05-2025
+REV00778,CUST00186,PRD167,ORD001948,5,"Works exactly as described. Fresh stock with a long expiry date.",19-05-2025
+REV00779,CUST00149,PRD195,ORD001998,4,"Packaging was neat and the product is genuine. Looks premium and feels well built. Value for money is excellent compared to similar products. Using the SanDisk Ultra 128GB microSD Card for three months now. Delivery got delayed by 1 day. Five stars from me.",19-05-2025
+REV00780,CUST00527,PRD045,ORD002016,3,"Mixed feelings about this one. Works as advertised, though the accessories feel basic. Using the Sony WH-1000XM5 Noise Cancelling Headphones for two weeks now.",21-05-2025
+REV00781,CUST00260,PRD078,ORD002000,4,"Bought it during the sale and it was a good deal. Size chart was accurate and the quality is great. Stitching is neat and it is very comfortable to wear.",24-05-2025
+REV00782,CUST00102,PRD185,ORD001989,5,"Bought it during the sale and it was a good deal. Looks premium and feels well built. Delivery got delayed by 3 days.",24-05-2025
+REV00783,CUST00363,PRD164,ORD001977,5,"Great value for money. Quality is same as the store and packaging was secure. Delivery was on time.",25-05-2025
+REV00784,CUST00527,PRD147,ORD002016,5,"Very happy with this. My kid loves it and plays with it daily. Five stars from me.",26-05-2025
+REV00785,CUST00134,PRD191,ORD001973,4,"Excellent quality! Performance is smooth and the build quality feels solid. Battery life is great and it charges quickly.",26-05-2025
+REV00786,CUST00624,PRD034,ORD002024,2,"Not worth the money. Stopped working within a month and service centre response was slow. The product does not match the specifications on the listing. Do not buy.",28-05-2025
+REV00787,CUST00418,PRD040,ORD001870,3,"It's an okay product, does the job. Works as advertised, though the accessories feel basic. Delivery got delayed by 3 days. Could be better.",28-05-2025
+REV00788,CUST00437,PRD064,ORD002032,3,"It's an okay product, does the job. Fit is okay but the fabric is a bit thin.",28-05-2025
+REV00789,CUST00127,PRD198,ORD001958,3,"Mixed feelings about this one. Decent quality for the price. Fit is okay but the fabric is a bit thin. Might consider alternatives next time.",28-05-2025
+REV00790,CUST00573,PRD062,ORD001902,3,"Average experience overall. Colour slightly different from the photos. Could be better.",29-05-2025
+REV00792,CUST00262,PRD058,ORD001951,3,"Decent for the price but nothing special. Fit is okay but the fabric is a bit thin. Colour slightly different from the photos.",01-06-2025
+REV00793,CUST00510,PRD088,ORD001891,5,"Packaging was neat and the product is genuine. Texture is lightweight and non-sticky. Suits my skin well with no irritation. Will buy again.",01-06-2025
+REV00794,CUST00061,PRD103,ORD001975,4,"Very happy with this. Very sturdy and does the job perfectly. Installation team was prompt and professional. Will buy again.",01-06-2025
+REV00795,CUST00533,PRD190,ORD001988,4,"Good product at this price. Performance is smooth and the build quality feels solid. Using the Wildcraft Laptop Backpack 35L for three months now. Delivery was on time.",01-06-2025
+REV00796,CUST00523,PRD026,ORD001999,3,"Product is fine, but I expected a little more. Build quality is fine, nothing exceptional. Battery life is average. Using the Lenovo ThinkPad E14 for two weeks now. Delivery got delayed by 2 days.",03-06-2025
+REV00797,CUST00627,PRD061,ORD002052,1,"Not worth the money. Size runs small, had to return. Fabric quality is poor and colour faded after the first wash. Delivery got delayed by 2 days. Do not buy.",03-06-2025
+REV00798,CUST00061,PRD183,ORD001975,4,"Excellent quality! Suits my skin well with no irritation. Long lasting and gives good coverage. Five stars from me.",04-06-2025
+REV00799,CUST00451,PRD099,ORD002059,5,"Packaging was neat and the product is genuine. Very sturdy and does the job perfectly. Easy to clean and looks good at home. Delivered earlier than promised. Go for it!",05-06-2025
+REV00800,CUST00363,PRD044,ORD001977,5,"Paisa vasool product! Quality bahut badhiya hai.",06-06-2025
+REV00801,CUST00186,PRD065,ORD001948,4,"Excellent quality! Size chart was accurate and the quality is great. Stitching is neat and it is very comfortable to wear. Five stars from me.",07-06-2025
+REV00802,CUST00407,PRD078,ORD001949,3,"Mixed feelings about this one. Colour slightly different from the photos. Decent quality for the price. Okay for the price.",07-06-2025
+REV00803,CUST00450,PRD190,ORD002067,3,"Product is fine, but I expected a little more. Build quality is fine, nothing exceptional.",07-06-2025
+REV00804,CUST00007,PRD158,ORD001960,4,"Packaging was neat and the product is genuine. Delivered well sealed and fresh. Great price for the pack size. Using the Aashirvaad Whole Wheat Atta 10kg for a month now. Will buy again.",08-06-2025
+REV00805,CUST00450,PRD064,ORD002043,4,"Excellent quality! Fabric is soft and the fit is perfect. Colour is exactly as shown in the pictures. Using the Wrangler Men Regular Fit Jeans for a week now. Delivery was on time. Will buy again.",10-06-2025
+REV00806,CUST00021,PRD079,ORD002086,5,"Bought it during the sale and it was a good deal. Long lasting and gives good coverage. Go for it!",10-06-2025
+REV00807,CUST00640,PRD185,ORD002060,4,"Absolutely love this purchase. Battery life is great and it charges quickly. Using the Samsung 25W Fast Charger for two weeks now.",11-06-2025
+REV00808,CUST00107,PRD184,ORD001940,5,"Great value for money. Looks premium and feels well built. Value for money is excellent compared to similar products. Delivery was on time. Will buy again.",12-06-2025
+REV00809,CUST00634,PRD014,ORD002040,4,"Totally worth the price. Performance is smooth and the build quality feels solid. Highly recommended.",13-06-2025
+REV00810,CUST00020,PRD187,ORD002011,5,"Works exactly as described. Value for money is excellent compared to similar products.",13-06-2025
+REV00811,CUST00149,PRD043,ORD001998,4,"Totally worth the price. Value for money is excellent compared to similar products. Delivery was on time. Recommended to friends and family.",14-06-2025
+REV00812,CUST00129,PRD049,ORD002076,5,"Superb product, highly recommended. Value for money is excellent compared to similar products. Using the Samsung Galaxy Buds2 Pro for a month now.",14-06-2025
+REV00813,CUST00291,PRD129,ORD002042,3,"Product is fine, but I expected a little more. Does the job for casual use.",15-06-2025
+REV00814,CUST00639,PRD140,ORD002072,5,"Ekdum mast, sabko recommend karunga.",15-06-2025
+REV00815,CUST00643,PRD080,ORD002088,5,"Excellent quality! Long lasting and gives good coverage. Will buy again.",16-06-2025
+REV00816,CUST00374,PRD142,ORD002023,2,"Customer support was unhelpful. Book arrived with a torn cover. Delivery was on time. Please improve quality control.",16-06-2025
+REV00817,CUST00142,PRD169,ORD002100,5,"Good product at this price. Fresh stock with a long expiry date. Delivery got delayed by 1 day.",16-06-2025
+REV00819,CUST00306,PRD175,ORD002078,4,"Good product at this price. Texture is lightweight and non-sticky. Fragrance is mild and I could see results in two weeks. Delivered earlier than promised. Will buy again.",17-06-2025
+REV00820,CUST00094,PRD193,ORD002085,5,"Bought it during the sale and it was a good deal. Performance is smooth and the build quality feels solid.",17-06-2025
+REV00821,CUST00040,PRD175,ORD002015,3,"Average experience overall. Average product, packaging could be better. Using the Oral-B Vitality Electric Toothbrush for a week now. Delivery was on time. Okay for the price.",18-06-2025
+REV00822,CUST00304,PRD133,ORD002075,2,"Not worth the money. Looks like a pirated copy. Pages are poorly printed and the binding is loose. Using the Penguin Ikigai for two weeks now. Delivery got delayed by 5 days.",20-06-2025
+REV00823,CUST00067,PRD142,ORD002124,3,"Product is fine, but I expected a little more. Print quality is average. Decent read, expected more depth. Using the Oxford Advanced Learner's Dictionary for a month now. Delivery was on time.",20-06-2025
+REV00824,CUST00633,PRD195,ORD002113,4,"Excellent quality! Looks premium and feels well built. Performance is smooth and the build quality feels solid. Highly recommended.",20-06-2025
+REV00825,CUST00184,PRD023,ORD002132,5,"Bought it during the sale and it was a good deal. Value for money is excellent compared to similar products. Highly recommended.",21-06-2025
+REV00826,CUST00007,PRD195,ORD002094,4,"Superb product, highly recommended. Performance is smooth and the build quality feels solid. Setup was easy and it works flawlessly. Delivery got delayed by 1 day.",21-06-2025
+REV00827,CUST00635,PRD066,ORD002051,4,"Absolutely love this purchase. Fabric is soft and the fit is perfect. Using the Nike Revolution 7 Running Shoes for a week now.",22-06-2025
+REV00829,CUST00647,PRD041,ORD002119,5,"Works exactly as described. Battery life is great and it charges quickly. Delivery was on time.",23-06-2025
+REV00831,CUST00149,PRD064,ORD002128,4,"Ekdum mast, sabko recommend karunga.",24-06-2025
+REV00832,CUST00308,PRD101,ORD002123,4,"Ekdum mast, sabko recommend karunga.",24-06-2025
+REV00833,CUST00268,PRD147,ORD002107,3,"It's an okay product, does the job. Quality is okay for the price. Kids liked it but it is a bit small.",25-06-2025
+REV00834,CUST00641,PRD064,ORD002099,4,"Superb product, highly recommended. Size chart was accurate and the quality is great. Using the Wrangler Men Regular Fit Jeans for a week now.",26-06-2025
+REV00835,CUST00540,PRD093,ORD002146,5,"Good product at this price. Installation team was prompt and professional. Great quality for the price. Recommended to friends and family.",26-06-2025
+REV00836,CUST00131,PRD198,ORD002127,4,"Good product at this price. Fabric is soft and the fit is perfect. Colour is exactly as shown in the pictures.",26-06-2025
+REV00837,CUST00067,PRD138,ORD002124,4,"Price ke hisaab se top class hai bhai.",27-06-2025
+REV00838,CUST00251,PRD191,ORD002026,4,"Totally worth the price. Battery life is great and it charges quickly. Value for money is excellent compared to similar products. Using the American Tourister Casual Backpack for a week now. Highly recommended.",27-06-2025
+REV00839,CUST00060,PRD165,ORD002021,5,"Works exactly as described. Great price for the pack size. Will buy again.",28-06-2025
+REV00840,CUST00309,PRD199,ORD002102,5,"Superb product, highly recommended. Colour is exactly as shown in the pictures. Stitching is neat and it is very comfortable to wear. Delivered earlier than promised.",30-06-2025
+REV00842,CUST00176,PRD078,ORD002045,3,"Average experience overall. Fit is okay but the fabric is a bit thin. Might consider alternatives next time.",01-07-2025
+REV00843,CUST00534,PRD079,ORD002118,5,"Totally worth the price. Fragrance is mild and I could see results in two weeks. Highly recommended.",01-07-2025
+REV00844,CUST00002,PRD057,ORD002140,3,"Product is fine, but I expected a little more. Fit is okay but the fabric is a bit thin. Delivered earlier than promised.",02-07-2025
+REV00845,CUST00109,PRD181,ORD002141,5,"Excellent quality! Long lasting and gives good coverage. Suits my skin well with no irritation. Using the Pears Pure & Gentle Soap for a month now. Delivered earlier than promised. Highly recommended.",02-07-2025
+REV00846,CUST00021,PRD007,ORD002086,4,"Good product at this price. Looks premium and feels well built.",05-07-2025
+REV00847,CUST00495,PRD194,ORD002183,3,"Product is fine, but I expected a little more. Build quality is fine, nothing exceptional. Works as advertised, though the accessories feel basic. Okay for the price.",05-07-2025
+REV00848,CUST00091,PRD029,ORD002165,5,"Great value for money. Value for money is excellent compared to similar products. Five stars from me.",06-07-2025
+REV00849,CUST00002,PRD079,ORD002133,3,"It's an okay product, does the job. Fragrance is a bit strong for me. Delivery was on time.",07-07-2025
+REV00850,CUST00575,PRD183,ORD002087,3,"Decent for the price but nothing special. Works okay but results are not dramatic. Delivered earlier than promised. Okay for the price.",07-07-2025
+REV00851,CUST00182,PRD053,ORD002210,5,"Superb product, highly recommended. Fabric is soft and the fit is perfect. Go for it!",10-07-2025
+REV00852,CUST00345,PRD070,ORD002160,5,"Totally worth the price. Colour is exactly as shown in the pictures. Stitching is neat and it is very comfortable to wear. Using the Puma Smash V2 Sneakers for three months now. Delivered earlier than promised. Will buy again.",10-07-2025
+REV00853,CUST00633,PRD138,ORD002113,4,"Bought it during the sale and it was a good deal. Fantastic read with practical takeaways. Print quality and paper are good. Using the HarperCollins Think Like a Monk for a month now. Highly recommended.",10-07-2025
+REV00854,CUST00556,PRD194,ORD002182,5,"Very happy with this. Setup was easy and it works flawlessly.",11-07-2025
+REV00855,CUST00369,PRD063,ORD002164,5,"Works exactly as described. Stitching is neat and it is very comfortable to wear. Size chart was accurate and the quality is great. Highly recommended.",12-07-2025
+REV00856,CUST00262,PRD065,ORD002195,3,"Decent for the price but nothing special. Colour slightly different from the photos. Okay for the price.",12-07-2025
+REV00857,CUST00665,PRD078,ORD002197,1,"Very disappointed with this purchase. Stitching came off within a week. Size runs small, had to return. Delivery got delayed by 6 days.",12-07-2025
+REV00859,CUST00667,PRD088,ORD002209,5,"Very happy with this. Texture is lightweight and non-sticky. Using the WOW Skin Science Apple Cider Vinegar Shampoo 300ml for two weeks now. Highly recommended.",13-07-2025
+REV00860,CUST00665,PRD182,ORD002197,2,"Received a product that was not up to the mark. Caused breakouts on my skin. Delivery got delayed by 6 days.",14-07-2025
+REV00861,CUST00046,PRD082,ORD002167,4,"Good product at this price. Suits my skin well with no irritation. Fragrance is mild and I could see results in two weeks. Using the Mamaearth Vitamin C Face Wash 100ml for a week now.",15-07-2025
+REV00862,CUST00181,PRD164,ORD002199,4,"Excellent quality! Delivered well sealed and fresh. Delivered earlier than promised.",15-07-2025
+REV00863,CUST00203,PRD193,ORD002213,3,"Not bad, not great. Build quality is fine, nothing exceptional. Performance is okay but I expected a bit more at this price. Okay for the price.",16-07-2025
+REV00864,CUST00091,PRD146,ORD002165,5,"Good product at this price. Good quality and kept the kids busy for hours.",18-07-2025
+REV00865,CUST00670,PRD058,ORD002250,3,"Decent for the price but nothing special. Colour slightly different from the photos.",20-07-2025
+REV00866,CUST00650,PRD182,ORD002137,2,"Customer support was unhelpful. Seal was broken when it arrived. Product seems diluted and has no effect. Delivery got delayed by 6 days. Waste of money.",20-07-2025
+REV00867,CUST00032,PRD001,ORD002171,5,"Absolutely love this purchase. Setup was easy and it works flawlessly. Battery life is great and it charges quickly.",21-07-2025
+REV00868,CUST00176,PRD182,ORD002234,4,"Totally worth the price. Suits my skin well with no irritation. Long lasting and gives good coverage. Using the Head & Shoulders Cool Menthol Shampoo 650ml for a week now. Delivery was on time.",21-07-2025
+REV00869,CUST00155,PRD077,ORD002200,4,"Very happy with this. Stitching is neat and it is very comfortable to wear. Delivered earlier than promised.",23-07-2025
+REV00870,CUST00150,PRD198,ORD002178,3,"Not bad, not great. Fit is okay but the fabric is a bit thin. Decent quality for the price.",23-07-2025
+REV00871,CUST00495,PRD078,ORD002183,5,"Very happy with this. Size chart was accurate and the quality is great. Five stars from me.",25-07-2025
+REV00872,CUST00642,PRD138,ORD002105,3,"Not bad, not great. Good content but a bit repetitive in places. Print quality is average. Delivery was on time. Okay for the price.",25-07-2025
+REV00873,CUST00676,PRD187,ORD002265,5,"Excellent quality! Setup was easy and it works flawlessly. Using the Xiaomi Mi Power Bank 3i 20000mAh for three months now. Recommended to friends and family.",26-07-2025
+REV00874,CUST00495,PRD087,ORD002251,3,"Product is fine, but I expected a little more. Average product, packaging could be better. Using the Dot & Key Watermelon Cooling Gel Moisturizer for a week now. Okay for the price.",27-07-2025
+REV00875,CUST00174,PRD148,ORD002262,3,"Mixed feelings about this one. Kids liked it but it is a bit small. Using the Funskool Scrabble Board Game for a month now. Delivery got delayed by 1 day. Could be better.",27-07-2025
+REV00876,CUST00322,PRD021,ORD002253,5,"Bought it during the sale and it was a good deal. Performance is smooth and the build quality feels solid. Five stars from me.",28-07-2025
+REV00877,CUST00662,PRD078,ORD002229,2,"Very disappointed with this purchase. Size runs small, had to return. Delivery got delayed by 3 days. Asked for a refund.",28-07-2025
+REV00878,CUST00556,PRD121,ORD002289,5,"Packaging was neat and the product is genuine. Good quality and the weight is balanced. Comfortable to use for long sessions. Will buy again.",28-07-2025
+REV00879,CUST00613,PRD138,ORD002201,5,"Bought it during the sale and it was a good deal. Could not put it down, finished in two days. Will buy again.",28-07-2025
+REV00880,CUST00269,PRD003,ORD002214,5,"Bought it during the sale and it was a good deal. Battery life is great and it charges quickly. Delivery was on time. Five stars from me.",29-07-2025
+REV00882,CUST00348,PRD143,ORD002261,3,"Na zyada accha na bura, bas okay hai.",30-07-2025
+REV00883,CUST00174,PRD147,ORD002262,3,"Decent for the price but nothing special. Batteries are not included, which was disappointing. Quality is okay for the price. Delivery got delayed by 1 day.",31-07-2025
+REV00884,CUST00234,PRD190,ORD002175,3,"Product is fine, but I expected a little more. Performance is okay but I expected a bit more at this price. Delivery was on time.",01-08-2025
+REV00885,CUST00081,PRD147,ORD002295,4,"Very happy with this. Great gift for a birthday. Go for it!",02-08-2025
+REV00886,CUST00019,PRD135,ORD002219,4,"Great value for money. Print quality and paper are good.",03-08-2025
+REV00887,CUST00068,PRD138,ORD002177,3,"Mixed feelings about this one. Print quality is average. Decent read, expected more depth. Delivery got delayed by 3 days. Okay for the price.",03-08-2025
+REV00888,CUST00369,PRD036,ORD002153,4,"Very happy with this. Value for money is excellent compared to similar products. Using the TP-Link Archer C6 AC1200 Wi-Fi Router for a month now. Delivery got delayed by 1 day. Recommended to friends and family.",04-08-2025
+REV00889,CUST00081,PRD086,ORD002295,4,"Excellent quality! Suits my skin well with no irritation. Long lasting and gives good coverage.",04-08-2025
+REV00890,CUST00386,PRD049,ORD002301,4,"Good product at this price. Battery life is great and it charges quickly. Looks premium and feels well built. Using the Samsung Galaxy Buds2 Pro for a week now. Recommended to friends and family.",05-08-2025
+REV00891,CUST00128,PRD006,ORD002306,4,"Price ke hisaab se top class hai bhai.",06-08-2025
+REV00892,CUST00302,PRD186,ORD002280,4,"Very happy with this. Battery life is great and it charges quickly. Delivery was on time.",06-08-2025
+REV00893,CUST00496,PRD006,ORD002254,3,"Average experience overall. Battery life is average. Using the OnePlus 12R 5G for a month now. Might consider alternatives next time.",08-08-2025
+REV00894,CUST00363,PRD027,ORD002258,4,"Absolutely love this purchase. Value for money is excellent compared to similar products. Setup was easy and it works flawlessly.",08-08-2025
+REV00895,CUST00649,PRD142,ORD002320,2,"Bilkul bekar product hai, paisa barbaad.",08-08-2025
+REV00896,CUST00682,PRD064,ORD002325,2,"Not worth the money. Size runs small, had to return.",10-08-2025
+REV00897,CUST00081,PRD143,ORD002295,4,"Absolutely love this purchase. Print quality and paper are good. Could not put it down, finished in two days. Using the Wiley Data Science for Business for two weeks now.",12-08-2025
+REV00898,CUST00069,PRD131,ORD002307,4,"Superb product, highly recommended. Insightful and easy to understand. Fantastic read with practical takeaways. Delivery was on time.",13-08-2025
+REV00899,CUST00130,PRD169,ORD002324,4,"Bought it during the sale and it was a good deal. Great price for the pack size. Delivered well sealed and fresh. Using the Britannia Good Day Cashew Cookies for two weeks now. Delivery got delayed by 2 days. Five stars from me.",13-08-2025
+REV00900,CUST00678,PRD007,ORD002285,5,"Superb product, highly recommended. Value for money is excellent compared to similar products. Looks premium and feels well built.",14-08-2025
+REV00901,CUST00645,PRD183,ORD002259,3,"Decent for the price but nothing special. Works okay but results are not dramatic. Fragrance is a bit strong for me. Could be better.",14-08-2025
+REV00902,CUST00328,PRD008,ORD002348,5,"Superb product, highly recommended. Setup was easy and it works flawlessly. Using the Xiaomi Redmi 13C 5G for a month now.",15-08-2025
+REV00903,CUST00352,PRD041,ORD002333,3,"It's an okay product, does the job. Battery life is average. Delivery got delayed by 2 days. Could be better.",15-08-2025
+REV00904,CUST00479,PRD015,ORD002326,4,"Excellent quality! Battery life is great and it charges quickly. Performance is smooth and the build quality feels solid. Recommended to friends and family.",16-08-2025
+REV00905,CUST00130,PRD015,ORD002324,4,"Very happy with this. Setup was easy and it works flawlessly. Battery life is great and it charges quickly. Five stars from me.",16-08-2025
+REV00906,CUST00248,PRD137,ORD002346,5,"Packaging was neat and the product is genuine. Print quality and paper are good. Delivery was on time. Go for it!",16-08-2025
+REV00907,CUST00679,PRD054,ORD002368,2,"Dobara kabhi nahi lunga, bahut disappointed hoon.",17-08-2025
+REV00908,CUST00597,PRD065,ORD002352,3,"Average experience overall. Decent quality for the price. Delivery got delayed by 1 day. Might consider alternatives next time.",17-08-2025
+REV00909,CUST00079,PRD135,ORD002298,4,"Very happy with this. Insightful and easy to understand. Could not put it down, finished in two days. Using the Universities Press Wings of Fire for a month now. Five stars from me.",17-08-2025
+REV00910,CUST00058,PRD078,ORD002388,3,"Not bad, not great. Decent quality for the price. Colour slightly different from the photos. Using the Red Tape Men Casual Sneakers for a month now. Delivery was on time.",18-08-2025
+REV00911,CUST00144,PRD093,ORD002366,5,"Packaging was neat and the product is genuine. Very sturdy and does the job perfectly. Delivery was on time.",18-08-2025
+REV00912,CUST00513,PRD148,ORD002338,3,"Not bad, not great. Batteries are not included, which was disappointing. Kids liked it but it is a bit small.",18-08-2025
+REV00913,CUST00498,PRD184,ORD002255,5,"Absolutely love this purchase. Value for money is excellent compared to similar products. Setup was easy and it works flawlessly. Will buy again.",18-08-2025
+REV00914,CUST00534,PRD015,ORD002355,2,"Very disappointed with this purchase. Battery drains very quickly. Delivery got delayed by 1 day. Will not buy again.",19-08-2025
+REV00915,CUST00418,PRD059,ORD002351,1,"Really regret buying this. Fabric quality is poor and colour faded after the first wash. Using the Fabindia Men Cotton Kurta for a week now. Delivery got delayed by 3 days.",19-08-2025
+REV00916,CUST00665,PRD062,ORD002316,3,"It's an okay product, does the job. Decent quality for the price. Delivery got delayed by 3 days. Could be better.",19-08-2025
+REV00917,CUST00691,PRD078,ORD002415,4,"Great value for money. Fabric is soft and the fit is perfect. Size chart was accurate and the quality is great. Five stars from me.",19-08-2025
+REV00918,CUST00461,PRD036,ORD002299,5,"Totally worth the price. Value for money is excellent compared to similar products. Setup was easy and it works flawlessly. Will buy again.",20-08-2025
+REV00919,CUST00204,PRD138,ORD002426,5,"Excellent quality! Could not put it down, finished in two days. Fantastic read with practical takeaways.",20-08-2025
+REV00920,CUST00512,PRD084,ORD002376,4,"Works exactly as described. Long lasting and gives good coverage.",21-08-2025
+REV00921,CUST00248,PRD130,ORD002346,5,"Packaging was neat and the product is genuine. Great grip and very durable. Delivered earlier than promised. Highly recommended.",21-08-2025
+REV00922,CUST00685,PRD164,ORD002394,5,"Excellent quality! Fresh stock with a long expiry date. Great price for the pack size. Delivery was on time. Five stars from me.",21-08-2025
+REV00923,CUST00649,PRD024,ORD002320,3,"Decent for the price but nothing special. Works as advertised, though the accessories feel basic. Delivery got delayed by 1 day. Could be better.",22-08-2025
+REV00924,CUST00536,PRD078,ORD002364,3,"Decent for the price but nothing special. Fit is okay but the fabric is a bit thin. Using the Red Tape Men Casual Sneakers for two weeks now. Delivery got delayed by 3 days. Might consider alternatives next time.",22-08-2025
+REV00925,CUST00437,PRD084,ORD002208,5,"Superb product, highly recommended. Long lasting and gives good coverage. Fragrance is mild and I could see results in two weeks. Using the Minimalist 10% Vitamin C Face Serum 30ml for three months now. Recommended to friends and family.",22-08-2025
+REV00926,CUST00388,PRD138,ORD002328,4,"Superb product, highly recommended. Could not put it down, finished in two days. Print quality and paper are good.",22-08-2025
+REV00927,CUST00388,PRD035,ORD002395,3,"Not bad, not great. Build quality is fine, nothing exceptional. Delivery was on time. Might consider alternatives next time.",23-08-2025
+REV00928,CUST00615,PRD078,ORD002340,5,"Bought it during the sale and it was a good deal. Colour is exactly as shown in the pictures. Stitching is neat and it is very comfortable to wear. Five stars from me.",23-08-2025
+REV00929,CUST00128,PRD103,ORD002371,5,"Packaging was neat and the product is genuine. Installation team was prompt and professional. Delivery was on time.",23-08-2025
+REV00930,CUST00679,PRD143,ORD002368,2,"Very disappointed with this purchase. Pages are poorly printed and the binding is loose.",24-08-2025
+REV00931,CUST00256,PRD158,ORD002374,3,"Decent for the price but nothing special. Price is slightly higher than the local store. Delivery got delayed by 3 days. Could be better.",24-08-2025
+REV00932,CUST00290,PRD192,ORD002367,5,"Excellent quality! Battery life is great and it charges quickly. Highly recommended.",24-08-2025
+REV00933,CUST00685,PRD079,ORD002394,5,"Works exactly as described. Texture is lightweight and non-sticky. Using the Lakme 9to5 Primer + Matte Lipstick for a week now. Go for it!",25-08-2025
+REV00934,CUST00117,PRD145,ORD002411,4,"Packaging was neat and the product is genuine. My kid loves it and plays with it daily.",25-08-2025
+REV00935,CUST00693,PRD195,ORD002428,4,"Bought it during the sale and it was a good deal. Value for money is excellent compared to similar products. Go for it!",25-08-2025
+REV00936,CUST00418,PRD135,ORD002351,2,"Quality is much below expectations. Pages are poorly printed and the binding is loose. Content is nothing new and overpriced. Delivery got delayed by 3 days. Will not buy again.",26-08-2025
+REV00937,CUST00174,PRD175,ORD002398,4,"Ekdum mast, sabko recommend karunga.",26-08-2025
+REV00938,CUST00121,PRD187,ORD002439,5,"Superb product, highly recommended. Value for money is excellent compared to similar products. Using the Xiaomi Mi Power Bank 3i 20000mAh for three months now. Delivered earlier than promised. Five stars from me.",26-08-2025
+REV00939,CUST00170,PRD006,ORD002422,3,"Not bad, not great. Battery life is average. Might consider alternatives next time.",27-08-2025
+REV00940,CUST00693,PRD114,ORD002428,5,"Great value for money. Easy to clean and looks good at home. Very sturdy and does the job perfectly. Using the Green Soul Ergonomic Mesh Office Chair for two weeks now.",27-08-2025
+REV00941,CUST00659,PRD152,ORD002443,4,"Bought it during the sale and it was a good deal. Great gift for a birthday. Using the Fisher-Price Rock-a-Stack Toy for three months now. Delivered earlier than promised. Go for it!",27-08-2025
+REV00942,CUST00293,PRD191,ORD002437,5,"Totally worth the price. Value for money is excellent compared to similar products.",28-08-2025
+REV00943,CUST00129,PRD079,ORD002447,5,"Paisa vasool product! Quality bahut badhiya hai.",29-08-2025
+REV00944,CUST00682,PRD097,ORD002362,3,"Mixed feelings about this one. Decent product but assembly took time. Okay for the price.",29-08-2025
+REV00945,CUST00439,PRD145,ORD002379,4,"Excellent quality! Colourful, safe and well made. Delivery got delayed by 1 day.",29-08-2025
+REV00946,CUST00289,PRD193,ORD002406,4,"Superb product, highly recommended. Setup was easy and it works flawlessly. Using the Titan Raga Women Analog Watch for a month now. Delivery got delayed by 1 day.",29-08-2025
+REV00947,CUST00555,PRD104,ORD002441,4,"Bought it during the sale and it was a good deal. Installation team was prompt and professional. Very sturdy and does the job perfectly.",30-08-2025
+REV00948,CUST00688,PRD145,ORD002466,4,"Very happy with this. My kid loves it and plays with it daily. Highly recommended.",30-08-2025
+REV00950,CUST00418,PRD183,ORD002405,3,"Not bad, not great. Average product, packaging could be better. Delivered earlier than promised.",30-08-2025
+REV00952,CUST00659,PRD131,ORD002384,4,"Excellent quality! Fantastic read with practical takeaways. Delivered earlier than promised.",01-09-2025
+REV00953,CUST00478,PRD167,ORD002444,5,"Very happy with this. Delivered well sealed and fresh. Quality is same as the store and packaging was secure. Delivery was on time. Go for it!",01-09-2025
+REV00954,CUST00694,PRD183,ORD002457,4,"Absolutely love this purchase. Long lasting and gives good coverage. Highly recommended.",01-09-2025
+REV00955,CUST00109,PRD048,ORD002455,4,"Great value for money. Value for money is excellent compared to similar products.",02-09-2025
+REV00956,CUST00555,PRD136,ORD002441,4,"Very happy with this. Fantastic read with practical takeaways. Using the Hachette Deep Work for three months now. Go for it!",02-09-2025
+REV00957,CUST00692,PRD041,ORD002456,5,"Works exactly as described. Battery life is great and it charges quickly. Setup was easy and it works flawlessly. Will buy again.",04-09-2025
+REV00959,CUST00302,PRD065,ORD002401,2,"Customer support was unhelpful. Looks nothing like the picture. Fabric quality is poor and colour faded after the first wash. Delivery got delayed by 1 day. Will not buy again.",04-09-2025
+REV00960,CUST00434,PRD080,ORD002463,5,"Price ke hisaab se top class hai bhai.",04-09-2025
+REV00961,CUST00681,PRD080,ORD002424,4,"Great value for money. Suits my skin well with no irritation. Fragrance is mild and I could see results in two weeks. Using the Maybelline Fit Me Matte Foundation for three months now. Recommended to friends and family.",04-09-2025
+REV00962,CUST00540,PRD122,ORD002433,4,"Price ke hisaab se top class hai bhai.",05-09-2025
+REV00963,CUST00439,PRD148,ORD002379,1,"Very disappointed with this purchase. Sharp edges, not safe for small children. A part broke on day one. Delivery got delayed by 1 day.",06-09-2025
+REV00964,CUST00562,PRD181,ORD002462,5,"Works exactly as described. Long lasting and gives good coverage. Fragrance is mild and I could see results in two weeks.",06-09-2025
+REV00965,CUST00673,PRD185,ORD002474,5,"Good product at this price. Value for money is excellent compared to similar products. Performance is smooth and the build quality feels solid.",07-09-2025
+REV00966,CUST00199,PRD180,ORD002427,4,"Bought it during the sale and it was a good deal. Fragrance is mild and I could see results in two weeks. Delivery got delayed by 1 day.",09-09-2025
+REV00967,CUST00369,PRD155,ORD002390,5,"Great value for money. Good quality and kept the kids busy for hours. Using the Ravensburger 1000 Piece Jigsaw Puzzle for a month now. Delivered earlier than promised.",10-09-2025
+REV00968,CUST00452,PRD032,ORD002392,5,"Superb product, highly recommended. Value for money is excellent compared to similar products. Five stars from me.",11-09-2025
+REV00969,CUST00321,PRD172,ORD002418,5,"Superb product, highly recommended. Fragrance is mild and I could see results in two weeks. Texture is lightweight and non-sticky. Using the Philips BT3231 Beard Trimmer for a month now. Delivered earlier than promised.",11-09-2025
+REV00970,CUST00613,PRD182,ORD002469,3,"Not bad, not great. Works okay but results are not dramatic. Average product, packaging could be better. Could be better.",11-09-2025
+REV00971,CUST00117,PRD076,ORD002334,5,"Ekdum mast, sabko recommend karunga.",12-09-2025
+REV00972,CUST00619,PRD138,ORD002458,4,"Very happy with this. Print quality and paper are good. Using the HarperCollins Think Like a Monk for a month now. Five stars from me.",12-09-2025
+REV00973,CUST00458,PRD185,ORD002515,4,"Customer support was unhelpful. Build quality feels cheap and there was a scratch on arrival. Do not buy.",13-09-2025
+REV00974,CUST00689,PRD180,ORD002525,5,"Absolutely love this purchase. Texture is lightweight and non-sticky. Long lasting and gives good coverage.",16-09-2025
+REV00975,CUST00347,PRD115,ORD002482,4,"Good product at this price. Very sturdy and does the job perfectly.",18-09-2025
+REV00976,CUST00479,PRD182,ORD002477,5,"Great value for money. Long lasting and gives good coverage. Recommended to friends and family.",18-09-2025
+REV00977,CUST00027,PRD143,ORD002414,4,"Good product at this price. Fantastic read with practical takeaways. Delivered earlier than promised.",19-09-2025
+REV00978,CUST00705,PRD146,ORD002512,5,"Totally worth the price. Good quality and kept the kids busy for hours.",19-09-2025
+REV00979,CUST00347,PRD194,ORD002482,4,"Superb product, highly recommended. Looks premium and feels well built. Recommended to friends and family.",19-09-2025
+REV00980,CUST00493,PRD145,ORD002519,5,"Great value for money. My kid loves it and plays with it daily. Colourful, safe and well made. Will buy again.",20-09-2025
+REV00981,CUST00634,PRD079,ORD002468,5,"Bought it during the sale and it was a good deal. Texture is lightweight and non-sticky. Suits my skin well with no irritation.",21-09-2025
+REV00982,CUST00131,PRD190,ORD002508,3,"Product is fine, but I expected a little more. Build quality is fine, nothing exceptional. Using the Wildcraft Laptop Backpack 35L for a week now.",21-09-2025
+REV00983,CUST00325,PRD129,ORD002478,5,"Superb product, highly recommended. Feels sturdy and perfect for daily workouts. Using the Speedo Endurance Swimwear for three months now.",22-09-2025
+REV00984,CUST00655,PRD178,ORD002434,2,"Quality is much below expectations. Smell is strange, not sure if it is genuine. Caused breakouts on my skin. Using the Nivea Men Deep Impact Face Wash 100ml for three months now. Delivery got delayed by 1 day. Please improve quality control.",22-09-2025
+REV00985,CUST00568,PRD180,ORD002472,3,"Na zyada accha na bura, bas okay hai.",22-09-2025
+REV00986,CUST00277,PRD003,ORD002539,4,"Absolutely love this purchase. Setup was easy and it works flawlessly. Will buy again.",26-09-2025
+REV00987,CUST00503,PRD195,ORD002586,5,"Bahut accha laga, delivery bhi time pe aayi.",26-09-2025
+REV00988,CUST00599,PRD156,ORD002475,3,"Average experience overall. Kids liked it but it is a bit small. Batteries are not included, which was disappointing.",27-09-2025
+REV00990,CUST00402,PRD080,ORD002497,5,"Quality is much below expectations. Product seems diluted and has no effect.",28-09-2025
+REV00991,CUST00513,PRD126,ORD002518,4,"Works exactly as described. Feels sturdy and perfect for daily workouts. Using the Adidas Pro Training Football for a week now. Recommended to friends and family.",28-09-2025
+REV00993,CUST00503,PRD190,ORD002586,4,"Paisa vasool product! Quality bahut badhiya hai.",28-09-2025
+REV00994,CUST00431,PRD049,ORD002562,3,"Decent for the price but nothing special. Build quality is fine, nothing exceptional. Delivery was on time.",29-09-2025
+REV00995,CUST00709,PRD167,ORD002572,5,"Excellent quality! Delivered well sealed and fresh. Delivered earlier than promised. Five stars from me.",29-09-2025
+REV00996,CUST00007,PRD053,ORD002538,4,"Very happy with this. Size chart was accurate and the quality is great. Using the Levi's 511 Slim Fit Jeans for two weeks now. Highly recommended.",30-09-2025
+REV00997,CUST00679,PRD015,ORD002589,5,"Excellent quality! Looks premium and feels well built. Value for money is excellent compared to similar products. Using the HP 15s for three months now. Highly recommended.",02-10-2025
+REV00998,CUST00066,PRD064,ORD002550,3,"Average experience overall. Colour slightly different from the photos. Using the Wrangler Men Regular Fit Jeans for three months now. Delivery got delayed by 4 days. Might consider alternatives next time.",02-10-2025
+REV00999,CUST00520,PRD136,ORD002509,5,"Superb product, highly recommended. Insightful and easy to understand. Fantastic read with practical takeaways. Will buy again.",02-10-2025
+REV01000,CUST00567,PRD138,ORD002552,4,"Works exactly as described. Print quality and paper are good.",02-10-2025
+REV01001,CUST00394,PRD131,ORD002542,3,"Not bad, not great. Decent read, expected more depth. Print quality is average. Using the Penguin Atomic Habits for three months now. Delivery was on time. Okay for the price.",03-10-2025
+REV01002,CUST00147,PRD146,ORD002452,4,"Good product at this price. Great gift for a birthday. My kid loves it and plays with it daily. Recommended to friends and family.",03-10-2025
+REV01003,CUST00710,PRD158,ORD002573,4,"Packaging was neat and the product is genuine. Quality is same as the store and packaging was secure. Fresh stock with a long expiry date.",04-10-2025
+REV01004,CUST00706,PRD041,ORD002543,5,"Great value for money. Performance is smooth and the build quality feels solid. Using the boAt Airdopes 141 True Wireless Earbuds for two weeks now. Delivery was on time. Recommended to friends and family.",05-10-2025
+REV01005,CUST00715,PRD058,ORD002635,5,"Bought it during the sale and it was a good deal. Fabric is soft and the fit is perfect. Stitching is neat and it is very comfortable to wear. Will buy again.",05-10-2025
+REV01006,CUST00712,PRD138,ORD002576,4,"Superb product, highly recommended. Insightful and easy to understand. Could not put it down, finished in two days. Using the HarperCollins Think Like a Monk for three months now. Delivery was on time. Go for it!",05-10-2025
+REV01007,CUST00153,PRD165,ORD002659,5,"Great value for money. Delivered well sealed and fresh. Quality is same as the store and packaging was secure.",05-10-2025
+REV01008,CUST00715,PRD171,ORD002635,5,"Totally worth the price. Texture is lightweight and non-sticky. Suits my skin well with no irritation.",05-10-2025
+REV01009,CUST00109,PRD049,ORD002544,5,"Good product at this price. Looks premium and feels well built. Performance is smooth and the build quality feels solid. Delivered earlier than promised. Will buy again.",06-10-2025
+REV01010,CUST00682,PRD083,ORD002570,2,"Quality is much below expectations. Seal was broken when it arrived. Delivery got delayed by 3 days. Waste of money.",06-10-2025
+REV01011,CUST00714,PRD148,ORD002606,3,"Average experience overall. Kids liked it but it is a bit small. Batteries are not included, which was disappointing.",06-10-2025
+REV01012,CUST00203,PRD190,ORD002535,2,"Really regret buying this. Stopped working within a month and service centre response was slow. Delivery got delayed by 4 days. Do not buy.",06-10-2025
+REV01013,CUST00092,PRD062,ORD002522,3,"Decent for the price but nothing special. Colour slightly different from the photos.",07-10-2025
+REV01014,CUST00556,PRD064,ORD002677,4,"Absolutely love this purchase. Colour is exactly as shown in the pictures. Size chart was accurate and the quality is great. Recommended to friends and family.",07-10-2025
+REV01015,CUST00719,PRD161,ORD002627,4,"Good product at this price. Fresh stock with a long expiry date.",07-10-2025
+REV01016,CUST00707,PRD195,ORD002647,5,"Very happy with this. Battery life is great and it charges quickly.",07-10-2025
+REV01017,CUST00415,PRD113,ORD002528,4,"Packaging was neat and the product is genuine. Installation team was prompt and professional. Recommended to friends and family.",08-10-2025
+REV01018,CUST00369,PRD194,ORD002625,5,"Price ke hisaab se top class hai bhai.",08-10-2025
+REV01021,CUST00142,PRD077,ORD002644,4,"Great value for money. Size chart was accurate and the quality is great.",10-10-2025
+REV01022,CUST00191,PRD079,ORD002642,4,"Very happy with this. Suits my skin well with no irritation. Texture is lightweight and non-sticky. Using the Lakme 9to5 Primer + Matte Lipstick for three months now.",10-10-2025
+REV01023,CUST00050,PRD084,ORD002655,5,"Ekdum mast, sabko recommend karunga.",10-10-2025
+REV01024,CUST00280,PRD097,ORD002489,3,"Mixed feelings about this one. Noise is a bit higher than expected. Delivery was on time. Okay for the price.",10-10-2025
+REV01025,CUST00409,PRD086,ORD002649,4,"Excellent quality! Texture is lightweight and non-sticky. Using the Himalaya Neem Face Wash 150ml for two weeks now.",11-10-2025
+REV01026,CUST00225,PRD140,ORD002734,5,"Works exactly as described. Could not put it down, finished in two days.",11-10-2025
+REV01027,CUST00703,PRD057,ORD002577,3,"Mixed feelings about this one. Fit is okay but the fabric is a bit thin. Could be better.",12-10-2025
+REV01028,CUST00269,PRD079,ORD002666,4,"Works exactly as described. Texture is lightweight and non-sticky. Delivery got delayed by 2 days. Five stars from me.",12-10-2025
+REV01029,CUST00210,PRD087,ORD002563,2,"Really regret buying this. Smell is strange, not sure if it is genuine. Seal was broken when it arrived. Delivery got delayed by 6 days.",12-10-2025
+REV01030,CUST00383,PRD109,ORD002679,5,"Absolutely love this purchase. Very sturdy and does the job perfectly. Delivery was on time. Recommended to friends and family.",12-10-2025
+REV01031,CUST00716,PRD109,ORD002617,5,"Very happy with this. Very sturdy and does the job perfectly.",12-10-2025
+REV01032,CUST00543,PRD090,ORD002645,5,"Totally worth the price. Texture is lightweight and non-sticky. Using the Biotique Bio Almond Oil Body Lotion for two weeks now. Delivery was on time. Go for it!",13-10-2025
+REV01033,CUST00649,PRD082,ORD002657,5,"Works exactly as described. Long lasting and gives good coverage. Delivery got delayed by 1 day.",14-10-2025
+REV01034,CUST00465,PRD065,ORD002772,3,"It's an okay product, does the job. Colour slightly different from the photos. Fit is okay but the fabric is a bit thin. Delivery was on time.",15-10-2025
+REV01036,CUST00710,PRD178,ORD002715,5,"Very happy with this. Fragrance is mild and I could see results in two weeks.",15-10-2025
+REV01037,CUST00625,PRD193,ORD002653,5,"Good product at this price. Setup was easy and it works flawlessly.",15-10-2025
+REV01038,CUST00345,PRD074,ORD002588,5,"Very happy with this. Stitching is neat and it is very comfortable to wear. Using the Woodland Men Leather Casual Boots for a month now.",16-10-2025
+REV01039,CUST00355,PRD024,ORD002556,5,"Superb product, highly recommended. Battery life is great and it charges quickly. Using the Apple MacBook Air M3 for a week now.",17-10-2025
+REV01040,CUST00731,PRD040,ORD002737,4,"Good product at this price. Setup was easy and it works flawlessly. Delivery was on time. Will buy again.",17-10-2025
+REV01041,CUST00027,PRD062,ORD002740,3,"It's an okay product, does the job. Fit is okay but the fabric is a bit thin. Delivery got delayed by 2 days. Might consider alternatives next time.",17-10-2025
+REV01043,CUST00191,PRD077,ORD002642,5,"Works exactly as described. Stitching is neat and it is very comfortable to wear. Using the Liberty Women Flat Sandals for three months now. Delivery was on time. Highly recommended.",17-10-2025
+REV01044,CUST00627,PRD078,ORD002718,3,"Product is fine, but I expected a little more. Decent quality for the price. Delivery got delayed by 2 days. Okay for the price.",17-10-2025
+REV01045,CUST00495,PRD162,ORD002703,5,"Bought it during the sale and it was a good deal. Fresh stock with a long expiry date. Recommended to friends and family.",17-10-2025
+REV01046,CUST00128,PRD192,ORD002719,5,"Excellent quality! Battery life is great and it charges quickly. Delivery was on time.",17-10-2025
+REV01047,CUST00073,PRD061,ORD002714,2,"Quality is much below expectations. Looks nothing like the picture.",18-10-2025
+REV01048,CUST00142,PRD041,ORD002680,2,"Quality is much below expectations. Build quality feels cheap and there was a scratch on arrival.",19-10-2025
+REV01049,CUST00534,PRD162,ORD002698,5,"Totally worth the price. Great price for the pack size.",19-10-2025

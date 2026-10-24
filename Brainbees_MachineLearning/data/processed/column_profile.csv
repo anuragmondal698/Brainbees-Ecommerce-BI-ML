@@ -1,0 +1,241 @@
+﻿object_name,object_type,row_count,column_name,data_type,null_count,null_percentage,distinct_values,sample_values,minimum,maximum
+dim_categories,table,15,Category_ID,str,0,0.0,15,CAT01 | CAT02 | CAT03,,
+dim_categories,table,15,Category_Name,str,0,0.0,15,Mobiles | Laptops | Electronics,,
+dim_categories,table,15,Department,str,0,0.0,7,Consumer Electronics | Consumer Electronics | Consumer Electronics,,
+dim_customers,table,937,Customer_ID,str,0,0.0,937,CUST00001 | CUST00002 | CUST00003,,
+dim_customers,table,937,First_Name,str,0,0.0,142,Vinod | Vishal | Vikram,,
+dim_customers,table,937,Last_Name,str,0,0.0,108,Nayak | Hazarika | Singh,,
+dim_customers,table,937,Gender,str,0,0.0,4,Male | Male | Male,,
+dim_customers,table,937,Date_of_Birth,str,0,0.0,883,30-11-1979 | 26-09-1982 | 25-12-1990,,
+dim_customers,table,937,City,str,0,0.0,25,Kolkata | Kolkata | Patna,,
+dim_customers,table,937,State,str,0,0.0,16,West Bengal | West Bengal | Bihar,,
+dim_customers,table,937,Customer_Segment,str,0,0.0,5,Regular | High Value | Regular,,
+dim_customers,table,937,Loyalty_Tier,str,0,0.0,4,Gold | Gold | Bronze,,
+dim_customers,table,937,Signup_Date,str,0,0.0,708,01-06-2021 | 14-06-2021 | 24-06-2021,,
+dim_customers,table,937,Email,str,0,0.0,929,vinod.nayak@gmail.com | vishal.hazarika9708@gmail.com | vikram.singh5969@gmail.com,,
+dim_customers,table,937,Phone,int64,0,0.0,932,9159005358 | 9326842051 | 9925768984,6083057275,9998718091
+dim_customers,table,937,Customer_Lifetime_Value,float64,0,0.0,834,131680.0 | 230949.0 | 19771.0,0.0,742953.0
+dim_products,table,193,Product_ID,str,0,0.0,193,PRD001 | PRD002 | PRD003,,
+dim_products,table,193,Product_Name,str,0,0.0,192,Samsung Galaxy S24 FE 5G (8GB/256GB) | Samsung Galaxy A15 5G (6GB/128GB) | Apple iPhone 15 (128GB),,
+dim_products,table,193,Category_ID,str,0,0.0,15,CAT01 | CAT01 | CAT01,,
+dim_products,table,193,Brand,str,0,0.0,145,Samsung | Samsung | Apple,,
+dim_products,table,193,Cost_Price,float64,0,0.0,190,48263.42 | 14172.92 | 57360.08,102.32,92736.75
+dim_products,table,193,Selling_Price,int64,0,0.0,162,53669 | 15679 | 60559,149,99739
+dim_products,table,193,MRP,int64,0,0.0,113,59999 | 17999 | 69900,168,114900
+dim_products,table,193,Product_Launch_Date,str,0,0.0,182,05-03-2024 | 12-10-2021 | 05-05-2020,,
+fact_order_items,table,9271,Order_Item_ID,str,0,0.0,9271,OI0000001 | OI0000002 | OI0000003,,
+fact_order_items,table,9271,Order_ID,str,0,0.0,5000,ORD000001 | ORD000001 | ORD000002,,
+fact_order_items,table,9271,Product_ID,str,0,0.0,200,PRD125 | PRD064 | PRD084,,
+fact_order_items,table,9271,Quantity,int64,0,0.0,12,1 | 1 | 1,1,24
+fact_order_items,table,9271,Unit_Price,int64,0,0.0,168,4559 | 2249 | 599,149,99739
+fact_order_items,table,9271,Discount_Amount,float64,0,0.0,780,0.0 | 0.0 | 59.9,0.0,11161.35
+fact_order_items,table,9271,Discount_Percentage,int64,0,0.0,6,0 | 0 | 10,0,25
+fact_order_items,table,9271,Line_Total,float64,0,0.0,1433,5106.08 | 2518.88 | 636.14,132.98,117692.02
+fact_order_items,table,9271,Profit_Amount,float64,0,0.0,1520,1348.83 | 987.32 | 196.61,-2971.65,10222.33
+fact_orders,table,4950,Order_ID,str,0,0.0,4950,ORD000001 | ORD000002 | ORD000003,,
+fact_orders,table,4950,Customer_ID,str,0,0.0,971,CUST00302 | CUST00167 | CUST00315,,
+fact_orders,table,4950,Order_Status,str,0,0.0,5,Delivered | Delivered | Delivered,,
+fact_orders,table,4950,Order_Channel,str,0,0.0,3,Mobile App | Mobile App | Website,,
+fact_orders,table,4950,Order_Total,float64,0,0.0,3586,7624.96 | 11293.09 | 6253.58,189.81,185170.32
+fact_orders,table,4950,Payment_Status,str,0,0.0,5,Successful | Successful | Successful,,
+fact_orders,table,4950,Order_Date,object,0,0.0,1054,2023-10-01 | 2023-10-03 | 2023-10-03,,
+fact_payments,table,5169,Payment_ID,str,0,0.0,5169,PAY000001 | PAY000002 | PAY000003,,
+fact_payments,table,5169,Order_ID,str,0,0.0,5000,ORD000001 | ORD000002 | ORD000003,,
+fact_payments,table,5169,Payment_Date,str,0,0.0,1057,01-10-2023 | 06-10-2023 | 03-10-2023,,
+fact_payments,table,5169,Payment_Method,str,0,0.0,11,UPI | Cash on Delivery | UPI,,
+fact_payments,table,5169,Payment_Status,str,0,0.0,5,Successful | Successful | Successful,,
+fact_payments,table,5169,Amount,float64,0,0.0,3620,7624.96 | 11293.09 | 6253.58,189.81,185170.32
+fact_payments,table,5169,Transaction_ID,str,0,0.0,5137,TXN040792847400 | COD274384092491 | TXN679611891309,,
+fact_reviews,table,1892,Review_ID,str,0,0.0,1892,REV00003 | REV00004 | REV00005,,
+fact_reviews,table,1892,Customer_ID,str,0,0.0,645,CUST00302 | CUST00315 | CUST00163,,
+fact_reviews,table,1892,Product_ID,str,0,0.0,189,PRD064 | PRD089 | PRD096,,
+fact_reviews,table,1892,Order_ID,str,0,0.0,1597,ORD000001 | ORD000003 | ORD000008,,
+fact_reviews,table,1892,Rating,int64,0,0.0,5,4 | 5 | 4,1,5
+fact_reviews,table,1892,Review_Text,str,0,0.0,1657,Totally worth the price. Size chart was accurate and the quality is great. | Good product at this price. Long lasting and gives good coverage. Using the Sugar Cosmetics Matte As Hell Crayon Lipstick for three months now. | Totally worth the price. Great quality for the price. Very sturdy and does the job perfectly. Using the Whirlpool 265L Double Door Refrigerator for three months now. Recommended to friends and family.,,
+fact_reviews,table,1892,Review_Date,str,0,0.0,843,14-10-2023 | 14-10-2023 | 15-10-2023,,
+fact_shipping,table,4572,Shipping_ID,str,0,0.0,4572,SHP000001 | SHP000002 | SHP000003,,
+fact_shipping,table,4572,Order_ID,str,0,0.0,4572,ORD000001 | ORD000002 | ORD000003,,
+fact_shipping,table,4572,Shipping_Date,str,0,0.0,1060,02-10-2023 | 05-10-2023 | 04-10-2023,,
+fact_shipping,table,4572,Expected_Delivery_Date,str,0,0.0,1047,06-10-2023 | 08-10-2023 | 08-10-2023,,
+fact_shipping,table,4572,Actual_Delivery_Date,str,0,0.0,1053,06-10-2023 | 06-10-2023 | 09-10-2023,,
+fact_shipping,table,4572,Return_Pickup_Date,str,0,0.0,340, |  | ,,
+fact_shipping,table,4572,Shipping_Status,str,0,0.0,2,Delivered | Delivered | Delivered,,
+fact_shipping,table,4572,Courier_Partner,str,0,0.0,13,Delhivery | Ekart | XpressBees,,
+stg_categories,staging_table,120,Category_ID,str,0,0.0,15,CAT01 | CAT02 | CAT03,,
+stg_categories,staging_table,120,Category_Name,str,0,0.0,15,Mobiles | Laptops | Electronics,,
+stg_categories,staging_table,120,Department,str,0,0.0,7,Consumer Electronics | Consumer Electronics | Consumer Electronics,,
+stg_categories,staging_table,120,Category_Manager,str,0,0.0,15,Rohit Malhotra | Sneha Kulkarni | Arvind Nair,,
+stg_categories,staging_table,120,Target_Margin_Percentage,int64,0,0.0,11,8 | 10 | 14,8,45
+stg_customers,staging_table,9370,Customer_ID,str,0,0.0,937,CUST00001 | CUST00002 | CUST00003,,
+stg_customers,staging_table,9370,First_Name,str,0,0.0,142,Vinod | Vishal | Vikram,,
+stg_customers,staging_table,9370,Last_Name,str,0,0.0,108,Nayak | Hazarika | Singh,,
+stg_customers,staging_table,9370,Gender,str,0,0.0,4,Male | Male | Male,,
+stg_customers,staging_table,9370,Date_of_Birth,str,126,1.34,883,30-11-1979 | 26-09-1982 | 25-12-1990,,
+stg_customers,staging_table,9370,Email,str,0,0.0,929,vinod.nayak@gmail.com | vishal.hazarika9708@gmail.com | vikram.singh5969@gmail.com,,
+stg_customers,staging_table,9370,Phone,int64,0,0.0,932,9159005358 | 9326842051 | 9925768984,6083057275,9998718091
+stg_customers,staging_table,9370,City,str,0,0.0,25,Kolkata | Kolkata | Patna,,
+stg_customers,staging_table,9370,State,str,0,0.0,16,West Bengal | West Bengal | Bihar,,
+stg_customers,staging_table,9370,Pincode,int64,0,0.0,592,700092 | 700053 | 800027,110001,800030
+stg_customers,staging_table,9370,Customer_Segment,str,0,0.0,5,Regular | High Value | Regular,,
+stg_customers,staging_table,9370,Signup_Date,str,0,0.0,708,01-06-2021 | 14-06-2021 | 24-06-2021,,
+stg_customers,staging_table,9370,Acquisition_Channel,str,0,0.0,7,Direct | Organic Search | Organic Search,,
+stg_customers,staging_table,9370,Loyalty_Tier,str,0,0.0,4,Gold | Gold | Bronze,,
+stg_customers,staging_table,9370,Preferred_Payment_Method,str,0,0.0,6,UPI | UPI | UPI,,
+stg_customers,staging_table,9370,Total_Orders,int64,0,0.0,36,9 | 15 | 5,0,55
+stg_customers,staging_table,9370,Customer_Lifetime_Value,int64,0,0.0,834,131680 | 230949 | 19771,0,742953
+stg_customers,staging_table,9370,DOB_Check,str,0,0.0,1,PASS | PASS | PASS,,
+stg_customers,staging_table,9370,Signup_Date_Check,str,0,0.0,1,PASS | PASS | PASS,,
+stg_order_items,staging_table,64897,Order_Item_ID,str,0,0.0,9271,OI0000001 | OI0000002 | OI0000003,,
+stg_order_items,staging_table,64897,Order_ID,str,0,0.0,5000,ORD000001 | ORD000001 | ORD000002,,
+stg_order_items,staging_table,64897,Product_ID,str,0,0.0,200,PRD125 | PRD064 | PRD084,,
+stg_order_items,staging_table,64897,Quantity,int64,0,0.0,12,1 | 1 | 1,1,24
+stg_order_items,staging_table,64897,Unit_Price,int64,0,0.0,168,4559 | 2249 | 599,149,99739
+stg_order_items,staging_table,64897,Discount_Percentage,int64,0,0.0,6,0 | 0 | 10,0,25
+stg_order_items,staging_table,64897,Discount_Amount,float64,0,0.0,780,0.0 | 0.0 | 59.9,0.0,11161.35
+stg_order_items,staging_table,64897,Tax_Percentage,int64,0,0.0,4,12 | 12 | 18,0,18
+stg_order_items,staging_table,64897,Tax_Amount,float64,0,0.0,1283,547.08 | 269.88 | 97.04,0.0,17953.02
+stg_order_items,staging_table,64897,Line_Total,float64,0,0.0,1433,5106.08 | 2518.88 | 636.14,132.98,117692.02
+stg_order_items,staging_table,64897,Cost_Amount,float64,0,0.0,448,3210.17 | 1261.68 | 342.49,102.32,92736.75
+stg_order_items,staging_table,64897,Profit_Amount,float64,0,0.0,1520,1348.83 | 987.32 | 196.61,-2971.65,10222.33
+stg_order_items,staging_table,64897,Quantity_Check,str,0,0.0,1,PASS | PASS | PASS,,
+stg_orders,staging_table,29700,Order_ID,str,0,0.0,4950,ORD000001 | ORD000002 | ORD000003,,
+stg_orders,staging_table,29700,Customer_ID,str,0,0.0,971,CUST00302 | CUST00167 | CUST00315,,
+stg_orders,staging_table,29700,Order_Date,str,0,0.0,1054,01-10-2023 | 03-10-2023 | 03-10-2023,,
+stg_orders,staging_table,29700,Order_Status,str,0,0.0,5,Delivered | Delivered | Delivered,,
+stg_orders,staging_table,29700,Order_Channel,str,0,0.0,3,Mobile App | Mobile App | Website,,
+stg_orders,staging_table,29700,Shipping_Address_City,str,250,0.84,32,Gurgaon | Bangalore | Pune,,
+stg_orders,staging_table,29700,Shipping_Address_State,str,0,0.0,16,Haryana | Karnataka | Maharashtra,,
+stg_orders,staging_table,29700,Coupon_Code,str,0,0.0,13,unknown | Welcome10 | unknown,,
+stg_orders,staging_table,29700,Discount_Amount,float64,0,0.0,1736,0.0 | 1095.5 | 0.0,0.0,19457.25
+stg_orders,staging_table,29700,Shipping_Charge,int64,0,0.0,4,0 | 0 | 0,0,149
+stg_orders,staging_table,29700,Tax_Amount,float64,0,0.0,3051,816.96 | 1433.59 | 530.58,0.0,28246.32
+stg_orders,staging_table,29700,Order_Total,float64,0,0.0,3586,7624.96 | 11293.09 | 6253.58,189.81,185170.32
+stg_orders,staging_table,29700,Payment_Status,str,0,0.0,5,Successful | Successful | Successful,,
+stg_orders,staging_table,29700,Delivery_Priority,str,120,0.4,4,Standard | Standard | Standard,,
+stg_orders,staging_table,29700,Order_Date_Check,str,0,0.0,1,PASS | PASS | PASS,,
+stg_orders,staging_table,29700,Year_Month,str,0,0.0,37,01-10-2023 | 01-10-2023 | 01-10-2023,,
+stg_payments,staging_table,11169,Payment_ID,str,0,0.0,5169,PAY000001 | PAY000002 | PAY000003,,
+stg_payments,staging_table,11169,Order_ID,str,0,0.0,5000,ORD000001 | ORD000002 | ORD000003,,
+stg_payments,staging_table,11169,Payment_Date,str,0,0.0,1057,01-10-2023 | 06-10-2023 | 03-10-2023,,
+stg_payments,staging_table,11169,Payment_Method,str,0,0.0,11,UPI | Cash on Delivery | UPI,,
+stg_payments,staging_table,11169,Transaction_ID,str,0,0.0,5137,TXN040792847400 | COD274384092491 | TXN679611891309,,
+stg_payments,staging_table,11169,Payment_Status,str,0,0.0,5,Successful | Successful | Successful,,
+stg_payments,staging_table,11169,Amount,float64,0,0.0,3620,7624.96 | 11293.09 | 6253.58,189.81,185170.32
+stg_payments,staging_table,11169,Refund_Amount,int64,0,0.0,554,0 | 0 | 0,0,134189
+stg_payments,staging_table,11169,Currency,str,0,0.0,1,INR | INR | INR,,
+stg_payments,staging_table,11169,Payment_Gateway,str,0,0.0,6,PayU | Internal COD | Razorpay,,
+stg_payments,staging_table,11169,Payment_Date_Check,str,0,0.0,1,PASS | PASS | PASS,,
+stg_products,staging_table,973,Product_ID,str,0,0.0,195,PRD001 | PRD002 | PRD003,,
+stg_products,staging_table,973,Product_Name,str,0,0.0,194,Samsung Galaxy S24 FE 5G (8GB/256GB) | Samsung Galaxy A15 5G (6GB/128GB) | Apple iPhone 15 (128GB),,
+stg_products,staging_table,973,Category_ID,str,0,0.0,15,CAT01 | CAT01 | CAT01,,
+stg_products,staging_table,973,Brand,str,0,0.0,145,Samsung | Samsung | Apple,,
+stg_products,staging_table,973,Product_Description,str,0,0.0,194,Samsung Galaxy S24 FE 5G (8GB/256GB). Smartphone with high-refresh-rate display and all-day battery. | Samsung Galaxy A15 5G (6GB/128GB). 5G-ready smartphone with fast charging and a powerful processor. | Apple iPhone 15 (128GB). Feature-rich smartphone with a multi-lens camera setup.,,
+stg_products,staging_table,973,Cost_Price,float64,0,0.0,192,48263.42 | 14172.92 | 57360.08,102.32,92736.75
+stg_products,staging_table,973,Selling_Price,int64,0,0.0,163,53669 | 15679 | 60559,149,99739
+stg_products,staging_table,973,MRP,int64,0,0.0,113,59999 | 17999 | 69900,168,114900
+stg_products,staging_table,973,Stock_Quantity,int64,0,0.0,163,257 | 0 | 320,0,3198
+stg_products,staging_table,973,Reorder_Level,int64,0,0.0,59,55 | 60 | 65,5,845
+stg_products,staging_table,973,Supplier,str,0,0.0,34,Supertron Electronics | Ingram Micro India | Ingram Micro India,,
+stg_products,staging_table,973,Product_Rating,float64,8,0.82,20,4.1 | 4.1 | 4.3,2.7,4.8
+stg_products,staging_table,973,Product_Launch_Date,str,0,0.0,184,05-03-2024 | 12-10-2021 | 05-05-2020,,
+stg_products,staging_table,973,Warranty_Months,int64,0,0.0,6,12 | 12 | 12,0,36
+stg_products,staging_table,973,Product_Status,str,0,0.0,3,Active | Out Of Stock | Active,,
+stg_products,staging_table,973,Cost_Selling_Price_Check,str,0,0.0,1,PASS | PASS | PASS,,
+stg_products,staging_table,973,Price_Check,str,0,0.0,1,PASS | PASS | PASS,,
+stg_products,staging_table,973,Launch_Date_Check,str,0,0.0,1,PASS | PASS | PASS,,
+stg_reviews,staging_table,6784,Review_ID,str,0,0.0,1892,REV00003 | REV00004 | REV00005,,
+stg_reviews,staging_table,6784,Customer_ID,str,0,0.0,645,CUST00302 | CUST00315 | CUST00163,,
+stg_reviews,staging_table,6784,Product_ID,str,0,0.0,189,PRD064 | PRD089 | PRD096,,
+stg_reviews,staging_table,6784,Order_ID,str,0,0.0,1597,ORD000001 | ORD000003 | ORD000008,,
+stg_reviews,staging_table,6784,Review_Date,str,0,0.0,843,14-10-2023 | 14-10-2023 | 15-10-2023,,
+stg_reviews,staging_table,6784,Rating,int64,0,0.0,5,4 | 5 | 4,1,5
+stg_reviews,staging_table,6784,Review_Title,str,47,0.69,28,Highly recommended | Excellent! | Happy with the purchase,,
+stg_reviews,staging_table,6784,Review_Text,str,0,0.0,1657,Totally worth the price. Size chart was accurate and the quality is great. | Good product at this price. Long lasting and gives good coverage. Using the Sugar Cosmetics Matte As Hell Crayon Lipstick for three months now. | Totally worth the price. Great quality for the price. Very sturdy and does the job perfectly. Using the Whirlpool 265L Double Door Refrigerator for three months now. Recommended to friends and family.,,
+stg_reviews,staging_table,6784,Sentiment,str,0,0.0,7,Positive | Positive | Positive,,
+stg_reviews,staging_table,6784,Verified_Purchase,str,0,0.0,1,Yes | Yes | Yes,,
+stg_reviews,staging_table,6784,Helpful_Votes,int64,0,0.0,11,1 | 0 | 0,0,471
+stg_reviews,staging_table,6784,Rating_Check,str,0,0.0,1,PASS | PASS | PASS,,
+stg_shipping,staging_table,9572,Shipping_ID,str,0,0.0,4572,SHP000001 | SHP000002 | SHP000003,,
+stg_shipping,staging_table,9572,Order_ID,str,0,0.0,4572,ORD000001 | ORD000002 | ORD000003,,
+stg_shipping,staging_table,9572,Warehouse_ID,str,0,0.0,6,WH_DEL | WH_BLR | WH_MUM,,
+stg_shipping,staging_table,9572,Courier_Partner,str,0,0.0,13,Delhivery | Ekart | XpressBees,,
+stg_shipping,staging_table,9572,Shipping_Date,str,0,0.0,1060,02-10-2023 | 05-10-2023 | 04-10-2023,,
+stg_shipping,staging_table,9572,Expected_Delivery_Date,str,0,0.0,1047,06-10-2023 | 08-10-2023 | 08-10-2023,,
+stg_shipping,staging_table,9572,Actual_Delivery_Date,str,0,0.0,1053,06-10-2023 | 06-10-2023 | 09-10-2023,,
+stg_shipping,staging_table,9572,Shipping_Status,str,0,0.0,2,Delivered | Delivered | Delivered,,
+stg_shipping,staging_table,9572,Delivery_Days,int64,0,0.0,14,4 | 1 | 5,0,13
+stg_shipping,staging_table,9572,Shipping_Cost,float64,0,0.0,3482,66.64 | 43.87 | 82.12,36.48,278.59
+stg_shipping,staging_table,9572,Delivery_Delay_Days,int64,0,0.0,10,0 | -2 | 1,-2,7
+stg_shipping,staging_table,9572,Return_Pickup_Date,str,4520,47.22,340, |  | ,,
+stg_shipping,staging_table,9572,Expected_Delivery_Check,str,0,0.0,1,PASS | PASS | PASS,,
+stg_shipping,staging_table,9572,Actual_Delivery_Check,str,0,0.0,1,PASS | PASS | PASS,,
+stg_shipping,staging_table,9572,Return_Pickup_Check,str,0,0.0,1,PASS | PASS | PASS,,
+vw_category_performance,view,15,Category_ID,str,0,0.0,15,CAT01 | CAT02 | CAT03,,
+vw_category_performance,view,15,Category_Name,str,0,0.0,15,Mobiles | Laptops | Electronics,,
+vw_category_performance,view,15,Department,str,0,0.0,7,Consumer Electronics | Consumer Electronics | Consumer Electronics,,
+vw_category_performance,view,15,Product_Count,int64,0,0.0,6,13 | 13 | 10,10,15
+vw_category_performance,view,15,Units_Sold,float64,0,0.0,15,424.0 | 235.0 | 332.0,134.0,1507.0
+vw_category_performance,view,15,Revenue,float64,0,0.0,15,14941421.03999999 | 16529920.850000001 | 15440031.690000007,424030.07999999967,16529920.850000001
+vw_category_performance,view,15,Profit,float64,0,0.0,15,368402.45999999926 | 653722.4999999995 | 1267802.18,27576.700000000008,1396333.8799999992
+vw_customer_order_analysis,view,4585,Customer_ID,str,0,0.0,909,CUST00302 | CUST00167 | CUST00315,,
+vw_customer_order_analysis,view,4585,First_Name,str,0,0.0,142,Sameer | Shreya | Kiran,,
+vw_customer_order_analysis,view,4585,Last_Name,str,0,0.0,108,Ansari | Rao | Mehta,,
+vw_customer_order_analysis,view,4585,Customer_Segment,str,0,0.0,5,High Value | High Value | Regular,,
+vw_customer_order_analysis,view,4585,Loyalty_Tier,str,0,0.0,4,Gold | Platinum | Silver,,
+vw_customer_order_analysis,view,4585,City,str,0,0.0,25,Gurgaon | Bangalore | Pune,,
+vw_customer_order_analysis,view,4585,State,str,0,0.0,16,Haryana | Karnataka | Maharashtra,,
+vw_customer_order_analysis,view,4585,Order_ID,str,0,0.0,4585,ORD000001 | ORD000002 | ORD000003,,
+vw_customer_order_analysis,view,4585,Order_Date,object,0,0.0,1045,2023-10-01 | 2023-10-03 | 2023-10-03,,
+vw_customer_order_analysis,view,4585,Order_Status,str,0,0.0,5,Delivered | Delivered | Delivered,,
+vw_customer_order_analysis,view,4585,Order_Channel,str,0,0.0,3,Mobile App | Mobile App | Website,,
+vw_customer_order_analysis,view,4585,Order_Total,float64,0,0.0,3360,7624.96 | 11293.09 | 6253.58,189.81,185170.32
+vw_customer_performance,view,937,Customer_ID,str,0,0.0,937,CUST00001 | CUST00002 | CUST00003,,
+vw_customer_performance,view,937,First_Name,str,0,0.0,142,Vinod | Vishal | Vikram,,
+vw_customer_performance,view,937,Last_Name,str,0,0.0,108,Nayak | Hazarika | Singh,,
+vw_customer_performance,view,937,Gender,str,0,0.0,4,Male | Male | Male,,
+vw_customer_performance,view,937,City,str,0,0.0,25,Kolkata | Kolkata | Patna,,
+vw_customer_performance,view,937,State,str,0,0.0,16,West Bengal | West Bengal | Bihar,,
+vw_customer_performance,view,937,Customer_Segment,str,0,0.0,5,Regular | High Value | Regular,,
+vw_customer_performance,view,937,Loyalty_Tier,str,0,0.0,4,Gold | Gold | Bronze,,
+vw_customer_performance,view,937,Total_Orders,int64,0,0.0,37,9 | 15 | 5,0,55
+vw_customer_performance,view,937,Total_Spending,float64,0,0.0,886,133098.93 | 241754.13000000003 | 28403.31,0.0,783643.52
+vw_customer_performance,view,937,Average_Order_Value,float64,0,0.0,886,14788.769999999999 | 16116.942000000003 | 5680.662,0.0,152607.28
+vw_monthly_sales,view,37,Order_Year,int64,0,0.0,4,2023 | 2023 | 2023,2023,2026
+vw_monthly_sales,view,37,Order_Month,int64,0,0.0,12,10 | 11 | 12,1,12
+vw_monthly_sales,view,37,Year_Month_Key,str,0,0.0,37,2023-10 | 2023-11 | 2023-12,,
+vw_monthly_sales,view,37,Total_Orders,int64,0,0.0,34,93 | 119 | 111,39,277
+vw_monthly_sales,view,37,Units_Sold,float64,0,0.0,36,244.0 | 256.0 | 256.0,82.0,696.0
+vw_monthly_sales,view,37,Revenue,float64,0,0.0,37,1766671.8000000005 | 1392449.0999999996 | 1364600.9700000007,863097.7100000001,3560993.7000000016
+vw_monthly_sales,view,37,Profit,float64,0,0.0,37,163003.42999999993 | 162306.16999999998 | 178780.66000000006,37632.259999999995,452442.50000000035
+vw_product_performance,view,193,Product_ID,str,0,0.0,193,PRD001 | PRD002 | PRD003,,
+vw_product_performance,view,193,Product_Name,str,0,0.0,192,Samsung Galaxy S24 FE 5G (8GB/256GB) | Samsung Galaxy A15 5G (6GB/128GB) | Apple iPhone 15 (128GB),,
+vw_product_performance,view,193,Brand,str,0,0.0,145,Samsung | Samsung | Apple,,
+vw_product_performance,view,193,Category_Name,str,0,0.0,15,Mobiles | Mobiles | Mobiles,,
+vw_product_performance,view,193,Department,str,0,0.0,7,Consumer Electronics | Consumer Electronics | Consumer Electronics,,
+vw_product_performance,view,193,Total_Orders,int64,0,0.0,90,15 | 10 | 53,1,349
+vw_product_performance,view,193,Units_Sold,float64,0,0.0,104,15.0 | 10.0 | 53.0,1.0,423.0
+vw_product_performance,view,193,Revenue,float64,0,0.0,193,886611.9 | 174836.54000000004 | 3680170.460000002,1447.9999999999998,10940891.699999994
+vw_product_performance,view,193,Profit,float64,0,0.0,193,27414.700000000004 | 6437.3499999999985 | 78704.26,285.82000000000005,1005837.0500000016
+vw_product_reviews,view,1892,Review_ID,str,0,0.0,1892,REV00003 | REV00004 | REV00005,,
+vw_product_reviews,view,1892,Product_ID,str,0,0.0,189,PRD064 | PRD089 | PRD096,,
+vw_product_reviews,view,1892,Product_Name,str,57,3.01,181,Wrangler Men Regular Fit Jeans | Sugar Cosmetics Matte As Hell Crayon Lipstick | Whirlpool 265L Double Door Refrigerator,,
+vw_product_reviews,view,1892,Category_ID,str,57,3.01,15,CAT05 | CAT07 | CAT08,,
+vw_product_reviews,view,1892,Category_Name,str,57,3.01,15,Fashion | Beauty | Home & Kitchen,,
+vw_product_reviews,view,1892,Customer_ID,str,0,0.0,645,CUST00302 | CUST00315 | CUST00163,,
+vw_product_reviews,view,1892,First_Name,str,140,7.4,133,Sameer | Kiran | Nikhil,,
+vw_product_reviews,view,1892,Last_Name,str,140,7.4,106,Ansari | Mehta | Pawar,,
+vw_product_reviews,view,1892,Rating,int64,0,0.0,5,4 | 5 | 4,1,5
+vw_product_reviews,view,1892,Review_Text,str,0,0.0,1657,Totally worth the price. Size chart was accurate and the quality is great. | Good product at this price. Long lasting and gives good coverage. Using the Sugar Cosmetics Matte As Hell Crayon Lipstick for three months now. | Totally worth the price. Great quality for the price. Very sturdy and does the job perfectly. Using the Whirlpool 265L Double Door Refrigerator for three months now. Recommended to friends and family.,,
+vw_product_reviews,view,1892,Review_Date,str,0,0.0,843,14-10-2023 | 14-10-2023 | 15-10-2023,,
+vw_sales_overview,view,9185,Order_ID,str,0,0.0,4950,ORD000001 | ORD000001 | ORD000002,,
+vw_sales_overview,view,9185,Order_Date,object,0,0.0,1054,2023-10-01 | 2023-10-01 | 2023-10-03,,
+vw_sales_overview,view,9185,Customer_ID,str,0,0.0,971,CUST00302 | CUST00302 | CUST00167,,
+vw_sales_overview,view,9185,Product_ID,str,0,0.0,200,PRD125 | PRD064 | PRD084,,
+vw_sales_overview,view,9185,Quantity,int64,0,0.0,12,1 | 1 | 1,1,24
+vw_sales_overview,view,9185,Unit_Price,int64,0,0.0,168,4559 | 2249 | 599,149,99739
+vw_sales_overview,view,9185,Discount_Amount,float64,0,0.0,779,0.0 | 0.0 | 59.9,0.0,11161.35
+vw_sales_overview,view,9185,Line_Total,float64,0,0.0,1432,5106.08 | 2518.88 | 636.14,132.98,117692.02
+vw_sales_overview,view,9185,Profit_Amount,float64,0,0.0,1519,1348.83 | 987.32 | 196.61,-2971.65,10222.33
+vw_sales_overview,view,9185,Order_Status,str,0,0.0,5,Delivered | Delivered | Delivered,,
+vw_sales_overview,view,9185,Order_Channel,str,0,0.0,3,Mobile App | Mobile App | Mobile App,,
+vw_sales_overview,view,9185,Payment_Status,str,0,0.0,5,Successful | Successful | Successful,,

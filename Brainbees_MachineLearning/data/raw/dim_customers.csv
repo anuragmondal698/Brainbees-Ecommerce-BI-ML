@@ -1,0 +1,938 @@
+﻿Customer_ID,First_Name,Last_Name,Gender,Date_of_Birth,City,State,Customer_Segment,Loyalty_Tier,Signup_Date,Email,Phone,Customer_Lifetime_Value
+CUST00001,Vinod,Nayak,Male,30-11-1979,Kolkata,West Bengal,Regular,Gold,01-06-2021,vinod.nayak@gmail.com,9159005358,131680.0
+CUST00002,Vishal,Hazarika,Male,26-09-1982,Kolkata,West Bengal,High Value,Gold,14-06-2021,vishal.hazarika9708@gmail.com,9326842051,230949.0
+CUST00003,Vikram,Singh,Male,25-12-1990,Patna,Bihar,Regular,Bronze,24-06-2021,vikram.singh5969@gmail.com,9925768984,19771.0
+CUST00004,Sunita,Menon,Female,07-11-1997,Hyderabad,Telangana,At Risk,Bronze,29-06-2021,sunita.menon@yahoo.co.in,8525582081,4444.0
+CUST00005,Rekha,Chandran,Female,02-02-1980,Bangalore,Karnataka,At Risk,Silver,30-06-2021,rekha.chandran9639@yahoo.co.in,8496638373,26432.0
+CUST00006,Kiran,Patel,Female,29-09-1993,Pune,Maharashtra,At Risk,Gold,30-06-2021,kiran.patel@gmail.com,7491682037,29683.0
+CUST00008,Ashok,Kapoor,Male,27-10-1986,Patna,Bihar,At Risk,Bronze,10-07-2021,ashok.kapoor@outlook.com,9513479424,11382.0
+CUST00009,Shreya,Choudhury,Female,22-10-1973,Kolkata,West Bengal,Regular,Silver,10-07-2021,shreya.choudhury@yahoo.co.in,9103391776,37122.0
+CUST00010,Ishaan,Bhatt,Male,24-12-2002,Indore,Madhya Pradesh,Regular,Silver,17-07-2021,ishaan.bhatt1266@gmail.com,6592565847,88362.0
+CUST00011,Rakesh,Bhatia,Male,26-06-1981,Delhi,Delhi,New,Silver,19-07-2021,rakesh.bhatia1995@gmail.com,9172580451,23524.0
+CUST00012,Pooja,Varma,Female,17-11-1996,Hyderabad,Telangana,At Risk,Bronze,19-07-2021,pooja.varma6421@outlook.com,9131534147,555.0
+CUST00013,Rekha,Kale,Female,14-05-2003,Mumbai,Maharashtra,Regular,Silver,19-07-2021,rekha.kale@rediffmail.com,9024982640,33500.0
+CUST00015,Nilesh,Shah,Male,09-10-1981,Mumbai,Maharashtra,At Risk,Bronze,31-07-2021,nilesh.shah878@hotmail.com,7453529614,0.0
+CUST00016,Manpreet,Bhatia,Female,13-02-1991,Delhi,Delhi,At Risk,Silver,01-08-2021,manpreet.bhatia1532@gmail.com,7398354732,81200.0
+CUST00017,Rishabh,Das,Male,25-09-1989,Guwahati,Assam,Regular,Bronze,01-08-2021,rishabh.das@yahoo.co.in,8864821080,10531.0
+CUST00019,Preeti,Chauhan,Female,06-03-1995,Gurgaon,Haryana,At Risk,Bronze,03-08-2021,preeti.chauhan9643@hotmail.com,9309797387,17918.0
+CUST00020,Neha,Roy,Female,12-03-1978,Guwahati,Assam,At Risk,Bronze,05-08-2021,neha.roy3801@yahoo.co.in,8359093657,24051.0
+CUST00021,Akash,Menon,Male,20-07-1992,Hyderabad,Telangana,At Risk,Silver,06-08-2021,akash.menon@gmail.com,9440133225,35508.0
+CUST00022,Pankaj,Reddy,Male,13-07-1981,Hyderabad,Telangana,At Risk,Bronze,07-08-2021,pankaj.reddy@gmail.com,9218449497,5145.0
+CUST00023,Meera,Pillai,Female,11-08-1992,Hyderabad,Telangana,At Risk,Silver,07-08-2021,meera.pillai8184@gmail.com,9129835449,94054.0
+CUST00024,Kabir,Pillai,Male,09-12-1995,Bangalore,Karnataka,Regular,Bronze,08-08-2021,kabir.pillai@outlook.com,9148122982,23311.0
+CUST00025,Mayank,Mehta,Male,11-07-1986,Ahmedabad,Gujarat,Regular,Silver,08-08-2021,mayank.mehta7218@outlook.com,9734355229,58724.0
+CUST00026,Nikhil,Varma,Male,01-03-1982,Bangalore,Karnataka,At Risk,Bronze,09-08-2021,nikhil.varma9653@yahoo.co.in,8232718296,0.0
+CUST00027,Vignesh,Rao,Male,30-12-1992,Chennai,Tamil Nadu,Regular,Silver,12-08-2021,vignesh.rao2554@gmail.com,8514836062,25982.0
+CUST00028,Payal,Jadhav,Female,08-01-1998,Indore,Madhya Pradesh,At Risk,Gold,18-08-2021,payal.jadhav5496@gmail.com,9304320377,146074.0
+CUST00029,Tarun,Deshmukh,Male,08-03-1982,Ahmedabad,Gujarat,At Risk,Bronze,22-08-2021,tarun.deshmukh4373@gmail.com,9238984620,0.0
+CUST00030,Naveen,Varma,Other,24-07-1991,Bangalore,Karnataka,Regular,Silver,27-08-2021,naveen.varma936@gmail.com,9095529957,27505.0
+CUST00031,Ishaan,Naidu,Male,10-05-1988,Kochi,Kerala,At Risk,Silver,28-08-2021,ishaan.naidu3793@gmail.com,9684796749,55362.0
+CUST00032,Sachin,Naik,Male,07-09-2002,Mumbai,Maharashtra,Vip,Platinum,28-08-2021,sachin.naik7533@gmail.com,7713554027,351822.0
+CUST00033,Gaurav,Trivedi,Male,18-02-1993,Pune,Maharashtra,At Risk,Bronze,04-09-2021,gaurav.trivedi@gmail.com,8959697134,4416.0
+CUST00036,Swati,Khanna,Female,10-03-1988,Patna,Bihar,At Risk,Silver,15-09-2021,swati.khanna2061@gmail.com,8291878406,54621.0
+CUST00037,Siddharth,Thakur,Male,03-11-2002,Noida,Uttar Pradesh,Regular,Bronze,20-09-2021,siddharth.thakur2302@yahoo.co.in,9912755195,13295.0
+CUST00038,Seema,Yadav,Female,04-11-1981,Delhi,Delhi,Vip,Platinum,21-09-2021,seema.yadav5884@gmail.com,7948731653,477056.0
+CUST00039,Nisha,Gupta,Female,13-04-1994,Jaipur,Rajasthan,At Risk,Bronze,29-09-2021,nisha.gupta@gmail.com,9423300417,4812.0
+CUST00040,Ayush,Kulkarni,Male,22-11-1977,Pune,Maharashtra,High Value,Gold,03-10-2021,ayush.kulkarni2059@gmail.com,9838715529,192055.0
+CUST00041,Kavya,Bose,Female,29-09-1986,Bhubaneswar,Odisha,High Value,Gold,08-10-2021,kavya.bose1649@yahoo.com,9557971675,164672.0
+CUST00042,Vikram,Patel,unknown,19-08-1970,Surat,Gujarat,At Risk,Bronze,08-10-2021,vikram.patel340@hotmail.com,9309503941,5660.0
+CUST00043,Aditya,Malik,Male,18-05-1987,Indore,Madhya Pradesh,New,Bronze,12-10-2021,aditya.malik@gmail.com,9542855509,366.0
+CUST00044,Saurabh,Reddy,Male,09-01-1993,Hyderabad,Telangana,At Risk,Bronze,12-10-2021,saurabh.reddy982@gmail.com,9967744152,2057.0
+CUST00045,Arun,Menon,Male,22-10-1994,Bangalore,Karnataka,Regular,Silver,17-10-2021,arun.menon3067@gmail.com,8445653845,51870.0
+CUST00046,Ankit,Ghosh,Male,08-12-1995,Kolkata,West Bengal,Regular,Silver,18-10-2021,ankit.ghosh5393@outlook.com,9352427615,104049.0
+CUST00047,Anil,Ansari,Male,30-11-1999,Patna,Bihar,At Risk,Bronze,21-10-2021,anil.ansari@gmail.com,8033634305,5508.0
+CUST00048,Ishaan,Khanna,Male,25-10-1989,Gurgaon,Haryana,At Risk,Bronze,23-10-2021,ishaan.khanna6678@gmail.com,6615622848,612.0
+CUST00049,Vivaan,Malik,Male,09-07-1989,Chandigarh,Chandigarh,At Risk,Silver,28-10-2021,vivaan.malik@yahoo.com,9984584700,94192.0
+CUST00051,Utkarsh,Narayanan,Male,13-02-1977,Hyderabad,Telangana,At Risk,Bronze,05-11-2021,utkarsh.narayanan@gmail.com,9663236308,0.0
+CUST00052,Shruti,Arora,Female,07-08-2003,Delhi,Delhi,Regular,Silver,07-11-2021,shruti.arora5356@gmail.com,9271514986,84135.0
+CUST00053,Swati,Ali,Female,14-02-1993,Noida,Uttar Pradesh,Regular,Silver,07-11-2021,swati.ali1631@gmail.com,9713486177,108411.0
+CUST00054,Shruti,Sen,Female,26-09-1985,Guwahati,Assam,At Risk,Gold,08-11-2021,shruti.sen@gmail.com,8344261564,150925.0
+CUST00055,Ananya,Chatterjee,Female,07-08-1985,Guwahati,Assam,Vip,Platinum,09-11-2021,ananya.chatterjee@gmail.com,9039159327,315157.0
+CUST00056,Kabir,Modi,Male,05-12-1988,Pune,Maharashtra,High Value,Gold,11-11-2021,kabir.modi9273@yahoo.com,9532572739,224512.0
+CUST00057,Ayush,Deshmukh,Male,04-08-1997,Pune,Maharashtra,At Risk,Bronze,12-11-2021,ayush.deshmukh623@gmail.com,9775362942,0.0
+CUST00058,Nikhil,Sheikh,Male,13-05-1974,Mumbai,Maharashtra,Regular,Silver,14-11-2021,nikhil.sheikh8097@rediffmail.com,8889427420,102417.0
+CUST00059,Rohan,Sawant,Male,20-06-1996,Mumbai,Maharashtra,High Value,Gold,19-11-2021,rohan.sawant5406@gmail.com,7838842304,259017.0
+CUST00060,Tanvi,Gupta,Female,26-11-2002,Noida,Uttar Pradesh,Regular,Gold,24-11-2021,tanvi.gupta@gmail.com,9423149009,120010.0
+CUST00061,Deepika,Thakkar,Female,01-08-1983,Indore,Madhya Pradesh,Regular,Gold,27-11-2021,deepika.thakkar@yahoo.co.in,9173931365,119258.0
+CUST00062,Payal,Ranjan,Female,13-11-1977,Delhi,Delhi,At Risk,Bronze,28-11-2021,payal.ranjan5179@gmail.com,8282426875,2297.0
+CUST00063,Deepika,Narayanan,Female,23-04-1971,Bangalore,Karnataka,Regular,Silver,28-11-2021,deepika.narayanan3397@gmail.com,9777065951,30965.0
+CUST00064,Purvi,Kale,Female,15-06-1981,Pune,Maharashtra,Regular,Gold,10-12-2021,purvi.kale5757@outlook.com,9139152734,135903.0
+CUST00065,Akash,Pandey,Male,08-06-1988,Delhi,Delhi,High Value,Gold,12-12-2021,akash.pandey@gmail.com,8551784005,151352.0
+CUST00066,Saurabh,Kamat,Male,03-09-1979,Mumbai,Maharashtra,Regular,Silver,17-12-2021,saurabh.kamat8123@gmail.com,9940473862,22306.0
+CUST00067,Isha,Hussain,Female,15-04-1998,Noida,Uttar Pradesh,At Risk,Silver,17-12-2021,isha.hussain4392@hotmail.com,9411529516,91778.0
+CUST00068,Abhishek,Hegde,Male,27-04-2003,Hyderabad,Telangana,High Value,Gold,18-12-2021,abhishek.hegde7495@gmail.com,8217440063,175442.0
+CUST00069,Sachin,Agarwal,Male,,Gurgaon,Haryana,High Value,Gold,22-12-2021,sachin.agarwal1793@yahoo.co.in,8100809002,260919.0
+CUST00070,Vandana,Agarwal,Female,03-10-1986,Lucknow,Uttar Pradesh,At Risk,Bronze,22-12-2021,vandana.agarwal2090@outlook.com,9531524957,2302.0
+CUST00071,Anjali,Malik,Female,24-03-2003,Pune,Maharashtra,Regular,Gold,25-12-2021,anjali.malik9855@gmail.com,7695187881,126486.0
+CUST00072,Ashok,Prasad,Male,14-04-1985,Delhi,Delhi,At Risk,Bronze,25-12-2021,ashok.prasad@gmail.com,9716166562,7503.0
+CUST00073,Manish,Subramanian,Male,16-08-1972,Bangalore,Karnataka,Regular,Gold,02-01-2022,manish.subramanian7974@icloud.com,7849937995,140293.0
+CUST00074,Ankit,Narayanan,Male,23-04-1989,Bangalore,Karnataka,Regular,Silver,07-01-2022,ankit.narayanan@gmail.com,9769657988,32361.0
+CUST00075,Shabana,Sheikh,Female,01-08-1985,Noida,Uttar Pradesh,At Risk,Bronze,08-01-2022,shabana.sheikh4683@gmail.com,9117518460,2045.0
+CUST00076,Varun,Gupta,Male,31-05-1985,Delhi,Delhi,At Risk,Bronze,15-01-2022,varun.gupta3039@yahoo.co.in,9947578681,5161.0
+CUST00078,Nikhil,Arora,Male,06-02-1982,Patna,Bihar,At Risk,Silver,17-01-2022,nikhil.arora@yahoo.co.in,9965718270,102984.0
+CUST00080,Dev,Narayanan,Male,15-10-1995,Bangalore,Karnataka,At Risk,Silver,23-01-2022,dev.narayanan298@gmail.com,9116796272,3734.0
+CUST00081,Kabir,Raman,Male,15-02-1981,Bangalore,Karnataka,At Risk,Silver,24-01-2022,kabir.raman3887@gmail.com,9316800179,26354.0
+CUST00082,Bhavna,Shinde,Female,28-03-2000,Mumbai,Maharashtra,At Risk,Silver,28-01-2022,bhavna.shinde426@gmail.com,9995236222,68967.0
+CUST00083,Janvi,Sawant,Female,29-07-1981,Nagpur,Maharashtra,High Value,Gold,30-01-2022,janvi.sawant@gmail.com,9677200980,158968.0
+CUST00084,Kunal,Srivastava,Male,13-10-1987,Delhi,Delhi,Regular,Silver,04-02-2022,kunal.srivastava5806@gmail.com,8310407650,69741.0
+CUST00085,Mansi,Roy,Female,15-01-1985,Kolkata,West Bengal,Regular,Silver,06-02-2022,mansi.roy7649@gmail.com,7443830187,43560.0
+CUST00086,Rajesh,More,Male,14-09-1987,Ahmedabad,Gujarat,At Risk,Bronze,07-02-2022,rajesh.more@yahoo.co.in,9709090596,12696.0
+CUST00088,Amit,Deshmukh,Male,29-11-1992,Pune,Maharashtra,At Risk,Bronze,17-02-2022,amit.deshmukh@hotmail.com,9937305456,0.0
+CUST00089,Vinod,Varma,Male,30-03-1977,Chennai,Tamil Nadu,Regular,Silver,18-02-2022,vinod.varma@yahoo.co.in,9504083764,25227.0
+CUST00090,Saurabh,Khanna,Male,26-02-1987,Delhi,Delhi,At Risk,Bronze,24-02-2022,saurabh.khanna8668@gmail.com,7237198336,5097.0
+CUST00091,Ashok,Goyal,Male,31-08-1985,Lucknow,Uttar Pradesh,High Value,Gold,26-02-2022,ashok.goyal9987@rediffmail.com,9506460695,180790.0
+CUST00092,Rekha,Jain,unknown,07-02-1974,Delhi,Delhi,At Risk,Silver,27-02-2022,rekha.jain1536@gmail.com,7161152706,23528.0
+CUST00093,Amit,Goyal,Male,03-07-1986,Delhi,Delhi,At Risk,Bronze,28-02-2022,amit.goyal@yahoo.co.in,9393579047,1659.0
+CUST00094,Saurabh,Parekh,Male,21-09-1984,Surat,Gujarat,At Risk,Bronze,01-03-2022,saurabh.parekh299@gmail.com,9379691690,10878.0
+CUST00095,Varun,Goyal,Male,19-03-1978,Chandigarh,Chandigarh,At Risk,Bronze,01-03-2022,varungoyal12@gmail.com,9867580617,4444.0
+CUST00096,Anitha,Raman,Female,05-11-1979,Bangalore,Karnataka,At Risk,Bronze,02-03-2022,anitha.raman@outlook.com,9020910660,821.0
+CUST00098,Mansi,Saxena,Female,06-08-1986,Lucknow,Uttar Pradesh,At Risk,Bronze,05-03-2022,mansi.saxena@gmail.com,7968902921,1546.0
+CUST00099,Tanvi,Nair,Female,29-03-1988,Bangalore,Karnataka,At Risk,Silver,07-03-2022,tanvi.nair8258@icloud.com,9495352492,43934.0
+CUST00100,Rajesh,Prasad,Male,18-12-1981,Delhi,Delhi,At Risk,Bronze,15-03-2022,rajesh.prasad9912@gmail.com,9781988972,0.0
+CUST00101,Hardik,Bhosale,Male,16-07-1982,Mumbai,Maharashtra,At Risk,Bronze,28-03-2022,hardik.bhosale@hotmail.com,9075493931,3802.0
+CUST00102,Ramesh,Kurup,Male,12-01-1999,Hyderabad,Telangana,Regular,Silver,29-03-2022,ramesh.kurup3943@gmail.com,8392360581,48012.0
+CUST00103,Rajesh,Kamat,Male,08-01-1988,Mumbai,Maharashtra,At Risk,Bronze,29-03-2022,rajesh.kamat6704@gmail.com,9317649663,3716.0
+CUST00104,Pallavi,Jadhav,Female,28-12-1980,Indore,Madhya Pradesh,At Risk,Silver,30-03-2022,pallavi.jadhav9687@gmail.com,9719285922,70589.0
+CUST00105,Vijay,Joshi,Male,10-06-1977,Lucknow,Uttar Pradesh,High Value,Gold,31-03-2022,vijay.joshi5360@hotmail.com,7269581501,211560.0
+CUST00107,Harleen,Ranjan,Female,05-04-1993,Delhi,Delhi,Regular,Silver,07-04-2022,harleen.ranjan4023@outlook.com,9024416162,84455.0
+CUST00108,Anjali,Chavan,Female,23-10-1990,Pune,Maharashtra,Regular,Bronze,11-04-2022,anjali.chavan6844@gmail.com,8461840640,8413.0
+CUST00109,Swapnil,Shinde,Male,02-05-1990,Ahmedabad,Gujarat,High Value,Gold,13-04-2022,swapnil.shinde@gmail.com,9277337916,244276.0
+CUST00110,Kiran,Mohanty,Female,11-07-1993,Kolkata,West Bengal,At Risk,Bronze,15-04-2022,kiran.mohanty5640@icloud.com,8054440324,0.0
+CUST00111,Swati,Raman,Female,28-05-1980,Chennai,Tamil Nadu,Regular,Silver,15-04-2022,swati.raman8708@rediffmail.com,9879953003,68212.0
+CUST00112,Aanya,More,Female,17-12-1982,Surat,Gujarat,At Risk,Silver,16-04-2022,aanya.more@yahoo.co.in,7788794137,87958.0
+CUST00113,Sachin,Saxena,Male,11-03-1979,Lucknow,Uttar Pradesh,Regular,Gold,18-04-2022,sachin.saxena@yahoo.com,8250181509,116506.0
+CUST00114,Ankit,Joshi,Male,21-04-1984,Mumbai,Maharashtra,Vip,Platinum,22-04-2022,ankit.joshi@gmail.com,8763362165,329224.0
+CUST00115,Biswajit,Gogoi,Male,02-09-1983,Guwahati,Assam,Regular,Silver,27-04-2022,biswajit.gogoi5117@gmail.com,9815937279,41960.0
+CUST00116,Ramesh,Sharma,Male,10-09-2002,Lucknow,Uttar Pradesh,Regular,Silver,01-05-2022,ramesh.sharma@yahoo.com,9770957285,37430.0
+CUST00117,Radhika,Chauhan,Female,10-01-1988,Chandigarh,Chandigarh,High Value,Gold,01-05-2022,radhika.chauhan3804@gmail.com,9249687103,212126.0
+CUST00118,Mayank,Ranjan,Male,07-12-1995,Delhi,Delhi,Regular,Bronze,06-05-2022,mayank.ranjan6882@gmail.com,9782208317,18273.0
+CUST00119,Rajesh,Naidu,Male,10-01-1991,Bangalore,Karnataka,At Risk,Silver,08-05-2022,rajesh.naidu9094@rediffmail.com,8292893869,67887.0
+CUST00120,Sachin,Nair,Male,28-10-1984,Bangalore,Karnataka,Regular,Silver,08-05-2022,sachin.nair8975@gmail.com,8890687063,110273.0
+CUST00121,Gayathri,Reddy,Female,28-12-2003,Chennai,Tamil Nadu,Regular,Bronze,15-05-2022,gayathri.reddy@rediffmail.com,8106885919,83153.0
+CUST00122,Akash,Sharma,Male,04-12-1988,Jaipur,Rajasthan,New,Silver,21-05-2022,akash.sharma@yahoo.co.in,9076315803,35821.0
+CUST00124,Amit,Thakkar,Male,08-10-2003,Mumbai,Maharashtra,At Risk,Bronze,25-05-2022,amit.thakkar@yahoo.co.in,8836267123,0.0
+CUST00125,Simran,Gaikwad,Female,14-03-1990,Ahmedabad,Gujarat,Regular,Gold,27-05-2022,simran.gaikwad4490@icloud.com,9993735676,116358.0
+CUST00126,Deepak,Menon,Male,05-06-1979,Kochi,Kerala,Regular,Platinum,28-05-2022,deepak.menon@gmail.com,8861235588,124819.0
+CUST00127,Pranav,Gowda,Male,04-05-1985,Bangalore,Karnataka,Regular,Silver,28-05-2022,pranav.gowda5396@gmail.com,9394370106,50466.0
+CUST00128,Naveen,Jadhav,Male,16-12-1968,Mumbai,Maharashtra,High Value,Platinum,30-05-2022,naveen.jadhav6071@gmail.com,9940044389,274384.0
+CUST00129,Abhishek,Panda,Male,12-05-2000,Kolkata,West Bengal,Regular,Gold,01-06-2022,abhishek.panda3841@gmail.com,8269407894,126915.0
+CUST00130,Riya,Deshmukh,Female,23-09-1988,Pune,Maharashtra,Regular,Silver,03-06-2022,riya.deshmukh4129@rediffmail.com,9479114997,109130.0
+CUST00131,Nikhil,Hegde,Male,25-03-1990,Bangalore,Karnataka,High Value,Gold,06-06-2022,nikhil.hegde2382@gmail.com,9315416205,169158.0
+CUST00132,Vinod,Kurup,Male,21-07-1990,Bangalore,Karnataka,At Risk,Bronze,08-06-2022,vinod.kurup@gmail.com,9235730309,1495.0
+CUST00133,Nikhil,Behera,Male,10-04-1975,Bhubaneswar,Odisha,At Risk,Silver,09-06-2022,nikhil.behera@outlook.com,9564672578,61303.0
+CUST00134,Anil,Hegde,Male,14-05-1994,Chennai,Tamil Nadu,High Value,Gold,10-06-2022,anil.hegde@yahoo.co.in,9615158151,244553.0
+CUST00136,Naveen,Jain,Male,01-12-1976,Gurgaon,Haryana,At Risk,Silver,12-06-2022,naveen.jain1811@hotmail.com,9157797479,71545.0
+CUST00137,Arjun,Malhotra,Male,12-07-1976,Delhi,Delhi,At Risk,Bronze,14-06-2022,arjun.malhotra@gmail.com,7711236520,853.0
+CUST00138,Dev,Chandran,Male,21-06-1986,Bangalore,Karnataka,At Risk,Bronze,18-06-2022,dev.chandran7198@outlook.com,8397670274,1012.0
+CUST00139,Tanvi,Bhat,Female,15-03-1968,Hyderabad,Telangana,At Risk,Gold,22-06-2022,tanvi.bhat669@gmail.com,9163091679,132822.0
+CUST00140,Anil,Jha,Male,16-12-1985,Jaipur,Rajasthan,At Risk,Bronze,26-06-2022,anil.jha1640@gmail.com,7502420345,4721.0
+CUST00141,Utkarsh,Varma,Male,23-05-2000,Bangalore,Karnataka,Regular,Bronze,27-06-2022,utkarsh.varma@gmail.com,9649833068,6020.0
+CUST00142,Siddharth,Modi,Male,10-07-1987,Pune,Maharashtra,Vip,Platinum,02-07-2022,siddharth.modi8643@gmail.com,9358029880,400244.0
+CUST00143,Amit,Barman,Male,01-11-1977,Kolkata,West Bengal,At Risk,Bronze,03-07-2022,amit.barman@gmail.com,8591678522,3256.0
+CUST00144,Gaurav,Naik,Male,10-03-1992,Mumbai,Maharashtra,Regular,Silver,13-07-2022,gaurav.naik5749@gmail.com,9650907556,37069.0
+CUST00145,Ashok,Meena,Male,09-06-1995,Delhi,Delhi,At Risk,Bronze,14-07-2022,ashok.meena479@gmail.com,9794405449,13617.0
+CUST00146,Anita,Prasad,Female,12-06-2000,Lucknow,Uttar Pradesh,High Value,Platinum,21-07-2022,anita.prasad7128@yahoo.com,9390817502,286957.0
+CUST00147,Deepak,Ahmed,Male,30-08-2001,Noida,Uttar Pradesh,Regular,Silver,23-07-2022,deepak.ahmed1873@hotmail.com,9251821558,31310.0
+CUST00148,Sakshi,Khanna,Female,24-12-1992,Lucknow,Uttar Pradesh,At Risk,Silver,24-07-2022,sakshi.khanna2517@gmail.com,9832098596,96440.0
+CUST00149,Vinod,Rao,Male,14-03-1985,Kochi,Kerala,Vip,Platinum,24-07-2022,vinod.rao1229@gmail.com,9611072269,323765.0
+CUST00150,Yash,Singh,Male,15-10-1995,Jaipur,Rajasthan,Regular,Silver,27-07-2022,yash.singh8906@gmail.com,7064755749,108104.0
+CUST00151,Kunal,Parekh,Male,08-11-1991,Indore,Madhya Pradesh,Regular,Silver,31-07-2022,kunal.parekh7883@yahoo.co.in,9730955098,65497.0
+CUST00152,Sakshi,Modi,Female,24-08-1975,Mumbai,Maharashtra,At Risk,Bronze,07-08-2022,sakshi.modi6805@gmail.com,8064279123,390.0
+CUST00153,Vivaan,Prasad,Male,02-04-2004,Chennai,Tamil Nadu,At Risk,Silver,08-08-2022,vivaan.prasad2113@gmail.com,9582410599,97099.0
+CUST00154,Megha,Balaji,Female,05-12-1991,Chennai,Tamil Nadu,At Risk,Silver,08-08-2022,megha.balaji@gmail.com,7539407907,68299.0
+CUST00155,Utkarsh,Kurup,Male,28-10-1986,Bangalore,Karnataka,High Value,Gold,09-08-2022,utkarsh.kurup4183@hotmail.com,8256162246,190992.0
+CUST00156,Simran,Banerjee,Female,09-10-1994,Kolkata,West Bengal,At Risk,Bronze,09-08-2022,simran.banerjee5674@gmail.com,9926079109,0.0
+CUST00157,Rekha,Dubey,Female,30-08-1999,Lucknow,Uttar Pradesh,Regular,Bronze,09-08-2022,rekha.dubey4361@gmail.com,9659095329,2721.0
+CUST00158,Megha,Meena,Female,03-12-2003,Delhi,Delhi,High Value,Gold,10-08-2022,megha.meena@gmail.com,9522907635,162816.0
+CUST00159,Sanjay,Shetty,Male,28-07-1991,Chennai,Tamil Nadu,At Risk,Bronze,10-08-2022,sanjay.shetty8925@gmail.com,6698626778,4846.0
+CUST00160,Meera,Dubey,Female,18-03-1982,Gurgaon,Haryana,At Risk,Bronze,11-08-2022,meera.dubey7052@gmail.com,9462285746,3209.0
+CUST00161,Aditya,Sharma,Other,29-08-1992,Noida,Uttar Pradesh,At Risk,Bronze,11-08-2022,aditya.sharma@yahoo.co.in,7967981948,7002.0
+CUST00162,Hiren,Bhatt,Male,28-06-1994,Mumbai,Maharashtra,Regular,Silver,12-08-2022,hiren.bhatt6057@gmail.com,7465505974,34301.0
+CUST00163,Nikhil,Pawar,Male,27-03-1991,Ahmedabad,Gujarat,At Risk,Bronze,16-08-2022,nikhil.pawar2957@gmail.com,8306441979,0.0
+CUST00165,Aarav,Verma,Male,19-12-1984,Delhi,Delhi,High Value,Gold,22-08-2022,aarav.verma@gmail.com,8084336986,151702.0
+CUST00166,Ishaan,Prasad,Male,15-01-1993,Bangalore,Karnataka,Regular,Silver,24-08-2022,ishaan.prasad7625@gmail.com,9325620230,78648.0
+CUST00167,Shreya,Rao,Female,,Bangalore,Karnataka,High Value,Platinum,25-08-2022,shreya.rao1446@gmail.com,8300712476,288119.0
+CUST00168,Utkarsh,Parekh,Male,15-04-1984,Pune,Maharashtra,At Risk,Bronze,27-08-2022,utkarsh.parekh4828@gmail.com,7495065471,547.0
+CUST00169,Payal,Reddy,Female,22-06-2000,Bangalore,Karnataka,At Risk,Silver,06-09-2022,payal.reddy@rediffmail.com,6673136787,27823.0
+CUST00170,Aarav,Hegde,Male,23-04-1990,Bangalore,Karnataka,Regular,Silver,07-09-2022,aarav.hegde9570@gmail.com,9302978308,78207.0
+CUST00171,Harpreet,Srivastava,Male,24-01-1996,Noida,Uttar Pradesh,At Risk,Bronze,09-09-2022,harpreet.srivastava@gmail.com,9985744217,0.0
+CUST00172,Omkar,Deshmukh,Male,21-04-2004,Nagpur,Maharashtra,At Risk,Silver,12-09-2022,omkar.deshmukh@gmail.com,9621628705,94622.0
+CUST00173,Sachin,Chauhan,Male,11-09-1988,Delhi,Delhi,High Value,Gold,15-09-2022,sachin.chauhan@gmail.com,9728219882,261531.0
+CUST00174,Sakshi,Shinde,Female,28-09-1993,Ahmedabad,Gujarat,High Value,Gold,15-09-2022,sakshi.shinde@yahoo.com,9294845600,270860.0
+CUST00175,Rutuja,Patil,Female,17-11-1985,Indore,Madhya Pradesh,At Risk,Silver,16-09-2022,rutuja.patil3983@gmail.com,9095257257,44054.0
+CUST00176,Siddharth,Rao,Male,,Bangalore,Karnataka,High Value,Gold,23-09-2022,siddharth.rao@gmail.com,8701679653,144345.0
+CUST00177,Gayathri,Gowda,Female,28-05-1996,Bangalore,Karnataka,At Risk,Bronze,25-09-2022,gayathri.gowda7658@gmail.com,9610141197,385.0
+CUST00178,Manish,Naidu,Male,22-01-1985,Chennai,Tamil Nadu,At Risk,Bronze,25-09-2022,manish.naidu3162@gmail.com,9893234297,2579.0
+CUST00179,Ananya,Gowda,Female,19-02-1992,Chennai,Tamil Nadu,At Risk,Bronze,27-09-2022,ananya.gowda@gmail.com,9099378940,2582.0
+CUST00180,Poonam,Bhatia,Other,13-12-1991,Patna,Bihar,Vip,Platinum,28-09-2022,poonam.bhatia927@gmail.com,9683765484,411051.0
+CUST00181,Ankit,Sen,Male,13-03-1998,Kolkata,West Bengal,High Value,Gold,30-09-2022,ankit.sen@gmail.com,9208037782,306039.0
+CUST00182,Nilesh,Shinde,Male,07-02-1988,Ahmedabad,Gujarat,High Value,Gold,01-10-2022,nilesh.shinde6049@outlook.com,9012755745,155482.0
+CUST00183,Snehal,Kamat,Female,01-11-2002,Mumbai,Maharashtra,At Risk,Bronze,04-10-2022,snehal.kamat6481@outlook.com,8277037213,11543.0
+CUST00184,Mohit,Menon,Male,23-06-1987,Chennai,Tamil Nadu,Vip,Platinum,06-10-2022,mohit.menon8715@gmail.com,8780250322,443452.0
+CUST00185,Pankaj,Pillai,Male,29-08-2004,Hyderabad,Telangana,At Risk,Silver,19-10-2022,pankaj.pillai7631@gmail.com,9752731007,45473.0
+CUST00186,Gaurav,Joshi,Male,12-08-1999,Gurgaon,Haryana,High Value,Platinum,21-10-2022,gaurav.joshi@gmail.com,7178595745,200891.0
+CUST00187,Megha,Patil,Female,04-07-1992,Mumbai,Maharashtra,At Risk,Bronze,23-10-2022,unknown,8537962551,926.0
+CUST00188,Pankaj,Krishnan,Male,09-05-1994,Bangalore,Karnataka,At Risk,Silver,24-10-2022,pankaj.krishnan7188@gmail.com,6341353178,53191.0
+CUST00189,Manpreet,Mishra,Female,29-05-2000,Chandigarh,Chandigarh,Regular,Silver,28-10-2022,manpreet.mishra7723@gmail.com,8300924073,68569.0
+CUST00190,Sneha,Chauhan,Female,29-09-1980,Patna,Bihar,At Risk,Silver,28-10-2022,sneha.chauhan@outlook.com,9650108488,104871.0
+CUST00191,Arjun,Desai,Male,02-12-1985,Surat,Gujarat,Regular,Silver,30-10-2022,arjun.desai4233@gmail.com,9583414364,111420.0
+CUST00192,Karan,Bhat,Male,30-06-1987,Kochi,Kerala,At Risk,Silver,30-10-2022,karan.bhat9569@gmail.com,8098097363,51684.0
+CUST00193,Aditi,Sundaram,unknown,21-09-1978,Hyderabad,Telangana,At Risk,Bronze,04-11-2022,aditi.sundaram9644@gmail.com,9545742104,7787.0
+CUST00194,Isha,Bhatt,Female,17-08-2004,Nagpur,Maharashtra,At Risk,Silver,07-11-2022,isha.bhatt6208@gmail.com,8275804526,25770.0
+CUST00195,Sachin,Mehra,Male,11-11-1992,Jaipur,Rajasthan,At Risk,Bronze,07-11-2022,sachin.mehra@gmail.com,9528660314,13096.0
+CUST00196,Mahesh,Thakur,Male,24-12-1977,Chandigarh,Chandigarh,High Value,Platinum,08-11-2022,mahesh.thakur@gmail.com,9514757818,264373.0
+CUST00197,Naveen,Jadhav,Male,,Ahmedabad,Gujarat,At Risk,Silver,08-11-2022,naveen.jadhav8236@gmail.com,9994004658,93888.0
+CUST00198,Anil,Subramanian,Male,22-07-2004,Bangalore,Karnataka,Regular,Silver,09-11-2022,anil.subramanian@yahoo.co.in,9177425169,37647.0
+CUST00199,Isha,Malhotra,Female,06-02-1991,Chandigarh,Chandigarh,Regular,Gold,10-11-2022,isha.malhotra9972@gmail.com,9579385442,121760.0
+CUST00200,Omkar,Trivedi,Male,22-07-1981,Pune,Maharashtra,Regular,Silver,11-11-2022,omkar.trivedi@gmail.com,7845081573,68433.0
+CUST00201,Ayush,Jha,Male,19-02-1990,Delhi,Delhi,At Risk,Silver,16-11-2022,ayush.jha4832@gmail.com,9738936972,30082.0
+CUST00202,Mansi,Kamat,Female,25-08-1990,Pune,Maharashtra,At Risk,Gold,18-11-2022,mansi.kamat4372@gmail.com,8577248558,133050.0
+CUST00203,Diya,Patel,Female,13-09-1979,Nagpur,Maharashtra,Vip,Platinum,18-11-2022,diya.patel9562@yahoo.co.in,9430116258,742953.0
+CUST00204,Akash,Menon,Male,26-02-1992,Bangalore,Karnataka,Regular,Silver,20-11-2022,akash.menon4662@hotmail.com,8687789621,104963.0
+CUST00205,Aditi,Jha,Female,14-12-1983,Delhi,Delhi,High Value,Gold,03-12-2022,aditi.jha572@gmail.com,8088650455,207204.0
+CUST00206,Hiren,Patel,Male,27-09-1966,Indore,Madhya Pradesh,At Risk,Bronze,07-12-2022,hiren.patel3230@yahoo.com,7326071054,0.0
+CUST00207,Abhishek,Jadhav,Male,07-03-1996,Pune,Maharashtra,High Value,Gold,09-12-2022,abhishek.jadhav@yahoo.com,9134390067,152252.0
+CUST00208,Shruti,Saxena,Female,31-12-1981,Delhi,Delhi,At Risk,Bronze,11-12-2022,shruti.saxena@gmail.com,7601658922,0.0
+CUST00209,Sneha,Rao,Female,15-08-1983,Bangalore,Karnataka,At Risk,Silver,14-12-2022,sneha.rao@yahoo.co.in,9572865864,67887.0
+CUST00210,Karan,Kurup,Male,22-05-1987,Bangalore,Karnataka,At Risk,Silver,24-12-2022,karan.kurup4217@yahoo.com,8950274141,33961.0
+CUST00211,Aarav,Deshmukh,Male,16-06-1987,Mumbai,Maharashtra,At Risk,Bronze,27-12-2022,aarav.deshmukh9770@gmail.com,7658675618,1863.0
+CUST00212,Shruti,Patel,Female,23-06-1992,Ahmedabad,Gujarat,At Risk,Bronze,28-12-2022,shruti.patel9198@gmail.com,8766554483,0.0
+CUST00213,Pankaj,Mehta,Male,15-12-1998,Pune,Maharashtra,Regular,Silver,29-12-2022,pankaj.mehta4062@hotmail.com,9907621691,54861.0
+CUST00214,Divya,Siddiqui,Female,20-09-1988,Noida,Uttar Pradesh,At Risk,Silver,02-01-2023,divya.siddiqui9114@yahoo.com,8064750983,97240.0
+CUST00215,Ananya,Sharma,Female,23-12-2004,Jaipur,Rajasthan,At Risk,Bronze,07-01-2023,ananya.sharma6711@gmail.com,9219459013,1050.0
+CUST00216,Radhika,Chatterjee,Female,24-03-1970,Kolkata,West Bengal,Regular,Silver,07-01-2023,radhika.chatterjee3476@gmail.com,9301681681,117548.0
+CUST00217,Anita,Sundaram,Female,01-01-1991,Hyderabad,Telangana,At Risk,Bronze,08-01-2023,anita.sundaram@gmail.com,6753157372,3797.0
+CUST00219,Payal,Subramanian,Female,23-02-1995,Chennai,Tamil Nadu,At Risk,Silver,10-01-2023,payal.subramanian8289@outlook.com,8651833571,104824.0
+CUST00221,Bhavna,Srivastava,Female,19-11-1996,Gurgaon,Haryana,At Risk,Bronze,15-01-2023,bhavna.srivastava@gmail.com,9579476586,2739.0
+CUST00222,Mukesh,Rathore,Male,03-08-1992,Patna,Bihar,Regular,Silver,18-01-2023,mukesh.rathore1371@gmail.com,9282450666,99433.0
+CUST00223,Akash,Kamat,Male,13-08-1998,Indore,Madhya Pradesh,Regular,Silver,19-01-2023,akash.kamat@icloud.com,8312153224,40045.0
+CUST00224,Bhavani,Chandran,Female,01-05-1999,Chennai,Tamil Nadu,Regular,Gold,24-01-2023,bhavani.chandran6058@rediffmail.com,9743074733,139686.0
+CUST00225,Vijay,Arora,Male,20-01-2005,Delhi,Delhi,High Value,Platinum,26-01-2023,vijay.arora3020@hotmail.com,8315415898,262018.0
+CUST00226,Mohit,Gowda,Male,14-11-1996,Kochi,Kerala,Regular,Silver,27-01-2023,mohit.gowda3916@gmail.com,8750001288,39151.0
+CUST00227,Ananya,Gaikwad,Female,24-01-1994,Mumbai,Maharashtra,Regular,Silver,01-02-2023,ananya.gaikwad9853@gmail.com,9953500997,82779.0
+CUST00228,Rohan,Mishra,Male,27-01-1988,Delhi,Delhi,Regular,Silver,02-02-2023,rohan.mishra9282@outlook.com,9734753073,96556.0
+CUST00229,Naveen,Balaji,Male,15-12-1985,Kochi,Kerala,At Risk,Silver,02-02-2023,naveen.balaji6836@outlook.com,9785444029,37502.0
+CUST00230,Gurpreet,Sharma,Male,22-08-1985,Patna,Bihar,High Value,Platinum,06-02-2023,gurpreet.sharma9911@gmail.com,9496524632,291204.0
+CUST00231,Simran,Sharma,Female,08-04-1983,Jaipur,Rajasthan,Regular,Bronze,08-02-2023,simran.sharma1671@gmail.com,9400855713,2315.0
+CUST00232,Aditya,Singh,Male,28-12-1986,Chandigarh,Chandigarh,High Value,Gold,09-02-2023,aditya.singh@gmail.com,9423716667,162693.0
+CUST00233,Deepak,Bhosale,Male,21-02-1998,Nagpur,Maharashtra,At Risk,Bronze,18-02-2023,deepak.bhosale5143@hotmail.com,9477657968,539.0
+CUST00234,Swati,Mishra,Female,04-09-1982,Lucknow,Uttar Pradesh,Regular,Bronze,26-02-2023,swati.mishra5458@yahoo.co.in,9459047880,14423.0
+CUST00235,Shreya,Gaikwad,Female,12-03-1986,Mumbai,Maharashtra,At Risk,Silver,28-02-2023,shreya.gaikwad@gmail.com,8407537734,85152.0
+CUST00236,Naveen,Bhosale,Male,10-10-1992,Nagpur,Maharashtra,At Risk,Silver,01-03-2023,naveen.bhosale@outlook.com,9927462513,64437.0
+CUST00237,Divya,Dubey,Female,13-08-1983,Chandigarh,Chandigarh,Regular,Bronze,03-03-2023,divya.dubey5040@outlook.com,9231510788,14620.0
+CUST00239,Akash,Krishnan,Male,,Hyderabad,Telangana,Regular,Gold,06-03-2023,akash.krishnan@gmail.com,9349581696,45269.0
+CUST00240,Lakshmi,Krishnan,Female,07-03-1995,Kochi,Kerala,Regular,Gold,07-03-2023,lakshmi.krishnan@gmail.com,9980358930,139446.0
+CUST00241,Anjali,Joshi,Female,03-04-1989,Delhi,Delhi,Regular,Bronze,09-03-2023,anjali.joshi@gmail.com,7607061725,11508.0
+CUST00242,Nisha,Saxena,Female,09-12-2000,Jaipur,Rajasthan,At Risk,Bronze,09-03-2023,nisha.saxena@gmail.com,9492436285,13437.0
+CUST00243,Mohit,Mehta,Male,03-12-1975,Mumbai,Maharashtra,At Risk,Silver,20-03-2023,mohit.mehta2058@gmail.com,8044882023,83733.0
+CUST00244,Kavya,Modi,unknown,16-01-2000,Ahmedabad,Gujarat,At Risk,Bronze,22-03-2023,kavya.modi7410@gmail.com,8520312063,0.0
+CUST00245,Swati,Pawar,Female,02-01-1989,Nagpur,Maharashtra,High Value,Gold,24-03-2023,swati.pawar3951@gmail.com,8081540640,203519.0
+CUST00246,Aditi,Khanna,Female,03-02-2005,Delhi,Delhi,Regular,Bronze,31-03-2023,aditi.khanna@icloud.com,9161147263,10843.0
+CUST00247,Sneha,Naik,Female,29-03-2005,Mumbai,Maharashtra,At Risk,Bronze,31-03-2023,sneha.naik4177@gmail.com,7635988375,1023.0
+CUST00248,Pranav,Iyer,Male,21-05-1996,Bangalore,Karnataka,High Value,Gold,04-04-2023,pranav.iyer2411@gmail.com,9920652988,177755.0
+CUST00249,Rishabh,Modi,Male,18-02-1992,Mumbai,Maharashtra,At Risk,Bronze,13-04-2023,rishabh.modi4895@icloud.com,7190595664,5463.0
+CUST00250,Preeti,Bhatt,Female,28-10-1989,Indore,Madhya Pradesh,At Risk,Bronze,16-04-2023,preeti.bhatt@gmail.com,9295995490,16831.0
+CUST00251,Shreya,Bhatt,Female,02-08-1996,Mumbai,Maharashtra,Regular,Silver,18-04-2023,shreya.bhatt9357@gmail.com,7053859626,86331.0
+CUST00252,Sunita,Thakkar,Female,29-07-1990,Surat,Gujarat,At Risk,Silver,18-04-2023,sunita.thakkar3912@gmail.com,8948725281,60675.0
+CUST00253,Arnab,Mondal,Male,25-02-1988,Guwahati,Assam,At Risk,Bronze,23-04-2023,unknown,9172498453,0.0
+CUST00254,Naveen,Naik,Male,24-12-1987,Mumbai,Maharashtra,Regular,Gold,24-04-2023,naveen.naik8062@icloud.com,9609203154,116541.0
+CUST00255,Anjali,Naik,Female,11-06-1997,Nagpur,Maharashtra,At Risk,Bronze,25-04-2023,anjali.naik62@gmail.com,9037648290,0.0
+CUST00256,Mohit,Modi,Male,23-10-1983,Surat,Gujarat,Regular,Gold,26-04-2023,mohit.modi580@gmail.com,8841389505,122317.0
+CUST00257,Sanjay,Ranjan,Male,27-04-1995,Delhi,Delhi,At Risk,Bronze,03-05-2023,sanjay.ranjan6358@yahoo.co.in,8233970939,2168.0
+CUST00258,Mahesh,Kurup,Male,18-04-1996,Chennai,Tamil Nadu,At Risk,Bronze,05-05-2023,mahesh.kurup2381@gmail.com,9004542057,8752.0
+CUST00259,Kavya,Mehta,Female,13-03-1976,Mumbai,Maharashtra,Regular,Bronze,10-05-2023,kavya.mehta8849@gmail.com,8411400531,2391.0
+CUST00260,Shubham,Kumar,Male,27-01-1989,Hyderabad,Telangana,At Risk,Silver,10-05-2023,shubham.kumar2823@gmail.com,7763693179,41373.0
+CUST00261,Vivaan,Bhatia,Male,05-08-1983,Delhi,Delhi,At Risk,Silver,16-05-2023,vivaan.bhatia3944@gmail.com,9881240178,83732.0
+CUST00262,Meera,Deshmukh,Female,16-08-1992,Mumbai,Maharashtra,New,Silver,16-05-2023,meera.deshmukh7021@rediffmail.com,9264844642,72289.0
+CUST00263,Bhavna,Bhosale,Female,28-05-1992,Mumbai,Maharashtra,New,Bronze,19-05-2023,bhavna.bhosale@gmail.com,9756297465,2015.0
+CUST00264,Vishal,Chauhan,Male,24-11-2003,Delhi,Delhi,Regular,Bronze,21-05-2023,vishal.chauhan@hotmail.com,9807758885,9504.0
+CUST00265,Gaurav,Shinde,Male,,Mumbai,Maharashtra,At Risk,Silver,25-05-2023,gaurav.shinde4723@outlook.com,9800004802,26579.0
+CUST00266,Harsh,Naidu,Male,05-01-1993,Chennai,Tamil Nadu,At Risk,Silver,26-05-2023,harsh.naidu@hotmail.com,8391068191,29780.0
+CUST00267,Harsh,Bhat,Male,29-12-1992,Bangalore,Karnataka,At Risk,Bronze,27-05-2023,harsh.bhat5201@icloud.com,9846638459,10135.0
+CUST00268,Priya,Varma,Female,04-09-1995,Bangalore,Karnataka,High Value,Gold,27-05-2023,priya.varma@gmail.com,9448905187,172574.0
+CUST00269,Dev,Kurup,Male,,Chennai,Tamil Nadu,High Value,Gold,01-06-2023,dev.kurup@gmail.com,9149209879,228233.0
+CUST00270,Diya,Naidu,Female,29-12-2004,Bangalore,Karnataka,At Risk,Bronze,05-06-2023,diya.naidu@outlook.com,8144203282,1703.0
+CUST00271,Ritu,Reddy,Female,23-05-1999,Bangalore,Karnataka,At Risk,Bronze,06-06-2023,ritu.reddy2174@yahoo.co.in,9197619635,2498.0
+CUST00272,Poonam,Yadav,Female,02-10-1986,Chandigarh,Chandigarh,Regular,Bronze,08-06-2023,poonam.yadav4469@gmail.com,9426899348,17650.0
+CUST00273,Karan,Ahmed,Male,02-05-1989,Delhi,Delhi,Regular,Bronze,09-06-2023,karan.ahmed9491@gmail.com,8699542919,7526.0
+CUST00274,Kabir,Bansal,Male,03-06-1987,Lucknow,Uttar Pradesh,At Risk,Silver,09-06-2023,kabir.bansal@gmail.com,9765122485,56569.0
+CUST00275,Praveen,Murthy,Male,18-01-1979,Hyderabad,Telangana,High Value,Gold,11-06-2023,praveen.murthy6173@gmail.com,9807689775,162714.0
+CUST00276,Saurabh,Khanna,Male,26-02-1987,Delhi,Delhi,Regular,Bronze,11-06-2023,saurabh.khanna8668@gmail.com,7237198336,6145.0
+CUST00277,Arjun,Mehra,Male,20-09-1984,Delhi,Delhi,High Value,Silver,13-06-2023,arjun.mehra3853@yahoo.co.in,8892476894,162973.0
+CUST00278,Dev,Chavan,Male,21-07-1975,Surat,Gujarat,At Risk,Bronze,15-06-2023,dev.chavan473@gmail.com,9936219111,2287.0
+CUST00279,Meera,Rao,Female,31-12-1992,Chennai,Tamil Nadu,At Risk,Bronze,17-06-2023,meera.rao1474@gmail.com,9635205755,3739.0
+CUST00280,Jyoti,Murthy,Female,28-07-1991,Kochi,Kerala,At Risk,Bronze,21-06-2023,jyoti.murthy5763@yahoo.co.in,9062400243,95346.0
+CUST00282,Shruti,Thakur,Female,17-10-1994,Delhi,Delhi,At Risk,Silver,01-07-2023,shruti.thakur719@gmail.com,6790663754,87638.0
+CUST00283,Manpreet,Sharma,Female,30-07-1985,Chandigarh,Chandigarh,Regular,Silver,07-07-2023,manpreet.sharma406@gmail.com,9881907782,81505.0
+CUST00285,Yash,Kale,Male,18-09-2002,Pune,Maharashtra,At Risk,Gold,15-07-2023,yash.kale@yahoo.co.in,8302731311,151238.0
+CUST00286,Nisha,Sawant,Female,31-05-1977,Nagpur,Maharashtra,Regular,Silver,18-07-2023,nisha.sawant6854@yahoo.co.in,8567106886,61198.0
+CUST00287,Yash,Narayanan,Male,11-02-2001,Bangalore,Karnataka,New,Silver,20-07-2023,yash.narayanan335@yahoo.co.in,8274218069,32824.0
+CUST00288,Manish,Deshmukh,Male,02-02-1983,Nagpur,Maharashtra,At Risk,Bronze,21-07-2023,manish.deshmukh9655@rediffmail.com,9612657992,20148.0
+CUST00289,Anita,Shinde,Female,29-06-1982,Surat,Gujarat,High Value,Gold,26-07-2023,anita.shinde4241@gmail.com,6911870356,219768.0
+CUST00290,Siddharth,Jadhav,Male,18-06-1988,Mumbai,Maharashtra,At Risk,Gold,01-08-2023,siddharth.jadhav485@gmail.com,7237479055,139996.0
+CUST00291,Shruti,Mishra,Female,05-03-1967,Noida,Uttar Pradesh,Regular,Gold,08-08-2023,shruti.mishra@gmail.com,9802652671,118791.0
+CUST00292,Gayathri,Gowda,Female,15-04-1972,Kochi,Kerala,At Risk,Silver,13-08-2023,gayathri.gowda@gmail.com,9132234428,39409.0
+CUST00293,Shubham,Nayak,Male,12-11-1990,Bhubaneswar,Odisha,High Value,Gold,19-08-2023,shubham.nayak9183@yahoo.com,9408559466,172337.0
+CUST00294,Sachin,Gogoi,Male,29-12-1990,Kolkata,West Bengal,High Value,Gold,21-08-2023,sachin.gogoi@outlook.com,8427844648,239440.0
+CUST00295,Sneha,Kapoor,Female,08-07-1974,Jaipur,Rajasthan,At Risk,Bronze,25-08-2023,sneha.kapoor5063@gmail.com,9346082370,10881.0
+CUST00296,Manish,Verma,Male,03-05-1983,Delhi,Delhi,At Risk,Bronze,31-08-2023,manish.verma7418@outlook.com,8677150448,0.0
+CUST00298,Utkarsh,Jadhav,Male,28-09-1987,Mumbai,Maharashtra,At Risk,Bronze,01-09-2023,utkarsh.jadhav417@gmail.com,9585181999,911.0
+CUST00299,Harsh,Mehta,Male,18-03-2004,Nagpur,Maharashtra,At Risk,Bronze,02-09-2023,harsh.mehta9457@gmail.com,9158195355,505.0
+CUST00300,Ankit,Khanna,Male,28-01-2005,Delhi,Delhi,At Risk,Silver,03-09-2023,ankit.khanna6388@gmail.com,8613333249,53160.0
+CUST00301,Shreya,Shah,Female,03-06-2001,Pune,Maharashtra,Regular,Silver,04-09-2023,shreya.shah@yahoo.co.in,9170318706,23228.0
+CUST00302,Sameer,Ansari,Male,16-08-1981,Gurgaon,Haryana,High Value,Gold,06-09-2023,sameer.ansari@gmail.com,9547090747,155761.0
+CUST00303,Aarav,Hazarika,Male,24-01-2003,Guwahati,Assam,Regular,Silver,06-09-2023,aarav.hazarika4963@gmail.com,9564178186,62812.0
+CUST00304,Ayush,Menon,Male,11-09-1989,Chennai,Tamil Nadu,High Value,Platinum,07-09-2023,ayush.menon3845@outlook.com,9040309307,272377.0
+CUST00305,Karan,Trivedi,Male,23-07-1986,Mumbai,Maharashtra,At Risk,Bronze,08-09-2023,karan.trivedi2377@gmail.com,9013230690,5694.0
+CUST00306,Rahul,Pandey,Male,13-02-1988,Lucknow,Uttar Pradesh,At Risk,Silver,09-09-2023,rahul.pandey2004@rediffmail.com,9909291915,117928.0
+CUST00307,Harsh,Naik,Male,07-07-1998,Indore,Madhya Pradesh,At Risk,Gold,11-09-2023,harsh.naik@yahoo.co.in,9282684185,20196.0
+CUST00308,Rajesh,Chavan,Male,16-10-2003,Ahmedabad,Gujarat,Regular,Silver,14-09-2023,rajesh.chavan3156@gmail.com,8978949204,22584.0
+CUST00309,Mrunal,Mehta,Female,18-03-1991,Pune,Maharashtra,At Risk,Bronze,16-09-2023,mrunal.mehta5856@gmail.com,8375478586,15885.0
+CUST00310,Ritu,Reddy,Female,20-11-1967,Bangalore,Karnataka,At Risk,Silver,20-09-2023,ritu.reddy7426@gmail.com,9961775358,35595.0
+CUST00311,Neha,Sinha,Female,26-04-1992,Delhi,Delhi,At Risk,Silver,20-09-2023,neha.sinha1525@gmail.com,9242723368,29023.0
+CUST00312,Vivaan,Shetty,Male,24-07-1997,Hyderabad,Telangana,At Risk,Silver,21-09-2023,vivaan.shetty284@gmail.com,8685539822,74056.0
+CUST00313,Deepika,Gowda,Female,11-04-1985,Bangalore,Karnataka,Regular,Silver,27-09-2023,deepika.gowda@gmail.com,6599745675,29520.0
+CUST00314,Deepak,Mehra,Male,30-01-1990,Jaipur,Rajasthan,Regular,Gold,29-09-2023,deepak.mehra@gmail.com,8085488832,138912.0
+CUST00315,Kiran,Mehta,Female,27-07-1989,Pune,Maharashtra,Regular,Silver,03-10-2023,kiran.mehta2747@gmail.com,8697458824,23783.0
+CUST00316,Arjun,More,Male,19-10-1980,Pune,Maharashtra,At Risk,Bronze,04-10-2023,arjun.more1561@gmail.com,9019293131,0.0
+CUST00317,Ramesh,Thakur,Other,02-07-2005,Jaipur,Rajasthan,At Risk,Bronze,06-10-2023,ramesh.thakur4815@yahoo.co.in,8862148116,7154.0
+CUST00318,Aditya,Khanna,Male,02-09-1988,Noida,Uttar Pradesh,Regular,Bronze,08-10-2023,aditya.khanna5412@gmail.com,8449320541,7396.0
+CUST00319,Rekha,Varma,Other,04-07-1990,Bangalore,Karnataka,At Risk,Bronze,08-10-2023,rekha.varma@outlook.com,8869015355,0.0
+CUST00320,Naveen,Chavan,Male,19-09-2000,Mumbai,Maharashtra,High Value,Platinum,08-10-2023,naveen.chavan1803@yahoo.com,6876229654,309907.0
+CUST00321,Bhavna,Agarwal,Female,30-03-1992,Patna,Bihar,Regular,Silver,09-10-2023,bhavna.agarwal1997@gmail.com,9640362465,36077.0
+CUST00322,Aditya,Shah,Male,03-08-1974,Surat,Gujarat,High Value,Gold,10-10-2023,aditya.shah4989@gmail.com,8714836628,155226.0
+CUST00323,Rajesh,Patel,Male,18-08-1987,Mumbai,Maharashtra,At Risk,Bronze,11-10-2023,rajesh.patel@gmail.com,8800951877,2105.0
+CUST00325,Naveen,Raman,Male,12-01-1985,Kochi,Kerala,Vip,Platinum,13-10-2023,naveen.raman@gmail.com,9779582206,369057.0
+CUST00326,Pallavi,Sen,Female,18-02-1995,Bhubaneswar,Odisha,At Risk,Silver,13-10-2023,pallavi.sen@gmail.com,9665155167,28910.0
+CUST00327,Ritu,Jadhav,Female,13-07-1982,Mumbai,Maharashtra,At Risk,Bronze,14-10-2023,ritu.jadhav@gmail.com,9696749293,11170.0
+CUST00328,Kiran,Krishnan,Female,13-10-1997,Bangalore,Karnataka,Regular,Gold,15-10-2023,kiran.krishnan5800@outlook.com,8045995689,41232.0
+CUST00329,Anjali,Dubey,Female,30-08-2002,Delhi,Delhi,At Risk,Gold,20-10-2023,anjali.dubey4244@hotmail.com,8335949370,138826.0
+CUST00330,Mayank,Chauhan,Male,25-09-1965,Chandigarh,Chandigarh,High Value,Platinum,20-10-2023,mayank.chauhan430@gmail.com,8299857323,278369.0
+CUST00331,Jyoti,Joshi,Female,28-03-1996,Gurgaon,Haryana,At Risk,Bronze,27-10-2023,jyoti.joshi@gmail.com,6827056995,10905.0
+CUST00332,Karan,Ali,Male,22-02-1989,Delhi,Delhi,At Risk,Bronze,28-10-2023,karan.ali8112@gmail.com,9681519230,16912.0
+CUST00333,Ishaan,Chandran,Male,03-08-1992,Hyderabad,Telangana,Regular,Silver,28-10-2023,ishaan.chandran1618@gmail.com,8843198290,23562.0
+CUST00334,Ashok,Kapoor,Male,10-04-2005,Delhi,Delhi,At Risk,Bronze,29-10-2023,ashok.kapoor@rediffmail.com,9832512339,11277.0
+CUST00335,Sonia,Malhotra,Female,05-12-2004,Jaipur,Rajasthan,At Risk,Bronze,30-10-2023,sonia.malhotra@icloud.com,8935985893,2287.0
+CUST00336,Mayank,Shinde,Male,07-10-1991,Mumbai,Maharashtra,Regular,Silver,31-10-2023,mayank.shinde@hotmail.com,7958579655,99793.0
+CUST00337,Sakshi,Sawant,Female,30-10-1984,Pune,Maharashtra,Regular,Bronze,31-10-2023,sakshi.sawant710@gmail.com,9133800578,98793.0
+CUST00338,Neha,Sinha,Female,18-11-1999,Patna,Bihar,High Value,Gold,01-11-2023,neha.sinha775@outlook.com,8966265659,255748.0
+CUST00339,Biswajit,Bose,unknown,21-08-1997,Guwahati,Assam,High Value,Gold,01-11-2023,biswajit.bose9325@gmail.com,9947780265,249569.0
+CUST00340,Komal,Bhat,Female,24-03-1985,Bengaluru,Karnataka,At Risk,Gold,05-11-2023,komal.bhat1378@gmail.com,9230721634,146685.0
+CUST00341,Deepika,Arora,Female,27-06-1991,Delhi,Delhi,At Risk,Bronze,06-11-2023,deepika.arora3608@gmail.com,9712290830,1629.0
+CUST00342,Arjun,Bhatia,Male,17-09-1978,Jaipur,Rajasthan,At Risk,Bronze,08-11-2023,arjun.bhatia9102@gmail.com,9794529929,18539.0
+CUST00343,Neha,Kurup,Female,10-04-1985,Chennai,Tamil Nadu,Regular,Gold,10-11-2023,neha.kurup2134@gmail.com,9644652717,132307.0
+CUST00344,Janvi,Kale,Female,08-09-1998,Surat,Gujarat,Regular,Silver,10-11-2023,janvi.kale5285@gmail.com,9542818597,100900.0
+CUST00345,Nisha,Raman,Female,22-03-2005,Bangalore,Karnataka,At Risk,Silver,11-11-2023,nisha.raman4091@outlook.com,9321654787,157580.0
+CUST00346,Sonia,Trivedi,Female,16-07-1988,Indore,Madhya Pradesh,At Risk,Bronze,12-11-2023,sonia.trivedi@rediffmail.com,9807232282,15243.0
+CUST00347,Diya,Jadhav,Female,06-12-1980,Mumbai,Maharashtra,Regular,Gold,12-11-2023,diya.jadhav@icloud.com,9051869102,123256.0
+CUST00348,Vishal,Mehta,Male,17-05-1986,Pune,Maharashtra,Regular,Gold,13-11-2023,vishal.mehta@outlook.com,9719130772,75258.0
+CUST00349,Vinod,Sundaram,Male,13-06-1969,Chennai,Tamil Nadu,At Risk,Bronze,14-11-2023,vinod.sundaram6472@gmail.com,9030045110,17154.0
+CUST00350,Nilesh,Kamat,Male,19-12-1978,Nagpur,Maharashtra,High Value,Gold,16-11-2023,nilesh.kamat@gmail.com,9950189431,155938.0
+CUST00351,Anita,Joshi,Female,25-12-1996,Chandigarh,Chandigarh,Regular,Bronze,17-11-2023,anita.joshi7705@gmail.com,9942021812,10476.0
+CUST00352,Gaurav,Bansal,Male,23-06-1992,Lucknow,Uttar Pradesh,Regular,Silver,19-11-2023,gaurav.bansal@hotmail.com,7436672225,69955.0
+CUST00353,Diya,Thakkar,Female,13-06-2001,Mumbai,Maharashtra,At Risk,Silver,21-11-2023,diya.thakkar1871@gmail.com,8107468258,69343.0
+CUST00354,Mansi,Kale,Female,22-05-1998,Pune,Maharashtra,At Risk,Bronze,25-11-2023,mansi.kale@icloud.com,8678134687,626.0
+CUST00357,Ishaan,Mirza,Male,02-07-1980,Ahmedabad,Gujarat,At Risk,Bronze,28-11-2023,ishaan.mirza8472@gmail.com,9738487164,14122.0
+CUST00358,Komal,Balaji,Female,18-01-1997,Bangalore,Karnataka,At Risk,Silver,30-11-2023,komal.balaji8058@outlook.com,9383558770,38179.0
+CUST00359,Arjun,Trivedi,Male,27-07-2005,Pune,Maharashtra,Vip,Platinum,30-11-2023,arjun.trivedi6759@gmail.com,9398346198,352953.0
+CUST00360,Shubham,Thakur,Male,23-10-1988,Noida,Uttar Pradesh,At Risk,Silver,06-12-2023,shubham.thakur2764@gmail.com,8749771531,80153.0
+CUST00362,Siddharth,Hussain,Male,18-11-1991,Chennai,Tamil Nadu,High Value,Gold,09-12-2023,siddharth.hussain3514@gmail.com,9432769235,214968.0
+CUST00363,Riya,Iyer,Female,30-11-1989,Kochi,Kerala,High Value,Gold,09-12-2023,riya.iyer2427@gmail.com,6477370023,227974.0
+CUST00364,Saurabh,Chandran,Male,20-04-1988,Bangalore,Karnataka,Regular,Gold,09-12-2023,saurabh.chandran@yahoo.com,6447270541,117482.0
+CUST00365,Sowmya,Iyer,Female,06-04-2002,Chennai,Tamil Nadu,Regular,Silver,10-12-2023,sowmya.iyer@gmail.com,9352703211,53888.0
+CUST00366,Isha,Pawar,Female,02-08-1983,Mumbai,Maharashtra,New,Silver,13-12-2023,isha.pawar7648@yahoo.co.in,9537976245,50554.0
+CUST00368,Aditi,Shah,Female,21-02-1990,Ahmedabad,Gujarat,At Risk,Bronze,17-12-2023,aditi.shah@gmail.com,8725156233,14131.0
+CUST00369,Rukhsar,Mirza,unknown,12-03-1983,Hyderabad,Telangana,Vip,Platinum,20-12-2023,rukhsar.mirza3283@gmail.com,9897353238,513768.0
+CUST00370,Sachin,Sinha,Male,21-10-1984,Patna,Bihar,At Risk,Bronze,24-12-2023,sachin.sinha@gmail.com,8565277934,3954.0
+CUST00371,Seema,Ranjan,Female,17-12-1991,Patna,Bihar,At Risk,Bronze,26-12-2023,seema.ranjan5321@gmail.com,9991741958,18430.0
+CUST00372,Pallavi,Subramanian,Female,08-10-1992,Chennai,Tamil Nadu,Regular,Silver,26-12-2023,pallavi.subramanian3739@yahoo.com,8242274933,107462.0
+CUST00373,Pankaj,Sheikh,Male,19-11-1990,Mumbai,Maharashtra,Regular,Silver,27-12-2023,pankaj.sheikh2800@rediffmail.com,9448811122,43195.0
+CUST00374,Manish,Singh,Male,17-03-1994,Noida,Uttar Pradesh,High Value,Platinum,27-12-2023,manish.singh@gmail.com,9131353818,265827.0
+CUST00375,Divya,Mirza,Female,22-12-2005,Delhi,Delhi,At Risk,Bronze,28-12-2023,divya.mirza8525@gmail.com,9748051215,2015.0
+CUST00376,Ananya,Naik,Female,02-04-2005,Ahmedabad,Gujarat,At Risk,Silver,28-12-2023,ananya.naik7608@rediffmail.com,8278935985,56932.0
+CUST00377,Neha,Deshmukh,Female,02-05-1987,Surat,Gujarat,Regular,Bronze,30-12-2023,neha.deshmukh@gmail.com,8935375210,7028.0
+CUST00378,Karan,Mehra,Male,17-06-1983,Delhi,Delhi,At Risk,Bronze,30-12-2023,karan.mehra@yahoo.co.in,8852495820,10005.0
+CUST00379,Anita,Malhotra,Female,22-05-1997,Gurgaon,Haryana,Regular,Silver,31-12-2023,anita.malhotra7258@gmail.com,8400230591,40597.0
+CUST00380,Swati,Pandey,Female,08-09-1987,Lucknow,Uttar Pradesh,At Risk,Silver,31-12-2023,swati.pandey@gmail.com,8887671620,52484.0
+CUST00382,Darshan,Thakkar,Male,12-07-1996,Mumbai,Maharashtra,High Value,Gold,05-01-2024,darshan.thakkar4956@gmail.com,9602818949,220105.0
+CUST00383,Suresh,Bose,Male,17-11-1986,Bhubaneshwar,Odisha,Regular,Silver,10-01-2024,suresh.bose6246@yahoo.co.in,6241688606,100700.0
+CUST00384,Aarav,Narayanan,Male,24-06-2005,Hyderabad,Telangana,At Risk,Bronze,10-01-2024,aarav.narayanan6542@gmail.com,9196997170,17714.0
+CUST00385,Dev,Shinde,Male,08-08-1981,Nagpur,Maharashtra,At Risk,Bronze,13-01-2024,dev.shinde@gmail.com,9898466274,4938.0
+CUST00386,Darshan,Patil,Male,17-07-1991,Indore,Madhya Pradesh,High Value,Gold,13-01-2024,darshan.patil@outlook.com,9504942711,165238.0
+CUST00387,Salman,Ali,Male,20-04-1990,Hyderabad,Telangana,At Risk,Bronze,16-01-2024,salman.ali@gmail.com,7728557554,17572.0
+CUST00388,Kritika,Iyer,Female,07-12-1998,Hyderabad,Telangana,Vip,Platinum,20-01-2024,kritika.iyer@gmail.com,8671610776,342166.0
+CUST00389,Rajesh,Bhat,Male,26-11-1997,Hyderabad,Telangana,At Risk,Silver,02-02-2024,rajesh.bhat@yahoo.co.in,6661094473,15090.0
+CUST00390,Radhika,Desai,Female,03-09-1991,Ahmedabad,Gujarat,At Risk,Gold,16-02-2024,radhika.desai217@gmail.com,8041586750,132722.0
+CUST00391,Biswajit,Sen,Male,18-05-1968,Guwahati,Assam,At Risk,Silver,16-02-2024,biswajit.sen1362@yahoo.co.in,9092291651,100307.0
+CUST00392,Pranav,Agarwal,Male,07-02-1997,Chandigarh,Chandigarh,High Value,Gold,18-02-2024,pranav.agarwal@outlook.com,8171197393,144784.0
+CUST00393,Ashok,Pandey,Male,17-12-1979,Delhi,Delhi,Regular,Bronze,19-02-2024,ashok.pandey@gmail.com,9531252501,16280.0
+CUST00394,Manish,Shetty,Male,08-06-1991,Chennai,Tamil Nadu,New,Gold,21-02-2024,manish.shetty4918@yahoo.co.in,9580966619,212786.0
+CUST00395,Radhika,Ranjan,Female,02-12-2004,Noida,Uttar Pradesh,At Risk,Bronze,21-02-2024,radhika.ranjan9860@yahoo.co.in,9017613511,19078.0
+CUST00396,Bhavna,Malhotra,Female,25-05-1998,Noida,Uttar Pradesh,Regular,Silver,21-02-2024,bhavna.malhotra9105@yahoo.com,8414876277,22751.0
+CUST00397,Faisal,Ansari,Male,28-03-2000,Bangalore,Karnataka,Regular,Gold,22-02-2024,faisal.ansari7759@gmail.com,9734919176,138440.0
+CUST00398,Swapnil,Joshi,Male,30-06-1995,Surat,Gujarat,At Risk,Bronze,23-02-2024,swapnil.joshi864@yahoo.co.in,8531168285,2122.0
+CUST00399,Meera,Mehta,Female,20-10-1991,Pune,Maharashtra,At Risk,Bronze,02-03-2024,meera.mehta8810@hotmail.com,7510338858,3219.0
+CUST00402,Anita,Verma,Female,21-12-1988,Delhi,Delhi,Regular,Silver,09-03-2024,anita.verma@gmail.com,7096115498,84579.0
+CUST00403,Neha,Ranjan,Female,16-05-1995,Jaipur,Rajasthan,At Risk,Bronze,10-03-2024,neha.ranjan@rediffmail.com,7457603896,2410.0
+CUST00404,Mohit,Gaikwad,Male,05-09-1989,Pune,Maharashtra,At Risk,Bronze,11-03-2024,mohit.gaikwad4449@outlook.com,6117945377,5466.0
+CUST00405,Sunita,Thakur,Female,23-03-1987,Delhi,Delhi,At Risk,Bronze,14-03-2024,sunita.thakur@hotmail.com,9950811500,4648.0
+CUST00406,Mohit,Patel,Male,07-05-1995,Mumbai,Maharashtra,At Risk,Bronze,14-03-2024,mohit.patel@gmail.com,9213640811,5471.0
+CUST00408,Megha,Parekh,Female,31-08-1992,Mumbai,Maharashtra,Vip,Platinum,23-03-2024,megha.parekh9735@outlook.com,9491904844,517633.0
+CUST00409,Rohan,Tiwari,Male,27-05-1997,Noida,Uttar Pradesh,High Value,Gold,23-03-2024,rohan.tiwari1027@gmail.com,8688043629,146266.0
+CUST00410,Vishal,Nayak,Male,17-03-1991,Bhubaneswar,Odisha,Regular,Silver,24-03-2024,vishal.nayak@gmail.com,9278518102,22990.0
+CUST00411,Gaurav,Gupta,Male,04-02-1996,Noida,Uttar Pradesh,At Risk,Silver,28-03-2024,gaurav.gupta5044@yahoo.co.in,9777699230,51636.0
+CUST00412,Payal,Murthy,Female,20-12-2005,Bangalore,Karnataka,High Value,Gold,28-03-2024,payal.murthy3997@gmail.com,9716265683,152214.0
+CUST00413,Divya,Prasad,Female,12-03-1984,Hyderabad,Telangana,High Value,Gold,02-04-2024,divya.prasad9012@hotmail.com,8646008134,175890.0
+CUST00414,Deepak,Gogoi,Male,12-01-1970,Kolkata,West Bengal,At Risk,Gold,03-04-2024,deepak.gogoi3242@yahoo.co.in,8798468327,124549.0
+CUST00415,Ashok,Chauhan,Male,31-12-1992,Chandigarh,Chandigarh,Vip,Platinum,03-04-2024,ashok.chauhan1295@gmail.com,9185867055,333454.0
+CUST00416,Sneha,Balaji,Female,03-01-1983,Bangalore,Karnataka,Regular,Silver,06-04-2024,sneha.balaji9225@gmail.com,9995923372,21435.0
+CUST00417,Rohan,Kumar,Male,08-09-1999,Bangalore,Karnataka,At Risk,Bronze,10-04-2024,rohan.kumar3005@gmail.com,9970905890,650.0
+CUST00418,Sonia,Murthy,Female,06-01-1996,Kochi,Kerala,Vip,Platinum,11-04-2024,sonia.murthy4052@outlook.com,8713479550,320769.0
+CUST00419,Deepika,Iyer,Female,04-05-1999,Chennai,Tamil Nadu,At Risk,Bronze,13-04-2024,deepika.iyer6673@outlook.com,9948928607,11659.0
+CUST00420,Aanya,Chandran,Female,22-06-1987,Chennai,Tamil Nadu,Regular,Bronze,23-04-2024,aanya.chandran1156@gmail.com,9856779589,58275.0
+CUST00421,Tarun,Jain,Male,21-11-1993,Lucknow,Uttar Pradesh,Regular,Bronze,29-04-2024,tarun.jain6445@gmail.com,9226363225,8567.0
+CUST00422,Vivaan,Reddy,Male,19-11-1974,Hyderabad,Telangana,High Value,Platinum,02-05-2024,vivaan.reddy@gmail.com,9490070527,261023.0
+CUST00423,Mayank,Shah,Male,24-12-1978,Surat,Gujarat,At Risk,Bronze,06-05-2024,mayank.shah6211@yahoo.co.in,9657993565,2640.0
+CUST00424,Vikram,Sawant,Male,07-07-1994,Mumbai,Maharashtra,Regular,Gold,07-05-2024,vikram.sawant6673@hotmail.com,9326912536,139850.0
+CUST00425,Omkar,Shah,Male,26-10-2001,Surat,Gujarat,Regular,Silver,10-05-2024,omkar.shah@outlook.com,7201589076,30997.0
+CUST00426,Vivaan,Arora,Male,25-01-2002,Delhi,Delhi,Regular,Silver,10-05-2024,vivaan.arora7476@gmail.com,9560615762,104880.0
+CUST00427,Divya,More,Female,11-04-1997,Mumbai,Maharashtra,High Value,Gold,11-05-2024,divya.more7560@yahoo.com,9964434728,152012.0
+CUST00428,Abhishek,Pandey,Male,28-03-1995,Chandigarh,Chandigarh,At Risk,Silver,19-05-2024,abhishek.pandey@gmail.com,9751782937,25020.0
+CUST00429,Dev,Kamat,Male,04-02-1978,Pune,Maharashtra,At Risk,Bronze,21-05-2024,dev.kamat9005@gmail.com,9495605860,7188.0
+CUST00431,Subhajit,Saikia,Male,30-09-1977,Bhubaneswar,Odisha,At Risk,Gold,24-05-2024,subhajit.saikia@gmail.com,9044236165,121161.0
+CUST00432,Siddharth,Nair,Male,18-05-1987,Hyderabad,Telangana,At Risk,Bronze,28-05-2024,siddharth.nair4631@hotmail.com,7503059888,11092.0
+CUST00433,Nisha,Sinha,Female,06-11-1992,Gurgaon,Haryana,At Risk,Bronze,30-05-2024,nisha.sinha5272@outlook.com,8144683471,2144.0
+CUST00434,Biswajit,Das,Male,29-09-1993,Bhubaneswar,Odisha,At Risk,Silver,31-05-2024,biswajit.das3420@gmail.com,9645972076,72942.0
+CUST00435,Siddharth,Jain,Male,19-12-1976,Jaipur,Rajasthan,At Risk,Bronze,01-06-2024,siddharth.jain@gmail.com,9554258402,0.0
+CUST00436,Mahesh,Kurup,Male,28-03-1991,Hyderabad,Telangana,High Value,Gold,03-06-2024,mahesh.kurup2060@gmail.com,9300482063,231528.0
+CUST00437,Shweta,Gupta,Female,25-02-2000,Noida,Uttar Pradesh,Vip,Platinum,10-06-2024,shweta.gupta8966@gmail.com,9217677972,563693.0
+CUST00438,Radhika,Bansal,Female,02-11-1987,Jaipur,Rajasthan,At Risk,Bronze,11-06-2024,radhika.bansal@yahoo.com,9391680687,480.0
+CUST00439,Abhishek,Varma,Male,22-03-1997,Kochi,Kerala,High Value,Gold,11-06-2024,abhishek.varma8152@hotmail.com,9506288716,169277.0
+CUST00440,Kunal,Verma,Male,28-08-1996,Delhi,Delhi,Regular,Silver,13-06-2024,kunal.verma2201@outlook.com,6833585534,23139.0
+CUST00441,Amit,Chandran,Other,13-10-1990,Hyderabad,Telangana,Regular,Silver,15-06-2024,amit.chandran946@gmail.com,9594518663,25207.0
+CUST00442,Aarav,More,Male,22-10-1995,Surat,Gujarat,At Risk,Silver,16-06-2024,aarav.more@gmail.com,8757573150,77926.0
+CUST00443,Tanvi,Srivastava,Female,03-05-1995,Delhi,Delhi,At Risk,Silver,17-06-2024,tanvi.srivastava@gmail.com,7469385447,31634.0
+CUST00444,Neha,Naik,Female,11-09-1996,Mumbai,Maharashtra,At Risk,Bronze,19-06-2024,neha.naik@yahoo.com,9286982987,14102.0
+CUST00445,Rekha,Subramanian,Female,20-01-1996,Kochi,Kerala,At Risk,Gold,21-06-2024,rekha.subramanian5209@outlook.com,8568872465,137835.0
+CUST00446,Chirag,Sawant,Male,02-11-2000,Indore,Madhya Pradesh,High Value,Platinum,21-06-2024,chirag.sawant9743@gmail.com,8892035613,306697.0
+CUST00447,Swati,Meena,Female,20-02-2005,Jaipur,Rajasthan,At Risk,Bronze,24-06-2024,swati.meena1296@gmail.com,7188543383,3079.0
+CUST00448,Gopal,Kumar,Male,21-03-1998,Chennai,Tamil Nadu,At Risk,Bronze,29-06-2024,gopal.kumar1172@outlook.com,6130368935,2410.0
+CUST00449,Mayank,Trivedi,Male,22-04-1996,Surat,Gujarat,At Risk,Silver,01-07-2024,mayank.trivedi@gmail.com,8555685262,23701.0
+CUST00450,Venkatesh,Raman,Male,25-05-1988,Bangalore,Karnataka,Regular,Gold,07-07-2024,venkatesh.raman5530@gmail.com,8345179772,133892.0
+CUST00451,Yash,Kurup,Male,12-06-1997,Bangalore,Karnataka,At Risk,Bronze,14-07-2024,yash.kurup5449@yahoo.co.in,8684411990,73691.0
+CUST00452,Aditi,Patel,Female,01-06-1981,Mumbai,Maharashtra,High Value,Platinum,14-07-2024,aditi.patel@yahoo.co.in,9819178129,246466.0
+CUST00453,Sowmya,Bhat,Female,20-03-1992,Hyderabad,Telangana,At Risk,Bronze,15-07-2024,sowmya.bhat2046@hotmail.com,9763821284,377.0
+CUST00454,Rutuja,Modi,Female,24-08-1997,Indore,Madhya Pradesh,At Risk,Silver,21-07-2024,rutuja.modi@gmail.com,8131862777,35485.0
+CUST00455,Pallavi,Ranjan,Female,10-11-1978,Delhi,Delhi,At Risk,Bronze,21-07-2024,pallavi.ranjan@gmail.com,9474057784,5385.0
+CUST00456,Kiran,Sinha,Female,07-07-1988,Jaipur,Rajasthan,Regular,Bronze,22-07-2024,kiran.sinha8790@hotmail.com,9065596063,10917.0
+CUST00457,Venkatesh,Kurup,Male,14-09-1989,Bangalore,Karnataka,Vip,Gold,24-07-2024,venkatesh.kurup6712@gmail.com,9904714418,416169.0
+CUST00458,Vishal,Khan,Male,,Lucknow,Uttar Pradesh,At Risk,Silver,24-07-2024,vishal.khan@gmail.com,9263141021,68060.0
+CUST00459,Mohit,Ghosh,Male,11-08-2000,Guwahati,Assam,At Risk,Bronze,27-07-2024,mohit.ghosh8170@gmail.com,9863861810,5674.0
+CUST00460,Dev,Parekh,Male,21-09-1994,Pune,Maharashtra,At Risk,Bronze,01-08-2024,dev.parekh4166@outlook.com,9379083143,2776.0
+CUST00461,Anita,Narayanan,Female,19-05-1973,Hyderabad,Telangana,High Value,Gold,01-08-2024,anita.narayanan5932@gmail.com,9616908423,147804.0
+CUST00462,Vishal,Nayak,Male,17-03-1991,Bhubaneswar,Odisha,At Risk,Bronze,01-08-2024,vishalnayak91@gmail.com,9278518102,12803.0
+CUST00463,Omkar,Jadhav,Male,23-05-1991,Mumbai,Maharashtra,High Value,Gold,04-08-2024,omkar.jadhav5409@yahoo.co.in,9138244149,191742.0
+CUST00464,Kiran,Tiwari,Female,01-10-2001,Noida,Uttar Pradesh,At Risk,Silver,05-08-2024,kiran.tiwari@gmail.com,9439336086,0.0
+CUST00465,Karan,Krishnan,Other,31-08-1987,Hyderabad,Telangana,At Risk,Silver,10-08-2024,karan.krishnan@gmail.com,9576221819,34926.0
+CUST00466,Vikram,Sheikh,Male,04-10-1994,Bangalore,Karnataka,At Risk,Silver,17-08-2024,vikram.sheikh@gmail.com,9904811503,87740.0
+CUST00467,Shreya,Patel,Female,26-09-1993,Pune,Maharashtra,High Value,Gold,17-08-2024,shreya.patel344@gmail.com,9991563530,164908.0
+CUST00468,Tanvi,Nair,Female,04-03-1982,Hyderabad,Telangana,At Risk,Bronze,18-08-2024,tanvi.nair1106@gmail.com,8107597842,228.0
+CUST00469,Saurabh,Meena,Male,02-08-2005,Noida,Uttar Pradesh,Regular,Bronze,21-08-2024,saurabh.meena1336@rediffmail.com,6450001701,13154.0
+CUST00470,Kiran,Balaji,Female,18-02-2004,Hyderabad,Telangana,At Risk,Silver,21-08-2024,kiran.balaji8738@gmail.com,9406392366,61593.0
+CUST00471,Yash,Chavan,Male,07-03-1987,Mumbai,Maharashtra,Regular,Silver,22-08-2024,yash.chavan671@rediffmail.com,9006802931,89751.0
+CUST00472,Sreya,Saikia,Female,18-01-2000,Guwahati,Assam,At Risk,Silver,23-08-2024,sreya.saikia@gmail.com,9646128703,23475.0
+CUST00473,Amit,Kumar,Male,21-09-2005,Chennai,Tamil Nadu,At Risk,Bronze,24-08-2024,amit.kumar4103@gmail.com,9306663181,427.0
+CUST00474,Revathi,Menon,Female,19-08-1986,Chennai,Tamil Nadu,Regular,Bronze,27-08-2024,revathi.menon8033@hotmail.com,9877003211,9725.0
+CUST00475,Harpreet,Singh,Male,28-08-1992,Gurgaon,Haryana,At Risk,Bronze,28-08-2024,harpreet.singh@gmail.com,9480223888,1763.0
+CUST00477,Mayank,Sharma,Male,10-08-1993,Gurgaon,Haryana,Regular,Gold,07-09-2024,mayank.sharma8662@rediffmail.com,7065728526,139187.0
+CUST00478,Bhavna,Jain,Female,27-08-1986,Delhi,Delhi,Regular,Silver,12-09-2024,bhavna.jain2515@gmail.com,9325345214,60960.0
+CUST00479,Omkar,Trivedi,Male,22-02-1982,Mumbai,Maharashtra,High Value,Gold,21-09-2024,omkar.trivedi6809@gmail.com,8986142815,151050.0
+CUST00480,Shreya,Reddy,Female,08-02-2006,Bangalore,Karnataka,Regular,Silver,25-09-2024,shreya.reddy4096@gmail.com,9896428878,39609.0
+CUST00481,Harleen,Goyal,Female,03-02-1999,Delhi,Delhi,Regular,Silver,27-09-2024,harleen.goyal@rediffmail.com,9316545811,64619.0
+CUST00482,Gaurav,Balaji,Male,11-11-1997,Bangalore,Karnataka,At Risk,Bronze,28-09-2024,gaurav.balaji857@gmail.com,6471228022,2044.0
+CUST00483,Aamir,Mirza,Male,07-09-1988,Delhi,Delhi,Regular,Bronze,30-09-2024,aamir.mirza@hotmail.com,9672744257,19366.0
+CUST00484,Mahesh,Dubey,Male,20-12-1988,Delhi,Delhi,Regular,Bronze,01-10-2024,mahesh.dubey@yahoo.co.in,9255263881,15276.0
+CUST00485,Vikram,Krishnan,Male,24-01-1989,Hyderabad,Telangana,At Risk,Bronze,01-10-2024,vikram.krishnan4412@yahoo.co.in,8808125685,9544.0
+CUST00486,Pranav,Joshi,Male,30-06-1995,Chandigarh,Chandigarh,High Value,Gold,01-10-2024,pranav.joshi6330@gmail.com,9979960422,174805.0
+CUST00488,Snehal,Kale,Female,17-08-2004,Mumbay,Maharashtra,At Risk,Bronze,01-10-2024,snehal.kale8647@gmail.com,9558695650,1900.0
+CUST00489,Karan,Sheikh,Male,14-08-2003,Hyderabad,Telangana,At Risk,Bronze,02-10-2024,karan.sheikh5865@outlook.com,9827071250,4656.0
+CUST00490,Aamir,Hussain,Male,04-08-1998,Bhubaneswar,Odisha,Regular,Silver,02-10-2024,aamir.hussain@gmail.com,9944312014,63565.0
+CUST00491,Sanjay,Joshi,Male,10-04-1991,Ahmedabad,Gujarat,At Risk,Bronze,03-10-2024,sanjay.joshi56@hotmail.com,8631845437,600.0
+CUST00492,Purvi,Trivedi,Female,11-03-1976,Mumbai,Maharashtra,At Risk,Bronze,03-10-2024,purvi.trivedi3601@gmail.com,8686977540,13527.0
+CUST00493,Mohit,Mirza,Male,13-10-1992,Kolkata,West Bengal,At Risk,Bronze,04-10-2024,mohit.mirza6928@gmail.com,6453457049,17743.0
+CUST00494,Dev,Parekh,Male,23-04-1985,Indore,Madhya Pradesh,At Risk,Gold,04-10-2024,dev.parekh@gmail.com,8032961839,185252.0
+CUST00495,Rohan,Chavan,Male,29-04-1976,Nagpur,Maharashtra,Vip,Platinum,05-10-2024,rohan.chavan8182@outlook.com,9138208720,421207.0
+CUST00496,Anil,Kamat,Male,16-02-1976,Indore,Madhya Pradesh,High Value,Gold,06-10-2024,anil.kamat9938@gmail.com,7545082785,177675.0
+CUST00497,Varun,Menon,Male,01-03-1983,Bangalore,Karnataka,At Risk,Bronze,08-10-2024,varun.menon4655@hotmail.com,9681576311,18840.0
+CUST00498,Ankit,Thakur,Male,06-11-1987,Delhi,Delhi,At Risk,Gold,08-10-2024,ankit.thakur9373@yahoo.co.in,7924447936,114045.0
+CUST00499,Vikram,Kamat,Male,19-12-1992,Pune,Maharashtra,Regular,Silver,09-10-2024,vikram.kamat@yahoo.com,9241166783,103011.0
+CUST00501,Sunita,Meena,Female,12-12-1970,Noida,Uttar Pradesh,At Risk,Bronze,10-10-2024,sunita.meena743@rediffmail.com,8332689839,6088.0
+CUST00502,Vivaan,Reddy,Male,15-02-1988,Hyderabad,Telangana,At Risk,Bronze,11-10-2024,vivaan.reddy@outlook.com,8357266401,4030.0
+CUST00503,Rahul,Narayanan,Male,09-11-1986,Bangalore,Karnataka,Regular,Silver,14-10-2024,rahul.narayanan5522@yahoo.co.in,6378479564,28778.0
+CUST00504,Yash,Verma,Male,19-03-1990,Lucknow,Uttar Pradesh,At Risk,Bronze,14-10-2024,yash.verma5868@gmail.com,9565465716,0.0
+CUST00505,Tarun,Rathore,Male,04-04-1997,Lucknow,Uttar Pradesh,At Risk,Gold,14-10-2024,tarun.rathore6135@gmail.com,7810001021,91247.0
+CUST00506,Megha,Naik,Female,28-07-1989,Indore,Madhya Pradesh,At Risk,Silver,18-10-2024,megha.naik6984@outlook.com,8347569347,34377.0
+CUST00507,Pallavi,Thakur,Female,01-07-2006,Delhi,Delhi,Regular,Silver,20-10-2024,pallavi.thakur7490@yahoo.co.in,8473111206,90537.0
+CUST00508,Karthik,Reddy,Male,08-09-1990,Kochi,Kerala,At Risk,Silver,20-10-2024,karthik.reddy6217@gmail.com,9303196282,34463.0
+CUST00509,Komal,Sharma,Female,20-11-1976,Jaipur,Rajasthan,Regular,Bronze,20-10-2024,komal.sharma@gmail.com,9030813789,5871.0
+CUST00510,Rajesh,Verma,Male,10-11-1983,Delhi,Delhi,Vip,Platinum,21-10-2024,rajesh.verma6554@gmail.com,8928037423,360413.0
+CUST00511,Rajesh,Dutta,Male,,Bhubaneswar,Odisha,At Risk,Silver,25-10-2024,rajesh.dutta6931@gmail.com,7263856684,46530.0
+CUST00512,Shruti,Parekh,Female,22-07-1994,Mumbai,Maharashtra,High Value,Gold,25-10-2024,shruti.parekh@gmail.com,8654495602,161039.0
+CUST00513,Ruchi,Prasad,Female,18-09-2006,Noida,Uttar Pradesh,Vip,Platinum,25-10-2024,ruchi.prasad9044@hotmail.com,6083057275,625519.0
+CUST00514,Rituparna,Banerjee,Female,21-06-2002,Kolkata,West Bengal,Regular,Silver,26-10-2024,rituparna.banerjee@gmail.com,9126010876,52128.0
+CUST00516,Komal,Bhatt,Female,04-02-1998,Mumbai,Maharashtra,At Risk,Bronze,29-10-2024,komal.bhatt@gmail.com,7092582795,2422.0
+CUST00517,Tanvi,Kamat,Other,03-03-1985,Nagpur,Maharashtra,At Risk,Silver,30-10-2024,tanvi.kamat9856@gmail.com,9587747494,55903.0
+CUST00518,Sneha,Chauhan,Female,08-05-1985,Delhi,Delhi,At Risk,Bronze,30-10-2024,sneha.chauhan@gmail.com,9446223493,4350.0
+CUST00519,Sowmya,Nair,Female,03-01-2004,Bangalore,Karnataka,At Risk,Bronze,31-10-2024,sowmya.nair5372@yahoo.co.in,8536913782,14851.0
+CUST00521,Nisha,Arora,Female,31-05-1973,Gurgaon,Haryana,At Risk,Bronze,02-11-2024,nisha.arora@gmail.com,9012726245,1396.0
+CUST00522,Mansi,Chauhan,Female,08-09-2006,Jaipur,Rajasthan,Regular,Bronze,02-11-2024,mansi.chauhan@gmail.com,9013079227,10850.0
+CUST00523,Deepak,Ranjan,Male,15-04-1975,Delhi,Delhi,High Value,Gold,02-11-2024,deepak.ranjan955@yahoo.co.in,9900373106,218178.0
+CUST00524,Siddharth,Kumar,Male,02-04-1994,Hyderabad,Telangana,At Risk,Silver,03-11-2024,siddharth.kumar@yahoo.co.in,6335113277,110001.0
+CUST00525,Mayank,Sheikh,Male,22-07-1996,Guwahati,Assam,At Risk,Gold,10-11-2024,mayank.sheikh@outlook.com,9652144685,159270.0
+CUST00526,Neha,Modi,Female,24-05-1980,Pune,Maharashtra,At Risk,Bronze,11-11-2024,neha.modi5955@gmail.com,6971824803,0.0
+CUST00527,Bhavna,Bansal,Female,05-08-1990,Delhi,Delhi,Regular,Silver,11-11-2024,bhavna.bansal9146@gmail.com,9984538217,50344.0
+CUST00528,Payal,Naik,Female,24-10-2000,Ahmedabad,Gujarat,At Risk,Bronze,13-11-2024,payal.naik9805@gmail.com,9103966393,0.0
+CUST00529,Manish,Pawar,Male,30-06-2006,Nagpur,Maharashtra,At Risk,Bronze,14-11-2024,manish.pawar5583@gmail.com,9885056389,0.0
+CUST00530,Dev,Sinha,Male,09-05-2001,Patna,Bihar,At Risk,Bronze,15-11-2024,dev.sinha5763@yahoo.com,9103465183,2488.0
+CUST00531,Praveen,Varma,Male,08-07-2006,Bangalore,Karnataka,At Risk,Silver,18-11-2024,unknown,9756752103,20242.0
+CUST00532,Amit,Reddy,Male,21-09-1988,Bangalore,Karnataka,Regular,Silver,21-11-2024,amit.reddy6118@gmail.com,9714007509,66730.0
+CUST00533,Radhika,Roy,Female,13-02-1995,Guwahati,Assam,High Value,Gold,26-11-2024,radhika.roy663@gmail.com,8429651984,247373.0
+CUST00534,Vandana,Dubey,Female,20-10-1989,Jaipur,Rajasthan,Regular,Silver,06-12-2024,vandana.dubey@outlook.com,7800969761,21649.0
+CUST00535,Ishaan,Prasad,Male,31-01-2002,Chennai,Tamil Nadu,Regular,Silver,06-12-2024,ishaan.prasad@yahoo.co.in,8767689192,34727.0
+CUST00537,Nilesh,Bhatt,Male,29-10-1985,Mumbai,Maharashtra,Regular,Silver,12-12-2024,nilesh.bhatt@yahoo.com,9807496971,38743.0
+CUST00538,Priya,Ali,Female,20-08-2004,Bangalore,Karnataka,Regular,Silver,17-12-2024,priya.ali3725@gmail.com,9060979524,95066.0
+CUST00539,Deepika,Naidu,Female,18-02-2005,Kochi,Kerala,At Risk,Bronze,17-12-2024,deepika.naidu9891@gmail.com,8872257390,20536.0
+CUST00540,Sonia,Qureshi,Female,01-05-1980,Mumbai,Maharashtra,Regular,Silver,18-12-2024,sonia.qureshi8187@gmail.com,9909050735,63163.0
+CUST00541,Siddharth,Kulkarni,Male,05-12-1994,Mumbai,Maharashtra,Regular,Silver,19-12-2024,siddharth.kulkarni8767@outlook.com,9600532190,82045.0
+CUST00542,Deepika,Verma,Female,30-09-1992,Delhi,Delhi,Vip,Platinum,23-12-2024,deepika.verma2744@gmail.com,9717919571,319355.0
+CUST00543,Nazia,Khan,Female,03-09-1989,Indore,Madhya Pradesh,Regular,Bronze,26-12-2024,nazia.khan@outlook.com,7197630147,11564.0
+CUST00544,Mahesh,Kulkarni,Male,26-01-2002,Mumbai,Maharashtra,At Risk,Bronze,27-12-2024,mahesh.kulkarni380@outlook.com,8666541637,366.0
+CUST00545,Ananya,Singh,Female,30-03-1989,Delhi,Delhi,At Risk,Silver,27-12-2024,ananya.singh4311@rediffmail.com,7706436909,23541.0
+CUST00546,Shruti,Prasad,unknown,17-01-1999,Bangalore,Karnataka,Regular,Silver,27-12-2024,shruti.prasad4440@rediffmail.com,8673880435,64614.0
+CUST00547,Aditya,More,Male,01-05-2006,Mumbai,Maharashtra,At Risk,Bronze,28-12-2024,aditya.more4179@gmail.com,9341620539,0.0
+CUST00548,Aarav,Raman,Male,11-08-1984,Bangalore,Karnataka,At Risk,Bronze,31-12-2024,aarav.raman@icloud.com,9200558091,4986.0
+CUST00549,Sonia,Parekh,Female,05-06-2002,Indore,Madhya Pradesh,Regular,Silver,31-12-2024,sonia.parekh1189@rediffmail.com,9608409723,64730.0
+CUST00550,Riya,Mehra,Female,05-04-1967,Delhi,Delhi,At Risk,Bronze,02-01-2025,riya.mehra457@rediffmail.com,9247561498,0.0
+CUST00551,Jyoti,Sheikh,Female,23-06-1997,Chandigarh,Chandigarh,At Risk,Bronze,02-01-2025,jyoti.sheikh6096@gmail.com,8335257310,634.0
+CUST00552,Pranav,Tiwari,Male,17-10-1989,Jaipur,Rajasthan,At Risk,Bronze,03-01-2025,pranav.tiwari5407@gmail.com,8278467741,1653.0
+CUST00553,Preeti,Bose,Female,22-08-1990,Kolkata,West Bengal,At Risk,Bronze,04-01-2025,preeti.bose6841@gmail.com,9444094984,3278.0
+CUST00554,Saurabh,Patil,Male,11-09-1993,Surat,Gujarat,Regular,Bronze,05-01-2025,saurabh.patil2806@gmail.com,7998338730,5682.0
+CUST00555,Ramesh,Jadhav,Male,15-01-1983,Mumbai,Maharashtra,High Value,Gold,08-01-2025,ramesh.jadhav1406@gmail.com,8486859522,240339.0
+CUST00556,Neha,Hegde,Female,28-07-1991,Kochi,Kerala,High Value,Platinum,08-01-2025,neha.hegde@gmail.com,8798334337,265691.0
+CUST00557,Sachin,Rao,Male,28-02-2002,Chennai,Tamil Nadu,At Risk,Silver,10-01-2025,sachin.rao@gmail.com,9148511047,33975.0
+CUST00558,Sanjay,Joshi,Male,25-08-1984,Lucknow,Uttar Pradesh,At Risk,Bronze,12-01-2025,sanjay.joshi@yahoo.co.in,9056597020,951.0
+CUST00559,Shubham,Jain,Male,13-02-2000,Gurgaon,Haryana,At Risk,Bronze,12-01-2025,shubham.jain@gmail.com,9454028450,16891.0
+CUST00560,Tarun,Bhatia,Male,04-08-1984,Lucknow,Uttar Pradesh,Regular,Bronze,14-01-2025,tarun.bhatia@gmail.com,8641813893,12253.0
+CUST00561,Suresh,Patel,Male,13-02-1994,Ahmedabad,Gujarat,Regular,Silver,14-01-2025,suresh.patel2501@gmail.com,9085885437,37342.0
+CUST00562,Aditya,Jadhav,Male,27-09-1983,Ahmedabad,Gujarat,At Risk,Silver,16-01-2025,aditya.jadhav@gmail.com,9823941084,64449.0
+CUST00563,Preeti,Chatterjee,Female,03-06-1983,Bhubaneswar,Odisha,At Risk,Silver,17-01-2025,preeti.chatterjee@yahoo.com,9533014714,88489.0
+CUST00564,Megha,Singh,Female,19-03-1993,Noida,Uttar Pradesh,At Risk,Bronze,19-01-2025,megha.singh2181@gmail.com,6479878394,428.0
+CUST00565,Pallavi,Narayanan,Female,16-12-1996,Hyderabad,Telangana,At Risk,Bronze,19-01-2025,pallavi.narayanan1473@rediffmail.com,9921197271,0.0
+CUST00566,Naveen,Yadav,Male,28-07-2000,Noida,Uttar Pradesh,Regular,Bronze,20-01-2025,naveen.yadav8390@yahoo.com,6175348900,4861.0
+CUST00567,Akash,Bhat,Male,11-02-1999,Chennai,Tamil Nadu,At Risk,Silver,20-01-2025,akash.bhat4202@icloud.com,7536486857,24098.0
+CUST00568,Rishabh,Joshi,Male,24-03-1995,Patna,Bihar,Regular,Silver,21-01-2025,rishabh.joshi2026@yahoo.co.in,9192343098,79994.0
+CUST00569,Omkar,Kamat,Male,15-12-1999,Mumbai,Maharashtra,At Risk,Bronze,21-01-2025,omkar.kamat7487@gmail.com,9784102336,9012.0
+CUST00570,Naveen,Tiwari,Male,15-04-1991,Noida,Uttar Pradesh,At Risk,Silver,22-01-2025,naveen.tiwari8152@gmail.com,9488786360,40228.0
+CUST00571,Divya,Dubey,Female,06-09-1991,Lucknow,Uttar Pradesh,At Risk,Bronze,22-01-2025,divya.dubey@hotmail.com,9886567137,1733.0
+CUST00572,Manish,Verma,Male,15-09-1992,Noida,Uttar Pradesh,High Value,Gold,24-01-2025,manish.verma6947@gmail.com,8546381663,176522.0
+CUST00573,Bhavna,Bhat,Female,16-02-1985,Hyderabad,Telangana,At Risk,Silver,25-01-2025,bhavna.bhat8774@gmail.com,9339286745,50485.0
+CUST00575,Payal,Kurup,Female,12-10-1994,Chennai,Tamil Nadu,At Risk,Silver,27-01-2025,payal.kurup2432@yahoo.com,9919088107,93802.0
+CUST00578,Hiren,Kamat,Male,27-11-1994,Pune,Maharashtra,Regular,Bronze,01-02-2025,hiren.kamat663@icloud.com,7224874280,16526.0
+CUST00579,Akash,Chandran,Male,14-05-1990,Chennai,Tamil Nadu,Regular,Bronze,04-02-2025,akash.chandran7254@hotmail.com,9427869565,1668.0
+CUST00580,Anil,Sinha,Male,27-08-1996,Lucknow,Uttar Pradesh,At Risk,Bronze,09-02-2025,anil.sinha@gmail.com,8574978126,2964.0
+CUST00581,Megha,Krishnan,Female,16-12-1998,Hyderabad,Telangana,Regular,Bronze,10-02-2025,megha.krishnan9527@gmail.com,9657487578,12362.0
+CUST00582,Mrunal,Patil,Female,17-04-1991,Ahmedabad,Gujarat,At Risk,Bronze,13-02-2025,mrunal.patil6479@gmail.com,9098298018,9349.0
+CUST00583,Pranav,Ranjan,Male,29-04-2001,Noida,Uttar Pradesh,Regular,Bronze,18-02-2025,pranav.ranjan8675@gmail.com,9493257836,6568.0
+CUST00584,Kunal,Banerjee,Male,30-05-1986,Bhubaneswar,Odisha,At Risk,Silver,25-02-2025,kunal.banerjee4127@gmail.com,9998194630,71460.0
+CUST00585,Meera,Thakur,Other,24-07-1998,Jaipur,Rajasthan,At Risk,Bronze,27-02-2025,meera.thakur@gmail.com,9916009813,6552.0
+CUST00586,Gayathri,Shetty,Female,31-07-1988,Bangalore,Karnataka,At Risk,Bronze,01-03-2025,gayathri.shetty7954@gmail.com,9390074527,2677.0
+CUST00587,Mansi,Naidu,Female,18-10-1995,Bangalore,Karnataka,High Value,Gold,01-03-2025,mansi.naidu@rediffmail.com,9724365012,157499.0
+CUST00588,Shruti,Modi,Female,,Mumbai,Maharashtra,Regular,Silver,04-03-2025,shruti.modi@gmail.com,9485987731,39603.0
+CUST00589,Mahesh,Yadav,Male,01-12-1987,Chandigarh,Chandigarh,At Risk,Bronze,04-03-2025,mahesh.yadav5893@yahoo.co.in,8818475222,4892.0
+CUST00590,Sanjay,Thakkar,Male,19-01-2007,Pune,Maharashtra,Regular,Gold,08-03-2025,sanjay.thakkar1458@gmail.com,8966016332,124705.0
+CUST00591,Suresh,Pandey,Male,15-09-1994,Chandigarh,Chandigarh,At Risk,Silver,08-03-2025,suresh.pandey3820@gmail.com,9078937722,44327.0
+CUST00592,Manish,Bhosale,Male,27-06-2006,Ahmedabad,Gujarat,High Value,Platinum,09-03-2025,manish.bhosale4460@outlook.com,8122265512,146726.0
+CUST00593,Aditya,Mishra,Male,29-10-1991,Patna,Bihar,At Risk,Bronze,11-03-2025,aditya.mishra6033@gmail.com,8927873317,7923.0
+CUST00594,Balaji,Krishnan,Male,30-11-1999,Bangalore,Karnataka,At Risk,Bronze,12-03-2025,balaji.krishnan@yahoo.co.in,9765237568,3237.0
+CUST00595,Ankit,Shah,Male,27-02-2000,Mumbai,Maharashtra,Regular,Gold,13-03-2025,ankit.shah69@rediffmail.com,9356764221,139964.0
+CUST00596,Vandana,Ranjan,Female,13-10-2006,Noida,Uttar Pradesh,Regular,Bronze,14-03-2025,vandana.ranjan5349@outlook.com,9395963524,16912.0
+CUST00598,Kavya,Parekh,Female,13-03-1992,Mumbai,Maharashtra,At Risk,Silver,20-03-2025,kavya.parekh@rediffmail.com,8206159944,106284.0
+CUST00599,Anjali,Barman,Female,29-08-1997,Bhubaneswar,Odisha,High Value,Gold,27-03-2025,anjali.barman8155@gmail.com,8797216153,220082.0
+CUST00600,Nikhil,Sharma,Male,17-10-1994,Delhi,Delhi,At Risk,Bronze,31-03-2025,nikhil.sharma2497@hotmail.com,9110319817,335.0
+CUST00601,Mitali,Barman,Female,18-05-1996,Guwahati,Assam,At Risk,Bronze,31-03-2025,mitali.barman9656@gmail.com,9082836266,6378.0
+CUST00602,Revathi,Narayanan,Female,30-10-1997,Hyderabad,Telangana,Regular,Silver,31-03-2025,revathi.narayanan5086@yahoo.com,9076935743,60859.0
+CUST00603,Rohan,Yadav,Male,11-11-1967,Delhi,Delhi,At Risk,Gold,02-04-2025,rohan.yadav8814@gmail.com,8385370051,148885.0
+CUST00606,Swapnil,Kamat,Male,03-12-1996,Mumbai,Maharashtra,At Risk,Bronze,03-04-2025,swapnil.kamat7852@gmail.com,9125421655,11248.0
+CUST00607,Shreya,Parekh,Female,13-07-2004,Pune,Maharashtra,At Risk,Bronze,05-04-2025,shreya.parekh3980@gmail.com,9601647763,0.0
+CUST00608,Yash,Chandran,Male,20-10-1993,Bangalore,Karnataka,At Risk,Silver,05-04-2025,yash.chandran@yahoo.com,9485708590,54774.0
+CUST00609,Manish,Reddy,Male,01-06-1999,Hyderabad,Telangana,At Risk,Silver,08-04-2025,manish.reddy@gmail.com,9169630050,27307.0
+CUST00610,Deepak,Chauhan,Male,02-12-2004,Jaipur,Rajasthan,At Risk,Bronze,09-04-2025,deepak.chauhan6187@gmail.com,7074035950,409.0
+CUST00611,Aditya,Arora,Male,30-08-1993,Delhi,Delhi,Regular,Silver,09-04-2025,aditya.arora71@gmail.com,9868834297,38337.0
+CUST00612,Harsh,Rathore,Male,23-09-1994,Delhi,Delhi,Regular,Bronze,09-04-2025,harsh.rathore@gmail.com,9056901068,0.0
+CUST00613,Mrunal,Trivedi,Female,03-04-2007,Pune,Maharashtra,At Risk,Bronze,09-04-2025,unknown,8741777070,3580.0
+CUST00614,Payal,Thakur,Female,07-08-2002,Delhi,Delhi,At Risk,Silver,10-04-2025,payal.thakur4258@gmail.com,9158407315,67205.0
+CUST00615,Ramesh,Malhotra,Male,10-04-1988,Lucknow,Uttar Pradesh,High Value,Gold,13-04-2025,ramesh.malhotra@hotmail.com,9726164138,189204.0
+CUST00616,Ritu,Sen,Female,19-01-1989,Kolkata,West Bengal,Regular,Gold,15-04-2025,ritu.sen@gmail.com,9165561917,126203.0
+CUST00617,Shubham,Iyer,Male,17-02-2007,Hyderabad,Telangana,Regular,Silver,19-04-2025,shubham.iyer2463@gmail.com,9005584429,5095.0
+CUST00618,Bhavna,Singh,Female,22-10-1986,Delhi,Delhi,Regular,Silver,24-04-2025,bhavna.singh8009@hotmail.com,9588200362,43013.0
+CUST00620,Rajesh,Krishnan,Male,30-05-1993,Chennai,Tamil Nadu,Regular,Bronze,29-04-2025,rajesh.krishnan3088@gmail.com,7072337210,20180.0
+CUST00621,Sonia,Thakkar,Female,01-09-2005,Mumbai,Maharashtra,Regular,Silver,01-05-2025,sonia.thakkar9010@rediffmail.com,9955576644,20534.0
+CUST00622,Ananya,Thakur,Female,08-02-2001,Noida,Uttar Pradesh,At Risk,Silver,03-05-2025,ananya.thakur@gmail.com,8922440896,35319.0
+CUST00623,Deepak,Malik,Male,13-07-1986,Pune,Maharashtra,At Risk,Bronze,04-05-2025,deepak.malik6894@gmail.com,9526226638,1420.0
+CUST00624,Snehal,Shah,Female,09-04-1982,Mumbai,Maharashtra,Regular,Silver,07-05-2025,snehal.shah4164@gmail.com,7626218125,112742.0
+CUST00625,Suresh,Narayanan,Male,28-03-2006,Hyderabad,Telangana,Regular,Silver,07-05-2025,suresh.narayanan9326@gmail.com,8291320247,43750.0
+CUST00626,Jyoti,Raman,Female,29-08-1992,Chennai,Tamil Nadu,Regular,Silver,09-05-2025,jyoti.raman2928@hotmail.com,9124496628,29261.0
+CUST00627,Kritika,Pillai,Female,25-11-1982,Hyderabad,Telangana,High Value,Gold,09-05-2025,kritika.pillai@gmail.com,9046201687,203234.0
+CUST00628,Ritu,Mishra,Female,11-07-1992,Delhi,Delhi,Regular,Silver,11-05-2025,ritu.mishra8842@yahoo.com,9181733121,69434.0
+CUST00629,Sameer,Malik,Male,15-11-1992,Kolkata,West Bengal,At Risk,Bronze,12-05-2025,sameer.malik1974@rediffmail.com,9201704895,12048.0
+CUST00630,Purvi,Kulkarni,Female,20-02-1978,Mumbai,Maharashtra,At Risk,Bronze,13-05-2025,purvi.kulkarni7016@gmail.com,7246844289,1225.0
+CUST00631,Kunal,Kamat,Male,07-03-1978,Nagpur,Maharashtra,At Risk,Bronze,14-05-2025,kunal.kamat2278@gmail.com,6170820214,912.0
+CUST00632,Rajesh,Sheikh,Male,01-01-1998,Mumbai,Maharashtra,Regular,Bronze,16-05-2025,rajesh.sheikh4576@gmail.com,9804030892,4063.0
+CUST00633,Snehal,Sawant,Female,15-07-1992,Ahmedabad,Gujarat,At Risk,Bronze,20-05-2025,snehal.sawant344@icloud.com,8748538135,2505.0
+CUST00634,Sachin,Ranjan,Male,26-12-1992,Lucknow,Uttar Pradesh,At Risk,Silver,22-05-2025,sachin.ranjan8593@gmail.com,6106050085,71193.0
+CUST00635,Pranav,More,Male,07-08-1995,Indore,Madhya Pradesh,Regular,Silver,22-05-2025,pranav.more129@yahoo.com,8541354568,6458.0
+CUST00636,Sowmya,Narayanan,Female,06-01-1988,Bangalore,Karnataka,Regular,Bronze,23-05-2025,sowmya.narayanan8089@hotmail.com,9598683383,10670.0
+CUST00637,Vinod,Murthy,Male,12-08-1982,Bangalore,Karnataka,Regular,Silver,25-05-2025,vinod.murthy7468@gmail.com,9415336720,34428.0
+CUST00638,Arjun,Prasad,Male,08-02-1995,Gurgaon,Haryana,At Risk,Gold,25-05-2025,arjun.prasad6314@gmail.com,8422148342,152607.0
+CUST00639,Tarun,Kulkarni,Male,24-01-2002,Pune,Maharashtra,At Risk,Silver,26-05-2025,tarun.kulkarni8247@gmail.com,7408962846,2447.0
+CUST00640,Sneha,Verma,Female,23-06-1996,Gurgaon,Haryana,Regular,Bronze,28-05-2025,sneha.verma2076@gmail.com,7470747976,8918.0
+CUST00641,Yash,Gupta,Male,29-07-1975,Jaipur,Rajasthan,At Risk,Silver,30-05-2025,yash.gupta8198@rediffmail.com,9353226083,57974.0
+CUST00642,Ananya,Patil,Female,,Mumbai,Maharashtra,Regular,Silver,01-06-2025,ananya.patil@rediffmail.com,9704954735,62997.0
+CUST00645,Preeti,Arora,Female,24-07-1986,Noida,Uttar Pradesh,At Risk,Silver,04-06-2025,preeti.arora9303@gmail.com,9596645865,30377.0
+CUST00646,Rishabh,Bhosale,Male,09-09-1992,Ahmedabad,Gujarat,At Risk,Silver,07-06-2025,rishabh.bhosale@outlook.com,9967673718,79362.0
+CUST00647,Karthik,Subramanian,Male,07-06-1979,Bangalore,Karnataka,Regular,Silver,09-06-2025,karthik.subramanian153@gmail.com,7960026134,27720.0
+CUST00648,Rajesh,Meena,Male,15-08-1996,Lucknow,Uttar Pradesh,Regular,Silver,10-06-2025,rajesh.meena@gmail.com,7740711661,31138.0
+CUST00649,Ishaan,Bansal,Male,21-09-1980,Noida,Uttar Pradesh,High Value,Gold,11-06-2025,ishaan.bansal3508@outlook.com,7700255771,166231.0
+CUST00650,Manish,Khan,Male,30-12-1992,Ahmedabad,Gujarat,Regular,Silver,11-06-2025,manish.khan797@hotmail.com,9974086304,33334.0
+CUST00651,Devendra,Singh,Male,17-04-1985,Gurgaon,Haryana,Regular,Silver,12-06-2025,devendra.singh8205@gmail.com,9704599095,91899.0
+CUST00652,Sakshi,Bhat,Female,18-12-1985,Bangalore,Karnataka,Regular,Silver,15-06-2025,sakshi.bhat@gmail.com,9278233419,54997.0
+CUST00653,Abhishek,Kale,Male,27-12-1985,Indore,Madhya Pradesh,At Risk,Bronze,18-06-2025,abhishek.kale@hotmail.com,9809211921,2842.0
+CUST00654,Preeti,Balaji,Female,15-03-1994,Hyderabad,Telangana,Regular,Bronze,18-06-2025,preeti.balaji4605@gmail.com,9069708618,14512.0
+CUST00656,Venkatesh,Reddy,Male,31-01-1998,Hyderabad,Telangana,At Risk,Silver,20-06-2025,venkatesh.reddy@hotmail.com,9339880559,34673.0
+CUST00657,Ananya,Mirza,Female,25-07-1991,Delhi,Delhi,Regular,Bronze,21-06-2025,ananya.mirza@gmail.com,9634953960,0.0
+CUST00658,Mayank,Shinde,Male,09-01-2002,Mumbai,Maharashtra,At Risk,Bronze,21-06-2025,mayank.shinde6625@yahoo.com,6963121432,2659.0
+CUST00659,Hetal,More,Female,08-01-1998,Surat,Gujarat,High Value,Gold,22-06-2025,hetal.more1656@gmail.com,9370188679,191710.0
+CUST00660,Sowmya,Gowda,Female,14-02-1983,Hyderabad,Telangana,Regular,Silver,22-06-2025,sowmya.gowda@gmail.com,9206237812,34555.0
+CUST00661,Sachin,More,Male,24-02-1991,Mumbai,Maharashtra,At Risk,Bronze,23-06-2025,sachin.more@yahoo.com,9158169470,6187.0
+CUST00662,Rajesh,Malhotra,Male,11-01-1989,Gurgaon,Haryana,At Risk,Bronze,24-06-2025,rajesh.malhotra650@rediffmail.com,9003540987,0.0
+CUST00663,Varun,Khan,Male,22-04-1973,Delhi,Delhi,At Risk,Bronze,24-06-2025,varun.khan4937@yahoo.co.in,9872007828,0.0
+CUST00664,Kritika,Hegde,Female,30-10-1991,Bangalore,Karnataka,Regular,Silver,27-06-2025,kritika.hegde1903@gmail.com,9747354364,29321.0
+CUST00665,Swati,Mehta,Female,30-07-1985,Pune,Maharashtra,At Risk,Bronze,28-06-2025,swati.mehta9668@hotmail.com,8564127316,6553.0
+CUST00666,Arjun,Yadav,Male,14-10-1989,Jaipur,Rajasthan,At Risk,Bronze,29-06-2025,arjun.yadav5362@yahoo.co.in,8535756179,5552.0
+CUST00667,Anjali,Balaji,Female,13-11-1981,Bangalore,Karnataka,At Risk,Bronze,02-07-2025,anjali.balaji@yahoo.co.in,9696505472,4629.0
+CUST00668,Siddharth,Nair,Other,27-09-2004,Chennai,Tamil Nadu,Regular,Silver,03-07-2025,siddharth.nair4188@gmail.com,8892377676,61518.0
+CUST00669,Ankit,Khanna,Male,01-02-1990,Delhi,Delhi,Regular,Bronze,05-07-2025,ankit.khanna8849@yahoo.co.in,9372110978,13337.0
+CUST00670,Poonam,Singh,Female,29-10-1996,Noida,Uttar Pradesh,Regular,Silver,05-07-2025,poonam.singh5853@yahoo.co.in,9572839068,62955.0
+CUST00671,Abhishek,Varma,Other,03-05-1983,Banglore,Karnataka,Regular,Silver,05-07-2025,abhishek.varma3452@gmail.com,6428510557,70428.0
+CUST00672,Arun,Nair,Male,23-01-1993,Bangalore,Karnataka,Regular,Silver,07-07-2025,arun.nair@gmail.com,8659903659,20686.0
+CUST00673,Sunita,Joshi,Female,30-12-1987,Indore,Madhya Pradesh,High Value,Platinum,08-07-2025,sunita.joshi87@gmail.com,8008319738,308226.0
+CUST00675,Tarun,Bhatt,unknown,05-01-2000,Surat,Gujarat,At Risk,Bronze,12-07-2025,tarun.bhatt8654@gmail.com,9320519805,3106.0
+CUST00676,Anjali,Qureshi,Female,26-05-2007,Delhi,Delhi,Regular,Bronze,14-07-2025,anjali.qureshi6148@yahoo.co.in,8346496896,19475.0
+CUST00677,Sonia,Ahmed,Female,25-11-1987,Bangalore,Karnataka,At Risk,Bronze,17-07-2025,sonia.ahmed4335@gmail.com,8088078765,0.0
+CUST00678,Pranav,Saxena,Male,16-09-1986,Noida,Uttar Pradesh,Regular,Silver,19-07-2025,pranav.saxena1513@gmail.com,7955729602,66707.0
+CUST00680,Karan,Ali,Male,31-01-1980,Hyderabad,Telangana,At Risk,Bronze,26-07-2025,unknown,9886857775,2842.0
+CUST00681,Kabir,Ghosh,Male,04-09-1996,Bhubaneswar,Odisha,At Risk,Bronze,27-07-2025,kabir.ghosh7439@icloud.com,9646059994,1441.0
+CUST00682,Harsh,Malhotra,Male,02-11-1994,Gurgaon,Haryana,High Value,Gold,27-07-2025,harsh.malhotra7813@icloud.com,9234684505,143743.0
+CUST00683,Anita,Desai,Female,11-05-1985,Pune,Maharashtra,Regular,Bronze,28-07-2025,anita.desai3998@gmail.com,9764844137,6587.0
+CUST00684,Rishabh,Thakur,Male,13-09-1986,Gurgaon,Haryana,At Risk,Bronze,30-07-2025,rishabh.thakur3506@gmail.com,8359196677,2314.0
+CUST00685,Mahesh,More,Male,30-06-2000,Indore,Madhya Pradesh,Regular,Bronze,31-07-2025,mahesh.more2884@yahoo.com,7585436968,10472.0
+CUST00686,Swapnil,Kale,Male,17-10-1991,Mumbai,Maharashtra,Regular,Bronze,02-08-2025,swapnil.kale@gmail.com,9162893506,5748.0
+CUST00687,Swati,Gaikwad,Female,22-04-1987,Ahmedabad,Gujarat,Regular,Silver,03-08-2025,swati.gaikwad5153@gmail.com,9962244532,84843.0
+CUST00688,Kunal,Desai,Male,22-06-1997,Mumbai,Maharashtra,Regular,Silver,06-08-2025,kunal.desai1159@gmail.com,6589867644,43494.0
+CUST00690,Divya,Thakur,Female,16-08-1991,Patna,Bihar,At Risk,Bronze,10-08-2025,divya.thakur@yahoo.com,8562733038,3550.0
+CUST00691,Ananya,Malhotra,Female,28-05-1994,Lucknow,Uttar Pradesh,At Risk,Bronze,12-08-2025,ananya.malhotra@outlook.com,8695560634,2783.0
+CUST00692,Amit,Bhatt,Male,27-05-1988,Pune,Maharashtra,New,Silver,13-08-2025,amit.bhatt5650@gmail.com,9812308946,114021.0
+CUST00693,Diya,Krishnan,Female,20-01-1998,Hyderabad,Telangana,At Risk,Silver,14-08-2025,diya.krishnan2883@gmail.com,8444747324,40162.0
+CUST00694,Suresh,Mohanty,Male,26-12-1990,Bhubaneswar,Odisha,At Risk,Bronze,14-08-2025,suresh.mohanty@gmail.com,9693819140,996.0
+CUST00695,Saurabh,Sawant,Male,09-09-1996,Mumbai,Maharashtra,Vip,Platinum,16-08-2025,saurabh.sawant@gmail.com,8262330702,555531.0
+CUST00696,Preeti,Pawar,Female,10-03-1997,Indore,Madhya Pradesh,Regular,Silver,17-08-2025,preeti.pawar1385@rediffmail.com,9156227362,46006.0
+CUST00697,Ashok,Dubey,Male,14-03-1978,Chandigarh,Chandigarh,At Risk,Bronze,17-08-2025,ashok.dubey@outlook.com,8654556506,8388.0
+CUST00698,Kunal,Reddy,Male,08-06-1981,Kochi,Kerala,Vip,Platinum,22-08-2025,kunal.reddy3569@gmail.com,9385989567,471995.0
+CUST00699,Hardik,Bhatt,Male,30-07-1987,Indore,Madhya Pradesh,At Risk,Silver,25-08-2025,hardik.bhatt2865@gmail.com,9906233383,70895.0
+CUST00700,Priya,Panda,Female,25-09-1985,Kolkata,West Bengal,At Risk,Silver,26-08-2025,priya.panda1424@gmail.com,9964731113,2139.0
+CUST00701,Ruchi,Arora,Female,16-11-2006,Delhi,Delhi,At Risk,Gold,26-08-2025,ruchi.arora4834@gmail.com,9342185323,46361.0
+CUST00702,Radhika,Deshmukh,Female,24-03-2003,Pune,Maharashtra,Regular,Gold,29-08-2025,radhika.deshmukh7490@outlook.com,8209831259,117145.0
+CUST00703,Chirag,Parekh,Male,12-02-1984,Ahmedabad,Gujarat,At Risk,Bronze,30-08-2025,chirag.parekh8008@yahoo.com,9848086717,1501.0
+CUST00704,Ayush,Iyer,Male,12-03-1991,Chennai,Tamil Nadu,Regular,Silver,03-09-2025,ayush.iyer@hotmail.com,9911333037,86643.0
+CUST00705,Vivaan,Sawant,Male,02-10-2002,Pune,Maharashtra,At Risk,Bronze,03-09-2025,vivaan.sawant4656@gmail.com,9945809218,2478.0
+CUST00706,Riya,Sheikh,Female,24-08-1985,Chennai,Tamil Nadu,At Risk,Bronze,04-09-2025,riya.sheikh@gmail.com,9418331216,8525.0
+CUST00707,Sunita,More,Female,19-12-2006,Mumbai,Maharashtra,At Risk,Bronze,09-09-2025,sunita.more@gmail.com,8318762127,1520.0
+CUST00708,Pankaj,Singh,Male,25-04-1989,Gurgaon,Haryana,Regular,Silver,13-09-2025,pankaj.singh@outlook.com,9321671695,27403.0
+CUST00709,Sowmya,Sundaram,Female,07-12-1991,Bangalore,Karnataka,At Risk,Bronze,13-09-2025,sowmya.sundaram@gmail.com,7756871445,1216.0
+CUST00710,Rahul,Sundaram,Male,10-03-1986,Hyderabad,Telangana,Regular,Silver,14-09-2025,rahul.sundaram@gmail.com,9827247463,112999.0
+CUST00711,Vishal,Srivastava,Male,14-02-2000,Gurgaon,Haryana,At Risk,Bronze,16-09-2025,vishal.srivastava@gmail.com,8737807914,1178.0
+CUST00712,Sunita,Balaji,Female,23-05-1964,Bangalore,Karnataka,Regular,Bronze,19-09-2025,sunita.balaji@yahoo.co.in,9088450062,15710.0
+CUST00714,Simran,Sharma,Female,20-12-2000,Noida,Uttar Pradesh,At Risk,Bronze,23-09-2025,simran.sharma3608@gmail.com,8909268295,4563.0
+CUST00715,Ayush,Pawar,Male,,Surat,Gujarat,At Risk,Bronze,23-09-2025,ayush.pawar5009@yahoo.com,9059812156,3115.0
+CUST00716,Nisha,Hazarika,Female,11-06-2000,Kolkata,West Bengal,Regular,Gold,23-09-2025,nisha.hazarika@yahoo.com,7473783708,126433.0
+CUST00717,Ankit,Thakkar,Male,01-05-1994,Pune,Maharashtra,At Risk,Bronze,24-09-2025,ankit.thakkar1955@gmail.com,9856870772,0.0
+CUST00718,Anil,Ranjan,Male,12-12-1991,Lucknow,Uttar Pradesh,At Risk,Silver,24-09-2025,anil.ranjan7357@yahoo.co.in,8722381566,3368.0
+CUST00719,Venkatesh,Narayanan,Male,30-01-1983,Bangalore,Karnataka,Regular,Bronze,26-09-2025,venkatesh.narayanan9767@gmail.com,9953029656,2075.0
+CUST00720,Sonia,Naik,Female,09-04-1993,Mumbai,Maharashtra,Regular,Silver,27-09-2025,sonia.naik6290@outlook.com,9828120307,44799.0
+CUST00721,Preeti,Bansal,Female,29-11-1997,Chandigarh,Chandigarh,Vip,Platinum,28-09-2025,preeti.bansal@gmail.com,8813321039,346489.0
+CUST00722,Pankaj,Roy,Male,04-07-1992,Kolkata,West Bengal,Regular,Silver,28-09-2025,pankaj.roy@yahoo.co.in,9346377597,69239.0
+CUST00723,Dev,Nair,Male,25-01-1990,Bangalore,Karnataka,At Risk,Silver,28-09-2025,dev.nair1455@gmail.com,9847945544,21628.0
+CUST00724,Snehal,Patil,Female,05-02-1996,Ahmedabad,Gujarat,At Risk,Bronze,01-10-2025,snehal.patil4154@gmail.com,8565019739,18201.0
+CUST00725,Rishabh,Kapoor,Male,21-06-2000,Delhi,Delhi,At Risk,Bronze,01-10-2025,rishabh.kapoor1009@yahoo.co.in,7364577977,0.0
+CUST00726,Kabir,Saxena,Male,20-09-1993,Noida,Uttar Pradesh,Regular,Silver,02-10-2025,kabir.saxena@gmail.com,9557270373,56689.0
+CUST00727,Tarun,Bhatia,Male,10-05-1989,Jaipur,Rajasthan,At Risk,Bronze,02-10-2025,tarun.bhatia619@gmail.com,9613445754,926.0
+CUST00728,Swati,Balaji,Female,04-09-1994,Bangalore,Karnataka,Regular,Silver,03-10-2025,swati.balaji8652@gmail.com,9273181535,33247.0
+CUST00729,Harsh,Iyer,Male,24-09-1981,Bangalore,Karnataka,Regular,Silver,04-10-2025,harsh.iyer2752@gmail.com,9918778630,101113.0
+CUST00730,Rekha,Malhotra,Female,08-02-1999,Lucknow,Uttar Pradesh,Regular,Silver,05-10-2025,rekha.malhotra172@gmail.com,9716864755,97307.0
+CUST00731,Gaurav,Narayanan,Male,15-11-1998,Bangalore,Karnataka,At Risk,Gold,05-10-2025,gaurav.narayanan8194@gmail.com,9296475713,25523.0
+CUST00732,Shruti,Naik,Female,28-08-1983,Mumbai,Maharashtra,Regular,Silver,05-10-2025,shruti.naik5065@outlook.com,9252459801,46758.0
+CUST00733,Arif,Ahmed,Male,20-10-2002,Jaipur,Rajasthan,At Risk,Bronze,07-10-2025,arif.ahmed2707@rediffmail.com,7295229892,6083.0
+CUST00734,Divya,Krishnan,Female,27-01-1994,Chennai,Tamil Nadu,At Risk,Bronze,08-10-2025,divya.krishnan8312@gmail.com,8156809118,821.0
+CUST00735,Deepak,Mondal,Male,23-06-1996,Kolkata,West Bengal,Regular,Silver,08-10-2025,deepak.mondal@yahoo.com,9402884225,48453.0
+CUST00736,Divya,Thakkar,Female,12-05-1988,Mumbai,Maharashtra,Regular,Bronze,10-10-2025,divya.thakkar2822@gmail.com,9566265735,6700.0
+CUST00739,Vikram,Menon,Male,15-11-1990,Kochi,Kerala,Regular,Bronze,13-10-2025,vikram.menon@gmail.com,7806102045,2634.0
+CUST00740,Pankaj,Pillai,Male,07-10-1995,Chennai,Tamil Nadu,Regular,Silver,13-10-2025,pankaj.pillai2376@gmail.com,6313894619,20189.0
+CUST00741,Neha,Gowda,Female,19-03-1986,Bangalore,Karnataka,Regular,Bronze,15-10-2025,neha.gowda9831@gmail.com,7275377240,18522.0
+CUST00742,Megha,Hegde,Female,26-10-1983,Kochi,Kerala,At Risk,Bronze,15-10-2025,megha.hegde@outlook.com,9993971091,2771.0
+CUST00743,Kavya,Ranjan,Female,03-11-2001,Lucknow,Uttar Pradesh,At Risk,Bronze,15-10-2025,kavya.ranjan3673@gmail.com,9232098104,7570.0
+CUST00744,Tarun,Mukherjee,Male,23-11-2001,Kolkata,West Bengal,At Risk,Bronze,15-10-2025,tarun.mukherjee7882@gmail.com,9863400501,0.0
+CUST00745,Manish,Sundaram,Male,,Bangalore,Karnataka,At Risk,Bronze,16-10-2025,manish.sundaram3326@gmail.com,9702914838,6841.0
+CUST00746,Aanya,More,Female,23-01-1998,Ahmedabad,Gujarat,Regular,Bronze,16-10-2025,aanya.more157@yahoo.co.in,8868880588,9330.0
+CUST00747,Pranab,Bhattacharya,Male,14-03-1992,Kolkata,West Bengal,Regular,Silver,16-10-2025,pranab.bhattacharya5407@gmail.com,9418113916,75566.0
+CUST00748,Vinod,Bansal,Male,05-02-1988,Jaipur,Rajasthan,Regular,Silver,17-10-2025,vinod.bansal5154@gmail.com,7721472585,80969.0
+CUST00749,Deepak,Patil,Male,04-06-1985,Mumbai,Maharashtra,At Risk,Bronze,17-10-2025,deepak.patil1421@gmail.com,9619021589,1558.0
+CUST00750,Rajesh,Jha,Male,01-09-1986,Delhi,Delhi,At Risk,Bronze,20-10-2025,rajesh.jha467@yahoo.co.in,9241852014,1922.0
+CUST00751,Amit,Nayak,Male,05-09-1993,Kolkata,West Bengal,At Risk,Bronze,20-10-2025,amit.nayak@gmail.com,7493399381,539.0
+CUST00752,Vignesh,Menon,Male,14-12-1995,Hyderabad,Telangana,At Risk,Bronze,21-10-2025,vignesh.menon@yahoo.com,8131784059,1508.0
+CUST00753,Sanjay,Deshmukh,Male,12-08-2007,Pune,Maharashtra,High Value,Gold,21-10-2025,sanjay.deshmukh@gmail.com,9793537206,177527.0
+CUST00754,Rakesh,Thakur,Male,25-04-1986,Patna,Bihar,At Risk,Bronze,21-10-2025,rakesh.thakur6117@gmail.com,8645411764,1838.0
+CUST00755,Ishaan,Kurup,Other,27-05-1986,Bangalore,Karnataka,Regular,Silver,24-10-2025,ishaan.kurup2578@rediffmail.com,6843844918,112877.0
+CUST00756,Shubham,Khanna,Male,23-12-1991,Jaipur,Rajasthan,At Risk,Bronze,24-10-2025,shubham.khanna5355@gmail.com,9244848372,911.0
+CUST00757,Siddharth,Joshi,Male,22-09-1995,Pune,Maharashtra,At Risk,Bronze,24-10-2025,siddharth.joshi6039@gmail.com,7724878494,321.0
+CUST00758,Rekha,Jha,Female,23-01-1995,Lucknow,Uttar Pradesh,Regular,Silver,26-10-2025,rekha.jha@gmail.com,9478577806,61874.0
+CUST00759,Ananya,Chandran,Female,25-02-2003,Kochi,Kerala,At Risk,Silver,27-10-2025,ananya.chandran5346@yahoo.co.in,9942542854,0.0
+CUST00760,Ankit,Menon,Male,09-09-1984,Kochi,Kerala,At Risk,Bronze,27-10-2025,ankit.menon7926@gmail.com,9669689488,13418.0
+CUST00761,Vinod,Prasad,Male,24-07-1984,Bangalore,Karnataka,At Risk,Bronze,29-10-2025,vinod.prasad@yahoo.co.in,9170537050,4867.0
+CUST00762,Karan,Goyal,Male,12-04-1995,Patna,Bihar,Regular,Bronze,29-10-2025,karan.goyal3506@gmail.com,8997776277,14997.0
+CUST00763,Abhishek,More,Male,03-06-1994,Mumbai,Maharashtra,At Risk,Bronze,30-10-2025,abhishek.more@gmail.com,9997087233,5532.0
+CUST00764,Ankit,Kamat,Male,22-03-1992,Mumbai,Maharashtra,At Risk,Bronze,30-10-2025,ankit.kamat@yahoo.co.in,8251527864,7028.0
+CUST00765,Priya,Prasad,Female,03-05-2002,Delhi,Delhi,At Risk,Bronze,30-10-2025,priya.prasad9658@gmail.com,9875540283,5311.0
+CUST00766,Seema,Arora,Female,09-05-1995,Lucknow,Uttar Pradesh,At Risk,Bronze,31-10-2025,seema.arora@gmail.com,6586073872,2639.0
+CUST00767,Anita,Sundaram,Female,16-04-1998,Bangalore,Karnataka,Regular,Silver,01-11-2025,unknown,8005369984,23573.0
+CUST00768,Hardik,Joshi,Male,07-09-2000,Nagpur,Maharashtra,Regular,Bronze,02-11-2025,hardik.joshi1176@icloud.com,8859925277,2988.0
+CUST00769,Preeti,Shah,Female,28-04-1988,Nagpur,Maharashtra,Regular,Bronze,04-11-2025,preeti.shah3747@rediffmail.com,8215010777,4707.0
+CUST00770,Aarav,Mehta,Male,20-01-1999,Pune,Maharashtra,At Risk,Bronze,04-11-2025,aarav.mehta2155@gmail.com,9178878705,0.0
+CUST00771,Pallavi,Behera,Female,04-08-1973,Kolkata,West Bengal,At Risk,Silver,04-11-2025,pallavi.behera8248@gmail.com,6539904921,26485.0
+CUST00772,Mayank,Krishnan,Male,12-05-1991,Bangalore,Karnataka,Regular,Bronze,05-11-2025,mayank.krishnan@gmail.com,8526841986,7517.0
+CUST00773,Venkatesh,Chandran,Other,,Bangalore,Karnataka,At Risk,Bronze,06-11-2025,venkatesh.chandran@gmail.com,8028277088,1547.0
+CUST00774,Riya,Kurup,Female,29-03-2005,Chennai,Tamil Nadu,Regular,Silver,07-11-2025,riya.kurup@gmail.com,9391715390,22096.0
+CUST00775,Deepak,Agarwal,Male,09-06-1986,Noida,Uttar Pradesh,Regular,Bronze,08-11-2025,deepak.agarwal6546@gmail.com,9253182297,7626.0
+CUST00776,Mohit,Ranjan,Male,15-07-1988,Delhi,Delhi,Regular,Silver,09-11-2025,mohit.ranjan5174@gmail.com,8890320633,49816.0
+CUST00777,Utkarsh,Narayanan,Male,09-02-1988,Chennai,Tamil Nadu,Regular,Silver,10-11-2025,utkarsh.narayanan456@yahoo.com,9757429099,23493.0
+CUST00778,Rohan,Prasad,Male,06-10-1987,Chennai,Tamil Nadu,Regular,Bronze,15-11-2025,rohan.prasad196@hotmail.com,9798788073,5274.0
+CUST00779,Gaurav,Sawant,Male,11-02-1999,Ahmedabad,Gujarat,High Value,Platinum,16-11-2025,gaurav.sawant448@rediffmail.com,9902785375,291272.0
+CUST00780,Siddharth,Dutta,Male,06-06-1982,Guwahati,Assam,Regular,Bronze,16-11-2025,siddharth.dutta7793@gmail.com,9571903948,6234.0
+CUST00781,Manish,Tiwari,Male,15-10-1978,Gurgaon,Haryana,At Risk,Silver,18-11-2025,manish.tiwari8069@gmail.com,9340510500,52688.0
+CUST00782,Komal,Trivedi,Female,19-08-1988,Mumbai,Maharashtra,Regular,Silver,20-11-2025,komal.trivedi1099@gmail.com,9300661729,79040.0
+CUST00783,Ramesh,Ahmed,Male,11-12-2000,Mumbai,Maharashtra,At Risk,Bronze,23-11-2025,ramesh.ahmed1239@gmail.com,9338892414,14378.0
+CUST00784,Tanvi,Saxena,Female,01-06-1989,Delhi,Delhi,High Value,Gold,25-11-2025,tanvi.saxena9795@gmail.com,8983334954,146540.0
+CUST00785,Deepa,Narayanan,Female,16-11-1986,Bangalore,Karnataka,At Risk,Bronze,26-11-2025,deepa.narayanan@gmail.com,9087009668,0.0
+CUST00786,Sachin,Kale,Male,02-10-1988,Nagpur,Maharashtra,At Risk,Bronze,27-11-2025,sachin.kale6308@icloud.com,8844785625,16395.0
+CUST00787,Utkarsh,Goyal,Male,03-09-1987,Delhi,Delhi,Regular,Silver,28-11-2025,utkarsh.goyal9574@gmail.com,7115262401,92535.0
+CUST00788,Karan,Borah,Male,08-12-2004,Kolkata,West Bengal,At Risk,Bronze,29-11-2025,karan.borah5480@gmail.com,8876251214,2509.0
+CUST00790,Sachin,Sharma,Male,25-01-1988,Noida,Uttar Pradesh,At Risk,Silver,29-11-2025,sachin.sharma1760@hotmail.com,6554058886,51307.0
+CUST00791,Siddharth,Khan,Male,28-03-1975,Hyderabad,Telangana,At Risk,Bronze,29-11-2025,siddharth.khan1926@yahoo.co.in,9404831885,4475.0
+CUST00792,Praveen,Murthy,Male,06-09-1990,Hyderabad,Telangana,At Risk,Bronze,03-12-2025,praveen.murthy@yahoo.com,9032880088,3953.0
+CUST00793,Bhavna,Rathore,Female,08-12-1994,Delhi,Delhi,Regular,Silver,03-12-2025,bhavna.rathore9530@gmail.com,8474662937,85319.0
+CUST00794,Janvi,Patil,Female,02-09-1992,Mumbai,Maharashtra,Regular,Silver,03-12-2025,janvi.patil8582@yahoo.com,8933707719,68576.0
+CUST00795,Rekha,Gogoi,Female,12-07-2007,Guwahati,Assam,At Risk,Silver,03-12-2025,rekha.gogoi@gmail.com,8442943968,28358.0
+CUST00796,Tanvi,Sen,Female,11-08-1998,Kolkata,West Bengal,At Risk,Bronze,05-12-2025,tanvi.sen101@yahoo.co.in,9884999040,2053.0
+CUST00797,Vishal,Jadhav,Male,12-07-2003,Mumbai,Maharashtra,At Risk,Bronze,06-12-2025,vishal.jadhav702@outlook.com,9317044620,1178.0
+CUST00798,Simran,Shetty,Female,23-08-1988,Hyderabad,Telangana,Regular,Silver,06-12-2025,simran.shetty@hotmail.com,9404658709,59189.0
+CUST00799,Aanya,Naidu,Female,07-03-2006,Hyderabad,Telangana,At Risk,Bronze,09-12-2025,aanya.naidu6943@rediffmail.com,9890387296,16256.0
+CUST00800,Mahesh,Tiwari,Male,07-02-1985,Patna,Bihar,Regular,Silver,10-12-2025,mahesh.tiwari2048@icloud.com,9514235659,30328.0
+CUST00801,Isha,Subramanian,Female,28-12-1993,Chennai,Tamil Nadu,At Risk,Silver,13-12-2025,isha.subramanian@outlook.com,8621246428,22311.0
+CUST00802,Riya,Arora,Female,22-10-1994,Jaipur,Rajasthan,Regular,Bronze,15-12-2025,riya.arora6770@outlook.com,9400292486,4204.0
+CUST00803,Sneha,Gupta,Female,03-12-1982,Noida,Uttar Pradesh,Regular,Silver,17-12-2025,sneha.gupta@outlook.com,7798569891,102075.0
+CUST00804,Harsh,Prasad,Male,30-12-1985,Gurgaon,Haryana,Regular,Bronze,18-12-2025,harsh.prasad4792@yahoo.com,8430678449,7315.0
+CUST00805,Abhishek,Gowda,Male,31-01-1999,Kochi,Kerala,At Risk,Bronze,21-12-2025,abhishek.gowda@gmail.com,6441071540,511.0
+CUST00806,Karan,Srivastava,Male,31-07-1998,Lucknow,Uttar Pradesh,At Risk,Bronze,21-12-2025,unknown,8570159330,5311.0
+CUST00807,Shreya,Menon,Female,02-04-1988,Hyderabad,Telangana,Regular,Silver,22-12-2025,shreya.menon7346@gmail.com,9528127859,88218.0
+CUST00808,Rukhsar,Malik,Female,07-05-1996,Kochi,Kerala,Regular,Bronze,22-12-2025,rukhsar.malik5137@outlook.com,9500193956,3956.0
+CUST00809,Tanvi,Pandey,Female,26-03-1992,Lucknow,Uttar Pradesh,Regular,Silver,23-12-2025,tanvi.pandey8859@gmail.com,8045132518,52763.0
+CUST00810,Rekha,Gaikwad,Female,23-04-1987,Mumbai,Maharashtra,At Risk,Bronze,27-12-2025,rekha.gaikwad1951@gmail.com,8831228514,1026.0
+CUST00811,Utkarsh,Trivedi,Male,01-07-1977,Ahmedabad,Gujarat,Regular,Gold,28-12-2025,utkarsh.trivedi@rediffmail.com,9586926791,60454.0
+CUST00812,Sneha,Bose,Female,26-05-1996,Guwahati,Assam,At Risk,Bronze,29-12-2025,sneha.bose6477@outlook.com,8446733532,17238.0
+CUST00813,Vinod,Behera,Male,17-08-2002,Bhubaneswar,Odisha,Regular,Bronze,31-12-2025,vinod.behera@yahoo.co.in,8137831537,15414.0
+CUST00814,Mansi,Jadhav,Female,28-08-2004,Mumbai,Maharashtra,At Risk,Bronze,01-01-2026,mansi.jadhav7249@yahoo.co.in,8211926755,3510.0
+CUST00815,Dev,Bhatt,Male,12-11-1992,Indore,Madhya Pradesh,At Risk,Bronze,02-01-2026,dev.bhatt8024@outlook.com,7544920892,2473.0
+CUST00816,Saurabh,Malhotra,Male,21-09-1988,Patna,Bihar,At Risk,Bronze,03-01-2026,saurabh.malhotra9195@gmail.com,6747683374,4926.0
+CUST00817,Sonia,Bhatia,Female,04-01-1995,Delhi,Delhi,At Risk,Bronze,04-01-2026,sonia.bhatia4684@gmail.com,9136480284,3122.0
+CUST00818,Dev,Arora,Male,23-09-1997,Noida,Uttar Pradesh,At Risk,Silver,06-01-2026,dev.arora691@gmail.com,9221944581,64672.0
+CUST00819,Sunita,Dubey,Female,05-06-1997,Patna,Bihar,At Risk,Silver,06-01-2026,sunita.dubey@gmail.com,9849498530,4713.0
+CUST00820,Sneha,Patel,Female,17-07-1994,Indore,Madhya Pradesh,At Risk,Bronze,06-01-2026,sneha.patel3567@gmail.com,8030171003,0.0
+CUST00821,Akash,Sawant,Male,15-11-1982,Mumbai,Maharashtra,At Risk,Bronze,07-01-2026,akash.sawant6181@gmail.com,9073443986,6050.0
+CUST00823,Kritika,Modi,Female,31-12-1994,Pune,Maharashtra,Regular,Bronze,08-01-2026,kritika.modi1195@gmail.com,9718004709,8533.0
+CUST00824,Tarun,Naik,Male,23-11-1995,Ahmedabad,Gujarat,Regular,Silver,09-01-2026,tarun.naik8343@gmail.com,7436938644,31929.0
+CUST00825,Kavya,Shah,Female,15-03-1982,Mumbai,Maharashtra,At Risk,Bronze,12-01-2026,kavya.shah@gmail.com,9142304501,1369.0
+CUST00826,Rutuja,Deshmukh,Female,28-01-1989,Ahmedabad,Gujarat,At Risk,Bronze,12-01-2026,rutuja.deshmukh2290@gmail.com,9853985489,0.0
+CUST00827,Shreya,Mukherjee,Female,12-01-1984,Kolkata,West Bengal,Regular,Silver,12-01-2026,shreya.mukherjee@gmail.com,9524517422,38037.0
+CUST00828,Nilesh,Patil,Male,19-11-1992,Mumbai,Maharashtra,High Value,Gold,13-01-2026,nilesh.patil4961@rediffmail.com,9602589372,160196.0
+CUST00829,Akash,Bhat,Male,23-07-1995,Hyderabad,Telangana,New,Bronze,23-01-2026,akash.bhat988@gmail.com,7661690803,228.0
+CUST00830,Pranav,Shinde,Male,27-04-2007,Mumbai,Maharashtra,Regular,Silver,26-01-2026,pranav.shinde@gmail.com,9873220174,28679.0
+CUST00831,Ayush,Deshmukh,Male,27-03-1978,Indore,Madhya Pradesh,New,Silver,26-01-2026,ayush.deshmukh1653@gmail.com,9261573243,47635.0
+CUST00832,Rekha,Mishra,Female,06-04-1994,Chandigarh,Chandigarh,Regular,Bronze,27-01-2026,rekha.mishra8197@gmail.com,9001382490,5263.0
+CUST00833,Pallavi,Desai,Female,15-03-2000,Surat,Gujarat,New,Bronze,28-01-2026,pallavi.desai2753@hotmail.com,7409474965,1050.0
+CUST00834,Arjun,Kulkarni,Male,24-07-1988,Mumbai,Maharashtra,New,Silver,31-01-2026,arjun.kulkarni@rediffmail.com,8255076368,38720.0
+CUST00835,Bhavna,Mehta,Female,01-02-1999,Mumbai,Maharashtra,At Risk,Bronze,31-01-2026,bhavna.mehta2515@yahoo.co.in,9150481097,0.0
+CUST00837,Megha,Trivedi,Female,07-06-2007,Surat,Gujarat,New,Silver,04-02-2026,megha.trivedi5964@gmail.com,9631078350,30177.0
+CUST00838,Aanya,Gaikwad,Female,20-04-2002,Mumbai,Maharashtra,Regular,Bronze,05-02-2026,aanya.gaikwad@outlook.com,9414655837,12835.0
+CUST00839,Gurpreet,Goyal,Male,30-10-1993,Delhi,Delhi,High Value,Gold,07-02-2026,gurpreet.goyal5836@gmail.com,9620805559,204258.0
+CUST00840,Bhavna,Rao,Female,17-06-1990,Hyderabad,Telangana,Regular,Gold,13-02-2026,bhavna.rao@outlook.com,8237853118,138482.0
+CUST00841,Vishal,Goyal,Male,30-12-2002,Lucknow,Uttar Pradesh,Regular,Bronze,13-02-2026,vishal.goyal5731@outlook.com,8075837627,5361.0
+CUST00842,Sanjay,Pandey,Male,10-06-1981,Delhi,Delhi,Regular,Bronze,14-02-2026,sanjay.pandey6241@gmail.com,9329859323,17453.0
+CUST00843,Swapnil,Gaikwad,Male,26-12-1987,Nagpur,Maharashtra,At Risk,Bronze,15-02-2026,swapnil.gaikwad@hotmail.com,9492273032,0.0
+CUST00844,Karan,Malik,Male,01-09-1995,Mumbai,Maharashtra,Regular,Silver,17-02-2026,karan.malik8320@gmail.com,8268737882,17101.0
+CUST00845,Naveen,Bhosale,Male,16-05-1980,Pune,Maharashtra,New,Silver,18-02-2026,naveen.bhosale5278@gmail.com,8877279053,22615.0
+CUST00846,Gayathri,Nair,Female,05-03-1989,Bangalore,Karnataka,Regular,Bronze,19-02-2026,gayathri.nair@gmail.com,8187468214,91526.0
+CUST00847,Sunita,Bhat,Female,21-06-2006,Bangalore,Karnataka,Regular,Gold,22-02-2026,sunita.bhat5914@gmail.com,9788417775,119022.0
+CUST00848,Meera,Bhatt,Female,22-12-2000,Surat,Gujarat,Regular,Silver,01-03-2026,meera.bhatt378@gmail.com,9787922222,73909.0
+CUST00849,Manpreet,Bansal,Female,26-04-1971,Chandigarh,Chandigarh,At Risk,Bronze,02-03-2026,manpreet.bansal@gmail.com,9597501862,0.0
+CUST00850,Rekha,Kulkarni,Female,01-11-2007,Ahmedabad,Gujarat,New,Bronze,04-03-2026,rekha.kulkarni8713@hotmail.com,9134170698,7992.0
+CUST00851,Ananya,Desai,Female,16-10-1985,Mumbai,Maharashtra,New,Bronze,13-03-2026,ananya.desai1873@gmail.com,6632882747,2410.0
+CUST00852,Aditya,Sahoo,Male,23-02-2008,Guwahati,Assam,Regular,Silver,13-03-2026,aditya.sahoo8611@outlook.com,7836861946,54246.0
+CUST00853,Vivaan,Yadav,Male,16-10-1999,Delhi,Delhi,At Risk,Bronze,19-03-2026,vivaan.yadav@outlook.com,9781969798,0.0
+CUST00854,Shubham,Thakur,Male,05-12-1997,Gurgaon,Haryana,New,Silver,20-03-2026,shubham.thakur5170@gmail.com,9122502488,31560.0
+CUST00855,Aarav,Patel,Male,20-03-1993,Pune,Maharashtra,New,Bronze,21-03-2026,aarav.patel@gmail.com,8276837024,15064.0
+CUST00856,Kritika,Patil,Female,01-11-1989,Surat,Gujarat,New,Bronze,23-03-2026,kritika.patil@gmail.com,7505413709,4973.0
+CUST00857,Preeti,Chauhan,Female,23-06-1984,Delhi,Delhi,New,Bronze,24-03-2026,preeti.chauhan@outlook.com,9382691424,5375.0
+CUST00858,Aarav,Thakkar,Male,06-04-1991,Indore,Madhya Pradesh,New,Bronze,26-03-2026,aarav.thakkar1143@gmail.com,8564617444,686.0
+CUST00859,Megha,Agarwal,Female,08-01-1991,Chandigarh,Chandigarh,New,Bronze,31-03-2026,megha.agarwal@gmail.com,8840084917,3800.0
+CUST00860,Varun,Bhosale,Male,01-05-1989,Surat,Gujarat,New,Bronze,01-04-2026,varun.bhosale6519@yahoo.co.in,8365643815,1010.0
+CUST00861,Saurabh,Kapoor,Male,08-12-1998,Noida,Uttar Pradesh,New,Bronze,02-04-2026,saurabh.kapoor@gmail.com,9674129989,358.0
+CUST00862,Tarun,Prasad,Male,21-07-1990,Chennai,Tamil Nadu,New,Bronze,05-04-2026,tarun.prasad@rediffmail.com,8923168039,3557.0
+CUST00863,Radhika,Menon,Female,12-06-1998,Bangalore,Karnataka,Regular,Bronze,05-04-2026,radhika.menon4303@gmail.com,8159365015,10523.0
+CUST00864,Simran,Iyer,Other,06-05-2000,Kochi,Kerala,New,Bronze,07-04-2026,simran.iyer7660@hotmail.com,9754417554,557.0
+CUST00865,Vignesh,Sundaram,Male,19-12-1983,Bangalore,Karnataka,New,Silver,08-04-2026,vignesh.sundaram@gmail.com,8064741391,32814.0
+CUST00866,Anita,Ahmed,Female,08-09-1985,Pune,Maharashtra,New,Silver,09-04-2026,anita.ahmed@gmail.com,7699739120,50208.0
+CUST00867,Komal,Qureshi,Female,13-03-2003,Kochi,Kerala,At Risk,Bronze,10-04-2026,komal.qureshi@gmail.com,9694390799,0.0
+CUST00868,Karan,Kulkarni,Male,25-06-1997,Pune,Maharashtra,Regular,Silver,11-04-2026,karan.kulkarni@gmail.com,9607733060,30202.0
+CUST00870,Yash,Varma,Male,20-11-1994,Bangalore,Karnataka,At Risk,Bronze,15-04-2026,yash.varma2081@gmail.com,7697293140,0.0
+CUST00871,Jyoti,Bansal,Female,08-04-1993,Delhi,Delhi,New,Bronze,19-04-2026,jyoti.bansal@gmail.com,9591753770,1718.0
+CUST00874,Deepika,Modi,Female,09-07-2007,Indore,Madhya Pradesh,Regular,Silver,23-04-2026,deepika.modi8738@gmail.com,9248293176,28630.0
+CUST00875,Abhishek,More,Male,19-06-1996,Mumbai,Maharashtra,At Risk,Bronze,24-04-2026,abhishek.more1111@rediffmail.com,6214917453,0.0
+CUST00876,Riya,Iyer,Female,27-12-1971,Kochi,Kerala,New,Bronze,26-04-2026,riya.iyer@gmail.com,9167185881,5160.0
+CUST00877,Kiran,Ahmed,Female,21-02-1991,Noida,Uttar Pradesh,Regular,Silver,02-05-2026,kiran.ahmed8491@hotmail.com,8663171863,44276.0
+CUST00878,Mrunal,Bhatt,Female,30-09-1991,Indore,Madhya Pradesh,Regular,Bronze,03-05-2026,mrunal.bhatt@yahoo.com,9692090122,12846.0
+CUST00879,Pooja,Srivastava,Female,28-08-1991,Jaipur,Rajasthan,Regular,Silver,03-05-2026,pooja.srivastava4345@outlook.com,8296288398,65825.0
+CUST00880,Kiran,Gupta,Female,04-03-1997,Patna,Bihar,Regular,Bronze,05-05-2026,kiran.gupta3324@gmail.com,9796784898,7486.0
+CUST00881,Revathi,Chandran,Female,11-05-2004,Kochi,Kerala,Regular,Bronze,09-05-2026,revathi.chandran5233@gmail.com,9605334984,19424.0
+CUST00883,Suresh,Malik,Male,09-02-1985,Delhi,Delhi,New,Bronze,11-05-2026,suresh.malik6190@gmail.com,8802200732,16435.0
+CUST00884,Tanvi,Naik,Female,10-12-1991,Pune,Maharashtra,At Risk,Bronze,14-05-2026,tanvi.naik4364@gmail.com,9742713572,0.0
+CUST00885,Rakesh,Khanna,Male,17-09-1988,Jaipur,Rajasthan,New,Bronze,18-05-2026,rakesh.khanna2046@outlook.com,9875070833,10243.0
+CUST00886,Mahesh,Kulkarni,Male,18-01-1997,Indore,Madhya Pradesh,At Risk,Bronze,19-05-2026,mahesh.kulkarni8041@outlook.com,9366641947,0.0
+CUST00887,Priya,Kapoor,Female,18-11-1997,Noida,Uttar Pradesh,Regular,Silver,22-05-2026,priya.kapoor2630@gmail.com,8200895269,41778.0
+CUST00889,Payal,Joshi,Female,23-03-2006,Delhi,Delhi,Regular,Bronze,24-05-2026,payal.joshi@yahoo.co.in,9964319415,2638.0
+CUST00890,Anil,Agarwal,Male,23-10-2006,Noida,Uttar Pradesh,Regular,Silver,25-05-2026,anil.agarwal@gmail.com,9831952067,35299.0
+CUST00891,Aarav,Gaikwad,Male,18-05-1977,Indore,Madhya Pradesh,New,Bronze,25-05-2026,aarav.gaikwad2980@gmail.com,7177554587,2677.0
+CUST00892,Tarun,Thakur,Male,30-06-1986,Jaipur,Rajasthan,Regular,Silver,26-05-2026,tarun.thakur3886@gmail.com,8920112004,25924.0
+CUST00893,Varun,Kapoor,Male,23-01-1993,Delhi,Delhi,Regular,Bronze,30-05-2026,varun.kapoor7018@yahoo.com,9156875875,8223.0
+CUST00894,Saurabh,Singh,Male,19-03-2002,Lucknow,Uttar Pradesh,New,Silver,30-05-2026,saurabh.singh7070@gmail.com,9023718021,69893.0
+CUST00895,Vinod,Yadav,Other,27-05-1985,Jaipur,Rajasthan,New,Bronze,31-05-2026,vinod.yadav8684@gmail.com,9922013701,2287.0
+CUST00896,Vivaan,Verma,Male,31-01-1992,Delhi,Delhi,New,Bronze,05-06-2026,vivaan.verma@gmail.com,8608052501,5160.0
+CUST00897,Biswajit,Banerjee,Male,29-07-1994,Kolkata,West Bengal,New,Bronze,05-06-2026,biswajit.banerjee4146@gmail.com,9683609390,2393.0
+CUST00898,Ayush,Bhatt,Other,04-02-1991,Mumbai,Maharashtra,At Risk,Bronze,06-06-2026,ayush.bhatt446@yahoo.com,9441446023,0.0
+CUST00899,Mrunal,Joshi,Female,16-03-1994,Mumbai,Maharashtra,New,Bronze,09-06-2026,mrunal.joshi6897@rediffmail.com,9244230026,2057.0
+CUST00900,Vikram,Trivedi,Male,25-10-1987,Surat,Gujarat,New,Bronze,09-06-2026,vikram.trivedi@gmail.com,8493825601,1324.0
+CUST00901,Lakshmi,Gowda,Female,22-01-1994,Bangalore,Karnataka,New,Bronze,09-06-2026,lakshmi.gowda7831@gmail.com,9397420070,2368.0
+CUST00902,Preeti,Arora,Female,17-09-1995,Delhi,Delhi,Regular,Silver,09-06-2026,preeti.arora9742@gmail.com,8317927380,32461.0
+CUST00903,Mahesh,Khanna,Male,20-05-1988,Lucknow,Uttar Pradesh,Regular,Silver,10-06-2026,mahesh.khanna@gmail.com,9455291318,23778.0
+CUST00904,Komal,Rathore,Female,25-03-2003,Delhi,Delhi,New,Bronze,10-06-2026,komal.rathore4514@gmail.com,7024132683,3264.0
+CUST00905,Kritika,Dubey,Female,28-10-2006,Delhi,Delhi,At Risk,Bronze,11-06-2026,kritika.dubey2006@gmail.com,9777923560,0.0
+CUST00906,Suresh,Rao,Male,13-10-1974,Hyderabad,Telangana,New,Bronze,11-06-2026,suresh.rao@gmail.com,9811347912,678.0
+CUST00907,Sonia,Jain,Female,26-06-1989,Gurgaon,Haryana,At Risk,Bronze,12-06-2026,sonia.jain4592@gmail.com,8684216425,0.0
+CUST00908,Sunita,Chandran,Female,09-02-1992,Chennai,Tamil Nadu,New,Silver,12-06-2026,sunita.chandran@gmail.com,9933228815,43525.0
+CUST00909,Abhijit,Ghosh,Male,17-09-1980,Calcutta,West Bengal,New,Bronze,13-06-2026,abhijit.ghosh@gmail.com,9558843365,9916.0
+CUST00910,Neha,Arora,Female,22-01-1993,Noida,Uttar Pradesh,New,Bronze,13-06-2026,neha.arora8757@gmail.com,9317019471,11464.0
+CUST00911,Devendra,Rathore,Male,07-03-1994,Lucknow,Uttar Pradesh,At Risk,Bronze,16-06-2026,devendra.rathore@gmail.com,9677606967,0.0
+CUST00912,Arjun,Agarwal,Male,11-05-1997,Chandigarh,Chandigarh,New,Bronze,17-06-2026,arjun.agarwal1425@gmail.com,7921150897,3813.0
+CUST00913,Rohan,Deshmukh,Male,03-10-1986,Pune,Maharashtra,New,Bronze,17-06-2026,rohan.deshmukh4908@gmail.com,9170872888,6436.0
+CUST00914,Sanjay,Kumar,Male,03-12-2001,Bangalore,Karnataka,New,Bronze,17-06-2026,sanjay.kumar@icloud.com,9296948288,10796.0
+CUST00915,Sanjay,Sheikh,Male,05-06-2008,Chandigarh,Chandigarh,New,Bronze,17-06-2026,sanjay.sheikh3457@gmail.com,9964889288,15139.0
+CUST00916,Kabir,Trivedi,Male,04-05-2007,Mumbai,Maharashtra,New,Bronze,18-06-2026,kabir.trivedi8346@gmail.com,7106056929,2888.0
+CUST00917,Anita,Bhosale,Female,27-02-2002,Ahmedabad,Gujarat,New,Bronze,18-06-2026,anita.bhosale@rediffmail.com,9058450524,14130.0
+CUST00918,Aditya,Tiwari,Male,06-02-1991,Delhi,Delhi,New,Bronze,19-06-2026,aditya.tiwari8776@gmail.com,9907007625,27099.0
+CUST00919,Harsh,Yadav,Male,07-07-1981,Delhi,Delhi,New,Bronze,20-06-2026,harsh.yadav@gmail.com,8565252855,5106.0
+CUST00920,Shruti,Prasad,Female,12-03-1994,Bangalore,Karnataka,New,Bronze,21-06-2026,shruti.prasad5753@gmail.com,9994670215,2312.0
+CUST00921,Mohit,Bansal,Male,15-10-2005,Delhi,Delhi,At Risk,Bronze,21-06-2026,mohit.bansal9346@yahoo.co.in,9713075479,0.0
+CUST00922,Ankit,Kulkarni,Male,28-04-1982,Pune,Maharashtra,New,Bronze,21-06-2026,ankit.kulkarni974@gmail.com,9415800187,10422.0
+CUST00923,Sakshi,Thakkar,Female,17-06-1975,Pune,Maharashtra,High Value,Gold,21-06-2026,sakshi.thakkar@gmail.com,6997823064,154208.0
+CUST00924,Deepa,Balaji,Female,13-03-1992,Banglore,Karnataka,New,Bronze,22-06-2026,deepa.balaji6799@hotmail.com,8160342387,3085.0
+CUST00925,Manish,Iyer,Male,04-11-1995,Chennai,Tamil Nadu,New,Bronze,23-06-2026,manish.iyer7921@yahoo.com,8472669271,9636.0
+CUST00926,Rutuja,Patel,Female,08-01-1989,Ahmedabad,Gujarat,At Risk,Bronze,23-06-2026,rutuja.patel@outlook.com,9238683605,0.0
+CUST00927,Sakshi,Patil,Female,14-02-1986,Mumbai,Maharashtra,New,Bronze,23-06-2026,sakshi.patil6498@outlook.com,9245866000,1319.0
+CUST00928,Sachin,Menon,Male,10-04-1992,Bangalore,Karnataka,New,Silver,25-06-2026,sachin.menon1901@gmail.com,7440638320,24850.0
+CUST00929,Sachin,Srivastava,Male,05-11-1993,Jaipur,Rajasthan,New,Bronze,25-06-2026,sachin.srivastava1371@gmail.com,9687293334,2838.0
+CUST00930,Sunita,Sinha,Female,27-02-2007,Gurgaon,Haryana,New,Bronze,26-06-2026,sunita.sinha@gmail.com,7209509856,2519.0
+CUST00931,Ramesh,Chauhan,Male,16-06-1983,Delhi,Delhi,New,Bronze,27-06-2026,ramesh.chauhan@gmail.com,9789366761,1178.0
+CUST00932,Kiran,Srivastava,Female,07-04-2004,Patna,Bihar,New,Bronze,30-06-2026,kiran.srivastava1123@yahoo.com,8499761916,2842.0
+CUST00933,Pallavi,Malik,Female,25-04-2001,Chennai,Tamil Nadu,New,Bronze,30-06-2026,pallavi.malik2927@rediffmail.com,9542081557,5386.0
+CUST00934,Sachin,Kapoor,Male,20-03-2002,Chandigarh,Chandigarh,New,Bronze,30-06-2026,sachin.kapoor@hotmail.com,9960167801,10596.0
+CUST00935,Tanushree,Banerjee,Female,12-09-1996,Kolkata,West Bengal,New,Bronze,02-07-2026,tanushree.banerjee@gmail.com,9201886414,632.0
+CUST00936,Anil,Gowda,Male,12-01-1998,Chennai,Tamil Nadu,New,Bronze,05-07-2026,anil.gowda@yahoo.co.in,9190004712,1668.0
+CUST00937,Mukesh,Pandey,Male,15-05-2003,Noida,Uttar Pradesh,New,Bronze,07-07-2026,mukesh.pandey2305@yahoo.co.in,9888441822,3826.0
+CUST00938,Vinod,Choudhury,Male,10-08-2007,Kolkata,West Bengal,New,Bronze,07-07-2026,vinod.choudhury1889@gmail.com,9688043204,14682.0
+CUST00939,Vinod,Desai,Male,19-07-1990,Surat,Gujarat,New,Bronze,09-07-2026,vinod.desai5274@gmail.com,9845398646,1224.0
+CUST00940,Nikhil,Tiwari,Male,02-11-1991,Gurgaon,Haryana,New,Bronze,09-07-2026,nikhil.tiwari8617@outlook.com,9657373109,6958.0
+CUST00941,Meera,Naidu,Female,07-12-1997,Kochi,Kerala,New,Bronze,13-07-2026,meera.naidu@gmail.com,9607471630,3068.0
+CUST00943,Karthik,Shetty,Male,30-12-1996,Kochi,Kerala,New,Bronze,18-07-2026,karthik.shetty6008@gmail.com,9240309451,1283.0
+CUST00944,Rohan,Chandran,Male,18-01-1991,Bangalore,Karnataka,New,Bronze,18-07-2026,rohan.chandran5960@yahoo.co.in,9819489030,4168.0
+CUST00945,Gurpreet,Joshi,Male,28-12-2005,Delhi,Delhi,New,Bronze,19-07-2026,unknown,8704789146,7889.0
+CUST00946,Vivaan,Prasad,Male,24-01-1999,Patna,Bihar,At Risk,Bronze,19-07-2026,vivaan.prasad6290@rediffmail.com,9836670262,0.0
+CUST00947,Kavya,Sarkar,Female,08-05-1993,Bhubaneswar,Odisha,New,Bronze,20-07-2026,kavya.sarkar8083@gmail.com,9202074731,4530.0
+CUST00948,Vivaan,Sen,Male,18-04-1999,Bhubaneswar,Odisha,At Risk,Bronze,21-07-2026,vivaan.sen@hotmail.com,9875956142,0.0
+CUST00949,Chirag,Patel,Male,30-10-1994,Mumbai,Maharashtra,New,Bronze,22-07-2026,chirag.patel@gmail.com,9909869319,17734.0
+CUST00950,Suresh,Dubey,Male,23-03-1987,Delhi,Delhi,New,Bronze,22-07-2026,suresh.dubey4510@gmail.com,9646922042,784.0
+CUST00951,Payal,Subramanian,Female,24-12-1998,Hyderabad,Telangana,At Risk,Bronze,23-07-2026,payal.subramanian5209@gmail.com,8153808487,0.0
+CUST00952,Aarav,Bhosale,Male,19-07-1988,Nagpur,Maharashtra,New,Silver,24-07-2026,aarav.bhosale1436@gmail.com,8644045320,59112.0
+CUST00953,Swati,Malik,Female,24-12-1988,Mumbai,Maharashtra,New,Bronze,02-08-2026,swati.malik8691@gmail.com,8203158506,4548.0
+CUST00954,Nidhi,Gowda,Female,26-10-1988,Hyderabad,Telangana,New,Bronze,02-08-2026,nidhi.gowda3175@gmail.com,8424566886,4127.0
+CUST00955,Abhishek,Shetty,Male,06-02-1980,Hyderabad,Telangana,New,Bronze,05-08-2026,abhishek.shetty4156@gmail.com,9988324167,4587.0
+CUST00956,Komal,Malik,Female,26-02-1995,Bangalore,Karnataka,New,Bronze,08-08-2026,komal.malik@hotmail.com,8909085864,0.0
+CUST00957,Vandana,Chauhan,Female,08-01-2000,Delhi,Delhi,New,Bronze,09-08-2026,vandana.chauhan5999@gmail.com,8713114267,0.0
+CUST00958,Saurabh,Saikia,Male,30-07-1992,Kolkata,West Bengal,New,Silver,09-08-2026,saurabh.saikia@gmail.com,9355981600,69260.0
+CUST00959,Komal,Kapoor,Female,30-07-1996,Gurgaon,Haryana,New,Bronze,09-08-2026,komal.kapoor8311@hotmail.com,9911144099,0.0
+CUST00960,Sonia,Kamat,Female,25-09-1999,Pune,Maharashtra,New,Bronze,09-08-2026,sonia.kamat7121@gmail.com,9912575174,4270.0
+CUST00961,Suresh,Malik,Male,31-01-1970,Lucknow,Uttar Pradesh,New,Bronze,09-08-2026,suresh.malik@gmail.com,9651862032,0.0
+CUST00962,Jyoti,Naik,Female,27-10-2000,Mumbai,Maharashtra,New,Bronze,10-08-2026,jyoti.naik@gmail.com,9472233438,0.0
+CUST00963,Gaurav,Patel,Male,09-09-1990,Ahmedabad,Gujarat,New,Bronze,11-08-2026,gaurav.patel@gmail.com,9998718091,10523.0
+CUST00964,Ishaan,Malik,Male,15-06-2005,Delhi,Delhi,New,Silver,13-08-2026,ishaan.malik@gmail.com,9527344917,23651.0
+CUST00965,Pallavi,Mehta,Female,18-10-2004,Nagpur,Maharashtra,New,Bronze,14-08-2026,pallavi.mehta5769@outlook.com,9356655113,0.0
+CUST00966,Ruchi,Arora,Female,20-06-1992,Delhi,Delhi,New,Bronze,14-08-2026,ruchi.arora40@gmail.com,9567521742,18042.0
+CUST00967,Sanjay,Bhat,Male,27-03-2006,Bangalore,Karnataka,New,Bronze,14-08-2026,sanjay.bhat4474@gmail.com,7981551660,13501.0
+CUST00968,Amit,Prasad,Male,08-01-1986,Kochi,Kerala,New,Bronze,15-08-2026,amit.prasad9737@gmail.com,9715332089,1507.0
+CUST00969,Harsh,Trivedi,Male,24-10-2004,Ahmedabad,Gujarat,New,Bronze,15-08-2026,harsh.trivedi3823@gmail.com,8637560279,0.0
+CUST00970,Kiran,Sahoo,Female,04-10-1989,Guwahati,Assam,New,Bronze,17-08-2026,kiran.sahoo@gmail.com,6260149122,0.0
+CUST00971,Manish,Modi,Male,10-07-1988,Nagpur,Maharashtra,New,Bronze,18-08-2026,manish.modi7908@icloud.com,8616226589,0.0
+CUST00972,Shabana,Ali,Female,03-12-2001,Delhi,Delhi,New,Bronze,18-08-2026,shabana.ali@gmail.com,8826622390,4164.0
+CUST00973,Rohan,Naidu,Male,29-04-1979,Bangalore,Karnataka,New,Bronze,18-08-2026,rohan.naidu893@yahoo.com,8521026606,624.0
+CUST00974,Mansi,Naidu,Female,24-02-1998,Bangalore,Karnataka,New,Bronze,19-08-2026,mansi.naidu5553@gmail.com,8473260098,428.0
+CUST00975,Rakesh,Bhatia,Male,08-04-1986,Noida,Uttar Pradesh,New,Bronze,21-08-2026,rakesh.bhatia@gmail.com,8890714936,1556.0
+CUST00976,Divya,Banerjee,Female,17-10-1997,Kolkata,West Bengal,Regular,Bronze,21-08-2026,divya.banerjee@outlook.com,9106169314,0.0
+CUST00977,Ayesha,Qureshi,Female,13-05-1989,Lucknow,Uttar Pradesh,New,Bronze,22-08-2026,ayesha.qureshi7454@rediffmail.com,8383023920,1806.0
+CUST00978,Kiran,Shetty,Female,07-09-1997,Hyderabad,Telangana,New,Silver,22-08-2026,kiran.shetty5902@outlook.com,8957424526,62614.0
+CUST00979,Bhavna,Choudhury,Female,30-01-1988,Kolkata,West Bengal,New,Bronze,26-08-2026,bhavna.choudhury@gmail.com,9955091111,3340.0
+CUST00980,Shruti,Goyal,Female,24-05-1979,Jaipur,Rajasthan,New,Bronze,28-08-2026,shruti.goyal@yahoo.co.in,8607617367,3010.0
+CUST00981,Diya,Trivedi,Female,26-03-1994,Pune,Maharashtra,New,Bronze,28-08-2026,diya.trivedi9492@gmail.com,9991137770,10440.0
+CUST00983,Kunal,Prasad,Male,29-08-2004,Chandigarh,Chandigarh,New,Bronze,01-09-2026,kunal.prasad@icloud.com,9368324656,6601.0
+CUST00984,Venkatesh,Narayanan,Male,30-01-1983,Bangalore,Karnataka,New,Silver,01-09-2026,VENKATESH.NARAYANAN9767@GMAIL.COM,9953029656,69868.0
+CUST00985,Revathi,Chandran,Female,11-05-2004,Kochi,Kerala,New,Bronze,01-09-2026,REVATHI.CHANDRAN5233@GMAIL.COM,9605334984,0.0
+CUST00986,Saurabh,Singh,Male,19-03-2002,Lucknow,Uttar Pradesh,New,Bronze,01-09-2026,saurabhsingh73@gmail.com,9023718021,1825.0
+CUST00987,Suresh,Ranjan,Male,17-04-2008,Patna,Bihar,New,Bronze,03-09-2026,suresh.ranjan5168@gmail.com,9394273143,428.0
+CUST00988,Neha,Parekh,Female,15-07-1994,Surat,Gujarat,New,Bronze,04-09-2026,neha.parekh2465@gmail.com,9236488656,3634.0
+CUST00989,Anjali,Sarkar,Female,28-09-2000,Bhubaneswar,Odisha,New,Silver,05-09-2026,anjali.sarkar9710@yahoo.com,9140062075,25077.0
+CUST00990,Deepak,Khanna,Male,25-04-1998,Jaipur,Rajasthan,New,Bronze,06-09-2026,deepak.khanna@yahoo.co.in,8237315230,0.0
+CUST00991,Deepak,Pillai,Male,13-03-2002,Bangalore,Karnataka,New,Bronze,07-09-2026,deepak.pillai3550@hotmail.com,7466507531,3450.0
+CUST00992,Sanjay,Bhattacharya,Male,29-02-2000,Bhubaneswar,Odisha,New,Bronze,09-09-2026,sanjay.bhattacharya@gmail.com,9734658953,817.0
+CUST00993,Aarav,Mishra,Male,09-07-1986,Delhi,Delhi,New,Bronze,11-09-2026,aarav.mishra6801@yahoo.co.in,9479701876,3952.0
+CUST00994,Abhishek,Gowda,Male,08-08-2008,Bangalore,Karnataka,New,Bronze,12-09-2026,abhishek.gowda718@gmail.com,9524071157,1822.0
+CUST00995,Ananya,Naik,Female,05-02-1986,Indore,Madhya Pradesh,New,Bronze,13-09-2026,ananya.naik4266@gmail.com,9939116018,8755.0
+CUST00997,Kritika,Bose,Female,28-08-1992,Bhubaneswar,Odisha,New,Silver,16-09-2026,kritika.bose9113@gmail.com,9868133924,5424.0
+CUST00998,Harleen,Chauhan,Female,19-06-2005,Lucknow,Uttar Pradesh,New,Silver,17-09-2026,harleen.chauhan829@outlook.com,9582906392,4129.0
+CUST00999,Riya,Kale,Female,15-05-1980,Pune,Maharashtra,New,Bronze,17-09-2026,riya.kale4088@gmail.com,9886412762,0.0
+CUST01000,Riya,Kale,Female,17-01-1990,Ahmedabad,Gujarat,New,Bronze,20-09-2026,riya.kale4983@gmail.com,9583461715,0.0

@@ -1,0 +1,10 @@
+Metric,Value
+Historical data start,2023-10-01
+Historical data end,2026-10-02
+Historical snapshot date,2024-10-02
+Feature window months,12
+Churn outcome horizon months,24
+Training customers,432
+Historical churned customers,127
+Historical non-churned customers,305
+Current customers to score,705

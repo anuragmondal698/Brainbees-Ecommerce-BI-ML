@@ -1,0 +1,13 @@
+Forecast_Month,Predicted_Orders,Model_Name
+2026-11-01,184,RandomForestRegressor
+2026-12-01,190,RandomForestRegressor
+2027-01-01,157,RandomForestRegressor
+2027-02-01,159,RandomForestRegressor
+2027-03-01,166,RandomForestRegressor
+2027-04-01,164,RandomForestRegressor
+2027-05-01,165,RandomForestRegressor
+2027-06-01,165,RandomForestRegressor
+2027-07-01,168,RandomForestRegressor
+2027-08-01,172,RandomForestRegressor
+2027-09-01,178,RandomForestRegressor
+2027-10-01,194,RandomForestRegressor
