@@ -1,0 +1,497 @@
+{
+  "name": "BrainbeesML_5forecasting_predictions",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "cb91bb96-bdc0-43b5-9f84-f2dbf4512662",
+      "name": "When clicking ‘Execute workflow’"
+    },
+    {
+      "parameters": {
+        "url": "https://brainbees-ml-api-v1.onrender.com/all-forecasts",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.5,
+      "position": [
+        224,
+        0
+      ],
+      "id": "bac6185c-2bbc-48c8-8c62-e6f97dc1c697",
+      "name": "HTTP Request",
+      "retryOnFail": true,
+      "waitBetweenTries": 600
+    },
+    {
+      "parameters": {
+        "jsCode": "\nconst results = $input.first().json.results || {};\n\nconst mapping = {\n  revenue_forecasting: {\n    table: \"revenue\",\n    arrayKey: \"forecasts\",\n  },\n  order_forecasting: {\n    table: \"orders\",\n    arrayKey: \"forecasts\",\n  },\n  product_demand_forecasting: {\n    table: \"product_demand\",\n    arrayKey: \"forecasts\",\n  },\n  customer_churn: {\n    table: \"churn\",\n    arrayKey: \"predictions\",\n  },\n  customer_lifetime_value: {\n    table: \"clv\",\n    arrayKey: \"predictions\",\n  },\n};\n\nconst output = [];\n\nfor (const [model, config] of Object.entries(mapping)) {\n  const response = results[model];\n\n  if (!response || response.status === \"error\") {\n    output.push({\n      json: {\n        Model_Name: model,\n        Destination: config.table,\n        Error: response?.message || \"No response\",\n      },\n    });\n    continue;\n  }\n\n  const rows = response[config.arrayKey] || response.customers || [];\n\n  for (const row of rows) {\n    output.push({\n      json: {\n        Model_Name: model,\n        Destination: config.table,\n        ...row,\n      },\n    });\n  }\n}\n\nreturn output;\n\n\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        448,
+        0
+      ],
+      "id": "e8e5ba1f-92ea-47ad-94f4-7d56c76d6940",
+      "name": "Code in JavaScript"
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "leftValue": "={{ $json.Destination }}",
+                    "rightValue": "revenue",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    },
+                    "id": "60dd7c4d-2ed1-49d0-bccb-ea831984fc43"
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "id": "ec1ffa9d-4cb9-426f-9f7a-dbbeca5e39d3",
+                    "leftValue": "={{ $json.Destination }}",
+                    "rightValue": "orders",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "id": "e1896fb7-4dee-4076-8b69-e363c4a32a15",
+                    "leftValue": "={{ $json.Destination }}",
+                    "rightValue": "product_demand",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "id": "20f7b40b-e3a2-47e2-8b1a-84e4ff2294d3",
+                    "leftValue": "={{ $json.Destination }}",
+                    "rightValue": "churn",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "id": "e52d5da4-579a-4c96-a8b0-2fb19fbada16",
+                    "leftValue": "={{ $json.Destination }}",
+                    "rightValue": "clv",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 3.4,
+      "position": [
+        672,
+        -48
+      ],
+      "id": "841259b1-1f4a-4d96-8226-5041a87d6e55",
+      "name": "Switch"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": " SELECT * FROM brainbees_ecommerce.ml_revenue_forecast_12_years; ",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        944,
+        -256
+      ],
+      "id": "ced3c4d9-10b1-4e0f-a7e5-808480bb5f20",
+      "name": "Execute a SQL query",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "xlsx",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.1,
+      "position": [
+        1168,
+        -256
+      ],
+      "id": "6e8185b4-2192-44e8-ba85-5a9cdd9c1249",
+      "name": "Convert to File"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM brainbees_ecommerce. ml_order_forecast;",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        944,
+        -80
+      ],
+      "id": "b4aafcbf-6538-4646-88a8-9f464a09dfdd",
+      "name": "Execute a SQL query1",
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "xlsx",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.1,
+      "position": [
+        1168,
+        -80
+      ],
+      "id": "7e59d680-1f40-4df2-a937-5f49052df8d4",
+      "name": "Convert to File1"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": " SELECT * FROM ml_product_demand_forecast;",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        960,
+        80
+      ],
+      "id": "c32ad10b-054b-4ab7-babc-40b33d8ee937",
+      "name": "Execute a SQL query2",
+      "executeOnce": true,
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "xlsx",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.1,
+      "position": [
+        1184,
+        80
+      ],
+      "id": "414f7b30-2882-443b-9b74-7212ae5bc794",
+      "name": "Convert to File2"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM ml_customer_churn_2_years;",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        960,
+        240
+      ],
+      "id": "fc86fd96-1cca-41bd-b7fc-1e68b62895db",
+      "name": "Execute a SQL query3",
+      "executeOnce": true,
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "xlsx",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.1,
+      "position": [
+        1184,
+        240
+      ],
+      "id": "d417e1c8-32f2-4d7c-a549-0b2b30dac9a8",
+      "name": "Convert to File3"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM ml_customer_clv;",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.5,
+      "position": [
+        960,
+        432
+      ],
+      "id": "db661fc8-a6c4-4ac1-befe-9abf4884a495",
+      "name": "Execute a SQL query4",
+      "executeOnce": true,
+      "credentials": {
+        "mySql": {
+          "id": "G6VrZjG3Ba5LXAuZ",
+          "name": "MySQL account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "xlsx",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.convertToFile",
+      "typeVersion": 1.1,
+      "position": [
+        1184,
+        432
+      ],
+      "id": "46560cd7-576b-4f95-8cb1-b15a57ea41ec",
+      "name": "Convert to File4"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When clicking ‘Execute workflow’": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request": {
+      "main": [
+        [
+          {
+            "node": "Code in JavaScript",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code in JavaScript": {
+      "main": [
+        [
+          {
+            "node": "Switch",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Switch": {
+      "main": [
+        [
+          {
+            "node": "Execute a SQL query",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Execute a SQL query1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Execute a SQL query2",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Execute a SQL query3",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Execute a SQL query4",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Execute a SQL query": {
+      "main": [
+        [
+          {
+            "node": "Convert to File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Execute a SQL query1": {
+      "main": [
+        [
+          {
+            "node": "Convert to File1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Execute a SQL query2": {
+      "main": [
+        [
+          {
+            "node": "Convert to File2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Execute a SQL query3": {
+      "main": [
+        [
+          {
+            "node": "Convert to File3",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Execute a SQL query4": {
+      "main": [
+        [
+          {
+            "node": "Convert to File4",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "a13836ce-cd0a-438d-88f7-ca07afd38569",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "49ef52d5fa41176e852ef526c74e8ce98d14bbccd686bfc589ef165d8124af3d"
+  },
+  "nodeGroups": [],
+  "id": "3XNKQ5idzqRfp7AO",
+  "tags": []
+}
